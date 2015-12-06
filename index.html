@@ -2,6 +2,7 @@
 <html>
 
 <head>
+    <title>Menegroth ✶ The Thousand Caves</title>
     <style type="text/css">
 
     * {
@@ -17,7 +18,7 @@
     body {
         min-height: 100%;
         background-color: #faf9f8;
-        background-image: url('stone_border.gif'), url('leaf_border.png'), url('background-dark.gif');
+        background-image: url('./stone_border.gif'), url('./leaf_border.png'), url('./background-dark.gif');
         background-position: top right, top left, top left;
         background-repeat: repeat-y, repeat-y, repeat;
     }
@@ -33,7 +34,10 @@
         text-align: justify;
     }
 
-    .content > * {
+    .content > p,
+    .content > ol,
+    .content > ul,
+    .content > blockquote {
         margin-bottom: 1em;
         margin-top: 1em;
     }
@@ -64,11 +68,57 @@
         text-align: center;
     }
 
+    h1, h2, h3, h4, h5, h6 {
+        margin-top: 1.5em;
+        margin-bottom: 1em;
+    }
+
     h1 {
         letter-spacing: 0.03em;
         word-spacing: 0.09em;
         text-transform: uppercase;
         font-size: 22px;
+    }
+
+    h1.site-title {
+        text-transform: none;
+        font-variant: small-caps;
+        font-size: 36px;
+        color: #328;
+        margin: 0;
+    }
+
+    h1.subtitle {
+        font-size: 12px;
+        letter-spacing: 0.2em;
+        word-spacing: 0.1em;
+        margin-top: 0.5em;
+        margin-bottom: 4em;
+        color: #999;
+    }
+
+    h2 {
+        font-size: 22px;
+        padding-bottom: 0.3em;
+        border-bottom: 1px solid #ccc;
+    }
+
+    h3 {
+        font-size: 22px;
+    }
+
+    h4 {
+        font-size: 18px;
+    }
+
+    h5 {
+        font-size: 16px;
+    }
+
+    h6 {
+        font-size: 16px;
+        font-variant: italic;
+        font-weight: 200;
     }
 
     li {
@@ -92,17 +142,17 @@
     blockquote {
         margin-left: 40px;
         margin-right: 40px;
-        font-style: italic;
         white-space: pre-wrap;
     }
 
     blockquote cite {
         display: block;
         text-align: right;
+        font-style: normal;
     }
 
-    blockquote em {
-        font-style: normal;
+    blockquote cite:before {
+        content: '—';
     }
 
     q {
@@ -119,6 +169,17 @@
 
     sup {
         line-height: 100%; /* prevent footnote references from altering line spacing */
+    }
+
+    code {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        padding-left: 3px;
+        padding-right: 3px;
+        line-height: 100%;
+        background-color: #e8e8e0;
+        border: 1px solid #ddd;
+        border-radius: 3px;
     }
 
     /* PAGE-SPECIFIC THINGS */
@@ -138,11 +199,25 @@
 <body>
     <div class="around-content">
         <div class="content">
+<h1 class="site-title">Menegroth ✶ The Thousand Caves</h1>
+
+<h1 class="subtitle">A place for enthusiasts of J.R.R. Tolkien's invented languages</h1>
+
+<div style="text-align:center;word-spacing:0.1em;">
+<em>Mae govannen</em> and <em>mára omentië</em>! Among these pages you'll find many articles relating to the Elven tongues of Arda, the invented world of J.R.R. Tolkien. Sindarin (or Grey-elven), my favorite of the languages, is especially treated.
+</div>
+
 <h1>Essays on The Languages of J.R.R. Tolkien</h1>
 
 <ul>
 <li><a href="./elvish-is-dead.html">Elvish Is Dead; Long Live Elvish</a> - <span class="toc-detail">A memoir of my experiences with Tolkien&#39;s languages, reflecting on why you can&#39;t (and can) and should (and shouldn&#39;t) learn Elvish. Read this first if you want to understand what you&#39;re getting yourself into.</span></li>
 <li><a href="./stress-in-sindarin.html">Concerning Stress Placement in Sindarin</a> - <span class="toc-detail">I explore the implications for Sindarin pronunciation of two poems from <em>The Lord of the Rings</em>.</span></li>
+</ul>
+
+<h1>A Ranger&#39;s Guide to Sindarin</h1>
+
+<ul>
+<li><a href="./sindarin.html">A Ranger&#39;s Guide</a> <span class="toc-detail">is a description of Sindarin grammar and vocabulary, focusing on the examples (mainly in <em>LotR</em>) that J.R.R.T. chose to publish. I can&#39;t call it a <q>course</q> in the language, because you won&#39;t come out of it speaking Sindarin, at least not in the way you speak English now. It&#39;s more of a map of the territory, a guide to being at home in the Grey-elven tongue.</span></li>
 </ul>
 
 <h1>External Links of Interest</h1>

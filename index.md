@@ -1,7 +1,18 @@
+<h1 class="site-title">Menegroth ✶ The Thousand Caves</h1>
+<h1 class="subtitle">A place for enthusiasts of J.R.R. Tolkien's invented languages</h1>
+
+<div style="text-align:center;word-spacing:0.1em;">
+<em>Mae govannen</em> and <em>mára omentië</em>! Among these pages you'll find many articles relating to the Elven tongues of Arda, the invented world of J.R.R. Tolkien. Sindarin (or Grey-elven), my favorite of the languages, is especially treated.
+</div>
+
 # Essays on The Languages of J.R.R. Tolkien
 
 - [Elvish Is Dead; Long Live Elvish](./elvish-is-dead.html) - [.toc-detail A memoir of my experiences with Tolkien's languages, reflecting on why you can't (and can) and should (and shouldn't) learn Elvish. Read this first if you want to understand what you're getting yourself into.]
 - [Concerning Stress Placement in Sindarin](./stress-in-sindarin.html) - [.toc-detail I explore the implications for Sindarin pronunciation of two poems from _The Lord of the Rings_.]
+
+# A Ranger's Guide to Sindarin
+
+- [A Ranger's Guide](./sindarin.html) [.toc-detail is a description of Sindarin grammar and vocabulary, focusing on the examples (mainly in _LotR_) that J.R.R.T. chose to publish. I can't call it a "course" in the language, because you won't come out of it speaking Sindarin, at least not in the way you speak English now. It's more of a map of the territory, a guide to being at home in the Grey-elven tongue.]
 
 # External Links of Interest
 
