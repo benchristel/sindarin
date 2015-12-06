@@ -2,8 +2,6 @@
 
 def process_directory(dirname)
     Dir[dirname+'/*'].each do |filename|
-        #puts filename
-
         template_updated_at = File.mtime(File.expand_path(File.dirname(__FILE__))+'/template-2.html')
 
         if File.file?(filename) && filename.end_with?('.md')
@@ -20,4 +18,4 @@ def process_directory(dirname)
     end
 end
 
-process_directory(File.expand_path(ARGV[0] || '.'))
+process_directory(ARGV[0] || '.')

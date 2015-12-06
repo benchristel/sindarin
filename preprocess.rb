@@ -15,9 +15,11 @@ if input_filename == output_filename
   exit 2
 end
 
+normalized_relative_path = input_filename.gsub('./', '')
+dir_levels = normalized_relative_path.split('/').count
 path_to_root_dir = '.'
-if input_filename['/']
-  path_to_root_dir = '..'
+if dir_levels > 1
+  path_to_root_dir = (['..'] * (dir_levels - 1)).join('/')
 end
 
 input = File.open(input_filename, 'r')
