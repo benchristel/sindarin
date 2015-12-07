@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Menegroth ✶ The Thousand Caves</title>
+    <link rel="icon" type="image/x-icon" href="./favicon.ico">
+    <style type="text/css">
+
+    * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+    }
+
+    html {
+        min-height: 100%;
+    }
+
+    body {
+        min-height: 100%;
+        background-color: #faf9f8;
+        background-image: url('./stone_border.gif'), url('./leaf_border.png'), url('./background-dark.gif');
+        background-position: top right, top left, top left;
+        background-attachment: fixed, fixed, fixed;
+        background-repeat: repeat-y, repeat-y, repeat;
+    }
+
+    .content {
+        background-color: #faf9f8;
+        color: #222;
+        padding: 80px;
+        min-height: 100%;
+        width: 768px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: justify;
+    }
+
+    .content > p,
+    .content > ol,
+    .content > ul,
+    .content > blockquote {
+        margin-bottom: 1em;
+        margin-top: 1em;
+    }
+
+    .content > *:first-child {
+        margin-top: 0em;
+    }
+
+    .content > *:last-child {
+        margin-bottom: 0em;
+    }
+
+    p, li {
+        line-height: 140%;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        font-family: 'Baskerville', serif;
+        font-weight: 600;
+    }
+
+    h2, h3, h4, h5, h6 {
+        letter-spacing: 0.01em;
+        word-spacing: 0.03em;
+    }
+
+    h1, h2 {
+        text-align: center;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        margin-top: 1.5em;
+        margin-bottom: 1em;
+    }
+
+    h1 {
+        letter-spacing: 0.03em;
+        word-spacing: 0.09em;
+        text-transform: uppercase;
+        font-size: 22px;
+    }
+
+    h1.site-title {
+        text-transform: none;
+        font-variant: small-caps;
+        font-size: 36px;
+        color: #328;
+        margin: 0;
+    }
+
+    h1.subtitle {
+        font-size: 12px;
+        letter-spacing: 0.2em;
+        word-spacing: 0.1em;
+        margin-top: 0.5em;
+        margin-bottom: 4em;
+        color: #999;
+    }
+
+    h2 {
+        font-size: 22px;
+        padding-bottom: 0.3em;
+        border-bottom: 1px solid #ccc;
+    }
+
+    h3 {
+        font-size: 22px;
+    }
+
+    h4 {
+        font-size: 18px;
+    }
+
+    h5 {
+        font-size: 16px;
+    }
+
+    h6 {
+        font-size: 16px;
+        font-variant: italic;
+        font-weight: 200;
+    }
+
+    li {
+        margin-left: 20px;
+        margin-top: 0.3em;
+        margin-bottom: 0.3em;
+    }
+
+    hr {
+        margin-top: 40px;
+    }
+
+    .content > hr {
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+
+    blockquote {
+        margin-left: 40px;
+        margin-right: 40px;
+        white-space: pre-wrap;
+    }
+
+    blockquote cite {
+        display: block;
+        text-align: right;
+        font-style: normal;
+    }
+
+    blockquote cite:before {
+        content: '—';
+    }
+
+    q {
+        quotes: "“" "”" "‘" "’";
+    }
+
+    q:before {
+        content: open-quote;
+    }
+
+    q:after {
+        content: close-quote;
+    }
+
+    sup {
+        line-height: 100%; /* prevent footnote references from altering line spacing */
+    }
+
+    code {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        padding-left: 3px;
+        padding-right: 3px;
+        line-height: 100%;
+        background-color: #e8e8e0;
+        border: 1px solid #ddd;
+        border-radius: 3px;
+    }
+
+    /* PAGE-SPECIFIC THINGS */
+
+    .toc-detail {
+        color: #262;
+        font-style: italic;
+    }
+
+    .toc-detail em {
+        font-style: normal;
+    }
+
+    </style>
+</head>
+
+<body>
+    <div class="around-content">
+        <div class="content">
+<h1>A Ranger&#39;s Guide to Sindarin</h1>
+
+<h2>1. History</h2>
+
+<p>When the first Elves awoke on the shores of Cuiviénen, they began to make a language. The first word they spoke, according to later Elven lore, was <em>ele!</em>—an exclamation of wonder and delight that they uttered upon first seeing the stars. They called themselves <em>kwendī</em>, meaning <q>those who speak</q>, since they knew of no other beings that could use language.</p>
+
+<p>When the Vala Arômez (often called <em>Oromë</em>) met the Elves and told them of Aman, the land of the Valar beyond the sea, some Elves wished to go there and some were afraid to make the journey. Those who refused the journey were called the <em>abarī</em>. They were lost in the wilds of Middle-earth and play small part in its later history. Those who heeded Oromë and marched across Middle-earth to the shores of the Great Sea were called <em>edeloī</em>—in later Quenya, <em>eldar</em>.</p>
+
+<p>During the journey, the Elves were sundered yet again. The Vanyar and Noldor clans, who arrived at the shore first, hastened across the Sea to Aman. Those who tarried behind, the Teleri, waited at the shore, torn between their love for Middle-earth and their desire to cross the sea. Before they could begin the sea voyage, their leader, Elwë, crossed the path of Melian, a Maia. He fell at once in love with her and for many years they remained under an enchantment in the forest of Nan Elmoth. The other Teleri could not find him, and many refused to cross the Sea without their lord. And so they remained in Middle-earth.</p>
+
+<p>Two hundred years later, Elwë reappeared, and with Melian as his queen reassumed rulership of the Teleri. As the long, sunless years passed and the Teleri and Noldor remained sundered, their speech gradually changed. The language of the Noldor became the speech known in the Third Age as Quenya, while the Teleri came to speak a language that had as yet no name, for since their separation from the Noldor they heard no speech except their own and needed no word to distinguish it.</p>
+
+<p>When the Noldorin exiles returned to Middle-earth, and Elwë learned of the Kinslaying they had committed at Alqualondë, he banned their language Quenya from his realm. Thereafter, the Elves of Middle-earth spoke the language of Elwë, but since that language had no name of its own it was given a Quenya one: <em>Sindarin</em>.</p>
+
+<p>Sindarin was from its beginnings the language of a people that loved and revered Middle-earth. It is perhaps because of this that Sindarin, more so than Quenya, echoes in its words the changefulness of the mortal world.</p>
+
+<blockquote>
+<p><em>A Elbereth Gilthoniel,</em>
+<em>silivren penna míriel</em>
+<em>o menel aglar elenath!</em>
+<em>Na-chaered palan-díriel</em>
+<em>o galadhremmin ennorath,</em>
+<em>Fanuilos, le linnathon</em>
+<em>nef aear, sí nef aearon!</em>
+<cite>The Fellowship of the Ring, p. 250</cite></p>
+</blockquote>
+
+<p>(In free translation, this reads: <q>O Elbereth Starkindler, the glory of the star-host slants down from heaven, shining silver, sparkling like jewels! Having gazed afar from the tree-woven lands of Middle-earth, to you, Everwhite, I will sing, here on this side of the great ocean!</q> Elbereth is a Sindarin name of the Vala whom the Noldor called Varda.)</p>
+
+<p>What do I mean when I say that Sindarin <q>echoes the changefulness of the mortal world</q>? Certainly Sindarin doesn&#39;t sound like the original Elvish language spoken by the <em>kwendī</em> at Cuiviénen, and so in that sense it has changed. But that is not so interesting; all languages change over time, and Quenya too underwent many changes while the Noldor dwelt in Aman. But whereas Quenya expresses shades of meaning by adding suffixes to words, leaving the base word unchanged, Sindarin often makes changes within the base word itself, such that two forms of the same Sindarin word may at first glance appear totally different. For example, the word for a letter in Quenya is <em>tengwa</em>. To form the plural, we just add <em>-r</em>, creating <em>tengwar</em> <q>letters</q>. In Sindarin, by contrast, <q>the letter</q> would be <em>i dêw</em>, but the plural version <q>the letters</q> would be... <em>i thîw</em>! So if you saw these phrases in a Sindarin text and wanted to look up the word, where in the dictionary should you look? Under <em>dêw</em> or <em>thîw</em>? It turns out that this is a trick question, because <em>both</em> of these forms are <q>mutated</q> versions of the basic word <em>têw</em>—which is what an Elf would likely say if you asked <q>how do you say 'letter' in Sindarin?</q></p>
+
+<p>If this makes Sindarin sound like a terrifyingly difficult language... I promise you it&#39;s not—the mutations follow regular patterns and are easy to look up if you forget them. If on the other hand you think the idea of mutations is terrifically clever and awesome—then you are correct. The idea of internal mutations in words is not original to Tolkien, though—he got it from the Celtic languages (which include Welsh), and it&#39;s not even unique to the Celtic family. Japanese has a very similar phenomenon where the second element of compounds often shows a mutation—for example, when <em>kami</em> <q>paper</q> becomes <em>-gami</em> in <em>origami</em>.</p>
+
+<h2>2. On Learning Tolkien&#39;s Languages</h2>
+
+<p>Now, unfortunately, I have some bad news to deliver. You can&#39;t actually learn to <em>speak</em> Sindarin—not in the way you could learn to speak French or Spanish or any other earthly language. There is no way to say <q>we're out of pickles</q> or <q>the dog ate my homework</q> in Sindarin, not just because Tolkien didn&#39;t create Sindarin words for <q>pickles</q> or <q>homework</q>, but because he simply didn&#39;t design Sindarin to be used for daily conversation. He himself wrote very little continuous text in the language. The vast majority of our knowledge about Sindarin comes from the names of people and places. Given the state of our source material, it&#39;s not surprising that we can&#39;t write a course in the language without a lot of guesswork, editorial decisions, and new coinages. In fact, it&#39;s kind of amazing that we can say anything at all about Sindarin grammar<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup>.</p>
+
+<p>Now, I don&#39;t think it was an accident that Tolkien didn&#39;t create enough Sindarin words and grammar for us to use the language. It&#39;s tempting to imagine that Tolkien just never had time to <q>finish</q> Sindarin, but that seems to be far from the truth. Had Tolkien had more time to work on the language, I suspect the situation for us would not be much different. Christopher Tolkien begins the introduction to <em>The Etymologies</em> with this sentence:</p>
+
+<blockquote>
+<p>The mode of my father&#39;s linguistic construction, which as is well known was carried on throughout his life and in very close relation to the evolution of the narratives, shows the same unceasing movement as do they: a quality fundamental to the art, in which (as I believe) <em>finality and a system fixed at every point were not his underlying aim.</em> [Emphasis added]
+<cite><em>The Lost Road</em> (= <em>LR</em>), p. 377</cite></p>
+</blockquote>
+
+<p>Tolkien&#39;s manuscript of the <em>Etymologies</em> is a <q>maze of forms and cancellations [. . .] so dense, and for the most part made so quickly, that one cannot be sure what [his] final intention was: in these parts he was working out potential connections and derivations on the spot, by no means setting down already determined histories</q> (<em>LR</em> p. 380). The end of Tolkien&#39;s work on the <em>Etymologies</em> perhaps signals that the document had become too unwieldy to maintain, not that he was satisfied with the derivations he&#39;d worked out. In the later essay <em>Quendi and Eldar</em>, he describes derivations and ancient forms different from any that appear in the <em>Etymologies</em>; he was still far from <q>finished</q> with his languages.</p>
+
+<p>This may not have any great impact on the student of Sindarin. Most of Tolkien&#39;s revisions changed only the histories of the words, not the ultimate Quenya or Sindarin forms, so we can still confidently list a great many Sindarin words, even when their origins (within the fictional history) are not certain. However, I think the introduction to the <em>Etymologies</em> does illustrate three very important facts about Tolkien&#39;s work:</p>
+
+<ol>
+<li>He was as much interested in the historical development of words as in their ultimate forms.</li>
+<li>He was more interested in exploring the possible histories than in declaring one version <q>official</q> and moving on.</li>
+<li>As a result, his goal was never to make a language that anyone, including himself, could learn to speak fluently. He appreciated the languages in two ways: as the harmonious union of sound and meaning, and as weather-worn records of deep histories.</li>
+</ol>
+
+<p>These facts all point towards a single conclusion: that Tolkien&#39;s languages are a fundamentally different kind of thing from the natural languages of our own earth, or even other artificial languages like Esperanto (designed to ease communication between people who have no other language in common). Human languages in general serve two purposes: to communicate ideas, and to act as a mark of identity for social groups. Nothing else—not logic, nor historical continuity, nor least of all euphony—can get in the way of these vital requirements. Tolkien understood this, of course, and his Elves use language for the same purposes that we do<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup>—though not, as it were, <q>on camera</q>. But really, Tolkien was not designing the languages to please the Elves (who, being fictional, could have no say in his decisions) but to please himself. For him, beauty of form, sound, structure, and history were paramount, and the quotidian needs of conversation could never usurp their place.</p>
+
+<p>This brings me to the matter of why the present work is titled <q>A Ranger's Guide</q>. If Tolkien&#39;s languages are fundamentally different in purpose from real languages, we need to approach our study of them in a different way. We can&#39;t hope to learn about Tolkien&#39;s vision of Elvish from studying dialogues, for example, because Tolkien himself never wrote any dialogues in Elvish and probably didn&#39;t much care if it was even possible to do so. My goal then with the <q>Ranger's Guide</q> is to map the territory of the Sindarin writings that Tolkien <em>did</em> leave behind. I will not try to cut a path, but I hope to teach you to live among the trees.</p>
+
+<p>Some will no doubt contend that because we <em>can</em> piece together fragments of evidence into a more-or-less completed grammar of Sindarin, we <em>should</em> do so. Allow me to make an analogy: putting Sindarin to work for everyday conversation is like printing a Rembrandt painting on a t-shirt. It&#39;s technically possible, but neither the painting nor the shirt will benefit from the process. Conversely, an elegant logo may not be something you&#39;d hang on your wall or go to a museum to see, but it will make a much more attractive shirt design. I bring up this analogy in order to advocate for using Tolkien&#39;s languages in their appropriate context, and to make the point that by so advocating I do not mean to devalue the languages, nor indeed to declare them <q>too good</q> for common usage. They simply serve a different purpose from real languages, and recognizing that is, in my opinion, the key to enjoying them without frustration or disappointment.</p>
+
+<h2>External History</h2>
+
+<p>Tolkien did not, of course, develop Sindarin in a vacuum<sup id="fnref3"><a href="#fn3" rel="footnote">3</a></sup>. He was greatly inspired by the Welsh language, which he encountered in his childhood and later studied. When he was in his early twenties, he created the language Gnomish or <em>Goldogrin</em>, inspired by Welsh. In Goldogrin we can see the predecessors of many Elvish words and grammatical patterns—even the name of the language bears the <em>-rin</em> suffix later applied to <em>Sindarin</em>, <em>Noldorin</em>, <em>Telerin</em>, etc. Indeed, several Goldogrin words appear essentially unchanged in Sindarin: we have Goldogrin <em>gloss</em> <q>white</q>, often mutated to <em>&#39;loss</em> after another element</p>
+
+<p><em>hiraeth</em></p>
+
+<p>The sounds and general aesthetic of the language are based largely on Welsh, one of Tolkien&#39;s favorite real-world languages. Like Welsh, Sindarin has a system of consonant mutations: the initial consonant of a word can change in certain situations.</p>
+
+<ol>
+<li>Pronunciation - Jan. 2016</li>
+<li>Writing Systems - Jan. 2016
+
+<ol>
+<li>The <em>Angerthas Daeron</em> - Mar. 2016</li>
+<li>The Beleriandic <em>Tengwar</em> mode - Jan. 2016</li>
+<li>The Alphabetic <em>Tengwar</em> mode - Jan. 2016</li>
+<li>The Gondorian <em>Tengwar</em> mode - Jan. 2016</li>
+</ol></li>
+<li>The Corpus - Jan. 2016</li>
+<li>Phrasebook</li>
+<li>Wishes (imperative) - Feb. 2016</li>
+<li>Promises (future tense)</li>
+<li>Titles (genitive)</li>
+<li>Names (adjectives, compounds, plurals)</li>
+<li>Reference: Table of Mutations</li>
+<li>Reference: Table of Pronouns</li>
+</ol>
+
+<h1>Plurals</h1>
+
+<h1>The Articles <em>i</em> and <em>in</em></h1>
+
+<h1>Lenition</h1>
+
+<h1>Imperatives</h1>
+
+<p>Imperatives are followed</p>
+
+<p><em>Noro lim, noro lim, Asfaloth!</em> - adverbs follow imperatives</p>
+
+<div class="footnotes">
+<hr>
+<ol>
+
+<li id="fn1">
+<p>The problem isn&#39;t really that Tolkien didn&#39;t write about Sindarin grammar; the problem is that he changed his mind <em>all the time</em>. Even when he&#39;d settled on a phrase in Elvish that sounded right to him—for instance, <em>mae govannen</em> <q>well met</q>, he was very indecisive about the grammatical rules underlying the words. In the case of <em>mae govannen</em>, he considered no fewer than three alternatives: a verb <em>covad-</em> <q>meet</q>, with mutation of <em>c</em> to <em>g</em> yielding <em>govannen</em>; a verb <em>govan-</em>, with no mutation; and a verb <em>govan-</em> with the initial <em>g</em> disappearing under the effect of a second-person pronoun <em>ci</em>, itself mutated and abbreviated to <em>g&#39;</em>, yielding <em>g&#39;ovannen</em>. The problem (for us students) is that even after <em>LotR</em> was published and the phrase <em>mae govannen</em> was set in stone, Tolkien was free to change his mind about the underlying words and grammatical rules that produced it—and we know from his surviving papers that he changed his mind constantly. And that means that <em>none</em> of the possible interpretations of <em>mae govannen</em> can be picked out as the <q>right</q> one. (Disclaimer: this discussion is based on material published in <em>Parma Eldalamberon #17</em>, which I do not actually own, it having gone out of print before I began studying Elvish seriously. I have had to base this note on secondary sources, mainly Paul Strack&#39;s fabulous <a href="http://eldamo.org/">Eldamo</a> site.)&nbsp;<a href="#fnref1" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn2">
+<p>Of course they used the languages for communication, and the languages must have been a significant part of the cultural identity of the various Elven tribes—otherwise Elwë&#39;s ban on Quenya would have been meaningless.&nbsp;<a href="#fnref2" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn3">
+<p>Philologists do not work well in vacuums as a general rule; the environment impedes the functioning of their lungs. Also, in a vacuum, no one can hear you pronounce /ɬ/.&nbsp;<a href="#fnref3" rev="footnote">&#8617;</a></p>
+</li>
+
+</ol>
+</div>
+        </div>
+    </div>
+</body>
+
+</html>
