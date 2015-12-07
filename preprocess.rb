@@ -34,7 +34,7 @@ while line = template.gets
     Preprocessor.new(input).each_processed_line do |line|
       markdown += line
     end
-    markdown_converter = Redcarpet::Markdown.new(Redcarpet::Render::HTML, autolink: true, quote: true, footnotes: true)
+    markdown_converter = Redcarpet::Markdown.new(Redcarpet::Render::HTML, autolink: true, quote: true, footnotes: true, disable_indented_code_blocks: true)
     output << markdown_converter.render(markdown)
   else
     output << line
