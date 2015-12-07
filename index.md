@@ -12,7 +12,7 @@
 
 # A Ranger's Guide to Sindarin
 
-- [A Ranger's Guide](./sindarin.html) [.toc-detail is a description of Sindarin grammar and vocabulary, focusing on the examples (mainly in _LotR_) that J.R.R.T. chose to publish. I can't call it a "course" in the language, because you won't come out of it speaking Sindarin, at least not in the way you speak English now. It's more of a map of the territory, a guide to being at home in the Grey-elven tongue.]
+- [A Ranger's Guide](./sindarin.html) [.toc-detail is a description of Sindarin grammar and vocabulary, focusing on the examples (mainly in _LotR_) that J.R.R.T. chose to publish. I can't call it a "course", because you won't come out of it speaking Sindarin, at least not in the way you speak English now. It's more a map of the territory, a guide to being at home in the Grey-elven tongue.]
 
 # External Links of Interest
 
