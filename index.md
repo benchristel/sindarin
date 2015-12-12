@@ -10,9 +10,9 @@
 - [Elvish Is Dead; Long Live Elvish](./elvish-is-dead.html) - [.toc-detail A memoir of my experiences with Tolkien's languages, reflecting on why you can't (and can) and should (and shouldn't) learn Elvish. Read this first if you want to understand what you're getting yourself into.]
 - [Concerning Stress Placement in Sindarin](./stress-in-sindarin.html) - [.toc-detail I explore the implications for Sindarin pronunciation of two poems from _The Lord of the Rings_.]
 
-# A Ranger's Guide to Sindarin
+# Resources for Language Enthusiasts
 
-- [A Ranger's Guide](./sindarin.html) [.toc-detail is a description of Sindarin grammar and vocabulary, focusing on the examples (mainly in _LotR_) that J.R.R.T. chose to publish. I can't call it a "course", because you won't come out of it speaking Sindarin, at least not in the way you speak English now. It's more a map of the territory, a guide to being at home in the Grey-elven tongue.]
+- [A Ranger's Guide to Sindarin](./sindarin.html) [.toc-detail is a description of Sindarin grammar and vocabulary, focusing on the examples (mainly in _LotR_) that J.R.R.T. chose to publish. I can't call it a "course", because you won't come out of it speaking Sindarin, at least not in the way you speak English now. It's more a map of the territory, a guide to being at home in the Grey-elven tongue.]
 
 # External Links of Interest
 
