@@ -64,8 +64,10 @@ If we apply the same pattern to Sindarin, then a word like _Imladris_ could be s
 
 This pattern generalizes to many other compound names where the second element begins in L or R, including _Caradhras_, _Celebrant_, _Celebrond_, _Eledhrim_, _Falathrim_, _Galadhrim_, _Hadhodrond_, _Halethrim_, and _Orodruin_. All of these could optionally be stressed on the third-to-last syllable.
 
-Other syllable-initial clusters may also cause words to have variable stress. For example, _mb_, _nd_, _ng_ can probably begin a syllable. If our understanding of Sindarin consonant mutations is correct, phases like _athradar ndor_ ("they cross a country") containing syllable-initial nasalized stops are possible. If these clusters can also be syllable-initial when they occur between vowels, then we would expect e.g. _Mithrandir_, _Glorfindel_ to be optionally stressed on the first syllable.
+Other syllable-initial clusters may also cause words to have variable stress. For example, _mb_, _nd_, _ng_ can probably begin a syllable. If these clusters can also be syllable-initial when they occur between vowels, then we would expect e.g. _Mithrandir_, _Glorfindel_ to be optionally stressed on the first syllable.
 
-## Notes
+## Other Resources
+
+In a [2003 discussion](http://archives.conlang.info/gho/bhelgho/tree.html) on the Conlang mailing list, Pavel Iosad and John Cowan discussed the metrical evidence for a revised Sindarin stress rule.
 
 [^1]: Tolkien stated in a letter to a reader that he "spent a long time trying to make a list [of Elvish words for the Appendices] and that is one reason for the delay of Vol. III" (_Letters_ #168).
