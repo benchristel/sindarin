@@ -3,7 +3,7 @@
 ## Table of Contents
 
 1. [A Taste of Elvish](./sindarin/a-taste-of-elvish.html)
-2. [Why "A Ranger's Guide"? A Note On Learning Tolkien's Languages](./sindarin/learning.html)
+2. [On Learning Tolkien's Languages](./sindarin/learning.html)
 3. [Pronunciation](./sindarin/pronunciation.html)
 4. [The Elvish Writing Systems](./sindarin/writing.html)
 5. A Sindarin Phrasebook — [.toc-detail Coming soon!]
@@ -15,3 +15,7 @@
 11. Reference I: The Sindarin Corpus
 12. Reference II: A Historical Dictionary of Sindarin
 13. Reference III: Table of Mutations
+
+<div class="nav-links">
+<p><a href="./index.html">Back to the Homepage</a></p>
+</div>

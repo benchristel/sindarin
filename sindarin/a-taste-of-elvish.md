@@ -28,6 +28,6 @@ What do I mean when I say that Sindarin "echoes the changefulness of the mortal 
 If this makes Sindarin sound like a terrifyingly difficult language... I promise you it's not. The mutations follow regular patterns and are easy to look up if you forget them. If on the other hand you think the idea of mutations is terrifically clever and awesome... then I agree with you! The idea of internal mutations in words is not original to Tolkien, though—he got it from the Celtic languages (which include Welsh), and it's not even unique to the Celtic family. Japanese has a very similar phenomenon where the second element of compounds often shows a mutation: for example, when _kami_ "paper" becomes _-gami_ in _origami_.
 
 <div class="nav-links">
-<p><a href="./learning.html">Onward to the section on learning Tolkien's languages!</p>
-<p><a href="../sindarin.html">Back to the Table of Contents</p>
+<p><a href="./learning.html">Onward to the section on learning Tolkien's languages!</a></p>
+<p><a href="../sindarin.html">Back to the Table of Contents</a></p>
 </div>
