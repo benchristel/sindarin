@@ -31,6 +31,6 @@ All the other consonants should be pronounced pretty much as in English.
 
 ## But Wait, There's More!
 
-This guide doesn't cover many of the details of Sindarin pronunciation. You should check out [the complete description](./pronunciation-complete.html) if you want to know more. Alternatively, you could read about [Elvish writing systems](../writing.html)
+This guide doesn't cover many of the details of Sindarin pronunciation. You should check out [the complete description](./pronunciation-complete.html) if you want to know more. Alternatively, you could read about [Elvish writing systems](./writing.html)
 
 [^gondorian-y]: You'll have a Gondorian accent, but Elves should still be able to understand you. Most Sindarin speakers pronounced Y like German _ü_ in _über_.

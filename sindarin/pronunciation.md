@@ -4,7 +4,7 @@ Before you start to put Sindarin words together into sentences, it's a good idea
 
 No pronunciation guide can be perfect, but recordings of Tolkien reading excerpts from _The Lord of the Rings_ provide the best possible guide to many of the words and names from his legendarium. Samples from those recordings can be found [on the Glǽmscrafu site](http://www.jrrvf.com/~glaemscrafu/english/tolkienhimself.html) and are highly recommended listening.
 
-Although the recordings of Tolkien are enlightening, they are unfortunately not a complete guide to the pronunciation of Elvish. To deepen your knowledge, you'll have to refer to one of these written sources:
+Although the recordings of Tolkien are enlightening, they unfortunately don't demonstrate all the sounds of Elvish. To round out your knowledge, you'll have to hit the books. A list of suggested resources follows.
 
 ## Primary Sources
 
@@ -13,10 +13,15 @@ Although the recordings of Tolkien are enlightening, they are unfortunately not 
 ## Secondary Sources
 
 - If you're mainly interested in Elvish writing and don't want an exhaustive pronunciation tutorial, the [quick guide](./pronunciation-quick.html) is for you.
-- The [Complete Guide to Sindarin Pronunciation](./pronunciation-complete.html) provides the depth of Appendix E in an easier-to-digest format.
-- If you're a linguist, or just happen to know IPA, the [Linguist's Guide to Sindarin Pronunciation] is your best resource.
+- The [Complete Guide to Sindarin Pronunciation](./pronunciation-complete.html) provides the depth of Appendix E in an easier-to-digest format, trimming out the information that is only relevant for Quenya, and clarifying points that may be confusing to those who haven't studied a foreign language before.
+- If you're a linguist, or just happen to know IPA, the [Linguist's Guide to Sindarin Pronunciation] is the best resource I can provide.
 
 ### External Links
 
 - Sindarin teacher **dreamingfifi** has a [very thorough set of lessons](http://your-sindarin-textbook.realelvish.net/chapter1/lesson3/) on Sindarin pronunciation. She uses IPA alongside less technical methods to teach the sounds.
-- Quenya revivalist Helge Fauskanger has an [article on Sindarin](http://folk.uib.no/hnohf/sindarin.htm#Heading6) that briefly covers pronunciation. (Note that the article, while superbly researched at the time it was written, has not been updated recently. Some of its material may be out of date.)
+- Quenya revivalist Helge Fauskanger has an [article on Sindarin](http://folk.uib.no/hnohf/sindarin.htm#Heading6) that briefly covers pronunciation. (Note that the article, while superbly researched at the time it was written, has not been updated recently. Some of its material may be out of date. The pronunciation section is still as relevant as ever, though.)
+
+<div class="nav-links">
+<p><a href="./writing.html">Onward to the section on Writing!</p>
+<p><a href="../sindarin.html">Back to the Table of Contents</p>
+</div>

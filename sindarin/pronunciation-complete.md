@@ -85,6 +85,8 @@ Sindarin, like English, puts emphasis or _stress_ on one syllable of multi-sylla
 
 Breaking up a word into syllables doesn't come naturally to everyone, though it's not hard once you get the hang of it. Each syllable always contains exactly one vowel or diphthong, so to find the syllables in a Sindarin word, you just have to look for vowels, and break up the word so each chunk has one vowel or diphthong in it. A word like _caun_ "prince" has one syllable since _au_ is a diphthong. _Elbereth_ has three syllables: _El.be.reth_.
 
+This still leaves the question of which consonants belong to which syllable. A consonant cluster in the middle of a word is usually broken up, as _lb_ is in _El.be.reth_. A single consonant in the middle of a word goes with the vowel following it.
+
 ### Stress in Two-Syllable Words
 
 "In words of two syllables, [the stress] falls in practically all cases on the first syllable." (_LotR_ Appendix E) Tolkien neglects to list the exceptions to this rule, so for our purposes, two-syllable Sindarin words are *always* stressed on the first syllable.
