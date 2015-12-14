@@ -6,6 +6,36 @@
     <link rel="icon" type="image/x-icon" href="$ROOT$/favicon.ico">
     <style type="text/css">
 
+    @font-face {
+        font-family: tengwar;
+        src: url($ROOT$/annatar/tnganb.ttf);
+    }
+
+    @font-face {
+        font-family: tengwaraltitalic;
+        src: url($ROOT$/annatar/tnganabi.ttf);
+    }
+
+    @font-face {
+        font-family: tengwaritalic;
+        src: url($ROOT$/annatar/tnganbi.ttf);
+    }
+
+    @font-face {
+        font-family: tengwarlight;
+        src: url($ROOT$/annatar/tngan.ttf);
+    }
+
+    @font-face {
+        font-family: tengwaraltitaliclight;
+        src: url($ROOT$/annatar/tnganai.ttf);
+    }
+
+    @font-face {
+        font-family: tengwaritaliclight;
+        src: url($ROOT$/annatar/tngani.ttf);
+    }
+
     * {
         padding: 0;
         margin: 0;
@@ -21,7 +51,7 @@
         background-color: #faf9f8;
         background-image: url('$ROOT$/stone_border.gif'), url('$ROOT$/leaf_border.png'), url('$ROOT$/background-dark.gif');
         background-position: top right, top left, top left;
-        background-attachment: fixed, fixed, fixed;
+        background-attachment: scroll, scroll, fixed;
         background-repeat: repeat-y, repeat-y, repeat;
     }
 
@@ -182,6 +212,26 @@
         background-color: #e8e8e0;
         border: 1px solid #ddd;
         border-radius: 3px;
+    }
+
+    .nav-links p {
+        text-align: center;
+        margin: 0;
+    }
+
+    /* TENGWAR */
+
+    .t, .tengwar {
+        font-family: tengwar;
+        font-size: 1.2em;
+    }
+
+    .ti {
+        font-family: tengwaritalic;
+    }
+
+    .tai {
+        font-family: tengwaraltitalic;
     }
 
     /* PAGE-SPECIFIC THINGS */

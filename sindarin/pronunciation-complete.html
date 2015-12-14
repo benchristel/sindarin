@@ -3,7 +3,38 @@
 
 <head>
     <title>Menegroth ✶ The Thousand Caves</title>
+    <link rel="icon" type="image/x-icon" href="../favicon.ico">
     <style type="text/css">
+
+    @font-face {
+        font-family: tengwar;
+        src: url(../annatar/tnganb.ttf);
+    }
+
+    @font-face {
+        font-family: tengwaraltitalic;
+        src: url(../annatar/tnganabi.ttf);
+    }
+
+    @font-face {
+        font-family: tengwaritalic;
+        src: url(../annatar/tnganbi.ttf);
+    }
+
+    @font-face {
+        font-family: tengwarlight;
+        src: url(../annatar/tngan.ttf);
+    }
+
+    @font-face {
+        font-family: tengwaraltitaliclight;
+        src: url(../annatar/tnganai.ttf);
+    }
+
+    @font-face {
+        font-family: tengwaritaliclight;
+        src: url(../annatar/tngani.ttf);
+    }
 
     * {
         padding: 0;
@@ -20,6 +51,7 @@
         background-color: #faf9f8;
         background-image: url('../stone_border.gif'), url('../leaf_border.png'), url('../background-dark.gif');
         background-position: top right, top left, top left;
+        background-attachment: scroll, scroll, fixed;
         background-repeat: repeat-y, repeat-y, repeat;
     }
 
@@ -78,6 +110,23 @@
         word-spacing: 0.09em;
         text-transform: uppercase;
         font-size: 22px;
+    }
+
+    h1.site-title {
+        text-transform: none;
+        font-variant: small-caps;
+        font-size: 36px;
+        color: #328;
+        margin: 0;
+    }
+
+    h1.subtitle {
+        font-size: 12px;
+        letter-spacing: 0.2em;
+        word-spacing: 0.1em;
+        margin-top: 0.5em;
+        margin-bottom: 4em;
+        color: #999;
     }
 
     h2 {
@@ -163,6 +212,26 @@
         background-color: #e8e8e0;
         border: 1px solid #ddd;
         border-radius: 3px;
+    }
+
+    .nav-links p {
+        text-align: center;
+        margin: 0;
+    }
+
+    /* TENGWAR */
+
+    .t, .tengwar {
+        font-family: tengwar;
+        font-size: 1.2em;
+    }
+
+    .ti {
+        font-family: tengwaritalic;
+    }
+
+    .tai {
+        font-family: tengwaraltitalic;
     }
 
     /* PAGE-SPECIFIC THINGS */
@@ -276,6 +345,8 @@
 <h3>Hang on, What&#39;s a Syllable?</h3>
 
 <p>Breaking up a word into syllables doesn&#39;t come naturally to everyone, though it&#39;s not hard once you get the hang of it. Each syllable always contains exactly one vowel or diphthong, so to find the syllables in a Sindarin word, you just have to look for vowels, and break up the word so each chunk has one vowel or diphthong in it. A word like <em>caun</em> <q>prince</q> has one syllable since <em>au</em> is a diphthong. <em>Elbereth</em> has three syllables: <em>El.be.reth</em>.</p>
+
+<p>This still leaves the question of which consonants belong to which syllable. A consonant cluster in the middle of a word is usually broken up, as <em>lb</em> is in <em>El.be.reth</em>. A single consonant in the middle of a word goes with the vowel following it.</p>
 
 <h3>Stress in Two-Syllable Words</h3>
 

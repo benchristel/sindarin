@@ -68,6 +68,9 @@ Other syllable-initial clusters may also cause words to have variable stress. Fo
 
 ## Other Resources
 
-In a [2003 discussion](http://archives.conlang.info/gho/bhelgho/tree.html) on the Conlang mailing list, Pavel Iosad and John Cowan discussed the metrical evidence for a revised Sindarin stress rule.
+After writing the initial version of this article, I discovered that neither my observations nor my "speculative description" were original to me. Following is a list of those who beat me to the punch:
+
+- A [2012 discussion](https://mildred-of-midgard.dreamwidth.org/158375.html) on **mildred_of_midgard**'s blog mentions _Nargothrond_ as possible evidence of a Sindarin _muta cum liquida_ rule, also bringing in evidence from the _Lay of Leithian_, which I had not previously considered. The _Lay_ mentions _Nargothrond_ many times, always with initial stress. _Menegroth_ appears with initial stress as well. Those who wish to pronounce the name of this site correctly, take note!
+- In a [2003 discussion](http://archives.conlang.info/gho/bhelgho/tree.html) on the Conlang mailing list, Pavel Iosad and John Cowan discussed the metrical evidence for a revised Sindarin stress rule.
 
 [^1]: Tolkien stated in a letter to a reader that he "spent a long time trying to make a list [of Elvish words for the Appendices] and that is one reason for the delay of Vol. III" (_Letters_ #168).

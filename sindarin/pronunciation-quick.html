@@ -3,7 +3,38 @@
 
 <head>
     <title>Menegroth ✶ The Thousand Caves</title>
+    <link rel="icon" type="image/x-icon" href="../favicon.ico">
     <style type="text/css">
+
+    @font-face {
+        font-family: tengwar;
+        src: url(../annatar/tnganb.ttf);
+    }
+
+    @font-face {
+        font-family: tengwaraltitalic;
+        src: url(../annatar/tnganabi.ttf);
+    }
+
+    @font-face {
+        font-family: tengwaritalic;
+        src: url(../annatar/tnganbi.ttf);
+    }
+
+    @font-face {
+        font-family: tengwarlight;
+        src: url(../annatar/tngan.ttf);
+    }
+
+    @font-face {
+        font-family: tengwaraltitaliclight;
+        src: url(../annatar/tnganai.ttf);
+    }
+
+    @font-face {
+        font-family: tengwaritaliclight;
+        src: url(../annatar/tngani.ttf);
+    }
 
     * {
         padding: 0;
@@ -20,6 +51,7 @@
         background-color: #faf9f8;
         background-image: url('../stone_border.gif'), url('../leaf_border.png'), url('../background-dark.gif');
         background-position: top right, top left, top left;
+        background-attachment: scroll, scroll, fixed;
         background-repeat: repeat-y, repeat-y, repeat;
     }
 
@@ -78,6 +110,23 @@
         word-spacing: 0.09em;
         text-transform: uppercase;
         font-size: 22px;
+    }
+
+    h1.site-title {
+        text-transform: none;
+        font-variant: small-caps;
+        font-size: 36px;
+        color: #328;
+        margin: 0;
+    }
+
+    h1.subtitle {
+        font-size: 12px;
+        letter-spacing: 0.2em;
+        word-spacing: 0.1em;
+        margin-top: 0.5em;
+        margin-bottom: 4em;
+        color: #999;
     }
 
     h2 {
@@ -165,6 +214,26 @@
         border-radius: 3px;
     }
 
+    .nav-links p {
+        text-align: center;
+        margin: 0;
+    }
+
+    /* TENGWAR */
+
+    .t, .tengwar {
+        font-family: tengwar;
+        font-size: 1.2em;
+    }
+
+    .ti {
+        font-family: tengwaritalic;
+    }
+
+    .tai {
+        font-family: tengwaraltitalic;
+    }
+
     /* PAGE-SPECIFIC THINGS */
 
     .toc-detail {
@@ -221,7 +290,7 @@
 
 <h2>But Wait, There&#39;s More!</h2>
 
-<p>This guide doesn&#39;t cover many of the details of Sindarin pronunciation. You should check out <a href="./pronunciation-complete.html">the complete description</a> if you want to know more. Alternatively, you could read about <a href="../writing.html">Elvish writing systems</a></p>
+<p>This guide doesn&#39;t cover many of the details of Sindarin pronunciation. You should check out <a href="./pronunciation-complete.html">the complete description</a> if you want to know more. Alternatively, you could read about <a href="./writing.html">Elvish writing systems</a></p>
 
 <div class="footnotes">
 <hr>

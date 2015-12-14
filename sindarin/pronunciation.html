@@ -3,7 +3,38 @@
 
 <head>
     <title>Menegroth ✶ The Thousand Caves</title>
+    <link rel="icon" type="image/x-icon" href="../favicon.ico">
     <style type="text/css">
+
+    @font-face {
+        font-family: tengwar;
+        src: url(../annatar/tnganb.ttf);
+    }
+
+    @font-face {
+        font-family: tengwaraltitalic;
+        src: url(../annatar/tnganabi.ttf);
+    }
+
+    @font-face {
+        font-family: tengwaritalic;
+        src: url(../annatar/tnganbi.ttf);
+    }
+
+    @font-face {
+        font-family: tengwarlight;
+        src: url(../annatar/tngan.ttf);
+    }
+
+    @font-face {
+        font-family: tengwaraltitaliclight;
+        src: url(../annatar/tnganai.ttf);
+    }
+
+    @font-face {
+        font-family: tengwaritaliclight;
+        src: url(../annatar/tngani.ttf);
+    }
 
     * {
         padding: 0;
@@ -20,6 +51,7 @@
         background-color: #faf9f8;
         background-image: url('../stone_border.gif'), url('../leaf_border.png'), url('../background-dark.gif');
         background-position: top right, top left, top left;
+        background-attachment: scroll, scroll, fixed;
         background-repeat: repeat-y, repeat-y, repeat;
     }
 
@@ -78,6 +110,23 @@
         word-spacing: 0.09em;
         text-transform: uppercase;
         font-size: 22px;
+    }
+
+    h1.site-title {
+        text-transform: none;
+        font-variant: small-caps;
+        font-size: 36px;
+        color: #328;
+        margin: 0;
+    }
+
+    h1.subtitle {
+        font-size: 12px;
+        letter-spacing: 0.2em;
+        word-spacing: 0.1em;
+        margin-top: 0.5em;
+        margin-bottom: 4em;
+        color: #999;
     }
 
     h2 {
@@ -165,6 +214,26 @@
         border-radius: 3px;
     }
 
+    .nav-links p {
+        text-align: center;
+        margin: 0;
+    }
+
+    /* TENGWAR */
+
+    .t, .tengwar {
+        font-family: tengwar;
+        font-size: 1.2em;
+    }
+
+    .ti {
+        font-family: tengwaritalic;
+    }
+
+    .tai {
+        font-family: tengwaraltitalic;
+    }
+
     /* PAGE-SPECIFIC THINGS */
 
     .toc-detail {
@@ -188,7 +257,7 @@
 
 <p>No pronunciation guide can be perfect, but recordings of Tolkien reading excerpts from <em>The Lord of the Rings</em> provide the best possible guide to many of the words and names from his legendarium. Samples from those recordings can be found <a href="http://www.jrrvf.com/%7Eglaemscrafu/english/tolkienhimself.html">on the Glǽmscrafu site</a> and are highly recommended listening.</p>
 
-<p>Although the recordings of Tolkien are enlightening, they are unfortunately not a complete guide to the pronunciation of Elvish. To deepen your knowledge, you&#39;ll have to refer to one of these written sources:</p>
+<p>Although the recordings of Tolkien are enlightening, they unfortunately don&#39;t demonstrate all the sounds of Elvish. To round out your knowledge, you&#39;ll have to hit the books. A list of suggested resources follows.</p>
 
 <h2>Primary Sources</h2>
 
@@ -200,16 +269,21 @@
 
 <ul>
 <li>If you&#39;re mainly interested in Elvish writing and don&#39;t want an exhaustive pronunciation tutorial, the <a href="./pronunciation-quick.html">quick guide</a> is for you.</li>
-<li>The <a href="./pronunciation-complete.html">Complete Guide to Sindarin Pronunciation</a> provides the depth of Appendix E in an easier-to-digest format.</li>
-<li>If you&#39;re a linguist, or just happen to know IPA, the [Linguist&#39;s Guide to Sindarin Pronunciation] is your best resource.</li>
+<li>The <a href="./pronunciation-complete.html">Complete Guide to Sindarin Pronunciation</a> provides the depth of Appendix E in an easier-to-digest format, trimming out the information that is only relevant for Quenya, and clarifying points that may be confusing to those who haven&#39;t studied a foreign language before.</li>
+<li>If you&#39;re a linguist, or just happen to know IPA, the [Linguist&#39;s Guide to Sindarin Pronunciation] is the best resource I can provide.</li>
 </ul>
 
 <h3>External Links</h3>
 
 <ul>
 <li>Sindarin teacher <strong>dreamingfifi</strong> has a <a href="http://your-sindarin-textbook.realelvish.net/chapter1/lesson3/">very thorough set of lessons</a> on Sindarin pronunciation. She uses IPA alongside less technical methods to teach the sounds.</li>
-<li>Quenya revivalist Helge Fauskanger has an <a href="http://folk.uib.no/hnohf/sindarin.htm#Heading6">article on Sindarin</a> that briefly covers pronunciation. (Note that the article, while superbly researched at the time it was written, has not been updated recently. Some of its material may be out of date.)</li>
+<li>Quenya revivalist Helge Fauskanger has an <a href="http://folk.uib.no/hnohf/sindarin.htm#Heading6">article on Sindarin</a> that briefly covers pronunciation. (Note that the article, while superbly researched at the time it was written, has not been updated recently. Some of its material may be out of date. The pronunciation section is still as relevant as ever, though.)</li>
 </ul>
+
+<div class="nav-links">
+<p><a href="./writing.html">Onward to the section on Writing!</p>
+<p><a href="../sindarin.html">Back to the Table of Contents</p>
+</div>
         </div>
     </div>
 </body>
