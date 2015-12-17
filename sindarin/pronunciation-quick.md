@@ -1,36 +1,36 @@
 # Quick Guide to Sindarin Pronunciation
 
-This summary of Sindarin sounds is designed to get your pronunciation to a level where, if you were teleported to Middle-earth, a Sindarin-speaker could understand you, even if he found your accent strange. If you're aiming for perfect pronunciation and want all the nitty-gritty details, you should read [the complete description](./pronunciation-complete.html) and skip this page, since everything here is repeated there, but in more detail. And finally, if you have a background in linguistics or just know IPA for whatever reason, you should read the page [for linguists](./pronunciation-for-linguists.html).
+This guide is designed to get your pronunciation to a level where Sindarin-speakers will understand you, even if they find your accent strange. If you're aiming for perfect pronunciation, you should read [the complete description](./pronunciation-complete.html).
 
 ## Vowels
 
 The vowels are similar to those of Spanish, Hawaiian, or Italian: A, E, I, O, and U are pronounced "ah", "eh", "ee", "oh", and "oo". Y is always a vowel, and can be pronounced "ee"[^gondorian-y].
 
-- _callon_ "hero" sounds roughly like English "call on".
-- _pen_ "without" sounds like English "pen".
-- _hîr_ "lord, master" sounds roughly like English "here". The accent indicates that the "ee" sound is held longer than an unaccented vowel.
-- _tol_ "island" sounds roughly like English "toll".
-- _dû_ "night" sounds like English "do".
+Examples:
 
-There are also several vowel combinations whose pronunciation you should know:
+- [.s A] as in &ldquo;f[.hi a]ther&rdquo;: [.s barad] "tower"
+- [.s E] as in &ldquo;p[.hi e]n&rdquo;: [.s pen] "without"
+- [.s I] as in &ldquo;mach[.hi i]ne&rdquo;: [.s hîr] "lord, master"
+- [.s O] as in &ldquo;[.hi o]ld&rdquo;: [.s tol] "island"
+- [.s U] as in &ldquo;br[.hi u]te&rdquo;: [.s dûr] "dark"
 
-- AI and AE sound like "eye".
-- AU is like the "ow" in "now".
-- EI is the sound in "weigh".
-- UI is an "oo" sound followed quickly by an "ee" sound, almost as in "ruin".
+An accent over a vowel, like [.s á] or [.s â], indicates that it is held for slightly longer.
+
+Certain sequences of two vowels have their own pronunciation:
+
+- [.s AI] and [.s AE] sound like "eye".
+- [.s AU] ~ like "ow" in "now". [.s Aur] "day" sounds like English "hour".
+- [.s EI] ~ as in "weigh": [.s leithio] "release".
+- [.s UI] ~ an "oo" sound followed quickly by an "ee" sound, almost as in "ruin": [.s Fanuilos] (a title of Elbereth).
 
 ## Consonants
 
-- C is always a hard K-sound, as in "cat".
-- G is likewise always hard, as in "get".
-- R should be trilled, as in Spanish.
-- CH is the sound heard in Scottish _loch_ or German _Bach_. Gondorians often turned it into a K or H sound, and so can you, if you prefer.
-- DH has the sound of _th_ in "leather".
+- [.s C] is always a hard K-sound, as in "cat".
+- [.s G] is likewise always hard, as in "get".
+- [.s R] should be trilled, as in Spanish.
+- [.s CH] is the sound heard in Scottish _loch_ or German _Bach_. Gondorians often turned it into a K or H sound, and so can you, if you prefer.
+- [.s DH] has the sound of _th_ in "leather": [.s edhel] "elf".
 
-All the other consonants should be pronounced pretty much as in English.
-
-## But Wait, There's More!
-
-This guide doesn't cover many of the details of Sindarin pronunciation. You should check out [the complete description](./pronunciation-complete.html) if you want to know more. Alternatively, you could read about [Elvish writing systems](./writing.html)
+The other consonants should be pronounced more or less as in English.
 
 [^gondorian-y]: You'll have a Gondorian accent, but Elves should still be able to understand you. Most Sindarin speakers pronounced Y like German _ü_ in _über_.
