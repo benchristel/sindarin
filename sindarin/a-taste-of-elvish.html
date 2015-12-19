@@ -48,7 +48,8 @@
 
     body {
         min-height: 100%;
-        background-color: #000;
+        background-color: #000
+        ;
         background-image: url('../stone_border.png'), url('../leaf_border.png'), url('../background-dark.gif');
         background-position: top right, top left, top left;
         background-attachment: scroll, scroll, fixed;
@@ -89,6 +90,9 @@
     h1, h2, h3, h4, h5, h6 {
         font-family: 'Baskerville', serif;
         font-weight: 600;
+        margin-top: 0.75em;
+        margin-bottom: 0.75em;
+        line-height: 150%;
     }
 
     h2, h3, h4, h5, h6 {
@@ -96,20 +100,15 @@
         word-spacing: 0.03em;
     }
 
-    h1, h2 {
-        text-align: center;
-    }
-
-    h1, h2, h3, h4, h5, h6 {
-        margin-top: 1.5em;
-        margin-bottom: 1em;
-    }
-
     h1 {
         letter-spacing: 0.03em;
         word-spacing: 0.09em;
         text-transform: uppercase;
-        font-size: 22px;
+        text-align: center;
+        font-size: 22px;/*
+        padding-bottom: 0.3em;
+        border-bottom: 1px solid #ccc;*/
+        margin-bottom: 1.5em;
     }
 
     h1.site-title {
@@ -131,14 +130,13 @@
 
     h2 {
         font-size: 22px;
-        padding-bottom: 0.3em;
-        border-bottom: 1px solid #ccc;
+        margin-top: 2em;
     }
 
     h3 {
-        font-size: 22px;
+        font-size: 18px;
     }
-
+/*
     h4 {
         font-size: 18px;
     }
@@ -151,7 +149,7 @@
         font-size: 16px;
         font-variant: italic;
         font-weight: 200;
-    }
+    }*/
 
     li {
         margin-left: 20px;
@@ -220,8 +218,12 @@
     }
 
     .highlight, .hi {
-        color: #a00;
-        font-weight: bold;
+        text-decoration: underline;
+    }
+
+    .pron {
+        font-variant: small-caps;
+        color: #800;
     }
 
     /* LANGUAGES */
@@ -229,7 +231,7 @@
     /* Sindarin */
     .s {
         font-weight: bold;
-        color: #216;
+        color: #038;
     }
 
     /* Quenya */
@@ -295,7 +297,7 @@
 <cite>The Fellowship of the Ring, p. 250</cite></p>
 </blockquote>
 
-<p>(In free translation, this reads: <q>O Elbereth Starkindler, the glory of the star-host slants down from heaven, shining silver, sparkling like jewels! Having gazed afar from the tree-woven lands of Middle-earth, to you, Everwhite, I will sing, here on this side of the great ocean!</q> Elbereth is a Sindarin name of the Vala whom the Noldor called Varda.)</p>
+<p>(In free translation, this reads: <q>O Elbereth Starkindler, the glory of the star-host slants down from heaven, shining white, sparkling like jewels! Having gazed afar from the tree-woven lands of Middle-earth, to you, Everwhite, I will sing, here on this side of the great ocean!</q> Elbereth is a Sindarin name of the Valië whom the Noldor called Varda.)</p>
 
 <p>What do I mean when I say that Sindarin <q>echoes the changefulness of the mortal world</q>? Certainly Sindarin doesn&#39;t sound like the original Elvish language spoken by the <em>kwendī</em> at Cuiviénen, and so in that sense it has changed. But that is not so interesting; all languages change over time, and Quenya too underwent many changes while the Noldor dwelt in Aman. But whereas Quenya expresses shades of meaning by adding suffixes to words, leaving the base word unchanged, Sindarin often makes changes within the base word itself, such that two forms of the same Sindarin word may at first glance appear totally different. For example, the word for a letter in Quenya is <em>tengwa</em>. To form the plural, we just add <em>-r</em>, creating <em>tengwar</em> <q>letters</q>. In Sindarin, by contrast, <q>the letter</q> would be <em>i dêw</em>, but the plural version <q>the letters</q> would be... <em>i thîw</em>! So if you saw these phrases in a Sindarin text and wanted to look up the word, where in the dictionary should you look? Under <em>dêw</em> or <em>thîw</em>? It turns out that this is a trick question, because <em>both</em> of these forms are <q>mutated</q> versions of the basic word <em>têw</em>—which is what an Elf would likely say if you asked <q>how do you say 'letter' in Sindarin?</q></p>
 
