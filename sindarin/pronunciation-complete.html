@@ -48,7 +48,8 @@
 
     body {
         min-height: 100%;
-        background-color: #000;
+        background-color: #000
+        ;
         background-image: url('../stone_border.png'), url('../leaf_border.png'), url('../background-dark.gif');
         background-position: top right, top left, top left;
         background-attachment: scroll, scroll, fixed;
@@ -89,6 +90,9 @@
     h1, h2, h3, h4, h5, h6 {
         font-family: 'Baskerville', serif;
         font-weight: 600;
+        margin-top: 0.75em;
+        margin-bottom: 0.75em;
+        line-height: 150%;
     }
 
     h2, h3, h4, h5, h6 {
@@ -96,20 +100,15 @@
         word-spacing: 0.03em;
     }
 
-    h1, h2 {
-        text-align: center;
-    }
-
-    h1, h2, h3, h4, h5, h6 {
-        margin-top: 1.5em;
-        margin-bottom: 1em;
-    }
-
     h1 {
         letter-spacing: 0.03em;
         word-spacing: 0.09em;
         text-transform: uppercase;
-        font-size: 22px;
+        text-align: center;
+        font-size: 22px;/*
+        padding-bottom: 0.3em;
+        border-bottom: 1px solid #ccc;*/
+        margin-bottom: 1.5em;
     }
 
     h1.site-title {
@@ -131,14 +130,13 @@
 
     h2 {
         font-size: 22px;
-        padding-bottom: 0.3em;
-        border-bottom: 1px solid #ccc;
+        margin-top: 2em;
     }
 
     h3 {
-        font-size: 22px;
+        font-size: 18px;
     }
-
+/*
     h4 {
         font-size: 18px;
     }
@@ -151,7 +149,7 @@
         font-size: 16px;
         font-variant: italic;
         font-weight: 200;
-    }
+    }*/
 
     li {
         margin-left: 20px;
@@ -220,8 +218,12 @@
     }
 
     .highlight, .hi {
-        color: #a00;
-        font-weight: bold;
+        text-decoration: underline;
+    }
+
+    .pron {
+        font-variant: small-caps;
+        color: #800;
     }
 
     /* LANGUAGES */
@@ -229,7 +231,7 @@
     /* Sindarin */
     .s {
         font-weight: bold;
-        color: #216;
+        color: #038;
     }
 
     /* Quenya */
@@ -274,21 +276,25 @@
 
 <h2>Vowels</h2>
 
-<p>Sindarin vowels are comparable to those of Spanish. A, E, I, O, and U are pronounced <q>ah</q>, <q>eh</q>, <q>ee</q>, <q>oh</q>, and <q>oo</q>. More specifically (assuming a General American accent)<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup>:</p>
+<p>Pronounce the Sindarin vowels <span class="s">A</span>, <span class="s">E</span>, <span class="s">I</span>, <span class="s">O</span>, and <span class="s">U</span> as <q>ah</q>, <q>eh</q>, <q>ee</q>, <q>oh</q>, and <q>oo</q>. Tolkien was aiming for familiarity here: Spanish, Italian, and many other languages have similar vowel systems.</p>
+
+<p>Even English, with all its spelling wackiness, sometimes uses the five vowels with their Sindarin pronunciations:</p>
 
 <ul>
-<li>A as in <q>father</q></li>
-<li>E as in <q>pen</q></li>
-<li>I as in <q>machine</q></li>
-<li>O as in <q>old</q></li>
-<li>U as in <q>brute</q></li>
+<li><span class="s">A</span>: &ldquo;f<span class="hi">a</span>ther&rdquo;</li>
+<li><span class="s">E</span>: &ldquo;w<span class="hi">e</span>ll&rdquo;</li>
+<li><span class="s">I</span>: &ldquo;mach<span class="hi">i</span>ne&rdquo;</li>
+<li><span class="s">O</span>: &ldquo;f<span class="hi">o</span>r&rdquo;</li>
+<li><span class="s">U</span>: &ldquo;br<span class="hi">u</span>te&rdquo;</li>
 </ul>
 
-<p>Sindarin also has a sixth vowel, Y, whose sound has no equivalent in English. It is the sound of <em>u</em> in French <em>lune</em>, or German <em>ü</em> as in <em>über</em>. Unlike the English letter Y, Sindarin Y is always a vowel, never a consonant as in <q>yes</q>.</p>
+<p>Sindarin also has a sixth vowel, <span class="s">Y</span>, with no equivalent in English. It&#39;s the sound of <em>u</em> in French <em>lune</em>, or <em>ü</em> in German <em>über</em>. To pronounce it, say <q>ee</q> but with your lips rounded as if saying <q>oo</q>. If those instructions sound nonsensical, it&#39;s because a defining feature of the <q>ee</q> vowel in English is that your lips are stretched into a smile, basically the opposite of <q>oo</q>. However, the other important feature of <q>ee</q> is that your mouth is nearly closed when saying it, leaving only a small air gap above your tongue. So combine that <q>closeness</q> with lip-rounding and you have the Sindarin <span class="s">Y</span> sound.</p>
 
-<p>In Sindarin, the vowels can be marked with an acute accent (á é í ó ú) indicating that they are held for a slightly longer duration. So in a word like <em>míriel</em> <q>sparkling like jewels</q> (TODO cite translation), the first syllable <em>mí</em> is held for two <q>beats</q>, the second syllable <em>ri</em> for one beat, and the third syllable <em>el</em> for one beat (though it may actually take longer to say because of the final L).</p>
+<h3>Accents and Vowel Length</h3>
 
-<p>A circumflex (â ê î ô û) also indicates a long vowel, but is mostly used in words of one syllable. This may just be an aesthetic whim of Tolkien&#39;s, though he justified it by saying that vowels with the circumflex should be held for <em>even longer</em>—three beats instead of two. However, the Elvish writing systems only distinguish two vowel lengths, long and short, so the Elves must not have considered this detail very important.</p>
+<p>An acute accent (<span class="s">á é í ó ú</span>) indicates that the vowel is held for a slightly longer duration. So in a word like <span class="s">míriel</span> <q>sparkling like jewels</q>, the first syllable <span class="s">mí</span> is held about twice as long as the second syllable <span class="s">ri</span>.</p>
+
+<p>A circumflex (<span class="s">â ê î ô û</span>) also indicates a long vowel, but is mostly used in words of one syllable. This may just be an aesthetic whim of Tolkien&#39;s, though he justified it by saying that vowels with the circumflex should be held <em>even longer</em>. However, the Elvish writing systems only distinguish two vowel lengths, long and short, so the Elves must not have considered this detail very important.</p>
 
 <h3>Typing Accented Characters</h3>
 
@@ -301,96 +307,131 @@
 Á É Í Ó Ú Ý — Â Ê Î Ô Û Ŷ
 </div>
 
+<h3>Diphthongs</h3>
+
+<p>A diphthong (pronounced <span class="pron">DIFF-thong</span>, from the Greek for <q>two sounds</q>) is a combination of two vowel sounds that blur together into a single syllable. Diphthongs appear frequently in English: the <q>ou</q> in <q>house</q>, is a diphthong that starts with an <q>ah</q> sound and ends with an <q>oo</q> sound. Sindarin has this diphthong as well, though it&#39;s spelled <span class="s">au</span>.</p>
+
+<p>Here is the complete list of Sindarin diphthongs:</p>
+
+<ul>
+<li><span class="s">AI</span>: as in &ldquo;<span class="hi">ai</span>sle&rdquo;</li>
+<li><span class="s">AE</span>: no English equivalent. <span class="s">AE</span> is a glide from an <span class="s">A</span> into an <span class="s">E</span>. The resulting sound should be similar to <span class="s">AI</span>; Tolkien even suggested pronouncing <span class="s">AE</span> the same as <span class="s">AI</span> if you&#39;re not picky. Or you could aim for a Mirkwood accent and pronounce it like <span class="s">E</span>: compare Mirkwood <span class="s">Legolas</span> to Classical Sindarin <span class="s">Laegolas</span>.</li>
+<li><span class="s">AU</span> or <span class="s">AW</span>: like <q>ou</q> in &ldquo;h<span class="hi">ou</span>se&rdquo;. <span class="s">AU</span> and <span class="s">AW</span> are simply variant spellings of the same sound.</li>
+<li><span class="s">EI</span>: as in &ldquo;w<span class="hi">ei</span>gh&rdquo;</li>
+<li><span class="s">EW</span>: no English equivalent. This is a glide from <span class="s">E</span> into <span class="s">U</span>. Example: <span class="s">têw</span> <q>letter</q></li>
+<li><span class="s">IW</span>: no English equivalent. This is a glide from <span class="s">I</span> into <span class="s">U</span>. Example: <span class="s">thîw</span> <q>letters</q></li>
+<li><span class="s">OE</span>: like <q>oy</q> in &ldquo;b<span class="hi">oy</span>&rdquo;</li>
+<li><span class="s">UI</span>: as in <q>ruin</q>, but ending in a tense <q>ee</q> sound rather than the <q>ih</q> sound. Tolkien noted (TODO cite) that this was a <q>long diphthong</q> and scanned as two syllables in poetry: hence <span class="s">Fanuilos, le linnathon</span> in the Hymn to Elbereth, where the meter requires eight syllables per line.</li>
+</ul>
+
 <h2>Consonants</h2>
 
-<p>Many Sindarin consonants are pronounced as in English, and so need no further explanation. These include B, D, H, M, N, P, T, V, and W. The others require some special attention.</p>
+<p>Consonants are the sounds of a language that impede airflow through the mouth, creating a popping, hissing, or humming sound. In English, we often use the word <q>consonant</q> to refer to certain letters of the alphabet (i.e. all except A, E, I, O, and U). But there are really two concepts here: the sounds of the language, and the letters or letter combinations traditionally used to represent them. In English, two consonant letters can represent a single, indivisible sound, like TH. Similarly, a single letter like X can represent a sequence of sounds K+S.</p>
+
+<p>This distinction between <em>sound</em> and <em>letter</em> is important to keep in mind, especially for later sections like <em>stress</em> (below) and the chapter on writing (since tengwar writing is based on sounds, not on our Roman letters).</p>
+
+<h3>Voiced and Voiceless Sounds</h3>
+
+<p>Sindarin has several pairs of consonant sounds that differ by being <em>voiced</em> or <em>voiceless</em>—<em>voice</em> being a linguistics term meaning vibration of the vocal cords. Don&#39;t be worried by the terminology, though. If you can speak English, you&#39;re already pronouncing voiced and voiceless sounds all the time. You can feel the buzzing of your vocal cords if you put your hand on your throat and say <q>ZZZ</q>. If you then turn the Z into an S, the buzzing stops. Voiced sounds like Z or V have a buzzing or humming quality, while their voiceless counterparts S and F sound more like a hiss or whisper. (In fact, voicelessness is <em>the</em> defining feature of whispering. Try whispering <em>loudly</em>; your speech may be audible but you&#39;ll be pronouncing all the sounds voicelessly.</p>
+
+<p>Voiced/voiceless pairs include:</p>
 
 <ul>
-<li>C is always hard, as in <q>cat</q>. <em>Celeborn</em> is pronounced <em>Keleborn</em>, not <em>Seleborn</em>.</li>
-<li>F is usually pronounced as in English, but at the end of a word it sounds like V (think English <q>of</q>). The word <em>nef</em> <q>on this side of</q> is pronounced <em>nev</em> as in English <q>never</q>. The Elvish writing systems don&#39;t reflect this complication—the V sound is there always spelled the same, regardless of where it appears in the word. This quirk of spelling probably hearkens back to Tolkien&#39;s fondness for Welsh, where <em>f</em> has a V-sound.</li>
-<li>G is always hard, as in <q>get</q>. The Elvish languages do not have the J-sound heard in <q>gem</q>.</li>
-<li>L is always pronounced as in <q>let</q>, with the tip of the tongue touching or just behind the upper teeth. In English, L is sometimes pronounced with the tongue bunched up in the back of the mouth, as in <q>cold</q>, but this variant of L does not exist in Sindarin.</li>
-<li>R is trilled, as in Spanish. In Appendix E, Tolkien notes that the back-of-the-throat R-sound heard in French or German was not used by the Elves.</li>
-<li>S never sounds like Z, as it often does in English at the end of a word. It is always pronounced as in <q>sets</q>.</li>
+<li>Voiced <span class="s">DH</span>, voiceless <span class="s">TH</span></li>
+<li>Voiced <span class="s">W</span>, voiceless <span class="s">HW</span></li>
+<li>Voiced <span class="s">L</span>, voiceless <span class="s">LH</span></li>
+<li>Voiced <span class="s">R</span>, voiceless <span class="s">RH</span></li>
 </ul>
 
-<h3>Digraphs</h3>
+<p>I&#39;ll describe these in more detail below.</p>
 
-<p><em>Digraphs</em> are pairs of letters that represent a single, indivisible sound—for example the <em>th</em> in <q>thin</q> or the <em>sh</em> in <q>ship</q>. Sindarin has several digraphs.</p>
-
-<h4>Digraphs for Voiceless Sounds</h4>
-
-<p>Several of the digraphs represent <em>voiceless</em> versions of more familiar sounds—<em>voice</em> being a linguistics term meaning vibration of the vocal cords. Don&#39;t be worried by the terminology, though. If you can speak English, you&#39;re already pronouncing voiced and voiceless sounds all the time. You can feel the buzzing of your vocal cords if you put your hand on your throat and say <q>ZZZ</q>. If you then turn the Z into an S, the buzzing stops. Voiced sounds like Z or V have a buzzing or humming quality, while their voiceless counterparts S and F sound more like a hiss or whisper.</p>
-
-<p>The following three digraphs are voiceless versions of Sindarin consonants discussed above.</p>
+<h3>The Consonants of Sindarin</h3>
 
 <ul>
-<li>HW is the <em>wh</em> sound of <q>whale</q>, in varieties of English that pronounce it differently from <q>wail</q>.</li>
-<li>LH is the sound of <em>LL</em> in Welsh <em>Llewellyn</em>—a peculiar sound, if you&#39;ve not heard it before. To pronounce it, put your tongue in a position to say L, and blow gently. The resulting sound should be somewhere between <em>th</em> and <em>sl</em> (in fact, the LH sound developed from earlier SL, found in Old Sindarin).</li>
-<li>RH is a Sindarin R-sound pronounced voicelessly. If you can pronounce R and HW, you&#39;re halfway to pronouncing RH. Just pronounce R while exhaling breathily as for HW.</li>
+<li><span class="s">B</span>: as in English.</li>
+<li><span class="s">C</span>: always hard, as in <q>cat</q>. <span class="s">Celeborn</span> is pronounced <em>Keleborn</em>, not <em>Seleborn</em>.</li>
+<li><span class="s">CH</span>: as in Scottish <em>loch</em> or German <em>Bach</em>. If you have a hard time replicating this sound, you could pronounce it like H or K, as the Gondorians did. In the Gondor dialect the place-name <em>Rochann</em> was pronounnced as if the <em>ch</em> were an <em>h</em>—hence the spelling <em>Rohan</em> in <em>LotR</em>.</li>
+<li><span class="s">D</span>: as in English, except in the combination <span class="s">DH</span>, below.</li>
+<li><span class="s">DH</span>: like the <em>th</em> in <em>weather</em>. This is a voiced sound; contrast with voiceless <span class="s">TH</span>. If you have trouble keeping the <span class="s">DH</span>/<span class="s">TH</span> distinction straight, remember that <span class="s">DH</span> is like Z pronounced with an exaggerated lisp.</li>
+<li><span class="s">F</span>: usually pronounced as in English, but at the end of a word it sounds like V (think English <q>of</q>). The word <em>nef</em> <q>on this side of</q> is pronounced <em>nev</em> as in English <q>never</q>. The Elvish writing systems don&#39;t reflect this complication—the V-sound is there always spelled the same, regardless of where it appears in the word. This quirk of spelling probably hearkens back to Tolkien&#39;s fondness for Welsh, where <em>f</em> has a V-sound.</li>
+<li><span class="s">H</span>: as in English—though it often combines with other letters: see <span class="s">CH</span>, <span class="s">DH</span>, <span class="s">HW</span>, <span class="s">LH</span>, <span class="s">RH</span>, <span class="s">TH</span>.</li>
+<li><span class="s">HW</span>: the <em>wh</em> sound of <q>whale</q>, in varieties of English that pronounce it differently from <q>wail</q>. This is a voiceless version of <span class="s">W</span>.</li>
+<li><span class="s">I</span>: is normally a vowel but moonlights as a consonant. When it appears before another vowel at the beginning of a word, it sounds like the Y in <q>yes</q>.</li>
+<li><span class="s">M</span>: as in English.</li>
+<li><span class="s">P</span>: as in English.</li>
+<li><span class="s">PH</span>: as in <em>photograph</em>. In the middle of a word, it represents a lengthened F-sound: a word like <em>ephel</em> <q>outer fence</q> would be pronounced <em>ef-fel</em>.</li>
+<li><span class="s">N</span>: as in English.</li>
+<li><span class="s">NG</span> at the end of a word is the sound heard in <q>ringer</q>. Elsewhere it represents the same sound plus a hard G, as in <q>finger</q>.</li>
+<li><span class="s">G</span>: is always hard, as in <q>get</q>. The Elvish languages do not have the J-sound heard in <q>gem</q>.</li>
+<li><span class="s">L</span>: always as in <q>let</q>, with the tip of the tongue touching or just behind the upper teeth. In English, L is sometimes pronounced with the tongue bunched up in the back of the mouth, as in <q>cold</q>, but this variant of L does not exist in Sindarin.</li>
+<li><span class="s">LH</span>: the sound of <em>LL</em> in Welsh <em>Llewellyn</em>—a peculiar sound, if you&#39;ve not heard it before. To pronounce it, put your tongue in a position to say L, and blow gently. The resulting sound should be somewhere between <em>th</em> and <em>sl</em> (in fact, the LH sound developed from earlier SL, found in Old Sindarin).</li>
+<li><span class="s">R</span>: trilled, as in Spanish. In Appendix E, Tolkien notes that the back-of-the-throat R-sound heard in French or German was not used by the Elves.</li>
+<li><span class="s">RH</span>: a Sindarin R-sound pronounced voicelessly. If you can pronounce R and HW, you&#39;re halfway to pronouncing RH. Just pronounce R while exhaling breathily as for HW.</li>
+<li><span class="s">S</span>: never sounds like Z, as it often does in English at the end of a word. It is always pronounced as in <q>sets</q>.</li>
+<li><span class="s">T</span>: as in English.</li>
+<li><span class="s">TH</span>: the sound of <em>th</em> in <em>thin</em>. This is a voiceless sound, contrasting with voiced <span class="s">DH</span>.</li>
+<li><span class="s">V</span>: as in English.</li>
+<li><span class="s">W</span>: as in English.</li>
 </ul>
 
-<h4>TH and DH</h4>
+<h3>Splitting Up Letter Combinations</h3>
 
-<p>Following on the theme of voiced and unvoiced sounds, we have a pair of digraphs that differ only in voicing: voiceless <em>TH</em> and voiced <em>DH</em>.</p>
+<p>The combinations <span class="s">DH</span>, <span class="s">LH</span>, <span class="s">RH</span>, <span class="s">TH</span> sometimes represent a sequence of two distinct sounds, e.g. T+H. For example, <em>Panthael</em> (A name given to Sam Gamgee by Aragorn in the King&#39;s Letter), is a compound <em>pant</em> <q>full</q> + <em>sael</em> <q>wise</q> (<em>sael</em> being mutated to <em>hael</em> in this case), so the <em>t</em> and <em>h</em> represent distinct sounds. Similarly, <em>Edhelharn</em> <q>Elfstone</q>, one of Aragorn&#39;s epithets, is compounded from <em>edhel</em> <q>elf</q> + <em>sarn</em> <q>stone</q> (mutated to <em>harn</em>).</p>
 
-<ul>
-<li>TH is the sound of <em>th</em> in <em>thin</em>.</li>
-<li>DH is the sound of <em>th</em> in <em>this</em>.</li>
-</ul>
+<p>How do you know when to pronounce the letter-sequence <q>th</q> as T+H, and when to pronounce it as a single sound? The answer, unfortunately, is that you just have to recognize the (rare) cases where <q>th</q> represents T+H. It&#39;s worth noting that the sounds <span class="s">LH</span> and <span class="s">RH</span> cannot occur in the middle of a word, so if you see a word like <span class="s">Edhelharn</span> or <span class="s">Perhael</span>, you know that the <span class="s">H</span> should be a separate sound.</p>
 
-<p>If you&#39;re having trouble keeping the DH/TH distinction straight, remember that DH is like Z pronounced with an exaggerated lisp.</p>
-
-<h4>Miscellaneous</h4>
-
-<ul>
-<li>CH is the sound in Scottish <em>loch</em> or German <em>Bach</em>. If you have a hard time replicating this sound, you could pronounce it as H or K instead. That&#39;s what the Gondorians did when they spoke Sindarin. For instance, they pronounced the place-name <em>Rochan</em> as if the <em>ch</em> were an <em>h</em>—hence the spelling <em>Rohan</em> in <em>LotR</em>.</li>
-<li>PH is pronounced as in <em>photograph</em>. In the middle of a word, it represents a lengthened F-sound: a word like <em>ephel</em> <q>outer fence</q> would be pronounced <em>ef-fel</em>.</li>
-<li>NG at the beginning or end of a word is the sound heard in <q>ringer</q>. In the middle of a word it represents the same sound plus a hard G, as in <q>finger</q>.</li>
-</ul>
-
-<h3>When Is a Digraph Not a Digraph?</h3>
-
-<p>The combinations DH, LH, RH, TH sometimes represent a sequence of two distinct sounds, e.g. T+H. For example, <em>Panthael</em> (A name given to Sam Gamgee by Aragorn in the King&#39;s Letter), is a compound <em>pant</em> <q>full</q> + <em>sael</em> <q>wise</q> (<em>sael</em> being mutated to <em>hael</em> in this case), so the <em>t</em> and <em>h</em> represent distinct sounds. Similarly, <em>Edhelharn</em> <q>Elfstone</q>, one of Aragorn&#39;s epithets, is compounded from <em>edhel</em> <q>elf</q> + <em>sarn</em> <q>stone</q> (mutated to <em>harn</em>). So how do you know when to pronounce the letter-sequence <q>th</q> as T+H, and when to pronounce it as a single sound? The answer, unfortunately, is that you just have to recognize the (rare) cases where <q>th</q> represents T+H.</p>
-
-<h3>A Note on NG and W</h3>
-
-<p>Sindarin allows the sounds NG and W in places where English doesn&#39;t. NG can occur at the beginning of a word, and W can occur at the end of a word.</p>
+<p>Tengwar writing doesn&#39;t have this ambiguity, because the sounds <span class="s">DH</span>, <span class="s">LH</span>, <span class="s">RH</span>, <span class="s">TH</span> each have their own symbol. So recognizing letter combinations that should be split up isn&#39;t just relevant for pronunciation—you need to know this to write in tengwar, as well!</p>
 
 <h2>Stress</h2>
 
-<p>Sindarin, like English, puts emphasis or <em>stress</em> on one syllable of multi-syllable words. Unlike English, Sindarin stress is predicatable from the shape of the word, so you don&#39;t have to memorize where the stress falls for each word individually.</p>
+<p>Sindarin, like English, puts emphasis or <em>stress</em> on one syllable of multi-syllable words. In English, stress can alter the meaning of a word, as in the following:</p>
 
-<h3>Hang on, What&#39;s a Syllable?</h3>
+<blockquote>
+<p>Galadriel will <strong>present</strong> the hobbits with lembas.
+Sam received a <strong>present</strong> from Galadriel.</p>
+</blockquote>
 
-<p>Breaking up a word into syllables doesn&#39;t come naturally to everyone, though it&#39;s not hard once you get the hang of it. Each syllable always contains exactly one vowel or diphthong, so to find the syllables in a Sindarin word, you just have to look for vowels, and break up the word so each chunk has one vowel or diphthong in it. A word like <em>caun</em> <q>prince</q> has one syllable since <em>au</em> is a diphthong. <em>Elbereth</em> has three syllables: <em>El.be.reth</em>.</p>
+<p>With the second syllable stressed, &ldquo;pre<span class="hi">sent</span>&rdquo; is a verb; when stressed &ldquo;<span class="hi">pre</span>sent&rdquo;, it&#39;s a noun.</p>
 
-<p>This still leaves the question of which consonants belong to which syllable. A consonant cluster in the middle of a word is usually broken up, as <em>lb</em> is in <em>El.be.reth</em>. A single consonant in the middle of a word goes with the vowel following it.</p>
+<p>In Sindarin, the stress of a word can&#39;t change its meaning, but it&#39;s vital to learn how words are stressed in order to write poetry. If you don&#39;t pronounce words with the right stress, you&#39;ll just sound weird.</p>
+
+<p>Fortunately, Sindarin stress is predicatable from the shape of the word, so you don&#39;t have to memorize where the stress falls for each word individually. This section describes how to figure out which syllable is stressed. If the rules seem complicated at first, don&#39;t worry; with practice they&#39;ll soon be second nature.</p>
+
+<h3>Syllables</h3>
+
+<p>Before you can place the stress in a word, you have to break it down into syllables. The syllables or beats of a word are determined by the vowels. Each syllable has exactly one vowel or diphthong at its core. Surrounding consonants stick to one of their adjacent vowels. So <span class="s">Elbereth Gilthoniel</span> breaks down as <span class="s">el.be.reth gil.tho.ni.el</span>.</p>
+
+<p>If a consonant appears between two vowels, how do you know which syllable it belongs to? That is, why is <span class="s">Elbereth</span> syllabified as <span class="s">el.be.reth</span> and not <span class="s">elb.er.eth</span>? To assign consonants to syllables, you can follow these rules:</p>
+
+<ul>
+<li>When a single consonant sound appears between two vowels, it goes with the following vowel: <span class="s">pe.do</span> <q>speak!</q>, <span class="s">e.chant</span> <q>made</q>.</li>
+<li>When two or more consonant sounds appear between two vowels, the first sound usually goes with the preceding vowel; the rest with the following vowel. <span class="s">E<span class="hi">n.n</span>yn</span> <q>doors</q>, <span class="s">Ni<span class="hi">m.br</span>e.thil</span>. There is a possible exception when the second consonant is <span class="s">L</span> or <span class="s">R</span>, though Tolkien never stated this. Both consonants might stick to the following vowel in this case: <span class="s">Im.la.<span class="hi">dr</span>is</span> <q>Rivendell</q>, <span class="s">Nar.go.<span class="hi">thr</span>ond</span>. I&#39;ve written more about the evidence for this exception <a href="../stress-in-sindarin.html">here</a>.</li>
+<li>Consonants at the beginning or end of a word simply stick to their only adjacent vowel: <span class="s">a.na<span class="hi">nn</span></span> <q>for a long time</q>, <span class="s"><span class="hi">Thr</span>an.duil</span>.</li>
+</ul>
+
+<p>Syllables are a feature of sounds, not writing, so consonant combinations like <span class="s">TH</span> and <span class="s">DH</span> that represent one sound can&#39;t be split.</p>
 
 <h3>Stress in Two-Syllable Words</h3>
 
-<p><q>In words of two syllables, [the stress] falls in practically all cases on the first syllable.</q> (<em>LotR</em> Appendix E) Tolkien neglects to list the exceptions to this rule, so for our purposes, two-syllable Sindarin words are <em>always</em> stressed on the first syllable.</p>
+<p>Tolkien states in Appendix E that <q>[i]n words of two syllables, [the stress] falls in practically all cases on the first syllable</q>. However, he neglects to list any Sindarin exceptions to this rule, so for our purposes, two-syllable Sindarin words are <em>always</em> stressed on the first syllable. Thus we have <span class="s">PER.hael</span> <q>Samwise</q>, <span class="s">EL.rond</span>.</p>
 
 <h3>Stress in Longer Words</h3>
 
-<p>The general rule for words of more than two syllables is to stress the third-to-last syllable. This is the case for <em>EL.be.reth</em> and <em>gil.THO.ni.el</em>.</p>
+<p>The general rule for longer words is to stress the third-to-last syllable. This is the case for <span class="s">EL.be.reth</span> and <span class="s">gil.THO.ni.el</span>.</p>
 
-<p>However, many words are stressed on the second-to-last syllable. This happens if the second-to-last syllable is followed by two or more consonants, or contains a long vowel or diphthong. Note that digraphs are considered a single consonant since they are pronounced as a single sound.</p>
+<p>However, the second-to-last syllable gets the stress if it ends in a consonant, or contains a diphthong or long vowel. For example:</p>
+
+<ul>
+<li><span class="s">hi.THAE.glir</span> <q>The Misty Mountains</q> (second-to-last syllable has a diphthong)</li>
+<li><span class="s">a.NÍ.ra</span> <q>(he) desires</q> (second-to-last syllable has a long vowel)</li>
+<li><span class="s">ce.leb.RIM.bor</span> <q>Silver-fist (a name)</q> (second-to-last syllable ends in a consonant)</li>
+</ul>
+
+<p>Note that the second-to-last syllable can only end in a consonant if its vowel is followed by at least two consonant sounds. So if you look out for consonant clusters it will be easier to spot words that have this stress pattern.</p>
 
 <h2>Dialectical Variations</h2>
 
-<p>TODO: how are nd-, mb-, ng- supposed to be pronounced?</p>
-
-<div class="footnotes">
-<hr>
-<ol>
-
-<li id="fn1">
-<p>Tolkien&#39;s own pronunciation guide, in Appendix E, gives <q>father</q>, <q>were</q>, <q>machine</q>, <q>for</q>, and <q>brute</q> as the exemplars. <q>Were</q> and <q>for</q> are problematic for American speakers as the R-sound colors the vowel of <q>for</q> and completely replaces the vowel of <q>were</q>. I have replaced these with <q>pen</q> and <q>old</q>, though these words too present problems. Speakers with the pen/pin merger may find the former confusing, and the latter probably does not sufficiently illustrate the openness of Sindarin <em>o</em>.&nbsp;<a href="#fnref1" rev="footnote">&#8617;</a></p>
-</li>
-
-</ol>
-</div>
+<p>TODO</p>
         </div>
     </div>
 </body>

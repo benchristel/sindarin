@@ -4,7 +4,7 @@ This guide is designed to get your pronunciation to a level where Sindarin-speak
 
 ## Vowels
 
-The vowels are similar to those of Spanish, Hawaiian, or Italian: A, E, I, O, and U are pronounced "ah", "eh", "ee", "oh", and "oo". Y is always a vowel, and can be pronounced "ee"[^gondorian-y].
+The vowels are similar to those of Spanish, Hawaiian, or Italian: [.s A], [.s E], [.s I], [.s O], and [.s U] are pronounced "ah", "eh", "ee", "oh", and "oo". [.s Y] is always a vowel, and can be pronounced "ee"[^gondorian-y].
 
 Examples:
 
