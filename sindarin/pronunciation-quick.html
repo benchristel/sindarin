@@ -136,20 +136,6 @@
     h3 {
         font-size: 18px;
     }
-/*
-    h4 {
-        font-size: 18px;
-    }
-
-    h5 {
-        font-size: 16px;
-    }
-
-    h6 {
-        font-size: 16px;
-        font-variant: italic;
-        font-weight: 200;
-    }*/
 
     li {
         margin-left: 20px;
@@ -226,6 +212,20 @@
         color: #800;
     }
 
+    table.pronunciation {
+        border-spacing: 20px 5px;
+        border-collapse: separate;
+    }
+
+    table.relaxed {
+        border-spacing: 20px 10px;
+    }
+
+    table.pronunciation td {
+        /*padding-right: 10px;*/
+        vertical-align: top;
+    }
+
     /* LANGUAGES */
 
     /* Sindarin */
@@ -282,20 +282,57 @@
 
 <p>Examples:</p>
 
-<ul>
-<li><span class="s">A</span> as in &ldquo;f<span class="hi">a</span>ther&rdquo;: <span class="s">barad</span> <q>tower</q></li>
-<li><span class="s">E</span> as in &ldquo;p<span class="hi">e</span>n&rdquo;: <span class="s">pen</span> <q>without</q></li>
-<li><span class="s">I</span> as in &ldquo;mach<span class="hi">i</span>ne&rdquo;: <span class="s">hîr</span> <q>lord, master</q></li>
-<li><span class="s">O</span> as in &ldquo;<span class="hi">o</span>ld&rdquo;: <span class="s">tol</span> <q>island</q></li>
-<li><span class="s">U</span> as in &ldquo;br<span class="hi">u</span>te&rdquo;: <span class="s">dûr</span> <q>dark</q></li>
-</ul>
+<table class="pronunciation">
+<tbody>
+  <tr>
+    <td><span class="s">A</span></td>
+    <td>as in &ldquo;f<span class="hi">a</span>ther&rdquo;</td>
+    <td><span class="s">barad</span> <q>tower</q></td>
+  </tr>
+  <tr>
+    <td><span class="s">E</span></td>
+    <td>as in &ldquo;w<span class="hi">e</span>ll&rdquo;</td>
+    <td><span class="s">pen</span> <q>without</q></td>
+  </tr>
+  <tr>
+    <td><span class="s">I</span></td>
+    <td>as in &ldquo;mach<span class="hi">i</span>ne&rdquo;</td>
+    <td><span class="s">hîr</span> <q>lord, master</q></td>
+  </tr>
+  <tr>
+    <td><span class="s">O</span></td>
+    <td>as in &ldquo;f<span class="hi">o</span>r&rdquo;</td>
+    <td><span class="s">tol</span> <q>island</q></td>
+  </tr>
+  <tr>
+    <td><span class="s">U</span></td>
+    <td>as in &ldquo;br<span class="hi">u</span>te&rdquo;</td>
+    <td><span class="s">dûr</span> <q>dark</q></td>
+  </tr>
+</tbody>
+</table>
 
 <p>An accent over a vowel, like <span class="s">á</span> or <span class="s">â</span>, indicates that it is held for slightly longer.</p>
 
 <p>Certain sequences of two vowels have their own pronunciation:</p>
 
+<table class="pronunciation relaxed">
+<tbody>
+  <tr>
+    <td><span class="s">AI</span>, <span class="s">AE</span></td>
+    <td>like <q>eye</q> no English equivalent. <span class="s">AE</span> is a glide from an <span class="s">A</span> into an <span class="s">E</span>. The resulting sound should be similar to <span class="s">AI</span>; Tolkien even suggested pronouncing <span class="s">AE</span> the same as <span class="s">AI</span> if you're not picky. Or you could aim for a Mirkwood accent and pronounce it like <span class="s">E</span>: compare Mirkwood <span class="s">Legolas</span> to Classical Sindarin <span class="s">Laegolas</span>.</td>
+    <td><span class="s">Hithaeglir</span> <q>the Misty Mountains</q></td>
+  </tr>
+  <tr>
+    <td><span class="s">AU</span></td>
+    <td>like "ow" in &ldquo;n<span class="hi">ow</span>&rdquo;</td>
+    <td><span class="s">aur</span> <q>day</q></td>
+  </tr>
+</tbody>
+</table>
+
 <ul>
-<li><span class="s">AI</span> and <span class="s">AE</span> sound like <q>eye</q>.</li>
+<li><span class="s">AI</span> and <span class="s">AE</span> sound like <q>eye</q>. <span class="s">Hithaeglir</span> &quot;</li>
 <li><span class="s">AU</span> ~ like <q>ow</q> in <q>now</q>. <span class="s">Aur</span> <q>day</q> sounds like English <q>hour</q>.</li>
 <li><span class="s">EI</span> ~ as in <q>weigh</q>: <span class="s">leithio</span> <q>release</q>.</li>
 <li><span class="s">UI</span> ~ an <q>oo</q> sound followed quickly by an <q>ee</q> sound, almost as in <q>ruin</q>: <span class="s">Fanuilos</span> (a title of Elbereth).</li>

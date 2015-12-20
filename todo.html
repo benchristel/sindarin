@@ -48,7 +48,8 @@
 
     body {
         min-height: 100%;
-        background-color: #000;
+        background-color: #000
+        ;
         background-image: url('./stone_border.png'), url('./leaf_border.png'), url('./background-dark.gif');
         background-position: top right, top left, top left;
         background-attachment: scroll, scroll, fixed;
@@ -89,6 +90,9 @@
     h1, h2, h3, h4, h5, h6 {
         font-family: 'Baskerville', serif;
         font-weight: 600;
+        margin-top: 0.75em;
+        margin-bottom: 0.75em;
+        line-height: 150%;
     }
 
     h2, h3, h4, h5, h6 {
@@ -96,20 +100,15 @@
         word-spacing: 0.03em;
     }
 
-    h1, h2 {
-        text-align: center;
-    }
-
-    h1, h2, h3, h4, h5, h6 {
-        margin-top: 1.5em;
-        margin-bottom: 1em;
-    }
-
     h1 {
         letter-spacing: 0.03em;
         word-spacing: 0.09em;
         text-transform: uppercase;
-        font-size: 22px;
+        text-align: center;
+        font-size: 22px;/*
+        padding-bottom: 0.3em;
+        border-bottom: 1px solid #ccc;*/
+        margin-bottom: 1.5em;
     }
 
     h1.site-title {
@@ -131,26 +130,11 @@
 
     h2 {
         font-size: 22px;
-        padding-bottom: 0.3em;
-        border-bottom: 1px solid #ccc;
+        margin-top: 2em;
     }
 
     h3 {
-        font-size: 22px;
-    }
-
-    h4 {
         font-size: 18px;
-    }
-
-    h5 {
-        font-size: 16px;
-    }
-
-    h6 {
-        font-size: 16px;
-        font-variant: italic;
-        font-weight: 200;
     }
 
     li {
@@ -220,8 +204,12 @@
     }
 
     .highlight, .hi {
-        color: #a00;
-        font-weight: bold;
+        text-decoration: underline;
+    }
+
+    .pron {
+        font-variant: small-caps;
+        color: #800;
     }
 
     /* LANGUAGES */
@@ -229,7 +217,7 @@
     /* Sindarin */
     .s {
         font-weight: bold;
-        color: #216;
+        color: #038;
     }
 
     /* Quenya */
@@ -273,9 +261,17 @@
 <h1>Not Found</h1>
 
 <div style="text-align:center">
-<p>You've found a page that hasn't been created yet! It's on my todo list.</p>
+<p>You've found a page that hasn't been created yet! It should be on my todo list (below).</p>
 <p><a href="javascript:history.back()">Back whence you came!</a></p>
 </div>
+
+<hr>
+
+<ul>
+<li>The Linguist&#39;s Guide to pronunciation</li>
+<li>Section on dialects in pronunciation-complete</li>
+<li>Where did Tolkien call <q>ui</q> a <q>long diphthong</q>? (pronunciation-complete)</li>
+</ul>
         </div>
     </div>
 </body>

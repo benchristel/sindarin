@@ -8,17 +8,56 @@ The vowels are similar to those of Spanish, Hawaiian, or Italian: [.s A], [.s E]
 
 Examples:
 
-- [.s A] as in &ldquo;f[.hi a]ther&rdquo;: [.s barad] "tower"
-- [.s E] as in &ldquo;p[.hi e]n&rdquo;: [.s pen] "without"
-- [.s I] as in &ldquo;mach[.hi i]ne&rdquo;: [.s hîr] "lord, master"
-- [.s O] as in &ldquo;[.hi o]ld&rdquo;: [.s tol] "island"
-- [.s U] as in &ldquo;br[.hi u]te&rdquo;: [.s dûr] "dark"
+<table class="pronunciation">
+<tbody>
+  <tr>
+    <td><span class="s">A</span></td>
+    <td>as in &ldquo;f<span class="hi">a</span>ther&rdquo;</td>
+    <td><span class="s">barad</span> <q>tower</q></td>
+  </tr>
+  <tr>
+    <td><span class="s">E</span></td>
+    <td>as in &ldquo;w<span class="hi">e</span>ll&rdquo;</td>
+    <td><span class="s">pen</span> <q>without</q></td>
+  </tr>
+  <tr>
+    <td><span class="s">I</span></td>
+    <td>as in &ldquo;mach<span class="hi">i</span>ne&rdquo;</td>
+    <td><span class="s">hîr</span> <q>lord, master</q></td>
+  </tr>
+  <tr>
+    <td><span class="s">O</span></td>
+    <td>as in &ldquo;f<span class="hi">o</span>r&rdquo;</td>
+    <td><span class="s">tol</span> <q>island</q></td>
+  </tr>
+  <tr>
+    <td><span class="s">U</span></td>
+    <td>as in &ldquo;br<span class="hi">u</span>te&rdquo;</td>
+    <td><span class="s">dûr</span> <q>dark</q></td>
+  </tr>
+</tbody>
+</table>
 
 An accent over a vowel, like [.s á] or [.s â], indicates that it is held for slightly longer.
 
 Certain sequences of two vowels have their own pronunciation:
 
-- [.s AI] and [.s AE] sound like "eye".
+<table class="pronunciation relaxed">
+<tbody>
+  <tr>
+    <td><span class="s">AI</span>, <span class="s">AE</span></td>
+    <td>like <q>eye</q> no English equivalent. [.s AE] is a glide from an [.s A] into an [.s E]. The resulting sound should be similar to [.s AI]; Tolkien even suggested pronouncing [.s AE] the same as [.s AI] if you're not picky. Or you could aim for a Mirkwood accent and pronounce it like [.s E]: compare Mirkwood [.s Legolas] to Classical Sindarin [.s Laegolas].</td>
+    <td><span class="s">Hithaeglir</span> <q>the Misty Mountains</q></td>
+  </tr>
+  <tr>
+    <td><span class="s">AU</span></td>
+    <td>like "ow" in &ldquo;n<span class="hi">ow</span>&rdquo;</td>
+    <td><span class="s">aur</span> <q>day</q></td>
+  </tr>
+</tbody>
+</table>
+
+- [.s AI] and [.s AE] sound like "eye". [.s Hithaeglir] "
 - [.s AU] ~ like "ow" in "now". [.s Aur] "day" sounds like English "hour".
 - [.s EI] ~ as in "weigh": [.s leithio] "release".
 - [.s UI] ~ an "oo" sound followed quickly by an "ee" sound, almost as in "ruin": [.s Fanuilos] (a title of Elbereth).

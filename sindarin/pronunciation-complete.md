@@ -46,7 +46,7 @@ Here is the complete list of Sindarin diphthongs:
 * [.s AU] or [.s AW]: like "ou" in &ldquo;h[.hi ou]se&rdquo;. [.s AU] and [.s AW] are simply variant spellings of the same sound.
 * [.s EI]: as in &ldquo;w[.hi ei]gh&rdquo;
 * [.s OE]: like "oy" in &ldquo;b[.hi oy]&rdquo;
-* [.s UI]: as in "ruin", but ending in a tense "ee" sound rather than the "ih" sound. Tolkien noted (TODO cite) that this was a "long diphthong" and scanned as two syllables in poetry: hence [.s Fanuilos, le linnathon] in the Hymn to Elbereth, where the meter requires eight syllables per line.
+* [.s UI]: as in "ruin", but ending in a tense "ee" sound rather than the "ih" sound. Tolkien noted that this was a "long diphthong" and scanned as two syllables in poetry: hence [.s Fanuilos, le linnathon] in the Hymn to Elbereth, where the meter requires eight syllables per line.
 
 ## Consonants
 
@@ -128,7 +128,7 @@ Before you can place the stress in a word, you have to break it down into syllab
 If a consonant appears between two vowels, how do you know which syllable it belongs to? That is, why is [.s Elbereth] syllabified as [.s el.be.reth] and not [.s elb.er.eth]? To assign consonants to syllables, you can follow these rules:
 
 - When a single consonant sound appears between two vowels, it goes with the following vowel: [.s pe.do] "speak!", [.s e.chant] "made".
-- When two or more consonant sounds appear between two vowels, the first sound usually goes with the preceding vowel; the rest with the following vowel. [.s E<span class="hi">n.n</span>yn] "doors", [.s Ni<span class="hi">m.br</span>e.thil].
+- When two or more consonant sounds appear between two vowels, the first sound goes with the preceding vowel; the rest with the following vowel. [.s E<span class="hi">n.n</span>yn] "doors", [.s Ni<span class="hi">m.br</span>e.thil].
 - Consonants at the beginning or end of a word simply stick to their only adjacent vowel: [.s a.na<span class="hi">nn</span>] "for a long time", [.s <span class="hi">Thr</span>an.duil].
 
 Syllables are a feature of sounds, not writing, so letter combinations like [.s TH] and [.s DH] that represent one sound can't be split.
@@ -149,9 +149,9 @@ However, the second-to-last syllable gets the stress if it ends in a consonant, 
 
 Note that the second-to-last syllable can only end in a consonant if its vowel is followed by at least two consonant sounds. So if you look out for consonant clusters it will be easier to spot words that have this stress pattern.
 
-## Dialectical Variations
+### Exceptions to the Stress Rule
 
-TODO
+There are some Sindarin names that don't seem to follow the stress rules in Appendix E, among them [.s Imladris] (Rivendell) and [.s Nargothrond]. These "should" be stressed [.s im.LAD.ris], [.s nar.GOTH.rond], because the second-to-last syllable of each ends in a consonant. However, we can observe that both are stressed on the first syllable in poetry. I've written at length about this issue [here](../stress-in-sindarin.html), but the summary is: we should probably just stress these two names (and possibly [.s Menegroth]) on the first syllable, and not try to generalize a new stress rule out of it. Tolkien's languages are complex, and it's difficult to see all the factors that might cause these words to have unusual stress.
 
 <div class="nav-links">
 <p><a href="./writing.html">Onward to the section on Writing!</a></p>
