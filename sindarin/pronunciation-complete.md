@@ -1,5 +1,7 @@
 # Sindarin Pronunciation
 
+
+
 ## Vowels
 
 Pronounce the Sindarin vowels [.s A], [.s E], [.s I], [.s O], and [.s U] as "ah", "eh", "ee", "oh", and "oo". Tolkien was aiming for familiarity here: Spanish, Italian, and many other languages have similar vowel systems.
@@ -43,8 +45,6 @@ Here is the complete list of Sindarin diphthongs:
 * [.s AE]: no English equivalent. [.s AE] is a glide from an [.s A] into an [.s E]. The resulting sound should be similar to [.s AI]; Tolkien even suggested pronouncing [.s AE] the same as [.s AI] if you're not picky. Or you could aim for a Mirkwood accent and pronounce it like [.s E]: compare Mirkwood [.s Legolas] to Classical Sindarin [.s Laegolas].
 * [.s AU] or [.s AW]: like "ou" in &ldquo;h[.hi ou]se&rdquo;. [.s AU] and [.s AW] are simply variant spellings of the same sound.
 * [.s EI]: as in &ldquo;w[.hi ei]gh&rdquo;
-* [.s EW]: no English equivalent. This is a glide from [.s E] into [.s U]. Example: [.s têw] "letter"
-* [.s IW]: no English equivalent. This is a glide from [.s I] into [.s U]. Example: [.s thîw] "letters"
 * [.s OE]: like "oy" in &ldquo;b[.hi oy]&rdquo;
 * [.s UI]: as in "ruin", but ending in a tense "ee" sound rather than the "ih" sound. Tolkien noted (TODO cite) that this was a "long diphthong" and scanned as two syllables in poetry: hence [.s Fanuilos, le linnathon] in the Hymn to Elbereth, where the meter requires eight syllables per line.
 
@@ -82,7 +82,7 @@ I'll describe these in more detail below.
 - [.s P]: as in English.
 - [.s PH]: as in _photograph_. In the middle of a word, it represents a lengthened F-sound: a word like _ephel_ "outer fence" would be pronounced _ef-fel_.
 - [.s N]: as in English.
-- [.s NG] at the end of a word is the sound heard in "ringer". Elsewhere it represents the same sound plus a hard G, as in "finger".
+- [.s NG] at the end of a word is the sound heard in "sing". Elsewhere it represents the same sound plus a hard G, as in "finger".
 - [.s G]: is always hard, as in "get". The Elvish languages do not have the J-sound heard in "gem".
 - [.s L]: always as in "let", with the tip of the tongue touching or just behind the upper teeth. In English, L is sometimes pronounced with the tongue bunched up in the back of the mouth, as in "cold", but this variant of L does not exist in Sindarin.
 - [.s LH]: the sound of _LL_ in Welsh _Llewellyn_—a peculiar sound, if you've not heard it before. To pronounce it, put your tongue in a position to say L, and blow gently. The resulting sound should be somewhere between _th_ and _sl_ (in fact, the LH sound developed from earlier SL, found in Old Sindarin).
@@ -92,7 +92,7 @@ I'll describe these in more detail below.
 - [.s T]: as in English.
 - [.s TH]: the sound of _th_ in _thin_. This is a voiceless sound, contrasting with voiced [.s DH].
 - [.s V]: as in English.
-- [.s W]: as in English.
+- [.s W]: as in English. [.s W] can occur at the end of a word in Sindarin, where it is pronounced as a very short [.s U] sound: [.s têw] "letter".
 
 ### Splitting Up Letter Combinations
 
@@ -101,6 +101,12 @@ The combinations [.s DH], [.s LH], [.s RH], [.s TH] sometimes represent a sequen
 How do you know when to pronounce the letter-sequence "th" as T+H, and when to pronounce it as a single sound? The answer, unfortunately, is that you just have to recognize the (rare) cases where "th" represents T+H. It's worth noting that the sounds [.s LH] and [.s RH] cannot occur in the middle of a word, so if you see a word like [.s Edhelharn] or [.s Perhael], you know that the [.s H] should be a separate sound.
 
 Tengwar writing doesn't have this ambiguity, because the sounds [.s DH], [.s LH], [.s RH], [.s TH] each have their own symbol. So recognizing letter combinations that should be split up isn't just relevant for pronunciation—you need to know this to write in tengwar, as well!
+
+### MB, ND, and NG
+
+[.s MB], [.s ND], and [.s NG] can appear at the beginning of a word in Sindarin, for instance in [.s i mbair] "the lands". The [.s MB] cluster arises due to a mutation that happens when [.s bair] comes into contact with [.s in] "the".
+
+With a form like [.s i mbair], where [.s mb] follows a vowel in another word, it's probably fine to split the [.s m] and [.s b] into separate syllables and pronounce it [.s im-bair]. However, what do you do if there's no preceding vowel? In this case, [.s MB], [.s ND], [.s NG] probably represent the sounds of [.s M], [.s N], and [.s NG] (as in "sing"), but released with an audible "pop" like [.s B], [.s D], [.s G]. These are among the hardest sounds in Sindarin to pronounce correctly. I wish you luck with them.
 
 ## Stress
 
@@ -122,10 +128,10 @@ Before you can place the stress in a word, you have to break it down into syllab
 If a consonant appears between two vowels, how do you know which syllable it belongs to? That is, why is [.s Elbereth] syllabified as [.s el.be.reth] and not [.s elb.er.eth]? To assign consonants to syllables, you can follow these rules:
 
 - When a single consonant sound appears between two vowels, it goes with the following vowel: [.s pe.do] "speak!", [.s e.chant] "made".
-- When two or more consonant sounds appear between two vowels, the first sound usually goes with the preceding vowel; the rest with the following vowel. [.s E<span class="hi">n.n</span>yn] "doors", [.s Ni<span class="hi">m.br</span>e.thil]. There is a possible exception when the second consonant is [.s L] or [.s R], though Tolkien never stated this. Both consonants might stick to the following vowel in this case: [.s Im.la.<span class="hi">dr</span>is] "Rivendell", [.s Nar.go.<span class="hi">thr</span>ond]. I've written more about the evidence for this exception [here](../stress-in-sindarin.html).
+- When two or more consonant sounds appear between two vowels, the first sound usually goes with the preceding vowel; the rest with the following vowel. [.s E<span class="hi">n.n</span>yn] "doors", [.s Ni<span class="hi">m.br</span>e.thil].
 - Consonants at the beginning or end of a word simply stick to their only adjacent vowel: [.s a.na<span class="hi">nn</span>] "for a long time", [.s <span class="hi">Thr</span>an.duil].
 
-Syllables are a feature of sounds, not writing, so consonant combinations like [.s TH] and [.s DH] that represent one sound can't be split.
+Syllables are a feature of sounds, not writing, so letter combinations like [.s TH] and [.s DH] that represent one sound can't be split.
 
 ### Stress in Two-Syllable Words
 
@@ -146,3 +152,8 @@ Note that the second-to-last syllable can only end in a consonant if its vowel i
 ## Dialectical Variations
 
 TODO
+
+<div class="nav-links">
+<p><a href="./writing.html">Onward to the section on Writing!</a></p>
+<p><a href="../sindarin.html">Back to the Table of Contents</a></p>
+</div>
