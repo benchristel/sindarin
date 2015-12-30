@@ -3,17 +3,14 @@ require 'redcarpet'
 
 if ARGV.length < 1
   puts "usage: ruby preprocessor.rb filename"
-  puts "(processes <filename>.md and writes output to <filename>.html)"
+  puts "(processes <filename>.md and writes output to ../sindarin-release/<filename>.html)"
   exit 1
 end
 
 filename = ARGV[0]
-template_filename, input_filename, output_filename = 'template-2.html', filename + ".md", filename + ".html"
-
-if input_filename == output_filename
-  puts "error: input and output filenames are equal, which would overwrite the input file"
-  exit 2
-end
+template_filename = 'template-2.html'
+input_filename = filename + ".md"
+output_filename = "../sindarin-release/#{filename}.html"
 
 normalized_relative_path = input_filename.gsub('./', '')
 dir_levels = normalized_relative_path.split('/').count

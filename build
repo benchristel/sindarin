@@ -1,19 +1,23 @@
 #!/usr/bin/ruby
 
+def hidden?(path)
+    path.split('/')[-1].start_with? '.'
+end
+
 def process_directory(dirname)
-    Dir[dirname+'/*'].each do |filename|
+    Dir.glob(dirname+'/*') do |filename|
         template_updated_at = File.mtime(File.expand_path(File.dirname(__FILE__))+'/template-2.html')
 
         if File.file?(filename) && filename.end_with?('.md')
-            html_filename = filename.sub('.md', '.html')
+            html_filename = '../sindarin-release/' + filename.sub('.md', '.html')
             if !File.exists?(html_filename) || File.mtime(html_filename) < File.mtime(filename) || File.mtime(html_filename) < template_updated_at
                 puts "building " + filename
                 `ruby preprocess.rb #{filename.sub('.md', '')}`
             end
         end
 
-        if File.directory?(filename) && !filename.start_with?('.')
-            process_directory(filename)
+        if File.directory?(filename) && !hidden?(filename)
+            process_directory(File.join(dirname, filename))
         end
     end
 end
