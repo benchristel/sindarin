@@ -1,0 +1,11 @@
+#!/bin/bash
+
+latest=$(git log | head -1)
+
+pushd ../sindarin-release
+
+git add .
+git commit -m "Releasing $latest"
+git push origin master
+
+popd
