@@ -10,4 +10,3 @@
 - The Linguist's Guide to pronunciation
 - Section on dialects in pronunciation-complete
 - Where did Tolkien call "ui" a "long diphthong"? (pronunciation-complete)
-- move "typing accented characters" to its own page

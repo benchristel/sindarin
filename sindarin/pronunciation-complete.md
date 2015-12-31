@@ -48,17 +48,6 @@ An acute accent ([.s á é í ó ú]) indicates that the vowel is held for a sli
 
 A circumflex ([.s â ê î ô û]) also indicates a long vowel, but is mostly used in words of one syllable. This may just be an aesthetic whim of Tolkien's, though he justified it by saying that vowels with the circumflex should be held _even longer_. However, the Elvish writing systems only distinguish two vowel lengths, long and short, so the Elves must not have considered this detail very important.
 
-### Typing Accented Characters
-
-On a Mac, you can type vowels with an acute accent by pressing `option`+`E` and then typing the vowel that you want. To type a circumflex, use `option`+`I` instead.
-
-Typing special characters on Windows is considerably more annoying. The best way is probably to change your keyboard settings to international mode, which will let you type accented letters using key combinations. A guide to doing that can be found [here](http://symbolcodes.tlt.psu.edu/accents/codeint.html). Alternatively, you can copy and paste the accented letters from the table below.
-
-<div style="text-align:center;font-size:24px">
-á é í ó ú ý — â ê î ô û ŷ<br/>
-Á É Í Ó Ú Ý — Â Ê Î Ô Û Ŷ
-</div>
-
 ### Diphthongs
 
 A diphthong (pronounced [.pron DIFF-thong], from the Greek for "two sounds") is a combination of two vowel sounds that blur together into a single syllable. Diphthongs appear frequently in English, like the "ou" in "house" that starts with an "ah" sound and ends with an "oo" sound. Sindarin has a similar diphthong, spelled [.s au].
@@ -73,10 +62,6 @@ Here is the complete list of Sindarin diphthongs:
 * [.s UI]: as in "ruin", but ending in a tense "ee" sound rather than the "ih" sound. Tolkien noted that this was a "long diphthong" and scanned as two syllables in poetry: hence [.s Fanuilos, le linnathon] in the Hymn to Elbereth, where the meter requires eight syllables per line.
 
 ## Consonants
-
-Consonants are the sounds of a language that impede airflow through the mouth, creating a popping, hissing, or humming sound. We tend to think of consonants as letters of the alphabet (i.e. all except A, E, I, O, and U). But the correspondence between sound and letter is not always straightforward. Two consonant letters can represent a single, indivisible sound, like TH. On the other hand, a single letter can represent a sequence of sounds: X is pronounced K+S.
-
-The distinction between sound and letter is important to keep in mind because I'm going to be focusing on consonant *sounds*. So when I say something like &ldquo;the consonant [.s TH]&rdquo;, I'm talking about the Sindarin sound that is spelled TH.
 
 ### Voiced and Voiceless Sounds
 
@@ -169,11 +154,11 @@ The general rule for longer words is to stress the third-to-last syllable: [.s <
 
 However, the second-to-last syllable gets the stress if its vowel is:
 
-- long, as [.s í] in [.s Celeb<span class="hi">rí</span>an] ("Silver-queen", Arwen's mother)
+- long (accented), as [.s í] in [.s Celeb<span class="hi">rí</span>an] ("Silver-queen", Arwen's mother)
 - a diphthong, as [.s ae] in [.s Hi<span class="hi">thaeg</span>lir] ("the Misty Mountains")
 - or followed by multiple consonants: [.s Cele<span class="hi">brim</span>bor] ("Silver-fist")
 
-Note that in the last case, it's consonant *sounds* and not letters that are important. The combinations [.s TH], [.s DH], etc. are single sounds even though they're represented by two letters, so the [.s th] in [.s <span class="hi">Nim</span>brethil] doesn't cause the stress to move.
+Note that in the last case, it's consonant *sounds* and not letters that are important. [.s TH], [.s DH], etc. are single sounds even though they're represented by two letters, so the [.s th] in [.s <span class="hi">Nim</span>brethil] doesn't cause the stress to move.
 
 ### Possible Exceptions to the Stress Rule
 
