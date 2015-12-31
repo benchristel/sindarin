@@ -67,8 +67,8 @@ Any attempt to describe Tolkien's languages will have to confront this frustrati
 This work is called "A Ranger's Guide to Sindarin" because of the peculiar nature of Elvish, even among invented languages. Calling it "A Student's Primer in Sindarin" or "An Introductory Sindarin Grammar" would not do—learning Sindarin is not a textbook exercise. It is more like exploring the wilderness. There are treacherous paths; there are monsters. But there is also great beauty, if you know how to see it. My goal with the "Ranger's Guide" is to map the territory (tree-tangled as it is) of Tolkien's Sindarin. I will not try to cut a path, but I hope to teach you to live among the trees.
 
 <div class="nav-links">
-<p><a href="./pronunciation.html">Onward to the section on Pronunciation!</a></p>
-<p><a href="../sindarin.html">Back to the Table of Contents</a></p>
+<div><a href="./pronunciation.html">Onward to the section on Pronunciation!</a></div>
+<div><a href="../sindarin.html">Back to the Table of Contents</a></div>
 </div>
 
 [^phrases]: Post-Tolkien coinages include _le hannon_ for "I thank you" (invented by David Salo for the Peter Jackson movies) and _navaer_ for "goodbye" (a calque of Quenya _namárië_), but these of course don't count as authentic Tolkien-Sindarin.

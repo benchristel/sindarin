@@ -23,6 +23,6 @@ Following is a list of resources for studying Sindarin pronunciation.
 - Quenya revivalist Helge Fauskanger has an [article on Sindarin](http://folk.uib.no/hnohf/sindarin.htm#Heading6) that briefly covers pronunciation. (Note that the article, while superbly researched at the time it was written, has not been updated recently. Some of its material may be out of date. The pronunciation section is still as relevant as ever, though.)
 
 <div class="nav-links">
-<p><a href="./writing.html">Onward to the section on Writing!</a></p>
-<p><a href="../sindarin.html">Back to the Table of Contents</a></p>
+<div><a href="./writing.html">Onward to the section on Writing!</a></div>
+<div><a href="../sindarin.html">Back to the Table of Contents</a></div>
 </div>

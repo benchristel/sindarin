@@ -42,24 +42,10 @@ An accent over a vowel, like [.s á] or [.s â], indicates that it is held for s
 
 Certain sequences of two vowels have their own pronunciation:
 
-<table class="pronunciation relaxed">
-<tbody>
-  <tr>
-    <td><span class="s">AI</span>, <span class="s">AE</span></td>
-    <td>like <q>eye</q> no English equivalent. [.s AE] is a glide from an [.s A] into an [.s E]. The resulting sound should be similar to [.s AI]; Tolkien even suggested pronouncing [.s AE] the same as [.s AI] if you're not picky. Or you could aim for a Mirkwood accent and pronounce it like [.s E]: compare Mirkwood [.s Legolas] to Classical Sindarin [.s Laegolas].</td>
-    <td><span class="s">Hithaeglir</span> <q>the Misty Mountains</q></td>
-  </tr>
-  <tr>
-    <td><span class="s">AU</span></td>
-    <td>like "ow" in &ldquo;n<span class="hi">ow</span>&rdquo;</td>
-    <td><span class="s">aur</span> <q>day</q></td>
-  </tr>
-</tbody>
-</table>
-
-- [.s AI] and [.s AE] sound like "eye". [.s Hithaeglir] "
+- [.s AI] and [.s AE] sound like "eye".
 - [.s AU] ~ like "ow" in "now". [.s Aur] "day" sounds like English "hour".
-- [.s EI] ~ as in "weigh": [.s leithio] "release".
+- [.s EI] ~ as in "weigh".
+- [.s OE] ~ like "oy" in "boy".
 - [.s UI] ~ an "oo" sound followed quickly by an "ee" sound, almost as in "ruin": [.s Fanuilos] (a title of Elbereth).
 
 ## Consonants

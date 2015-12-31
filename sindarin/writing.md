@@ -20,5 +20,5 @@
 - The _Angerthas Daeron_
 
 <div class="nav-links">
-<p><a href="../sindarin.html">Back to the Table of Contents</a></p>
+<div><a href="../sindarin.html">Back to the Table of Contents</a></div>
 </div>

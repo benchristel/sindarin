@@ -17,5 +17,5 @@
 13. Reference III: Table of Mutations
 
 <div class="nav-links">
-<p><a href="./index.html">Back to the Homepage</a></p>
+<div><a href="./index.html">Back to the Homepage</a></div>
 </div>
