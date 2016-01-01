@@ -121,12 +121,6 @@ It's worth noting that the sounds [.s LH] and [.s RH] cannot occur in the middle
 
 Tengwar writing doesn't have this ambiguity, because the sounds [.s DH], [.s LH], [.s RH], [.s TH] each have their own symbol. So recognizing letter combinations that should be split up isn't just relevant for pronunciation—you need to know this to write in tengwar, as well!
 
-### MB, ND, and NG
-
-[.s MB], [.s ND], and [.s NG] can appear at the beginning of a word in Sindarin, for instance in [.s i mbair] "the lands". The [.s MB] cluster arises due to a mutation that happens when [.s bair] comes into contact with [.s in] "the".
-
-With a form like [.s i mbair], where [.s mb] follows a vowel in another word, it's probably fine to split the [.s m] and [.s b] into separate syllables and pronounce it [.s im-bair]. However, what do you do if there's no preceding vowel? In this case, [.s MB], [.s ND], [.s NG] probably represent the sounds of [.s M], [.s N], and [.s NG] (as in "sing"), but released with an audible "pop" like [.s B], [.s D], [.s G]. These are among the hardest sounds in Sindarin to pronounce correctly. I wish you luck with them.
-
 ## Stress
 
 Sindarin, like English, puts emphasis or _stress_ on one syllable of multi-syllable words. In English, stress can alter the meaning of a word, as in the following:
