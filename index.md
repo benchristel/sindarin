@@ -5,14 +5,17 @@
 <em>Mae govannen</em> and <em>mára omentië</em>! Among these pages you'll find many articles relating to the Elven tongues of Arda, the invented world of J.R.R. Tolkien.
 </div>
 
-# Essays on The Languages of J.R.R. Tolkien
-
-- [Elvish Is Dead; Long Live Elvish!](./elvish-is-dead.html) – [.toc-detail A memoir of my experiences with Tolkien's languages, reflecting on why you can't (and can) and should (and shouldn't) learn Elvish.]
-- [Concerning Stress Placement in Sindarin](./stress-in-sindarin.html) – [.toc-detail I explore the implications for Sindarin pronun&shy;ciation of two poems from _The Lord of the Rings_.]
-
 # Resources for Language Enthusiasts
 
-- [A Ranger's Guide to Sindarin](./sindarin.html) – [.toc-detail A description of Sindarin grammar and vocabulary, focusing on the examples (mainly in _LotR_) that J.R.R.T. chose to publish.]
+- [A Ranger's Guide to Sindarin](./sindarin.html) – [.toc-detail A description of Sindarin grammar and vocabulary, focusing on the examples (mainly in _LotR_) that JRRT chose to publish.]
+
+# Essays on The Languages of J.R.R. Tolkien
+
+<!--
+- [Elvish Is Dead; Long Live Elvish!](./elvish-is-dead.html) – [.toc-detail A memoir of my experiences with Tolkien's languages, reflecting on why you can't (and can) and should (and shouldn't) learn Elvish.]
+-->
+
+- [Concerning Stress Placement in Sindarin](./stress-in-sindarin.html) – [.toc-detail I explore the implications for Sindarin pronun&shy;ciation of two poems from _The Lord of the Rings_.]
 
 # External Links of Interest
 
