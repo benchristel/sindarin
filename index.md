@@ -2,7 +2,7 @@
 <h1 class="subtitle">A place for enthusiasts of J.R.R. Tolkien's invented languages</h1>
 
 <div style="text-align:center;word-spacing:0.1em;">
-<em>Mae govannen</em> and <em>mára omentië</em>! Among these pages you'll find many articles relating to the Elven tongues of Arda, the invented world of J.R.R. Tolkien.
+<em>Mae govannen</em> and <em>mára omentië</em>! Among these pages you'll find many articles relating to the Elvish tongues of Arda, the invented world of J.R.R. Tolkien.
 </div>
 
 # Resources for Language Enthusiasts
