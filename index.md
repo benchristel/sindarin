@@ -9,6 +9,10 @@
 
 - [A Ranger's Guide to Sindarin](./sindarin.html) – [.toc-detail A description of Sindarin grammar and vocabulary, focusing on the examples (mainly in _LotR_) that JRRT chose to publish.]
 
+<!--
+- [Typing Accented Characters](./typing-accents.html) – [.toc-detail How to type accented letters like á, ë, etc. on Mac and Windows computers.]
+-->
+
 # Essays on The Languages of J.R.R. Tolkien
 
 <!--
