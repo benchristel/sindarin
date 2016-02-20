@@ -142,7 +142,8 @@ changes = ChangeSequence.new(
   s.change 'thth', 'tth' # Salo 4.50
   s.change 'm', 'w', '[tdnñ]h?_' # Salo 4.51
   s.change 'lanta', 'landa' # Salo 4.52
-  s.change '[tpkm]', '', '_$' # Salo 4.53-4
+  s.change '[pkm]', '', '_$' # Salo 4.53-4
+  s.change 't', '', '_$', optional: true # Salo 4.53-4. Salo gives the example skapat -> S. hâb, but it is not clear where hâb is attested. habad is the N. form given in Ety. The only other example given is orot -> oro (S. ôr), but the S. reflex orod is also attested.
   s.change 'th', 't', '_$' # Salo 4.55
   s.change 'ē', 'ī', '_', optional: true # Salo 4.56 - some long vowels were not raised; compare b'rōnā > brūna, but ñgōlē > *añgōle > S. angol. Did the vowel shorten, so that the OS reflex of angol was actually *añgole? or was there some other condition for vowel raising?
   s.change 'ê', 'î', '_', optional: true # Salo 4.56
