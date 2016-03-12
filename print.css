@@ -1,0 +1,5 @@
+@media print {
+    * {
+        font-family: 'Arial', sans-serif !important;
+    }
+}

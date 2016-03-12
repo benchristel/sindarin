@@ -24,3 +24,4 @@ end
 
 process_directory(ARGV[0] || '.')
 `cp style.css ../sindarin-release/`
+`cp print.css ../sindarin-release/`
