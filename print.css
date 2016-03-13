@@ -35,15 +35,6 @@
         string-set: right-page-header content(), left-page-header '', page-number '';
     }
 
-    q {
-        /*quotes: "“" "”" "‘" "’";*/
-        quotes: "‘" "’";
-    }
-
-    q > q {
-
-    }
-
     q:before {
         content: "“";
     }
