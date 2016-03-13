@@ -1,5 +1,8 @@
 /*
  * FOR INFO ON SETTING UP CSS FOR PRINT, SEE: http://alistapart.com/article/boom
+ *
+ * Note that to get embedded fonts into the PDF, it may be necessary to print to PDF from Preview
+ * after exporting the original PDF file.
  */
 
 @media print {
@@ -11,14 +14,21 @@
         box-sizing: border-box;
     }
 
+    body {
+        font-size: 0.1389in;
+    }
+
     p {
         line-height: 125%;
-        font-size: 0.1389in;
         text-align: justify;
         text-indent: 0.25in;
         orphans: 2;
         widows: 2;
         string-set: left-page-header 'THE ELVISH LANGUAGE', page-number counter(page);
+    }
+
+    ul {
+        list-style-type: none;
     }
 
     li p {
@@ -27,6 +37,9 @@
 
     li {
         padding-left: 0.25in;
+        text-indent: -0.25in;
+        margin-top: 0.5em;
+        margin-bottom: 0.5em;
     }
 
     h1, h2, h3, h4, h5, h6 {
@@ -41,6 +54,15 @@
     h1 {
         page-break-before: left;
         string-set: right-page-header content(), left-page-header '', page-number '';
+        font-size: 0.3333in;;
+    }
+
+    h2 {
+        font-size: 0.25;
+    }
+
+    h3 {
+        font-size: 0.1667in;
     }
 
     q:before {
@@ -74,6 +96,46 @@
     a {
         color: black;
         text-decoration: none;
+    }
+
+    .s, .sindarin {
+        font-weight: bold;
+    }
+
+    .hi {
+        font-weight: inherit;
+        font-style: italic;
+    }
+
+    .ti {
+        font-family: tengwaritalic;
+    }
+
+    .tai {
+        font-family: tengwaraltitalic;
+    }
+
+    .text {
+        line-spacing: 150%;
+    }
+
+    .center {
+        text-align: center;
+        text-indent: 0;
+        margin-top: 1em;
+        margin-bottom: 1em;
+    }
+
+    .center-block {
+        margin-left: auto;
+        margin-right: auto;
+        display: table;
+    }
+
+    /* TABLES */
+
+    td {
+        padding: 0.5em;
     }
 
     @page {
