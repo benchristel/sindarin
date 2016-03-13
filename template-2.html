@@ -3,6 +3,7 @@
 
 <head>
     <title>Menegroth ✶ The Thousand Caves</title>
+    <meta charset="UTF-8">
     <link rel="icon" type="image/x-icon" href="$ROOT$/favicon.ico">
     <link rel="stylesheet" type="text/css" href="$ROOT$/style.css">
     <link rel="stylesheet" type="text/css" href="$ROOT$/print.css">
@@ -38,24 +39,15 @@
         src: url($ROOT$/annatar/tngani.ttf);
     }
 
-
-    * {
-        padding: 0;
-        margin: 0;
-        box-sizing: border-box;
-    }
-
-    html {
-        min-height: 100%;
-    }
-
-    body {
-        min-height: 100%;
-        background-color: #000;
-        background-image: url('$ROOT$/stone_border.png'), url('$ROOT$/leaf_border.png'), url('$ROOT$/background-dark.gif');
-        background-position: top right, top left, top left;
-        background-attachment: scroll, scroll, fixed;
-        background-repeat: repeat-y, repeat-y, repeat;
+    @media screen {
+        body {
+            min-height: 100%;
+            background-color: #000;
+            background-image: url('$ROOT$/stone_border.png'), url('$ROOT$/leaf_border.png'), url('$ROOT$/background-dark.gif');
+            background-position: top right, top left, top left;
+            background-attachment: scroll, scroll, fixed;
+            background-repeat: repeat-y, repeat-y, repeat;
+        }
     }
 
     </style>

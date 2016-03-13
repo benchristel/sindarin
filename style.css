@@ -1,3 +1,15 @@
+@media screen {
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    min-height: 100%;
+}
+
 .content {
     background-color: #faf9f8;
     color: #222;
@@ -123,16 +135,35 @@ blockquote cite:before {
     content: '—';
 }
 
-q {
+q, .gloss {
     quotes: "“" "”" "‘" "’";
 }
 
-q:before {
+q:before,
+.gloss:before {
     content: open-quote;
 }
 
-q:after {
+q:after,
+.gloss:after {
     content: close-quote;
+}
+
+.citation {
+    color: #888;
+}
+
+.citation:before {
+    content: '(';
+}
+
+.citation:after {
+    content: ')';
+}
+
+.uncertain:before {
+    content: '*';
+    font-weight: bold;
 }
 
 sup {
@@ -254,4 +285,6 @@ a:hover {
 
 .toc-detail em {
     font-style: normal;
+}
+
 }
