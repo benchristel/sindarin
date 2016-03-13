@@ -85,7 +85,20 @@
         font-weight: bold;
     }
 
+    blockquote {
+        margin-left: 0.25in;
+        margin-right: 0.25in;
+        margin-top: 1em;
+        margin-bottom: 1em;
+    }
 
+    blockquote p {
+        text-indent: 0;
+    }
+
+    blockquote + p { /* paragraphs after a quote are continuations and shouldn't be indented */
+        text-indent: 0;
+    }
 
     /* TABLE OF CONTENTS */
 

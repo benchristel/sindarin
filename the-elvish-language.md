@@ -5,13 +5,15 @@
 
 If you've picked up this book, I assume I don't need to introduce you to J.R.R. Tolkien. Maybe you've read _The Hobbit_ or _The Lord of the Rings_. Maybe both. Perhaps you've begun the _Silmarillion_, but found it hard to get through the forest of "eye-splitting Celtic names," to borrow the words of one critic. Or maybe you've only made it through the first few chapters of _The Lord of the Rings_ and put it down wondering what all the fuss is about. That was my situation, years ago.
 
-When I first picked up The _Lord of the Rings_ at the age of ten or eleven, my first impression was of an adventure story, but an adventure story devoid of the humor that made The Hobbit so delightful. The enemies in LotR are (rightly) devoid of whimsy, but also lack character or motivation other than "evil". A thousand pages of war against such a foe didn't seem like my cup of tea—afternoon or elevenses. So I decided to cheat: I flipped through to the back of the book, to see how it ended. And what confronted me was not a climactic duel between Frodo and Sauron, but this:
+I first picked up The _Lord of the Rings_ at the age of ten or eleven, and found it to be a merciless slog, devoid of the humor that made _The Hobbit_ so delightful. But all the cool kids were talking about it—I couldn't just *not* read it. So I decided to cheat: I flipped through to the back of the book, to see how it ended.
 
-TODO insert facsimile tengwar table
+What confronted me was not a climactic duel between Frodo and Sauron, but a hundred-odd pages worth of Appendices, filled with histories and genealogies and calendars, and above all *languages*. The Appendices gave me the sense that Tolkien's real goal with _The Lord of the Rings_ was not to tell the story of Frodo or Sauron but *to create the world in which those stories could be told*. I began reading Tolkien with a new purpose: to discover Middle-earth. My reward was immeasurable.
 
-Those are, of course, the forms of the _tengwar_, the Elvish letters. They can be found in the midst of the hundred-odd pages that make up the Appendices to _LotR_—pages that describe peoples and geneologies and calendars, and above all *languages*. The Appendices gave me the sense that Tolkien's real goal with _LotR_ was not to tell the story of Frodo or Sauron but *to create the world in which those stories could be told*. I reread _The Lord of the Rings_ with a new purpose: to discover Middle-earth. My reward was immeasurable.
+What I discovered was what many others have discovered: Tolkien invented languages. Marvelous, intricate, beautiful languages. A New York Times columnist once asked Tolkien about the origins of his work. Tolkien replied "I am a philologist, [i.e. a historical linguist] and all my work is philological". He later clarified in a letter to his publisher,
 
-What I discovered was what many others have discovered: Tolkien invented languages. Marvelous, intricate, beautiful languages. A New York Times columnist once asked Tolkien about the origins of his work. Tolkien replied "I am a philologist, [i.e. a historical linguist] and all my work is philological". He later clarified in a letter to his publisher: "the remark about <q>philology</q> was intended to allude to what I think is a primary <q>fact</q> about my work, that it is all of a piece, and <em>fundamentally linguistic</em> in inspiration. [. . .] The invention of languages is the foundation. The <q>stories</q> were made rather to provide a world for the languages than the reverse. To me a name comes first and the story follows. I should have preferred to write in <q>Elvish</q>." In light of such strong statements, it should be clear that we can only hope to understand Tolkien's work if we share, or at least acknowledge, his passion for language.
+> the remark about <q>philology</q> was intended to allude to what I think is a primary <q>fact</q> about my work, that it is all of a piece, and <em>fundamentally linguistic</em> in inspiration. [. . .] The invention of languages is the foundation. The <q>stories</q> were made rather to provide a world for the languages than the reverse. To me a name comes first and the story follows. I should have preferred to write in <q>Elvish</q>.
+
+In light of such strong statements, it should be clear that we can only hope to understand Tolkien's work if we share, or at least acknowledge, his passion for language.
 
 However, Tolkien never shared this passion readily. He was always rather shy and self-deprecating about his language-creation habit, calling it a "secret vice" and a "mad hobby". He never published any grammars or vocabularies of the Elvish languages—perhaps because he thought no one would buy them, but also because he loved the total creative freedom that he had as a language inventor. Publishing information about Elvish would have forced him to get the languages into a "final" form, and that was something he could never bring himself to do. For Tolkien, the fun of invented languages was in the process of creation, not in using the finished product. He invented many more words than he ever used in Elvish poetry or prose.
 
@@ -453,86 +455,4 @@ anim, enni - ammen
 -? -l
 -?s -r
 
----
 
-The supposed "fundamentals" in these courses are constantly shifting under our feet as new material is published by the Tolkien Estate. Thorsten Renk's course _Pedin Edhellen_ has been revised several times over the last decade as new information has come out. This is not a criticism of Renk or his work. Rather, he should be commended for his long-term commitment to keeping his courses up-to-date. However, it must frustrate his readers when the dialogue in the very first chapter of the course is revised, and with it the grammar rules it is supposed to demonstrate. This shows that the concepts he presents as foundational to the grammar are not really foundational to Tolkien's use of the language. In many cases they are far from certain. Someone who reads only the first few chapters of Renk's course will not learn much about Tolkien's Sindarin, only about Renk's interpretation of the currently available data—which, while interesting and valuable, is probably not what most of his readers believe they are getting.
-
-
-
-My goal with this book is to present an Elvish language in a way that acknowledges the peculiar difficulties of Tolkien's languages and works through them in an accessible and balanced way. By "difficulties" I don't mean hard-to-pronounce words or complex grammar. The main difficulty is that Tolkien's languages aren't fixed, static entities; Tolkien was constantly revising them, in broad strokes and in detail, throughout his life, and they never stabilized. Furthermore, there are some details that Tolkien never worked out: these leave gaps in the language that can only be filled by guesswork.
-
-# Pronunciation
-
-# Writing
-
-# A Selected Sindarin Lexicon
-
-# Lacho Calad! Drego Morn! (Imperatives)
-
-# Ennyn Durin Aran Moria (Genitive)
-
-# Plurals
-
-# Fanuilos, le linnathon (Future)
-
-# Definite Article + Mutations
-
-# Adjectives
-
-# Word Order
-
-
-
-
-
-
-
-
-
-
-The inconsistencies and missing pieces of the language can certainly be patched up, but anyone who presents such a "restored" version of the language as Tolkien canon is at best oversimplifying the facts, and at worst misrepresenting them. The main difficulty in writing about Elvish is that presenting and analyzing all the data would produce a treatise of mind-boggling complexity, while simplifying the language to a primer for students misrepresents Tolkien's work and usurps his place as the sole creator of his world.
-
-
-
-
-My main criticism of the other available resources is that they don't take the peculiar difficulties of the Elvish languages into account. They are usually written either in the style of a foreign language course, or as a historical grammar of a dead language. The problem is that Tolkien's languages aren't fixed, static entities that can be cleanly described in a course or a grammar. Tolkien was constantly revising his languages to suit his own aesthetic whims, and many of the details of Elvish were simply never worked out.
-
-This isn't to say that the gaps can't be plausibly filled. The wonderful thing about languages is that they follow regular patterns, so we can use patterns in one part of the language to make guesses about how another part should work. It's a bit like reconstructing a damaged painting or a fresco—we can't hope to get all the details exactly as the original artist did, but at least we can get close.
-
-
-
-The problem is that Tolkien's languages are emphatically _not like_ the languages of our own earth—not because their words or grammar are particularly strange, but because they serve a different purpose. On Earth, we use languages to communicate with each other, and also to define social groups. Tolkien designed his languages to be _beautiful_, not useful
-
--
-
-
-
-He probably had further remarks on the subject of philology, but none made it into the column, so the one sentence that remained probably did more to confuse than to enlighten those who read it. To avert further confusion, Tolkien wrote to his publishers with some remarks they could send to anyone else with inquiries about his work
-
-
-
-
-
-> In a hole in the ground there lived a hobbit.
-> <cite>J.R.R. Tolkien, _The Hobbit_</cite>
-
-So begins (for many of us) our first glimpse of J.R.R. Tolkien's Middle-earth. But _The Hobbit_ is not where Middle-earth began for Tolkien. His fantasy world had much deeper roots. Before writing _The Hobbit_ he penned stories of elves and angelic Valar, of calamitous battles and the rise and fall of kingdoms. And those stories had roots as well: in the legend of Atlantis, the Old English epic of Beowulf, and the Finnish _Kalevala_. But if we delve even deeper, we find that the real kernel of Tolkien's genius was not his stories. It was his _languages_.
-
-J.R.R. Tolkien created languages—fantastical, intricate, beautiful languages. And since languages need people to speak them, he invented those too, and started writing stories about them. From early on he framed his languages as being spoken by creatures of myth: first "Gnomes" and later the Elves of _The Lord of the Rings_.
-
-Tolkien wasn't the first person to singlehandedly create a language. In the decade before Tolkien's birth, grammars of two artificial languages were published: L. L. Zamenhof's _Unua Libro_ for his language _Esperanto_, and Johann Martin Schleyer's book on _Volapük_. Both languages were intended to be mediums of international communication—simple, familiar-seeming, and easy to learn. Tolkien's goal was different. His goal for the Elvish languages was not to make them easy to speak, or indeed speakable at all. He wanted his languages to be beautiful. He wanted to create art.
-
-There was a problem, or at the very least a complication: Tolkien's idea of what was "beautiful" in a language changed throughout his life, constantly. As a result he never got his languages into a "finished" state where he could write a whole grammar and dictionary for them. To do so was never his aim. As a result, there are gaps, often large gaps, in our knowledge of Tolkien's languages, and our uncertainty is compounded by the many different incompatible versions of each language that Tolkien created, sequentially, over the course of nearly 60 years.
-
-
-
-
-He worked on them whenever his harrowing schedule would allow it, using whatever materials were at hand—the back of an envelope, a postcard, a stack of waste paper from his publisher.
-
-In a letter to his wife Edith, 24-year-old Tolkien wrote "I have done some touches to my nonsense fairy-language [. . .] I often long to work at it and don't let myself 'cause though I love it so it does seem such a mad hobby!" [.citation Letters #4] Mad or not, the hobby grew to astonishing dimensions and bore fabulous fruit, though Tolkien never quite got over his shyness when it came to sharing his languages with the world.
-
-- quote to the effect that languages gave more delight to readers than anything else in the story
-- readers would have liked more languages
-- Tolkien was adamant that his languages and names not be adapted for translations
-
-# G
