@@ -21,6 +21,14 @@
         string-set: left-page-header 'THE ELVISH LANGUAGE', page-number counter(page);
     }
 
+    li p {
+        text-indent: 0;
+    }
+
+    li {
+        padding-left: 0.25in;
+    }
+
     h1, h2, h3, h4, h5, h6 {
         margin-bottom: 0.1389in;
         page-break-after: avoid;

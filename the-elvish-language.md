@@ -1,5 +1,5 @@
-<h1 class="title">The Elvish Language</h1>
-<h1 class="subtitle">A Guide to J.R.R. Tolkien's Sindarin</h1>
+<h2 class="title">The Elvish Language</h2>
+<h2 class="subtitle">A Guide to J.R.R. Tolkien's Sindarin</h2>
 
 # _Mae govannen!_
 
@@ -11,7 +11,7 @@ TODO insert facsimile tengwar table
 
 Those are, of course, the forms of the _tengwar_, the Elvish letters. They can be found in the midst of the hundred-odd pages that make up the Appendices to _LotR_—pages that describe peoples and geneologies and calendars, and above all *languages*. The Appendices gave me the sense that Tolkien's real goal with _LotR_ was not to tell the story of Frodo or Sauron but *to create the world in which those stories could be told*. I reread _The Lord of the Rings_ with a new purpose: to discover Middle-earth. My reward was immeasurable.
 
-What I discovered was what many others have discovered: Tolkien invented languages. Marvelous, intricate, beautiful languages. A New York Times columnist once asked Tolkien about the origins of his work. Tolkien replied "I am a philologist, [i.e. a historical linguist] and all my work is philological". He later clarified in a letter to his publisher: "the remark about <q>philology</q> was intended to allude to what I think is a primary <q>fact</q> about my work, that it is all of a piece, and *fundamentally linguistic* in inspiration. [. . .] The invention of languages is the foundation. The <q>stories</q> were made rather to provide a world for the languages than the reverse. To me a name comes first and the story follows. I should have preferred to write in <q>Elvish</q>." In light of such strong statements, it should be clear that we can only hope to understand Tolkien's work if we share, or at least acknowledge, his passion for language.
+What I discovered was what many others have discovered: Tolkien invented languages. Marvelous, intricate, beautiful languages. A New York Times columnist once asked Tolkien about the origins of his work. Tolkien replied "I am a philologist, [i.e. a historical linguist] and all my work is philological". He later clarified in a letter to his publisher: "the remark about <q>philology</q> was intended to allude to what I think is a primary <q>fact</q> about my work, that it is all of a piece, and <em>fundamentally linguistic</em> in inspiration. [. . .] The invention of languages is the foundation. The <q>stories</q> were made rather to provide a world for the languages than the reverse. To me a name comes first and the story follows. I should have preferred to write in <q>Elvish</q>." In light of such strong statements, it should be clear that we can only hope to understand Tolkien's work if we share, or at least acknowledge, his passion for language.
 
 However, Tolkien never shared this passion readily. He was always rather shy and self-deprecating about his language-creation habit, calling it a "secret vice" and a "mad hobby". He never published any grammars or vocabularies of the Elvish languages—perhaps because he thought no one would buy them, but also because he loved the total creative freedom that he had as a language inventor. Publishing information about Elvish would have forced him to get the languages into a "final" form, and that was something he could never bring himself to do. For Tolkien, the fun of invented languages was in the process of creation, not in using the finished product. He invented many more words than he ever used in Elvish poetry or prose.
 
@@ -65,7 +65,84 @@ In unpublished works, the path is a little less certain. I generally don't regar
 
 Somewhere in between is evidence from Tolkien's letters. Here we find language features that Tolkien had worked out enough to tell someone else about, but maybe would not have published to the world at large. I treat evidence from the letters as authoritative.
 
+# Table of Contents
+
+<ul class="toc">
+  <li>
+    <p><a href="#roots">Roots</a></p>
+    <ul>
+        <li>
+          <p><a href="#pronunciation">Pronunciation</a></p>
+        </li>
+        <li>
+          <p><a href="#the-sindarin-corpus">The Sindarin Corpus</a></p>
+        </li>
+        <li>
+          <p><a href="#selected-vocabulary">Selected Vocabulary</a></p>
+        </li>
+        <li>
+          <p><a href="#the-writing-systems">The Writing Systems</a></p>
+        </li>
+        <li>
+          <p><a href="#wishes-commands">Wishes, Commands</a></p>
+        </li>
+        <li>
+          <p><a href="#possessives">Possessives</a></p>
+        </li>
+        <li>
+          <p><a href="#plurals">Plurals</a></p>
+        </li>
+        <li>
+          <p><a href="#adjectives-the-soft-mutation">Adjectives and the Soft Mutation</a></p>
+        </li>
+        <li>
+          <p><a href="#articles-the-soft-mutation">Articles and the Nasal Mutation</a></p>
+        </li>
+        <li>
+          <p><a href="#present-tense-verbs">Present Tense Verbs</a></p>
+        </li>
+        <li>
+          <p><a href="#future-tense-verbs">Future Tense Verbs</a></p>
+        </li>
+        <li>
+          <p><a href="#the-present-participle">The Present Participle</a></p>
+        </li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="#branches">Branches</a></p>
+    <ul>
+        <li>
+          <p><a href="#negation">Negation</a></p>
+        </li>
+        <li>
+          <p><a href="#prepositions-and-their-mutations">Prepositions and Their Mutations</a></p>
+        </li>
+        <li>
+          <p><a href="#pronouns">Pronouns</a></p>
+        </li>
+        <li>
+          <p><a href="#past-tense-verbs">Past-tense Verbs</a></p>
+        </li>
+        <li>
+          <p><a href="#the-past-participle">The Past Participle</a></p>
+        </li>
+        <li>
+          <p><a href="#the-present-perfect-participle">The Present Perfect Participle</a></p>
+        </li>
+        <li>
+          <p><a href="#word-order-in-sentences">Word Order in Sentences</a></p>
+        </li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="#scattered-seeds">Scattered Seeds</a></p>
+  </li>
+</ul>
+
 # I. Roots
+
+<a name="roots"></a>
 
 # 1. Pronunciation
 
