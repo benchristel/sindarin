@@ -81,13 +81,10 @@ This book is designed to complement the existing online resources on Sindarin, n
           <p><a href="#pronunciation">Pronunciation</a></p>
         </li>
         <li>
-          <p><a href="#the-sindarin-corpus">The Sindarin Corpus</a></p>
-        </li>
-        <li>
           <p><a href="#selected-vocabulary">Selected Vocabulary</a></p>
         </li>
         <li>
-          <p><a href="#the-writing-systems">The Writing Systems</a></p>
+          <p><a href="#writing-systems">The Tengwar</a></p>
         </li>
         <li>
           <p><a href="#wishes-commands">Wishes, Commands</a></p>
@@ -150,11 +147,15 @@ This book is designed to complement the existing online resources on Sindarin, n
 
 # <a name="pronunciation">Pronunciation</a>
 
-This page is intended to be a *complete* guide to the sounds of Sindarin. Because of that, it's *super long*, and some of what's here may not seem relevant until you've explored the language further. If you get bogged down in the details, there's also a [quick guide](./pronunciation-quick.html) that just covers the basics.
+It's hard to learn to pronounce a foreign language from a book, but you can try. I'd actually recommend skimming this chapter on a first read, and then checking out the online resources, which include recordings of Tolkien pronouncing Sindarin words from _The Lord of the Rings_—naturally the ultimate source for learning to say them correctly yourself. You can find a list of links at menegroth.github.io/links.html.
+
+If you've studied linguistics or you sing in foreign languages, you might know IPA, the International Phonetic Alphabet. I've included the IPA representation of each sound in slashes, /like this/.
+
+
 
 ## Vowels
 
-English-speakers tend to think of there being *five vowels*: A, E, I, O, and U. However, these are just the vowel *letters*. English has way more than five vowel *sounds*. Just look at this list:
+English-speakers tend to think of there being *five vowels*: A, E, I, O, and U. These are just the vowel *letters*, though; English has way more than five vowel *sounds*. Just look at this list:
 
 <table class="center-block">
 <tr>
@@ -165,11 +166,7 @@ English-speakers tend to think of there being *five vowels*: A, E, I, O, and U. 
 </tr>
 </table>
 
-Sindarin doesn't have English's huge variety of sounds. In Sindarin, the five main vowels [.s A], [.s E], [.s I], [.s O], and [.s U] are always pronounced the same way.
-
-### The Big Five
-
-Pronounce Sindarin [.s A], [.s E], [.s I], [.s O], [.s U] as "ah", "eh", "ee", "oh", "oo". Tolkien was aiming for familiarity here: Spanish, Italian, and many other languages have similar vowel systems.
+Sindarin vowels are much simpler: the letters A, E, I, O, and U correspond one-to-one with the vowel sounds "ah", "eh", "ee", "oh", "oo". Tolkien was aiming for familiarity here: Spanish, Italian, and many other languages have similar vowel systems.
 
 Even English sometimes uses the five vowels with their Sindarin pronunciations:
 
@@ -186,7 +183,13 @@ With those examples in mind, try pronouncing these words:
 - [.s Legolas] "Greenleaf"
 - [.s Osgiliath] "Citadel of the Stars"
 
-[^vowels]: Tolkien's own pronunciation guide, in Appendix E, gives "father", "were", "machine", "for", and "brute" as the exemplars. "Were" is problematic for American speakers because the R-sound completely replaces the vowel, so I've used "well" instead.
+### Variations on the Vowel Sounds
+
+No language pronounces sounds exactly the same way 100% of the time—the examples above are just the most common pronunciation of each sound. In the recording of "A Elbereth", Tolkien pronounces the first [.s I] in [.s Gilthoniel] as in _gild_, and the [.s A] of [.s ennorath] as in _wrath_. There's little reason to suppose that we shouldn't do the same.
+
+However, there are limits to how far pronunciation can be stretched. Don't go pronouncing Sindarin [.s A] as in _hate_—Sindarin speakers would hear this as a completely different sound, spelled [.s EI].
+
+It's also difficult to know exactly when we should use each pronunciation. Tolkien didn't publish written guidelines for this and we have only a few recorded samples of him speaking Sindarin. Perhaps we must just accept that no matter how we pronounce Sindarin, Tolkien (or his Elves) would probably think that we have very strange accents!
 
 ### The Sixth Vowel: Y
 
@@ -196,9 +199,9 @@ If those instructions sound nonsensical, it's because "ee" usually stretches you
 
 ### Accents and Vowel Length
 
-An acute accent ([.s á é í ó ú]) indicates that the vowel is held for a slightly longer duration. So in a word like [.s míriel] "sparkling like jewels", the first syllable [.s mí] is held about twice as long as the second syllable [.s ri].
+An acute accent ([.s á é í ó ú ý]) indicates that the vowel is held for a slightly longer duration. So in a word like [.s míriel] "sparkling like jewels", the first syllable [.s mí] is held about twice as long as the second syllable [.s ri].
 
-A circumflex ([.s â ê î ô û]) also indicates a long vowel, but is mostly used in words of one syllable. This may just be an aesthetic whim of Tolkien's, though he justified it by saying that vowels with the circumflex should be held _even longer_. However, the Elvish writing systems only distinguish two vowel lengths, long and short, so the Elves must not have considered this detail very important.
+A circumflex ([.s â ê î ô û ŷ]) also indicates a long vowel, but is mostly used in words of one syllable. This may just be an aesthetic whim of Tolkien's, though he justified it by saying that vowels with the circumflex should be held _even longer_. However, the Elvish writing systems only distinguish two vowel lengths, long and short, so the Elves must not have considered this detail very important.
 
 ### Diphthongs
 
@@ -217,7 +220,7 @@ Here is the complete list of Sindarin diphthongs:
 
 ### Voiced and Voiceless Sounds
 
-Sindarin has several pairs of consonant sounds that differ by being _voiced_ or _voiceless_—_voice_ being a linguistics term meaning vibration of the vocal cords. Don't be worried by the terminology, though. If you can speak English, you're already pronouncing voiced and voiceless sounds all the time. You can feel the buzzing of your vocal cords if you put your hand on your throat and say "ZZZ". If you then turn the Z into an S, the buzzing stops. Voiced sounds like Z or V have a buzzing or humming quality, while their voiceless counterparts S and F sound more like a hiss or whisper. (In fact, voicelessness is *the* defining feature of whispering. Try whispering *loudly*; your speech may be audible but you'll be pronouncing all the sounds voicelessly.
+Sindarin has several pairs of consonant sounds that differ by being _voiced_ or _voiceless_—_voice_ being a linguistics term meaning vibration of the vocal cords. Don't be worried by the terminology, though. If you can speak English, you're already pronouncing voiced and voiceless sounds all the time. You can feel the buzzing of your vocal cords if you place your hand on your throat and say "ZZZ". If you then turn the Z into an S, the buzzing stops. Voiced sounds like Z or V have a buzzing or humming quality, while their voiceless counterparts S and F sound more like a hiss or whisper. (In fact, voicelessness is *the* defining feature of whispering. Try whispering *loudly*; your speech may be audible but you'll be pronouncing all the sounds voicelessly.)
 
 Voiced/voiceless pairs in English include:
 
@@ -225,7 +228,7 @@ Voiced/voiceless pairs in English include:
 - Voiced Z, voiceless S: *zoo* vs. *sue*
 - Voiced J, voiceless CH: *gin* vs. *chin*
 - Voiced D, voiceless T: *deal* vs. *teal*
-- Voiced G, voiceless K: *got* vs. *caught*
+- Voiced G, voiceless K: *gill* vs. *kill*
 - Voiced B, voiceless P: *bun* vs. *pun*
 
 Sindarin has many of the same pairs as English, but some won't be familiar:
@@ -263,13 +266,13 @@ I'll describe all of these in the giant list of consonants below.
 - [.s V]: as in English.
 - [.s W]: as in English. [.s W] can occur at the end of a word in Sindarin, where it is pronounced as a very short [.s U] sound: [.s têw] "letter".
 
-### Splitting Up Letter Combinations
+### <a name="splitting-up-letter-combinations">Splitting Up Letter Combinations</a>
 
-The combinations [.s DH], [.s LH], [.s RH], [.s TH] sometimes represent a sequence of two distinct sounds, e.g. T+H. For example, [.s Panthael] ("Fullwise", a name given to Sam Gamgee by Aragorn), is a compound [.s pant+hael], so the [.s t] and [.s h] represent distinct sounds. Similarly, [.s Edhelharn] "Elfstone", is a compound [.s edhel+harn].
+The combinations [.s DH], [.s LH], [.s RH], [.s TH] sometimes represent a sequence of two distinct sounds, e.g. [.s T]+[.s H]. For example, [.s Panthael] ("Fullwise", a name given to Sam Gamgee by Aragorn), is a compound [.s pant+hael], so the [.s t] and [.s h] are pronounced separately. Similarly, [.s Edhelharn] "Elfstone", is a compound [.s edhel+harn].
 
-How do you know when to pronounce the letter-sequence "th" as T+H, and when to pronounce it as a single sound? The answer, unfortunately, is that you just have to recognize the rare cases where "th" represents T+H.
+So how do you know when to pronounce the letter-sequence "th" as [.s T]+[.s H], and when to pronounce it as a single sound? The answer, unfortunately, is that you just have to recognize the rare cases where "th" represents [.s T]+[.s H].
 
-It's worth noting that the sounds [.s LH] and [.s RH] cannot occur in the middle of a word, so if you see a word like [.s Edhelharn] or [.s Perhael] "Halfwise", you know that the [.s H] should be a separate sound.
+It's worth noting that the sounds [.s LH] and [.s RH] can't occur in the middle of a word, so if you see a word like [.s Edhelharn] or [.s Perhael] "Halfwise", you know that the [.s H] should be a separate sound.
 
 Tengwar writing doesn't have this ambiguity, because the sounds [.s DH], [.s LH], [.s RH], [.s TH] each have their own symbol. So recognizing letter combinations that should be split up isn't just relevant for pronunciation—you need to know this to write in tengwar, as well!
 
@@ -278,21 +281,24 @@ Tengwar writing doesn't have this ambiguity, because the sounds [.s DH], [.s LH]
 Sindarin, like English, puts emphasis or _stress_ on one syllable of multi-syllable words. In English, stress can alter the meaning of a word, as in the following:
 
 > Sam received a **present** from Galadriel.
-> Galadriel will **present** the hobbits with lembas.
+>
+> We'll **present** our project to the class.
 
 With the first syllable stressed, &ldquo;[.hi pre]sent&rdquo; is a noun. Stress the second syllable, &ldquo;pre[.hi sent]&rdquo;, and it becomes a verb.
 
-In Sindarin, the stress of a word can't change its meaning, but it's vital to learn how words are stressed in order to write poetry. If you don't pronounce words with the right stress, you'll just sound weird.
+In Sindarin, the stress of a word can't change its meaning, but it's vital to learn how words are stressed in order to write poetry. Also, if you pronounce words with the wrong stress, you'll just sound weird.
 
 Fortunately, Sindarin stress is predicatable from the shape of the word, so you don't have to memorize where the stress falls for each word individually. This section describes how to figure out which syllable is stressed.
 
 ### Syllables
 
-Before you can place the stress in a word, you have to break it down into syllables. The syllables or beats of a word are determined by the vowels. Each syllable has exactly one vowel or diphthong at its core—no more, no less. So [.s Elbereth Gilthoniel] breaks down as [.s El&middot;be&middot;reth Gil&middot;tho&middot;ni&middot;el]. [.s Thranduil] has only two syllables, [.s Thran&middot;duil], because [.s ui] is a diphthong.
+Before you can place the stress in a word, you have to break it down into syllables. Many people find this difficult at first, but there's a trick to it: look at the vowels.
+
+Each syllable has exactly one vowel or diphthong at its core—no more, no less. So [.s Elbereth Gilthoniel] breaks down as [.s El&middot;be&middot;reth Gil&middot;tho&middot;ni&middot;el]. [.s Thranduil] has only two syllables, [.s Thran&middot;duil], because [.s ui] is a diphthong.
 
 ### Stress in Two-Syllable Words
 
-Tolkien states in Appendix E that "[i]n words of two syllables, [the stress] falls in practically all cases on the first syllable". However, he neglects to list any Sindarin exceptions to this rule, so for our purposes, two-syllable Sindarin words are *always* stressed on the first syllable. Thus we have [.s <span class="hi">Per</span>&middot;hael] "Samwise", [.s <span class="hi">El</span>&middot;rond].
+Tolkien states in Appendix E that "[i]n words of two syllables, [the stress] falls in practically all cases on the first syllable". Thus we have [.s <span class="hi">Per</span>&middot;hael] "Samwise", [.s <span class="hi">El</span>&middot;rond].
 
 ### Stress in Longer Words
 
@@ -304,16 +310,11 @@ However, the second-to-last syllable gets the stress if its vowel is:
 - a diphthong, as [.s ae] in [.s Hi<span class="hi">thaeg</span>lir] ("the Misty Mountains")
 - or followed by multiple consonants: [.s Cele<span class="hi">brim</span>bor] ("Silver-fist")
 
-Note that in the last case, it's consonant *sounds* and not letters that are important. [.s TH], [.s DH], etc. are single sounds even though they're represented by two letters, so the [.s th] in [.s <span class="hi">Nim</span>brethil] doesn't cause the stress to move.
+Note that in the last case it's consonant *sounds*, not letters, that are important. [.s TH], [.s DH], etc. are single sounds even though they're represented by two letters, so the [.s th] in [.s <span class="hi">Nim</span>brethil] doesn't cause the stress to move.
 
 ### Possible Exceptions to the Stress Rule
 
-There are some Sindarin names that don't seem to follow the stress rules in Appendix E, among them [.s Imladris] (Rivendell) and [.s Nargothrond]. These "should" be stressed [.s Im<span class="hi">lad</span>ris], [.s Nar<span class="hi">goth</span>rond], because the second-to-last syllable of each is followed by two consonants. However, we can observe that both are stressed on the first syllable in poetry. I've written at length about this issue [here](../stress-in-sindarin.html).
-
-<div class="nav-links">
-<div><a href="./writing.html">Onward to the section on Writing!</a></div>
-<div><a href="../sindarin.html">Back to the Table of Contents</a></div>
-</div>
+There are some Sindarin names that don't seem to follow the stress rules in Appendix E, among them [.s Imladris] (Rivendell) and [.s Nargothrond]. These "should" be stressed [.s Im<span class="hi">lad</span>ris], [.s Nar<span class="hi">goth</span>rond], because the second-to-last syllable of each is followed by two consonants. However, we can observe that both are stressed on the first syllable in poetry. This issue is covered in depth <a class="pageref" href="#irregular-stress"></a>.
 
 # <a name="selected-vocabulary">Selected Vocabulary</a>
 
@@ -327,6 +328,7 @@ This is just a short selection of the most common Sindarin words. It should be j
 - [.s edhel] "elf", plural [.s edhil].
 - [.s ellon] "Elf-man", i.e. a male elf.
 - [.s elleth] "elf-woman"
+- [.s mellon] "friend"
 - [.s perian] "hobbit", plural [.s periain].
 - [.s naug] "dwarf", pl. [.s noeg]
 - [.s naugrim] "dwarf-folk"
@@ -365,8 +367,19 @@ N.B.: All of these verbs are given in their _imperative_ or "command" form—so 
 - [.s Daro!] "Halt!"
 - [.s Linno!] "Sing!"
 - [.s Mado!] "Eat!"
+- [.s Minno!] "Enter!"
+- [.s Pedo!] "Speak!"
 
-# 5. The Writing Systems
+## Miscellaneous
+
+- [.s a] "and"
+- [.s i] "the", but only before singular nouns beginning in [.s F], [.s L], [.s N], [.s TH], [.s W], or a vowel. For other words, there's some extra grammar you need to know.
+- [.s in] "the", used for plural nouns beginning in a vowel: [.s in edhil] "the elves", [.s in eryd] "the mountains".
+- [.s Ai!] "Alas!" or "Oh no!"
+
+# <a name="writing-systems">The Tengwar</a>
+
+Tolkien's _tengwar_ script is instantly recognizable—nothing evokes "elvish" like a snippet of _tengwar_ text. It's easy to understand why the _tengwar_ are popular: You don't have to be a Tolkien buff or a language geek to be struck by their one-two punch of beauty and badassery.
 
 <p class="center text">
 [.tai &#187;][.ti AE5,Ex26Yw1E<span class="tai">j</span>^z<span class="tai">H</span>&#186; AE5,ExxwP%1Ej^][.tai &#171;]
@@ -375,11 +388,105 @@ N.B.: All of these verbs are given in their _imperative_ or "command" form—so 
 [.ti AE5,Ex37zE1E<span class="tai">j</span>^z<span class="tai">H</span>&#186; X#w6Ykt^AT`Bz7qpT1Ej^]
 </p>
 
-## 5.1 The Cirth
+That's the One Ring inscription, probably the most famous example of the Elvish script. But if you get it tattooed around your arm and claim that it's in an Elvish *language*, the joke's on you—it's actually Sauron's Black Speech, written with _tengwar_ letters. Transcribed into our Roman alphabet, the Ring inscription goes:
 
-## 5.2 The Tengwar
+<p class="center text">
+<em>
+Ash nazg durbatulûk, ash nazg gimbatul,<br/>
+ash nazg thrakatulûk agh burzum-ishi krimpatul.
+</em>
+</p>
 
-# 6. Grammar
+Not sounds that any Elf would want to utter!
+
+This serves to highlight an important point: the _tengwar_ aren't a language; they're a writing system that, much like our own alphabet, can be applied to many different languages.
+
+This chapter focuses on writing Sindarin, though there's also a section on how to write English with _tengwar_.
+
+The _tengwar_ were invented by Fëanor in Aman, and so were first used to write Quenya. But Fëanor, always ambitious, didn't just devise an alphabet solely for his own language. He created a system so versatile that it could be adapted to *any* language. Thus when the exiled Noldor brought the _tengwar_ to Middle-earth, the Sindar readily adopted the script. By the Third Age there were multiple styles or "modes" for writing Sindarin with _tengwar_, each with its own spelling conventions.
+
+## The Mode of Beleriand
+
+The _Mode of Beleriand_ is the most ancient of the Sindarin tengwar styles, and also the easiest to learn. The letters correspond one-to-one with Sindarin sounds, as shown below:
+
+<table class="col-3 columns">
+<tr>
+<td>
+<ul>
+<li>[.tab A][.t &#93;]</li>
+<li>[.tab B][.t w]</li>
+<li>[.tab C][.t a]</li>
+<li>[.tab CH][.t d]</li>
+<li>[.tab D][.t 2]</li>
+<li>[.tab DH][.t 4]</li>
+<li>[.tab E][.t l]</li>
+<li>[.tab F][.t e]</li>
+<li>[.tab G][.t s]</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>[.tab H][.t 9]</li>
+<li>[.tab I][.t `]</li>
+<li>[.tab L][.t j]</li>
+<li>[.tab LH][.t m]</li>
+<li>[.tab M][.t y]</li>
+<li>[.tab N][.t 6]</li>
+<li>[.tab NG][.t g]</li>
+<li>[.tab O][.t h]</li>
+<li>[.tab P][.t q]</li>
+</ul>
+</td>
+</td>
+<td>
+<ul>
+<li>[.tab R][.t 7]</li>
+<li>[.tab RH][.t u]</li>
+<li>[.tab S][.t 8]</li>
+<li>[.tab T][.t 1]</li>
+<li>[.tab TH][.t 3]</li>
+<li>[.tab U][.t .]</li>
+<li>[.tab V][.t r]</li>
+<li>[.tab W][.t n]</li>
+<li>[.tab Y][.t i]</li>
+</ul>
+</td>
+</tr>
+</table>
+
+Long vowels were given an accent mark: [.t &#93;R] represented [.s á] or [.s â].
+
+The early Sindarin scribes liked to abbreviate common letter com&shy;bi&shy;na&shy;tions. Double [.s NN] and [.s MM] were represented by doubling the curved "bow" of [.t 6] and [.t y], producing [.t 5] and [.t t]. An [.s N] or [.s M] before another consonant was abbreviated as a bar or wavy line above the consonant: [.t 1p] for [.s NT], [.t wP] for [.s MB], etc.
+
+When transcribing Sindarin texts into tengwar, note that it's the sound, not the spelling in Roman letters, that's important. This makes sense: after all, the Roman alphabet wasn't used in Middle-earth, and so the tengwar spelling used by the Elves wouldn't reflect the oddities and ambiguities of our own alphabet. _Nef_ ends with a "v" sound and so should be spelled [.t 6lr] in tengwar. Similarly, [.t m] is only used for [.s LH] when the single sound [.s LH] is meant. [.s Edhelharn] would be spelt [.t l4lj9&#93;76]. The issue of spelling ambiguities is covered <a class="pageref" href="#splitting-up-letter-combinations"></a>.
+
+[.TODO more on resolving ambiguities between different letter combos]
+
+### A Sample Text
+
+Armed with your new knowledge, you can try deciphering the following tengwar text. Bonus points if you know where it's from!
+
+<p class="text center">
+[.t ql2h yljjh6 &#93; y`5h]
+</p>
+
+If you want to try your hand at translating the Sindarin as well, here's a clue: all the words can be found in the vocabulary list that starts <a class="pageref" href="#selected-vocabulary"></a>.
+
+## The Mode of Gondor
+
+You may have noticed that the Mode of Beleriand lacks the various dots and curls above the letters (called _tehtar_ in Quenya) that appear in the Ring inscription. There's another Sindarin mode, the _Mode of Gondor_, that uses _tehtar_ to represent vowels.
+
+
+
+## The Consonantal Mode
+
+Fëanor's writing system wasn't the first in Arda—an earlier system, the _sarati_, were invented by Rumil. But Fëanor made an important innovation with the _tengwar_: he realized that the shape of each letter could be related to its sound in a systematic way. For contrast, look at the English alphabet: _M_ and _B_ both involve closing the lips, but there's nothing in their shapes that expresses this similarity. On the other hand, lowercase _b_ and _p_ do look sort of similar and are pronounced similarly—_p_ is just _b_ with more forceful airflow (in linguistic terms, _p_ is _aspirated_). But the pattern doesn't generalize: we'd expect an aspirated version of _d_ to have the letter-form _q_, but in fact aspirated _d_ is written _t_.
+
+Numbers
+
+Punctuation
+
+## Writing Tengwar with Mundane Implements
 
 ## 6.1 Wishes, Commands
 
@@ -417,6 +524,8 @@ N.B.: All of these verbs are given in their _imperative_ or "command" form—so 
 
 - *go* as an independent preposition
 - Salo's second-person *-ch*
+
+# <a name="irregular-stress">Irregular Stress</a>
 
 # A Sindarin Phrasebook
 

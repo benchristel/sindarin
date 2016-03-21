@@ -29,6 +29,8 @@
 
     ul {
         list-style-type: none;
+        margin-top: 1em;
+        margin-bottom: 1em;
     }
 
     li p {
@@ -38,8 +40,8 @@
     li {
         padding-left: 0.25in;
         text-indent: -0.25in;
-        margin-top: 0.5em;
-        margin-bottom: 0.5em;
+        margin-top: 0.25em;
+        margin-bottom: 0.25em;
     }
 
     h1, h2, h3, h4, h5, h6 {
@@ -96,7 +98,9 @@
         text-indent: 0;
     }
 
-    blockquote + p { /* paragraphs after a quote are continuations and shouldn't be indented */
+    blockquote + p,
+    .text + p {
+        /* paragraphs after a quote are continuations and shouldn't be indented */
         text-indent: 0;
     }
 
@@ -111,13 +115,30 @@
         text-decoration: none;
     }
 
+    a.pageref::after {
+        content: " on page " target-counter(attr(href), page)
+    }
+
     .s, .sindarin {
         font-weight: bold;
+        letter-spacing: 0.025em;
+        word-spacing: 0.1em;
     }
 
     .hi {
         font-weight: inherit;
         font-style: italic;
+    }
+
+    .ipa {
+        font-family: Arial, sans-serif;
+    }
+
+    .ipa:before, .ipa:after { content: '/' }
+
+    .t {
+        font-family: tengwarlight;
+        font-size: 1.25em;
     }
 
     .ti {
@@ -126,6 +147,10 @@
 
     .tai {
         font-family: tengwaraltitalic;
+    }
+
+    .cirth {
+        font-family: cirth;
     }
 
     .text {
@@ -147,8 +172,39 @@
 
     /* TABLES */
 
+    table {
+        margin-top: 1em;
+        margin-bottom: 1em;
+    }
+
     td {
-        padding: 0.5em;
+        padding: 0.25em;
+    }
+
+    /* COLUMNS */
+
+    table.columns td {
+        vertical-align: top;
+    }
+
+    table.columns {
+        width: 100%;
+    }
+
+    .col-3 td {
+        width: 33%;
+    }
+
+    .tab {
+        display: inline-block;
+        margin-left: 2em;
+        width: 1em;
+    }
+
+    /* DEVELOPMENT */
+
+    .TODO {
+        display: none;
     }
 
     @page {
