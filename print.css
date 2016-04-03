@@ -121,9 +121,12 @@
     }
 
     .s, .sindarin {
+        font-family: 'Gentium Book Basic';
         font-weight: bold;
-        letter-spacing: 0.025em;
-        word-spacing: 0.1em;
+        font-style: italic;
+        letter-spacing: 0.02em;
+        vertical-align: -0.01em;
+        /*font-size: 1.em;*/
     }
 
     .hi {
