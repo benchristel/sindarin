@@ -24,7 +24,7 @@
         text-indent: 0.25in;
         orphans: 2;
         widows: 2;
-        string-set: left-page-header 'THE ELVISH LANGUAGE', page-number counter(page);
+        string-set: left-page-header 'AN ELVISH LANGUAGE', page-number counter(page);
     }
 
     ul {
@@ -92,6 +92,7 @@
         margin-right: 0.25in;
         margin-top: 1em;
         margin-bottom: 1em;
+        white-space: pre-wrap;
     }
 
     blockquote p {
@@ -145,6 +146,15 @@
         font-family: tengwaritalic;
     }
 
+    .letterform {
+        font-size: 2em;
+    }
+
+    .note {
+        float: footnote;
+        font-size: 9pt;
+    }
+
     .tai {
         font-family: tengwaraltitalic;
     }
@@ -175,10 +185,15 @@
     table {
         margin-top: 1em;
         margin-bottom: 1em;
+        border-collapse: collapse;
     }
 
     td {
         padding: 0.25em;
+    }
+
+    tr.head td {
+        border-bottom: 1px solid black;
     }
 
     /* COLUMNS */
@@ -207,12 +222,22 @@
         display: none;
     }
 
+    .cite {
+        display: none;
+    }
+
     @page {
         size: 5.5in 8.5in;
         margin-left: 0.75in;
         margin-right: 0.75in;
         margin-top: 0.75in;
         margin-bottom: 0.75in;
+
+        @footnotes {
+            border-top: 1px solid black;
+            margin-top: 1em;
+            padding-top: 1em;
+        }
     }
 
     @page :left {
