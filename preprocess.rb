@@ -32,7 +32,7 @@ while line = template.gets
       markdown += line
     end
     markdown_converter = Redcarpet::Markdown.new(Redcarpet::Render::HTML, autolink: true, quote: true, footnotes: true, disable_indented_code_blocks: true)
-    output << markdown_converter.render(markdown)
+    output << markdown_converter.render(markdown).gsub("&#39;", '&rsquo;')
   else
     output << line
   end
