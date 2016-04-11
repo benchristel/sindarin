@@ -44,6 +44,15 @@
         margin-bottom: 0.25em;
     }
 
+    .bullets li {
+        margin-left: 0.25in;
+        list-style-type: disc;
+    }
+
+    .indented li {
+        margin-left: 0.25in;
+    }
+
     h1, h2, h3, h4, h5, h6 {
         margin-bottom: 0.1389in;
         page-break-after: avoid;
@@ -56,15 +65,15 @@
     h1 {
         page-break-before: left;
         string-set: right-page-header content(), left-page-header '', page-number '';
-        font-size: 0.3333in;;
+        font-size: 22pt;
     }
 
     h2 {
-        font-size: 0.25;
+        font-size: 18pt;
     }
 
     h3 {
-        font-size: 0.1667in;
+        font-size: 14pt;
     }
 
     q:before {
@@ -125,13 +134,13 @@
         font-weight: bold;
         font-style: italic;
         letter-spacing: 0.02em;
-        vertical-align: -0.01em;
-        /*font-size: 1.em;*/
     }
 
     .hi {
+        border-bottom: 0.5pt solid black;
         font-weight: inherit;
-        font-style: italic;
+        font-family: inherit;
+        font-style: inherit;
     }
 
     .ipa {
@@ -153,10 +162,7 @@
         font-size: 2em;
     }
 
-    .note {
-        float: footnote;
-        font-size: 9pt;
-    }
+
 
     .tai {
         font-family: tengwaraltitalic;
@@ -217,6 +223,14 @@
         display: inline-block;
         margin-left: 2em;
         width: 1em;
+    }
+
+    /* FOOTNOTES */
+
+    .note {
+        float: footnote;
+        font-size: 9pt;
+        text-indent: 0;
     }
 
     /* DEVELOPMENT */
