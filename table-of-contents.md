@@ -1,41 +1,70 @@
-<a href="index.html" class="nav nav-left">Home Page</a>
 
-# Table of Contents
-
-This text is divided into four sections: two short and introductory, two long and in-depth. The first two, _The Tengwar Writing System_ and _Speaking Sindarin_, will give you a taste of the language, and a basic understanding of many of the elvish names, phrases, and inscriptions in _The Lord of the Rings_. The third section, the _Grammar of Sindarin_, is a deeper look at the rules that govern the construction of words and phrases. Finally, there is the _History of Sindarin_, which describes how the languages of the Elves changed through the long histories of Middle-earth and of Aman in the West.
-
-## The Tengwar Writing System
-
-- **[Writing English with Tengwar](english-tengwar.html)**
-- **[Tengwar Punctuation](tengwar-punctuation.html)**
-- **[Tengwar Numbers](tengwar-numbers.html)**
-- The Sindarin Mode of Beleriand
-- The Sindarin Mode of Gondor
-- The Alphabetic Sindarin Mode
-- Tips for Tengwar Calligraphy
-- Extra Credit: Identify the Language
-
-## Speaking Sindarin
-
-- [Pronunciation](pronunciation.html)
-- Phrasebook
-- Commands
-- "Mine" and "Yours"
-- Wordlist
-
-## The Grammar of Sindarin
-
-- Plural Nouns
-- The Definite Article; The Soft Mutation
-- Possession
-- Present-tense Verbs
-- Irregular Plurals
-
-## The History of Sindarin
-
-- Sound changes from Common Eldarin to Old Sindarin
-- The Grammar of Old Sindarin
-- Innovations in Old Sindarin
-- Sound changes from Old Sindarin to Middle Sindarin
-- The Grammar of Middle Sindarin
-- Sound changes from Middle Sindarin to Classical Sindarin
+<ul class="toc">
+  <li>
+    <h4>Roots</h4>
+    <ul>
+        <li>
+          <p><a href="#pronunciation">Pronunciation</a></p>
+        </li>
+        <li>
+          <p><a href="#selected-vocabulary">Selected Vocabulary</a></p>
+        </li>
+        <li>
+          <p><a href="#writing-systems">The Tengwar</a></p>
+        </li>
+        <li>
+          <p><a href="#imperatives">Wishes, Commands</a></p>
+        </li>
+        <li>
+          <p><a href="#possessives">Possessives</a></p>
+        </li>
+        <li>
+          <p><a href="#plurals">Plurals</a></p>
+        </li>
+        <li>
+          <p><a href="#adjectives-the-soft-mutation">Adjectives and the Soft Mutation</a></p>
+        </li>
+        <li>
+          <p><a href="#articles-the-soft-mutation">Articles and the Nasal Mutation</a></p>
+        </li>
+        <li>
+          <p><a href="#present-tense-verbs">Present Tense Verbs</a></p>
+        </li>
+        <li>
+          <p><a href="#future-tense-verbs">Future Tense Verbs</a></p>
+        </li>
+        <li>
+          <p><a href="#the-present-participle">The Present Participle</a></p>
+        </li>
+    </ul>
+  </li>
+  <li>
+    <h4>Branches</h4>
+    <ul>
+        <li>
+          <p><a href="#negation">Negation</a></p>
+        </li>
+        <li>
+          <p><a href="#prepositions-and-their-mutations">Prepositions and Their Mutations</a></p>
+        </li>
+        <li>
+          <p><a href="#pronouns">Pronouns</a></p>
+        </li>
+        <li>
+          <p><a href="#past-tense-verbs">Past-tense Verbs</a></p>
+        </li>
+        <li>
+          <p><a href="#the-past-participle">The Past Participle</a></p>
+        </li>
+        <li>
+          <p><a href="#the-present-perfect-participle">The Present Perfect Participle</a></p>
+        </li>
+        <li>
+          <p><a href="#word-order-in-sentences">Word Order in Sentences</a></p>
+        </li>
+    </ul>
+  </li>
+  <li>
+    <h4>Scattered Leaves</h4>
+  </li>
+</ul>

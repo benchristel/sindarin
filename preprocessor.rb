@@ -13,6 +13,7 @@ class Preprocessor
     SPAN_WITH_CLASSES = /\[(\.\S+) ([^\]]+)\]/
     CITED_QUOTE = /\[([^\]]+)\]\(\^([^\)]+)\)/ # most confusing regex ever!
     EXERCISE = /\[\<exercise (.+) === (.+)\>\]/
+    INCLUDE = /@include (\S+)/
 
     def initialize(text)
       @text = text
@@ -41,6 +42,18 @@ class Preprocessor
         answer = captures[1]
 
         %Q[<span class="exercise-prompt">#{prompt}</span><input type="text" class="exercise-answer" data-answer="#{answer}" size="#{answer.length}"/>]
+      }.gsub(INCLUDE) {
+        captures = Regexp.last_match.captures
+
+        filename = captures[0]
+        file = File.open(filename, 'r')
+
+        result = ''
+        Preprocessor.new(file).each_processed_line do |line|
+          result += line
+        end
+        file.close
+        result
       }
 
     end

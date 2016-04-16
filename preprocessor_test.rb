@@ -42,4 +42,14 @@ class TestPreprocessor < Minitest::Test
 
     assert_equal '<span class="exercise-prompt">What?</span><input type="text" class="exercise-answer" data-answer="That!" size="5"/>', line.processed
   end
+
+  def test_includes
+    File.write('test-asdfghjk-included.md', '[.s hwinia-]')
+
+    line = Preprocessor::Line.new('@include test-asdfghjk-included.md')
+
+    assert_equal '<span class="s">hwinia-</span>', line.processed
+
+    File.delete('test-asdfghjk-included.md')
+  end
 end

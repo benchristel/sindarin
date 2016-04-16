@@ -74,77 +74,7 @@ You can reach me at:
 
 # Table of Contents
 
-<ul class="toc">
-  <li>
-    <p><a href="#roots">Roots</a></p>
-    <ul>
-        <li>
-          <p><a href="#pronunciation">Pronunciation</a></p>
-        </li>
-        <li>
-          <p><a href="#selected-vocabulary">Selected Vocabulary</a></p>
-        </li>
-        <li>
-          <p><a href="#writing-systems">The Tengwar</a></p>
-        </li>
-        <li>
-          <p><a href="#imperatives">Wishes, Commands</a></p>
-        </li>
-        <li>
-          <p><a href="#possessives">Possessives</a></p>
-        </li>
-        <li>
-          <p><a href="#plurals">Plurals</a></p>
-        </li>
-        <li>
-          <p><a href="#adjectives-the-soft-mutation">Adjectives and the Soft Mutation</a></p>
-        </li>
-        <li>
-          <p><a href="#articles-the-soft-mutation">Articles and the Nasal Mutation</a></p>
-        </li>
-        <li>
-          <p><a href="#present-tense-verbs">Present Tense Verbs</a></p>
-        </li>
-        <li>
-          <p><a href="#future-tense-verbs">Future Tense Verbs</a></p>
-        </li>
-        <li>
-          <p><a href="#the-present-participle">The Present Participle</a></p>
-        </li>
-    </ul>
-  </li>
-  <li>
-    <p><a href="#branches">Branches</a></p>
-    <ul>
-        <li>
-          <p><a href="#negation">Negation</a></p>
-        </li>
-        <li>
-          <p><a href="#prepositions-and-their-mutations">Prepositions and Their Mutations</a></p>
-        </li>
-        <li>
-          <p><a href="#pronouns">Pronouns</a></p>
-        </li>
-        <li>
-          <p><a href="#past-tense-verbs">Past-tense Verbs</a></p>
-        </li>
-        <li>
-          <p><a href="#the-past-participle">The Past Participle</a></p>
-        </li>
-        <li>
-          <p><a href="#the-present-perfect-participle">The Present Perfect Participle</a></p>
-        </li>
-        <li>
-          <p><a href="#word-order-in-sentences">Word Order in Sentences</a></p>
-        </li>
-    </ul>
-  </li>
-  <li>
-    <p><a href="#scattered-leaves">Scattered Leaves</a></p>
-  </li>
-</ul>
-
-# <a name="roots">Roots</a>
+@include table-of-contents.md
 
 # <a name="pronunciation">Pronunciation</a>
 
@@ -364,63 +294,7 @@ The _tengwar_ were invented by Fëanor in Aman, and so were first used to write 
 
 The _Mode of Beleriand_ is the most ancient of the Sindarin tengwar styles. The letters correspond one-to-one with Sindarin sounds, as shown below:
 
-<table class="col-3 columns">
-<tr>
-<td>
-<ul>
-<li>[.tab A][.t.letterform &#93;]</li>
-<li>[.tab B][.t.letterform w]</li>
-<li>[.tab C][.t.letterform a]</li>
-<li>[.tab CH][.t.letterform d]</li>
-<li>[.tab CHW][.t.letterform c]</li>
-<li>[.tab D][.t.letterform 2]</li>
-<li>[.tab DH][.t.letterform 4]</li>
-<li>[.tab E][.t.letterform l]</li>
-<li>[.tab F][.t.letterform e]</li>
-<li>[.tab G][.t.letterform s]</li>
-<li>[.tab H][.t.letterform 9]</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>[.tab HW][.t.letterform o]</li>
-<li>[.tab I][.t.letterform `]</li>
-<li>[.tab L][.t.letterform j]</li>
-<li>[.tab LH][.t.letterform m]</li>
-<li>[.tab M][.t.letterform y]</li>
-<li>[.tab MM][.t.letterform t]</li>
-<li>[.tab N][.t.letterform 6]</li>
-<li>[.tab NN][.t.letterform 5]</li>
-<li>[.tab NG&#42;][.t.letterform g]</li>
-<li>[.tab O][.t.letterform h]</li>
-<li>[.tab P][.t.letterform q]</li>
-</ul>
-</td>
-</td>
-<td>
-<ul>
-<li>[.tab R][.t.letterform 7]</li>
-<li>[.tab RH][.t.letterform u]</li>
-<li>[.tab S][.t.letterform 8]</li>
-<li>[.tab SS][.t.letterform k]</li>
-<li>[.tab T][.t.letterform 1]</li>
-<li>[.tab TH][.t.letterform 3]</li>
-<li>[.tab U][.t.letterform .]</li>
-<li>[.tab V][.t.letterform r]</li>
-<li>[.tab W][.t.letterform n]</li>
-<li>[.tab Y][.t.letterform I]</li>
-</ul>
-</td>
-</tr>
-</table>
-
-<sup>&#42;</sup>It's uncertain what letter was used for [.s NG]. David Salo suggests [.t g] in _A Gateway to Sindarin_, as does Måns Björkman on his website _Amanye Tenceli_. It's a reasonable guess since [.t g] is used for _NG_ in Quenya, and fits in with the general pattern of how the _tengwar_ are assigned to sounds in Sindarin.
-
-!!TODO
-
-Similarly uncertain is the _tengwa_ for [.s HW]. Appendix E notes that <q>[<span class="t">o</span>] was mostly used (if at all) for voiceless <em>w</em></q>. Additionally, the Quenya name of the letter [.t o], _hwesta sindarinwa_, strongly suggests that it was used for writing Sindarin. However, Tolkien's writings contain no examples of this letter in actual use, and it's unclear why the Noldor would have felt the need to create a special letter for Sindarin [.s HW] when the same sound existed in Quenya and was written [.t c].
-
-/!
+@include mode-of-beleriand-consonants.md
 
 ### Vowels and Diphthongs
 
@@ -769,47 +643,12 @@ From the examples given above you'll note that the [.s -ath] suffix can change t
 
 ## Singular Suffixes
 
-
-## 6.4 Adjectives, the Soft Mutation
-
-## 6.5 Articles, the Nasal Mutation
-
-## 6.6 Present-tense Verbs
-
-## 6.6 Future-tense Verbs
-
-## The Present Participle
-
-# II. Branches
-
-## Negation
-
-## Prepositions and Their Mutations
-
-## Pronouns
-
-## Past-tense Verbs
-
-## The Past Participle
-
-## The Present Perfect Participle
-
-## Word order in Sentences
-
-# III. Scattered Leaves
+!!TODO
 
 - *go* as an independent preposition
 - Salo's second-person *-ch*
 - naug -> pl. noeg?
 - plurals of words in -io-: thalion -> thelyn a regular pattern?
-
-# <a name="irregular-stress">Irregular Stress</a>
-
-# A Sindarin Phrasebook
-
-# Grammar Reference
-
-# Further Reading
 
 Phrasebook
 
@@ -822,22 +661,6 @@ no 'elir (?gelir)
 le linnathon i narn e-dant Morgoth
 diheno nin (?enni)
 
+/!
 
-
-Pronouns
-
-im (emphatic?), %ni - %men
-%ci - ???
-%sa, %se - %ta, %te
-
-nín - %mín  (att. lenited vín)
-??? - lín
-ín, %tín (att. lenited dín) - ???
-
-anim, enni - ammen
-??? - le
-??? - ???
-
--n -m, -ch
--? -l
--?s -r
+# <a name="irregular-stress">Irregular Stress</a>
