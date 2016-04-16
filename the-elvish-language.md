@@ -156,7 +156,7 @@ menegroth.github.io/links.html.
 
 Tolkien's languages have many imitators in fantasy literature, probably because they balance nicely between familiar and exotic. If you pronounce Sindarin like Latin or Greek you won't be far off.
 
-It's nice that Sindarin's spelling is _phonetic_, so each sound has only one possible spelling, and each letter (or letter combination) almost always represents the same sound. Still, Tolkien uses some sounds and spellings that differ enough from English to deserve mention.
+It's nice that Sindarin's spelling is _phonetic_, so each sound has only one possible spelling. Still, Tolkien uses some sounds and spellings that differ enough from English to deserve mention.
 
 ### Consonants
 
@@ -168,7 +168,7 @@ It's nice that Sindarin's spelling is _phonetic_, so each sound has only one pos
 - [.s LH] and [.s RH] are like [.s L] and [.s R] pronounced voicelessly—that is, with no vocal cord vibration. These sounds are lifted straight from Welsh, where they're spelled _LL_ and _RH_: _Llewellyn_, _Rhiannon_.
 - [.s HW] is similarly a voiceless version of [.s W]. This is the WH-sound in _whale_, in varieties of English that pronounce it differently from _wail_.
 - [.s S] is *always* voiceless—it never has a Z-sound, even at the end of a word. The last syllable of [.s Fanuilos] "Everwhite" sounds like _loss_.
-- [.s W] by itself is pronounced as in English—but unlike in English it can appear at the end of a word, where it has a very short "oo" sound: [.s têw] "letter".
+- [.s W] by itself is pronounced as in English—but unlike in English it can appear at the end of a word. To pronounce [.s têw] "letter", try saying "teh win", but stopping at the "w".
 - [.s I] is normally a vowel but moonlights as a consonant. When it appears before another vowel at the beginning of a word, it sounds like the Y in _yes_. So [.s ionnath] "sons" and [.s Ioreth] "Old Woman" begin with a _yo_ sound.
 - [.s NG], between vowels, is pronounced with a hard [.s G] as in _finger_. At the end or beginning of a word, it's pronounced as in _ring_.
 
