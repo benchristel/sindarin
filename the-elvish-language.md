@@ -1,5 +1,5 @@
-<h2 class="title">An Elvish Language</h2>
-<h2 class="subtitle">A Guide to J.R.R. Tolkien's Sindarin</h2>
+<h2 class="title center">An Elvish Language</h2>
+<h2 class="subtitle center">A Guide to J.R.R. Tolkien's Sindarin</h2>
 
 # _Mae govannen!_
 
@@ -664,3 +664,13 @@ diheno nin (?enni)
 /!
 
 # <a name="irregular-stress">Irregular Stress</a>
+
+# This page intentionally left blank
+
+# This page intentionally left blank
+
+# This page intentionally left blank
+
+# This page intentionally left blank
+
+# This page intentionally left blank
