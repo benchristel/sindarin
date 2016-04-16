@@ -5,11 +5,11 @@
 
 If you've picked up this book, I assume I don't need to introduce you to J.R.R. Tolkien. Maybe you've read _The Hobbit_ or _The Lord of the Rings_. Maybe both. Perhaps you've even delved into the _Silmarillion_ or the _History of Middle-earth_ series... or maybe you've only read the first few chapters of _The Lord of the Rings_ and put it down wondering what all the hype is about. That was my situation, years ago.
 
-I first picked up The _Lord of the Rings_ at the age of ten or eleven, and found it to be a merciless slog, devoid of the humor that made _The Hobbit_ so delightful. But all the cool kids were talking about it—I couldn't just *not* read it. So I decided to cheat: I flipped through to the back of the book, to see how it ended.
+I first picked up The _Lord of the Rings_ at the age of twelve or thirteen, and found it to be a merciless slog, devoid of the humor that made _The Hobbit_ so delightful. But my friends were all raving about it—I couldn't just *not* read it. So I decided to cheat: I flipped through to the back of the book, to see how it ended.
 
 What confronted me was not a climactic duel between Frodo and Sauron, but a hundred-odd pages worth of Appendices, filled with histories and genealogies and calendars, and above all *languages*. The Appendices gave me the sense that Tolkien's real goal with _The Lord of the Rings_ was not to tell the story of Frodo or Sauron but *to create the world in which those stories could be told*. I began reading Tolkien with a new purpose: to discover Middle-earth. My reward was immeasurable.
 
-What I discovered was what many others have discovered: Tolkien invented languages. Marvelous, intricate, beautiful languages. The Elvish greeting _Elen síla lúmenn' omentielvo_ isn't just pretty non&shy;sense—&shy;Tolkien worked out the grammar and history of the language (Quenya) in incredible detail. Despite appearing mostly in the Appendices, the languages were not an afterthought: they predated and in fact inspired the invention of Middle-earth. As Tolkien wrote in a letter to his publisher,
+What I discovered was what many others have discovered: Tolkien invented languages. Marvelous, intricate, beautiful languages. The Elvish greeting _Elen síla lúmenn' omentielvo_ isn't just pretty non&shy;sense —Tolkien worked out the grammar and history of the language (Quenya) in incredible detail. Despite appearing mostly in the Appendices, the languages were not an afterthought: they predated and in fact inspired the invention of Middle-earth. As Tolkien wrote in a letter to his publisher,
 
 > The invention of languages is the foundation. The <q>stories</q> were made rather to provide a world for the languages than the reverse. To me a name comes first and the story follows. I should have preferred to write in <q>Elvish</q>.[.cite letters 221]
 
@@ -50,7 +50,7 @@ The problem is, Tolkien never planned to make his languages usable—he was more
 
 This lack of practical source material means that we'll never be fluent in Sindarin—not as long as we stick to Tolkien canon. We can try to make Sindarin into a fully-usable language, but that requires creating new words and grammar that Tolkien never imagined and likely would not have approved of.
 
-So if we want to "learn Tolkien's Elvish", we're left with a dilemma. If we work only from Tolkien's examples, we don't have enough material to make a usable language. We've "learned Tolkien" but we haven't "learned Elvish". If we try to fill in the gaps, we end up with a non-canon language. We've "learned Elvish" but disregarded Tolkien.
+So if we want to "learn Tolkien's Elvish", we're left with a dilemma. If we work only from Tolkien's examples, we don't have enough material to make a usable language. We've "learned Tolkien" but we haven't "learned Elvish". If we try to fill in the gaps, we end up with a non-canon language. We've "learned Elvish" but shortchanged Tolkien.
 
 You might be wondering at this point which path you'd rather take. The purpose of this book is to make it so that you don't have to decide once and for all. You can learn about Tolkien's writings, or about how we might "complete" Sindarin, as you like. I describe both possibilities. The book is divided into sections to make it clear where one type of investigation ends and the next begins.
 
