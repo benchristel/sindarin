@@ -1,143 +1,31 @@
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<h2 class="title center">An Elvish Language</h2>
-<h2 class="subtitle center">A Guide to J. R. R. Tolkien&rsquo;s Sindarin</h2>
+@include front-matter.md
 
-<h1 class="title center">An Elvish Language</h1>
-<h2 class="subtitle center">A Guide to J. R. R. Tolkien&rsquo;s Sindarin</h2>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-!!fine-print
-
-<p class="center">Copyright © 2016 Ben Christel</p>
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this book or its associated software and documentation files (the "Work"), to deal in the Work without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Work, and to permit persons to whom the Work is furnished to do so, subject to the following conditions:
-
-1. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Work.</p>
-
-2. The Work is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringe&shy;ment. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the work or the use or other dealings in the work.</p>
-
-<p class="center"><em>An Elvish Language</em> is typeset in Garamond. Italic text uses Times New Roman. Sindarin sounds, words, and phrases are set in Gentium Book Basic. <em>Tengwar</em> text uses the Tengwar Annatar font developed by Johan Winge.</p>
-
-/!
-
-# _Mae govannen!_
-
-If you've picked up this book, I assume I don't need to introduce you to J.R.R. Tolkien. Maybe you've read _The Hobbit_ or _The Lord of the Rings_. Maybe both. Perhaps you've even delved into the _Silmarillion_ or the _History of Middle-earth_ series... or maybe you've only read the first few chapters of _The Lord of the Rings_ and put it down wondering what all the hype is about. That was my situation, years ago.
-
-I first picked up The _Lord of the Rings_ at the age of twelve or thirteen, and found it to be a merciless slog, devoid of the humor that made _The Hobbit_ so delightful. But my friends were all raving about it—I couldn't just *not* read it. So I decided to cheat: I flipped through to the back of the book, to see how it ended.
-
-What confronted me was not a climactic duel between Frodo and Sauron, but a hundred-odd pages worth of Appendices, filled with histories and genealogies and calendars, and above all *languages*. The Appendices gave me the sense that Tolkien's real goal with _The Lord of the Rings_ was not to tell the story of Frodo or Sauron but *to create the world in which those stories could be told*. I began reading Tolkien with a new purpose: to discover Middle-earth. My reward was immeasurable.
-
-What I discovered was what many others have discovered: Tolkien invented languages. Marvelous, intricate, beautiful languages. The Elvish greeting _Elen síla lúmenn' omentielvo_ isn't just pretty non&shy;sense —Tolkien worked out the grammar and history of the language (Quenya) in incredible detail. Despite appearing mostly in the Appendices, the languages were not an afterthought: they predated and in fact inspired the invention of Middle-earth. As Tolkien wrote in a letter to his publisher,
-
-> The invention of languages is the foundation. The <q>stories</q> were made rather to provide a world for the languages than the reverse. To me a name comes first and the story follows. I should have preferred to write in <q>Elvish</q>.[.cite letters 221]
-
-In light of such strong statements, it's clear that to understand Tolkien's work we need to share, or at least acknowledge, his passion for language.
-
-However, Tolkien never shared this passion readily. He was always rather shy and self-deprecating about his language-creation habit, calling it a "secret vice" and a "mad hobby"[.cite letters 8]. He never sought to publish an Elvish grammar or dictionary—perhaps because he thought no one would be interested, but also because he loved the total creative freedom he had as a language inventor. Publishing information about Elvish would have forced him to get the languages into a "final" form and then stop working on them, and that was something he could never bring himself to do. For Tolkien, the fun of invented languages was in creating and re-creating, not in using a "finished" product.
-
-Of course, we non-Tolkien people can't experience the joy of *creating* the Elvish languages. But we can *discover* them, and since our eyes are newly opened to Middle-earth, our experience will be fresher and keener than even the experience of a creator.
-
-## Tolkien's Languages
-
-Tolkien imagined many different languages being spoken in Arda[.note The name of Tolkien's fictional world, as a whole. _Middle-earth_ is properly the name of only one continent in that world.], but he really developed only two of them: the Elvish tongues **Quenya** and **Sindarin**. Quenya and Sindarin are sibling languages—they developed from a common ancestor, **Eldarin**, much as French and Spanish both developed from Latin. Tolkien worked out the evolution of each language in some detail, and this historical consistency is a huge help when trying to decipher the languages. Since Quenya and Sindarin are related we can use what we know about one to make educated guesses about the grammar and vocabulary of the other.
-
-The Elvish languages are not designed to mirror any particular real-world languages, but Tolkien drew inspiration from the real languages he knew and loved. Quenya's abundant <em>L</em>s, rolled <em>R</em>s, and vowels echo Finnish and Latin:
-
-> _Ai! laurië lantar lassi súrinen,_
-> _Yéni únótimë ve rámar aldaron!_
-> _Yéni ve lintë yuldar avánier_
-> _mi oromardi lisse-miruvóreva [. . .]_[.note _The Fellowship of the Ring_, p. 394]
-
-Sindarin, by contrast, was inspired by Tolkien's first love, Welsh. Most words end in a consonant, and the hard consonants **T**, **P**, and **K** favored by Quenya were often "softened" to **D**, **B**, and **G**. Sindarin also has the sound **TH**, which was replaced by **S** in Quenya.
-
-> _A Elbereth Gilthoniel,_
-> _silivren penna míriel_
-> _o menel aglar elenath!_
-> _Na-chaered palan-díriel_
-> _o galadhremmin ennorath,_
-> _Fanuilos, le linnathon,_
-> _nef aear, sí nef aearon!_[.note _The Fellowship of the Ring_, p. 250]
-
-This book is about Sindarin—though I refer frequently to Quenya words and constructions that help shed light on Sindarin.
-
-## Learning Tolkien's Languages
-
-Beginner-friendly guides to Elvish are often structured as language courses: they start out with some basic phrases and vocabulary, building up from there with examples of sentences and dialogue. By the end of the course, you have an understanding of the grammar and a feel for how to use the language in your own compositions.
-
-The problem is, Tolkien never planned to make his languages usable—he was more interested in just making up words and imagining how they changed over time. His linguistic notes reflect this: they're full of beautiful words and historical details, but short on practical advice to language-learners.
-
-This lack of practical source material means that we'll never be fluent in Sindarin—not as long as we stick to Tolkien canon. We can try to make Sindarin into a fully-usable language, but that requires creating new words and grammar that Tolkien never imagined and likely would not have approved of.
-
-So if we want to "learn Tolkien's Elvish", we're left with a dilemma. If we work only from Tolkien's examples, we don't have enough material to make a usable language. We've "learned Tolkien" but we haven't "learned Elvish". If we try to fill in the gaps, we end up with a non-canon language. We've "learned Elvish" but shortchanged Tolkien.
-
-You might be wondering at this point which path you'd rather take. The purpose of this book is to make it so that you don't have to decide once and for all. You can learn about Tolkien's writings, or about how we might "complete" Sindarin, as you like. I describe both possibilities. The book is divided into sections to make it clear where one type of investigation ends and the next begins.
-
-The first section, **Roots**, describes the hard core of Tolkien's Sindarin—the parts of the language about which we're relatively certain, and which survived many, many cycles of Tolkien's ceaseless revision. Examples from _The Lord of the Rings_ provide most of the data, though I also refer to Tolkien's posthumously-published notes when they show that some feature of the language stayed constant throughout his life. Reading just this section will give you a solid understanding of the Sin&shy;darin in _LotR_. You'll be able to pronounce the words, write in _tengwar_, and put together Sindarin phrases of your own.
-
-The second section, **Branches**, is about the tough decisions that Tolkien made (or avoided) when working out the grammar of Sindarin —there are many parts of the language where he just couldn't make up his mind. Often, we know that he considered multiple options for a particular piece of the grammar, but it's not clear which one he settled on or if he even did settle on anything. In such cases, I think it's best to describe the alternatives and their ramifications.
-
-The final section, **Scattered Leaves**, covers the various attempts that have been made to "complete" Sindarin. You'll need to read this section to understand the Sindarin dialogue in the _Lord of the Rings_ movies, since the language used there is largely a post-Tolkien invent&shy;ion.
-
-## Online Resources
-
-This book is designed to complement the existing online resources for learning Sindarin, not to replace them. That's why I haven't included a dictionary or a list of Sindarin texts—you can easily find these on the web. That being said, the online resources vary widely in quality, so I've posted a list of trusted links at **menegroth.github.io/links.html**
-
-## Feedback
-
-This book is a work in progress—the current version is in fact an alpha release, intentionally left incomplete in the interest of getting feedback on the project before I sink too much time into it. If you read what I've written so far and want more, please email me! Criticism is also very welcome, especially if you find actual mistakes (which I'm sure I've made), or you find a particular section hard to understand.
-
-You can reach me at:
-
-<p class="center">Ben Christel<br/>contact.menegroth@gmail.com</p>
-
-# Table of Contents
+@include intro.md
 
 @include table-of-contents.md
 
+@include sindarin-overview.md
+
 # <a name="pronunciation">Pronunciation</a>
 
-It's hard to learn pronunciation from a book—an audio recording is worth a thousand words of print. This chapter will give you the basics, but you should also check out the online resources. These include recordings of Tolkien pronouncing Sindarin words from _The Lord of the Rings_—naturally the ultimate source for learning to say them correctly yourself. You can find a list of links at
+It's hard to learn pronunciation from a book—an audio recording is worth a thousand words of print. This chapter will give you the basics, but you should also check out the online resources. These include recordings of Tolkien pronouncing Sindarin words from _The Lord of the Rings_—naturally the ultimate source for learning to say them correctly yourself. You can find a list of links at menegroth.github.io/links.html.
 
-menegroth.github.io/links.html.
+Of course, the truly authoritative source for Sindarin pronunciation is Appendix E of _The Lord of the Rings_, upon which much of the material here is based.
 
-## Standard Fantasy Phonology
+## The Sounds of Sindarin
 
-Tolkien's languages have many imitators in fantasy literature, probably because they balance nicely between familiar and exotic. If you pronounce Sindarin like Latin or Greek you won't be far off.
-
-It's nice that Sindarin's spelling is _phonetic_, so each sound has only one possible spelling. Still, Tolkien uses some sounds and spellings that differ enough from English to deserve mention.
+Tolkien's languages have many imitators in fantasy literature, probably because they balance nicely between familiar and exotic. If you pronounce Sindarin like Latin or Greek you won't be far off. Still, Tolkien uses some sounds and spellings that differ enough from English to deserve mention, and these are discussed in detail below. The good news is that Sindarin's spelling is _phonetic_, so if you know how a word is pronounced, you can figure out how to spell it with 100% accuracy.
 
 ### Consonants
 
 - [.s C] and [.s G] are always hard, as in _cat_ and _get_. [.s Celeborn] is pronounced "Keleborn".
 - [.s CH] is the sound in German _Bach_. If this sound gives you trouble, you could pronounce it [.s H] or [.s K], as the Gondorians did. In the Gondor dialect the place-name [.s Rochann] was pronounced [.s Rohan]—hence the spelling used in _LotR_.
 - [.s R] is tapped or trilled, as in Spanish.
-- [.s F] is usually pronounced as in English, but at the end of a word it sounds like [.s V] (think English "of"). The word [.s nef] "on this side of" is pronounced _nev_ as in _never_. This quirk of spelling probably hearkens back to Tolkien's fondness for Welsh, where _f_ has a V-sound.
 - [.s TH] and [.s DH] are the sounds of _thin_ and _this_, respectively. The difference is that when you say _this_ your vocal cords are vibrating—put a finger on your throat and you can feel the difference.
-- [.s LH] and [.s RH] are like [.s L] and [.s R] pronounced voicelessly—that is, with no vocal cord vibration. These sounds are lifted straight from Welsh, where they're spelled _LL_ and _RH_: _Llewellyn_, _Rhiannon_.
+- [.s LH] and [.s RH] are like [.s L] and [.s R] pronounced _voicelessly_—that is, with no vocal cord vibration. These sounds are lifted straight from Welsh, where they're spelled _LL_ and _RH_: _Llewellyn_, _Rhiannon_.
 - [.s HW] is similarly a voiceless version of [.s W]. This is the WH-sound in _whale_, in varieties of English that pronounce it differently from _wail_.
 - [.s S] is *always* voiceless—it never has a Z-sound, even at the end of a word. The last syllable of [.s Fanuilos] "Everwhite" sounds like _loss_.
-- [.s W] by itself is pronounced as in English—but unlike in English it can appear at the end of a word. To pronounce [.s têw] "letter", try saying "teh win", but stopping at the "w".
-- [.s I] is normally a vowel but moonlights as a consonant. When it appears before another vowel at the beginning of a word, it sounds like the Y in _yes_. So [.s ionnath] "sons" and [.s Ioreth] "Old Woman" begin with a _yo_ sound.
-- [.s NG], between vowels, is pronounced with a hard [.s G] as in _finger_. At the end or beginning of a word, it's pronounced as in _ring_.
-
-(Yes, you read that right: [.s NG] can _begin_ a word in Sindarin, as in [.s i&nbsp;ngaurhoth] "the werewolf-horde". This can be hard for English-speakers, but fortunately word-initial [.s NG] almost always follows a vowel. If you say _ing aurhoth_ probably no one will notice.)
+- [.s NG], between vowels, is pronounced with a hard [.s G] as in _finger_. elsewhere, it's pronounced as in _ring_.
 
 ### Vowels
 
@@ -178,10 +66,35 @@ Here is the complete list of Sindarin diphthongs:
 
 * [.s AI]: as in &ldquo;[.hi ai]sle&rdquo;
 * [.s AE]: no English equivalent. [.s AE] is a glide from an [.s A] into an [.s E]. The resulting sound should be similar to [.s AI]; Tolkien even suggested pronouncing [.s AE] the same as [.s AI] if you're not picky. Or you could aim for a Mirkwood accent and pronounce it like [.s E]: compare Mirkwood [.s Legolas] to Classical Sindarin [.s Laegolas].
-* [.s AU] or [.s AW]: like "ou" in &ldquo;h[.hi ou]se&rdquo;. [.s AU] and [.s AW] are simply variant spellings of the same sound.
+* [.s AU]: like _ou_ in &ldquo;h[.hi ou]se&rdquo;.
 * [.s EI]: as in &ldquo;w[.hi ei]gh&rdquo;
-* [.s OE]: like "oy" in &ldquo;b[.hi oy]&rdquo;, but ending in an "eh" sound.
-* [.s UI]: as in "ruin", but ending in a tense "ee" sound rather than the "ih" sound. Tolkien noted that this was a "long diphthong" and scanned as two syllables in poetry: hence [.s Fanuilos, le linnathon] in the Hymn to Elbereth, where the meter requires eight syllables per line.
+* [.s OE]: like _oy_ in &ldquo;b[.hi oy]&rdquo;, but ending in an "eh" sound.
+* [.s UI]: as in _ruin_, but ending in an "ee" sound rather than the "ih" sound. Tolkien noted that this was a "long diphthong" and scanned as two syllables in poetry: hence [.s Fanuilos, le linnathon] in the Hymn to Elbereth, where the meter requires eight syllables per line.
+
+## Special Cases
+
+### At the end of a word:
+
+* [.s V]: The [.s V]-sound is spelled [.s F] at the end of a word: [.s nef] "on this side of" is pronounced as _nev_ in _never_. When the [.s F]-sound occurs at the end of a word, it's spelled [.s PH], as in [.s alph] "swan". This quirk of spelling probably hearkens back to Tolkien's fondness for Welsh, where _F_ has a V-sound.
+* [.s AU] is spelled [.s AW] word-finally: [.s caw] "top" sounds very similar to _cow_.
+* [.s W] can occur word-finally, which can be troublesome for English-speakers. To pronounce [.s têw] "letter", try saying "teh win" but stop at the _w_. In any case, [.s têw] should never be pronounced as if it rhymes with _new_.
+
+### At the beginning of a word
+
+* [.s IA], [.s IAU], [.s IE], [.s IO], [.s IUI]: When these combinations appear word-initially, the [.s I] sounds like the _y_ in _yes_. So [.s ionnath] "sons" and [.s Ioreth] "Old Woman" begin with a _yo_ sound.
+* [.s ND], [.s MB], [.s NG]: These clusters can occur at the beginning of a word. Pronouncing these sounds is arguably the most challenging aspect of Sindarin pronunciation for English speakers, though it can certainly be mastered with practice. You may be happy to know that these word-initial clusters only arise due to mutations and therefore almost always follow a vowel, as in [.s i mbair] "the lands". This makes things somewhat easier; if you say _im bair_ probably no one will notice.
+
+To complicate matters, the spelling [.s NG] is actually ambiguous at the beginning of a word. Sometimes it represents a single, unitary sound, the _ng_ in _ring_, while at other times it represents that sound plus _g_, as in _finger_. Each sound arises from a different type of mutation. At this point, you don't have to worry about the distinction—pronouncing either of these sounds correctly is hard enough for a first lesson!
+
+## Long Consonants
+
+In addition to having long and short vowels, Sindarin makes a contrast between long and short consonants. English also has this contrast in a few cases: _unaimed_ has a short _n_, while _unnamed_ (if you're trying to pronounce it differently from _unaimed_) has a long _n_.
+
+In Sindarin spelling, a doubled letter means the consonant is long. For example, [.s melon] "I love" has a short [.s L], while [.s mellon] "friend" has a long [.s L].
+
+[.s PH] is a tricky exception: at the beginning or end of a word it's a short [.s F]-sound, pronounced as in _photograph_. However, in the middle of a word, it's long: [.s ephel] "outer fence" is pronounced _ef-fel_.
+
+[.TODO wtf is the deal with M vs MM? or S vs SS?]
 
 ## <a name="splitting-up-letter-combinations">Spelling Ambiguities</a>
 
@@ -233,69 +146,6 @@ Note that in the last case it's consonant *sounds*, not letters, that are import
 ### Possible Exceptions to the Stress Rule
 
 There are some Sindarin names that don't seem to follow the stress rules in Appendix E, among them [.s Imladris] (Rivendell) and [.s Nargothrond]. These "should" be stressed [.s Im<span class="hi">lad</span>ris], [.s Nar<span class="hi">goth</span>rond], because the second-to-last syllable of each is followed by two consonants. However, we can observe that both are stressed on the first syllable in poetry. This issue is covered in depth <a class="pageref" href="#irregular-stress"></a>.
-
-# <a name="selected-vocabulary">Selected Vocabulary</a>
-
-This is just a short selection of the most common Sindarin words. It should be just enough to give you a feel for the sound of the language, and let you practice your pronunciation. A comprehensive dictionary would take a book of its own, but fortunately for me I don't have to write one, since there are several good Sindarin wordlists available online. You can find links to them at the URL below:
-
-<p class="center">menegroth.github.io/links.html</p>
-
-## People
-
-- [.s Adan] "Man", especially one of the Elf-friends of the houses of Bëor, Haleth, and Marach. Plural [.s Edain]. See _Letters_ #211, p. 282.
-- [.s edhel] "elf", plural [.s edhil].
-- [.s ellon] "Elf-man", i.e. a male elf.
-- [.s elleth] "elf-woman"
-- [.s Onod] "Ent", plural [.s Enyd]
-- [.s Ithron] "Wizard", plural [.s Ithryn]
-- [.s mellon] "friend", pl. [.s mellyn]
-- [.s perian] "hobbit", plural [.s periain]
-- [.s naug] "dwarf", pl. [.s noeg]
-- [.s naugrim] "dwarf-folk"
-- [.s thalion] "hero", pl. [.s thelyn]
-- [.s fíreb] "mortal", pl. [.s fírib]
-
-## Places
-
-- [.s orod] "mountain", pl. [.s eryd]
-- [.s amon] "hill", pl. [.s emyn]
-- [.s taur] "forest"
-- [.s Amon Amarth] "Mount Doom"
-- [.s Imladris] "Rivendell"
-- [.s Minas Tirith] "Tower of the Guard"
-- [.s Minas Morgul] "Tower of Sorcery"
-- [.s Barad-dûr] "Dark Tower", Sauron's stronghold
-
-## Things
-
-- [.s lembas] "waybread"
-- [.s nen] "water"
-- [.s corf] "ring"
-- [.s parf] "book"
-- [.s têw] "letter", pl. [.s tîw]
-- [.s Ithil] "the Moon"
-- [.s Anor] "the Sun". See the Index to _LotR_, Section IV "Things".
-- [.s galadh] "tree"
-- [.s orn] "tree"
-- [.s gil] "star"
-
-## Verbs
-
-N.B.: All of these verbs are given in their _imperative_ or "command" form—so they work for telling someone to do something, but not for describing what they did. For more verb forms, you'll have to read the upcoming chapters!
-
-- [.s Noro!] "Run!"
-- [.s Daro!] "Halt!"
-- [.s Linno!] "Sing!"
-- [.s Mado!] "Eat!"
-- [.s Minno!] "Enter!"
-- [.s Pedo!] "Speak!"
-
-## Miscellaneous
-
-- [.s a] "and"
-- [.s i] "the", but only before singular nouns beginning in [.s F], [.s L], [.s N], [.s TH], [.s W], or a vowel. For other words, there's some extra grammar you need to know.
-- [.s in] "the", used for plural nouns beginning in a vowel: [.s in edhil] "the elves", [.s in eryd] "the mountains".
-- [.s Ai!] "Alas!" or "Oh no!"
 
 # <a name="writing-systems">The Tengwar</a>
 

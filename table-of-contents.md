@@ -1,13 +1,14 @@
+# Table of Contents
 
 <ul class="toc">
   <li>
     <h4>Roots</h4>
     <ul>
         <li>
-          <p><a href="#pronunciation">Pronunciation</a></p>
+          <p><a href="#selected-vocabulary">Selected Vocabulary</a></p>
         </li>
         <li>
-          <p><a href="#selected-vocabulary">Selected Vocabulary</a></p>
+          <p><a href="#pronunciation">Pronunciation</a></p>
         </li>
         <li>
           <p><a href="#writing-systems">The Tengwar</a></p>
