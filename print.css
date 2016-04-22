@@ -139,6 +139,10 @@
         content: " on page " target-counter(attr(href), page)
     }
 
+    .fine-print {
+        font-size: 8pt;
+    }
+
     .s, .sindarin {
         font-family: 'Gentium Book Basic';
         font-weight: bold;
