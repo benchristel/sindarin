@@ -238,8 +238,8 @@
 
     .tab {
         display: inline-block;
-        margin-left: 2em;
-        width: 1em;
+        margin-left: 1em;
+        width: 2em;
     }
 
     /* FOOTNOTES */
