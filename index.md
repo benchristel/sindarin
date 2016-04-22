@@ -1,14 +1,19 @@
 # Links for Tolkien Language Learners
 
-## General Interest
+## Dictionaries
 
-- ["Elvish as She Is Spoke," by Carl F. Hostetter](http://www.elvish.org/articles/EASIS.pdf) – [.toc-detail An overview of the difficulties facing the aspiring student of Elvish, and a cogent suggestion for how to overcome them. Hosted by <a href="http://www.elvish.org/">the Elvish Linguistic Fellowship</a>.]
-- [Ardalambion ("Of the Tongues of Arda")](http://folk.uib.no/hnohf/) – [.toc-detail Helge Fauskanger's site covering many aspects of Tolkien's linguistic creations. His Quenya language course can be found there.]
-- [Parma Tyelpelassiva ("Book of Silver Leaves")](http://www.science-and-fiction.org/elvish/index.html) – [.toc-detail Thorsten Renk's site containing Sindarin and Quenya courses, plus many fan-made compositions in Elvish.]
+- [Eldamo](http://eldamo.org) – Paul Strack's project to collect all the examples of Elvish in Tolkien's works into an annotated cross-referenced wordlist. A must-visit for any aspiring Tolkien scholar!
+- [Hiswelókë](http://www.jrrvf.com/hisweloke/sindar/online/english.html) – Despite the Quenya name, Hiswelókë is an online Sindarin dictionary.
 
 ## Pronunciation
 
-- [Glǽmscrafu](http://www.jrrvf.com/~glaemscrafu/english/tolkienhimself.html) - [.toc-detail has recordings of Tolkien pronouncing Elvish words and poems from _The Lord of the Rings_]
+- [Glǽmscrafu](http://www.jrrvf.com/~glaemscrafu/english/tolkienhimself.html) has recordings of Tolkien pronouncing Elvish words and poems from _The Lord of the Rings_.
+
+## General Interest
+
+- ["Elvish as She Is Spoke," by Carl F. Hostetter](http://www.elvish.org/articles/EASIS.pdf) – An overview of the difficulties facing the aspiring student of Elvish, and a cogent suggestion for how to overcome them. Hosted by <a href="http://www.elvish.org/">the Elvish Linguistic Fellowship</a>.
+- [Ardalambion ("Of the Tongues of Arda")](http://folk.uib.no/hnohf/) – Helge Fauskanger's site covering many aspects of Tolkien's linguistic creations. His Quenya language course can be found there.
+- [Parma Tyelpelassiva ("Book of Silver Leaves")](http://www.science-and-fiction.org/elvish/index.html) – Thorsten Renk's site containing Sindarin and Quenya courses, plus many fan-made compositions in Elvish.
 
 # The Fine Print
 
