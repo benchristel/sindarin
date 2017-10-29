@@ -18,14 +18,19 @@
         font-size: 9pt;
     }
 
-    .page-break {
+    .page-break.left {
       page-break-before: left;
+    }
+
+    .page-break.right {
+      page-break-before: right;
     }
 
     h1.title {
         font-style: italic;
         font-weight: bold;
         page-break-before: avoid;
+        string-set: left-page-header '';
         margin-bottom: 0;
         padding: 0;
     }
@@ -91,7 +96,7 @@
         margin-top: 1em;
     }
 
-    h1 {
+    h1:not(.title) {
         page-break-before: left;
         string-set: right-page-header content(), left-page-header '', page-number '';
         font-size: 22pt;
