@@ -1,3 +1,4 @@
+<div class="page-break"></div>
 <br/>
 <br/>
 <br/>
@@ -5,15 +6,16 @@
 <br/>
 <br/>
 <br/>
-<h2 class="title center">An Elvish Language</h2>
-<h2 class="subtitle center">A Guide to J. R. R. Tolkien&rsquo;s Sindarin</h2>
+<h1 class="title center">How to Think in Elvish</h2>
+<h2 class="subtitle center">And Why</h2>
 
-<h1 class="title center">An Elvish Language</h1>
-<h2 class="subtitle center">A Guide to J. R. R. Tolkien&rsquo;s Sindarin</h2>
+<div class="page-break"></div>
+<br/>
+<br/>
+<br/>
+<h1 class="title center">How to Think in Elvish</h1>
+<h2 class="subtitle center">And Why</h2>
 
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
@@ -32,6 +34,6 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 2. The Work is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringe&shy;ment. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the work or the use or other dealings in the work.</p>
 
-<p class="center"><em>An Elvish Language</em> is typeset in Garamond. Italic text uses Times New Roman. Sindarin sounds, words, and phrases are set in Gentium Book Basic. <em>Tengwar</em> text uses the Tengwar Annatar font developed by Johan Winge.</p>
+<p class="center">This book is typeset in Iowan Old Style. <em>Tengwar</em> text uses the Tengwar Annatar font developed by Johan Winge. This part of a book is called a "colophon"!</p>
 
 /!

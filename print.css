@@ -7,7 +7,7 @@
 
 @media print {
     * {
-        font-family: 'GaramondNo8';
+        font-family: 'Iowan Old Style';
         font-weight: normal;
         padding: 0;
         margin: 0;
@@ -15,7 +15,26 @@
     }
 
     body {
-        font-size: 10pt;
+        font-size: 9pt;
+    }
+
+    .page-break {
+      page-break-before: left;
+    }
+
+    h1.title {
+        font-style: italic;
+        font-weight: bold;
+        page-break-before: avoid;
+        margin-bottom: 0;
+        padding: 0;
+    }
+
+    h2.subtitle {
+        font-style: italic;
+        font-weight: bold;
+        margin-bottom: 0;
+        padding: 0;
     }
 
     p {
@@ -24,7 +43,7 @@
         text-indent: 1em;
         orphans: 2;
         widows: 2;
-        string-set: left-page-header 'AN ELVISH LANGUAGE', page-number counter(page);
+        string-set: left-page-header 'HOW TO THINK IN ELVISH AND WHY', page-number counter(page);
     }
 
     ul {
@@ -144,7 +163,6 @@
     }
 
     .s, .sindarin {
-        font-family: 'Gentium Book Basic';
         font-weight: bold;
         font-style: italic;
         letter-spacing: 0.02em;
@@ -175,10 +193,6 @@
 
     .letterform {
         font-size: 2em;
-    }
-
-    em, i {
-        font-family: 'Times New Roman'
     }
 
     .tai {
@@ -278,14 +292,12 @@
         @top-left {
             content: string(page-number, first);
             font-size: 0.1111in;
-            font-family: 'Times New Roman';
             margin-top: 0.25in;
         }
 
         @top-center {
             content: string(left-page-header, first);
             font-size: 0.1111in;
-            font-family: 'Times New Roman';
             margin-top: 0.25in;
             letter-spacing: 0.1em;
         }
@@ -295,7 +307,6 @@
         @top-right {
             content: string(page-number, first);
             font-size: 0.1111in;
-            font-family: 'Times New Roman';
             margin-top: 0.25in;
         }
 
@@ -303,7 +314,6 @@
             content: string(right-page-header, first);
             text-transform: uppercase;
             font-size: 0.1111in;
-            font-family: 'Times New Roman';
             margin-top: 0.25in;
             letter-spacing: 0.1em;
         }
