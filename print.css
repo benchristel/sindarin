@@ -97,7 +97,9 @@
     }
 
     h1:not(.title) {
-        page-break-before: left;
+        padding-top: 24pt;
+        padding-bottom: 24pt;
+        page-break-before: right;
         string-set: right-page-header content(), left-page-header '', page-number '';
         font-size: 22pt;
     }
@@ -171,6 +173,16 @@
         font-weight: bold;
         font-style: italic;
         letter-spacing: 0.02em;
+    }
+
+    .example {
+      font-size: 12pt;
+      margin-top: 8pt;
+      margin-bottom: 8pt;
+    }
+
+    .example p {
+      text-indent: 0;
     }
 
     .hi {
