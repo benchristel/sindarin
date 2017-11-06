@@ -82,3 +82,9 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 <p class="s">Na van tôg i ven hen?</p>
 <p>&ldquo;Where does this road lead?&rdquo;</p>
 <p>—David Salo, &ldquo;The Elvish Phrase Book&rdquo;</p>
+<br/>
+<br/>
+
+<p style="font-family:'Times New Roman'"><b>道可道，非常道。名可名，非常名</b></p>
+<p>&ldquo;The Way that can be followed is not the eternal Way.<br/>The name that can be named is not the eternal name.&rdquo;</p>
+<p>—Laozi, <em>Daode jing</em></p>
