@@ -228,4 +228,19 @@ On to the third and fourth rows, where the _telqui_ point up instead of down. Th
 
 The letters in the fifth row are _nasals_ (sounds that redirect air through the nose). These are all voiced, hence the double _lúvar_.
 
-If we look at the _columns_ of the table, a complementary pattern emerges. The first column has all the _dental_ consonants, which place the tip of the tongue on (or just behind) the upper teeth. The second column is all _labial_ consonants, which involve the lips. And the third and fourth columns are _palatal_ and _velar_ consonants, in which the tongue rises to the roof of the mouth.
+If we look at the _columns_ of the table, a complementary pattern emerges. The first column has all the _coronal_ consonants, which use the tip of the tongue to stop the airflow. The second column is all _labial_ consonants, which involve the lips. And the third and fourth columns are _palatal_ and _velar_ consonants, in which the back of the tongue rises to the roof of the mouth.
+
+What about the gaps in the table, the _tengwar_ with no corresponding English letter? Although these _tengwar_ aren't used for English, they are used for other languages, including Sindarin and Quenya.
+
+## Terminology in This Chapter
+
+The Elvish terms here are Quenya, not Sindarin. This is because the _tengwar_ were invented by Fëanor, a Quenya-speaking Elf, and only used for Sindarin much later in Middle-earth's history.
+
+- [.s tengwa] — literally "sign", this refers to a single Elvish letter. The plural, [.s tengwar] "signs", is the word used to refer to the whole writing system.
+- [.s tehta] — a mark written above a _tengwa_. When writing English, they represent vowels. The plural is _tehtar_.
+- [.s telco] — literally "stem"; the vertical line that forms the backbone of many _tengwar_. The plural is [.s telqui].
+- [.s lúva] — literally "bow"; the curved part of _tengwar_ that have a _telco_. The plural is [.s lúvar].
+- [.s coronal consonant] — a sound that involves the front of the tongue touching the upper teeth, or the roof of the mouth just behind the upper teeth. Examples include T, TH, D, and N.
+- [.s labial consonant] — a sound that involves closing or constricting the lips. Examples: P, F, B, and M.
+- [.s velar consonant] — a sound that involves the back of the tongue touching the _velum_, or soft palate, at the back of the mouth.
+- [.s palatal consonant] — a sound that involves contact between the tongue and the hard palate, near the middle of the roof of the mouth.
