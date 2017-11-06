@@ -185,6 +185,12 @@
       text-indent: 0;
     }
 
+    .example .ti:not(.letterform) {
+      font-family: tengwaritaliclight;
+      line-height: 200%;
+      font-size: 14pt;
+    }
+
     .hi {
         /*border-bottom: 0.5pt solid black;*/
         text-decoration: underline;

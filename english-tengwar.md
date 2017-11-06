@@ -1,23 +1,28 @@
-<a href="table-of-contents.html" class="nav nav-left">Table of Contents</a>
+Tolkien's _tengwar_ script is instantly recognizable—nothing evokes "elvish" like a snippet of _tengwar_ text. It's easy to understand why the _tengwar_ are popular—you don't have to be a Tolkien buff or a language geek to be struck by their beauty.
 
-# Writing English with Tengwar
-
-The elvish writing you probably remember and recognize from _The Lord of the Rings_ is called [.q tengwar], a Quenya word meaning "signs". The tengwar are very versatile, well-suited to elvish languages but also adaptable to other uses. For example, the inscription on the One Ring used tengwar, but was in the Black Speech of Mordor.
-
-[.figure-title The Ring Inscription]
-
-<div class="center text">
-<p>
+<p class="center text">
 [.tai &#187;][.ti AE5,Ex26Yw1E<span class="tai">j</span>^z<span class="tai">H</span>&#186; AE5,ExxwP%1Ej^][.tai &#171;]
 </p>
-<p>
+<p class="center text">
 [.ti AE5,Ex37zE1E<span class="tai">j</span>^z<span class="tai">H</span>&#186; X#w6Ykt^AT`Bz7qpT1Ej^]
 </p>
-</div>
 
-Another inscription, in a very different language and style, was encountered by the Fellowship on the gates of Moria.
+That's the One Ring inscription, probably the most famous example of the Elvish script. But if you get it tattooed around your arm and claim that it's in an Elvish *language*, the joke's on you—it's actually Sauron's Black Speech, written with _tengwar_ letters. Transcribed into our Roman alphabet, the Ring inscription goes:
 
-[.figure-title The Moria Gate Inscription]
+<p class="center text">
+<em>
+Ash nazg durbatulûk, ash nazg gimbatul,<br/>
+ash nazg thrakatulûk agh burzum-ishi krimpatul.
+</em>
+</p>
+
+Not sounds that any Elf would want to utter!
+
+This serves to highlight an important point: the _tengwar_ aren't a language; they're a writing system that, much like our own alphabet, can be applied to many different languages. To further drive the point home, the first language we're going to learn to write with _tengwar_ will be English.
+
+!!TODO
+
+remove this? (Moria gate inscription)
 
 <div class="center text">
 <p>
@@ -27,6 +32,200 @@ Another inscription, in a very different language and style, was encountered by 
 
 The Moria gate inscription was in Sindarin. The tengwar read: [.s Ennyn Durin Aran Moria: pedo mellon a minno. Im Narvi hain echant: Celebrimbor o Eregion teithant i thiw hin.] "The Doors of Durin, Lord of Moria. Speak, friend, and enter. I, Narvi, made them. Celebrimbor of Hollin drew these signs."
 
-One effect of this versatility was that the elves developed multiple styles of writing Sindarin with tengwar. Three of these styles, the **Mode of Beleriand**, the **Mode of Gondor**, and the **Consonantal Mode**, will be covered in a later section.
+/!
 
-First, however, I will discuss a very different adaptation of the elvish script: the use of tengwar to write in English. There are a few reasons why I think this is the best way to start learning the tengwar, the main one being that if you're reading the chapters of this book in order, you don't yet know any Sindarin words, so learning how to write Sindarin in tengwar at this stage is not very useful. Additionally, the tengwar are very different from our alphabet, not just in their shapes but in the way the whole writing system is organized, and learning how those differences apply to a familiar language like English will be much easier than trying to figure them out in a language you don't know yet. And finally, if you want to introduce your friends to tengwar-writing, they probably won't have the patience to learn Sindarin, but they might be interested in having a secret code to write English.
+Why start with English, since most of this book is about Sindarin? The main reason is that if you're reading this book front-to-back, you don't yet know any Sindarin words, so learning how to write Sindarin in _tengwar_ at this stage is not very useful. Additionally, the _tengwar_ are very different from our alphabet, not just in their shapes but in the way the whole writing system is organized, and learning how those differences apply to a familiar language like English will be much easier than trying to figure them out in a language you don't know yet. And finally, if you want to introduce your friends to _tengwar_-writing, they probably won't have the patience to learn Sindarin, but they might be interested in having a secret code to write English.
+
+There is no "official" way of writing English with Sindarin, because as far as we know, Tolkien never wrote down instructions for how to do it. He was mainly interested in how his languages were used in Middle-earth, and didn't much care about adapting his writing system to real-world languages.
+
+What follows is one possible system for writing English with _tengwar_. It has the advantage that, once learned, it is fairly simple, yet it is difficult for anyone who doesn't know it to crack the code. It's also well-suited to calligraphy; with a little practice you'll be able to make some pretty awesome Ring-inscription-style lettering.
+
+Here are the main letters with their English equivalents:
+
+<table class="col-3 columns">
+<tr>
+<td>
+<ul>
+<li>[.tab A][.t.letterform &#93;]</li>
+<li>[.tab B][.t.letterform w]</li>
+<li>[.tab C][.t.letterform a]</li>
+<li>[.tab CH][.t.letterform d]</li>
+<li>[.tab D][.t.letterform 2]</li>
+<li>[.tab E][.t.letterform l]</li>
+<li>[.tab F][.t.letterform e]</li>
+<li>[.tab G][.t.letterform x]</li>
+<li>[.tab H][.t.letterform 9]</li>
+<li>[.tab I][.t.letterform `]</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>[.tab J][.t.letterform f]</li>
+<li>[.tab K][.t.letterform z]</li>
+<li>[.tab L][.t.letterform j]</li>
+<li>[.tab M][.t.letterform t]</li>
+<li>[.tab N][.t.letterform 5]</li>
+<li>[.tab NG][.t.letterform b]</li>
+<li>[.tab O][.t.letterform h]</li>
+<li>[.tab P][.t.letterform q]</li>
+<li>[.tab Q][.t.letterform zê]</li>
+<li>[.tab R][.t.letterform 7]</li>
+</ul>
+</td>
+</td>
+<td>
+<ul>
+<li>[.tab S][.t.letterform i]</li>
+<li>[.tab SH][.t.letterform 8]</li>
+<li>[.tab T][.t.letterform 1]</li>
+<li>[.tab TH][.t.letterform 3]</li>
+<li>[.tab U][.t.letterform .]</li>
+<li>[.tab V][.t.letterform r]</li>
+<li>[.tab W][.t.letterform n]</li>
+<li>[.tab X][.t.letterform z|]</li>
+<li>[.tab Y][.t.letterform ~]</li>
+<li>[.tab Z][.t.letterform ,]</li>
+</ul>
+</td>
+</tr>
+</table>
+
+When you're putting these together into words, make sure the central curly bits (_lúvar_ in Quenya) of the letters all sit on the same line. Here's an example:
+
+!!example
+
+[.t 3\`i whhz 1ljji he 3l j&#93;b.&#93;xli he 3l ljrli &#93;52 9hn 3l~ &#93;7l iqhzl5 &#93;52 n7\`11l5]
+
+/!
+
+And here is the same text in a cursive style:
+
+!!example
+
+[.ti 3\`i whhz 1ljji he 3l j&#93;b.&#93;xli he 3l ljrli &#93;52 9hn 3l~ &#93;7l iqhzl5 &#93;52 n7\`11l5]
+
+/!
+
+If you're satisfied with being able to read that, you can skip to the next chapter. You'll notice though, that the example above has none of the dots and curls (_tehtar_ in Quenya) above the letters that make the ring inscription so cool-looking. If you want to add some flair to your _tengwar_ writing, read on to learn how _tehtar_ work.
+
+## Using _Tehtar_
+
+Essentially, the _tehtar_ are abbreviations for the vowel letters. Instead of writing out the vowel, you can put a _tehta_ over the preceding consonant.
+
+The _tehta_ for [.s A] is three dots or strokes over the consonant letter. Note the different print and cursive variants.
+
+!!example
+
+[.tab NA] [.t.letterform 5#] / [.ti.letterform 5#]
+
+/!
+
+The _tehta_ for [.s E] is a long stroke going up and to the right.
+
+!!example
+
+[.tab NE] [.t.letterform 5$] / [.ti.letterform 5$]
+
+/!
+
+The _tehta_ for [.s I] is a single dot.
+
+!!example
+
+[.tab NI] [.t.letterform 5%] / [.ti.letterform 5%]
+
+/!
+
+The _tehta_ for [.s O] is a stroke that curls downward at the end.
+
+!!example
+
+[.tab NO] [.t.letterform 5^] / [.ti.letterform 5^]
+
+/!
+
+The _tehta_ for [.s U] is a stroke that curls upward at the end.
+
+!!example
+
+[.tab NU] [.t.letterform 5&] / [.ti.letterform 5&]
+
+/!
+
+The _tehta_ for [.s Y] is a pair of dots.
+
+!!example
+
+[.tab NY] [.t.letterform 5Ô] / [.ti.letterform 5Ô]
+
+/!
+
+Now you can try your hand at deciphering this text:
+
+!!example
+
+[.ti &#93;jj nR 9Cr$ 1Y 2$aT2$ \`i n9C1 1Y 2Y nT3 3F 1Tt$ 3D1 \`i x%r$5 .i Â x#52#je]
+
+/!
+
+## The Organization of the _Tengwar_
+
+Did you find yourself flipping back to the _tengwar_ chart while trying to read that text? Reading _tengwar_ can get extremely confusing since most of the letters look very similar to one another. However, there's a regular system underlying the _tengwar_, and knowing it will make them much easier to read and write.
+
+What happens if we arrange the _tengwar_ by their shape instead of by the English letter they correspond to?
+
+<table class="col-4 columns">
+<tr>
+<td>
+<ul>
+<li>[.tab T][.t.letterform 1]</li>
+<li>[.tab D][.t.letterform 2]</li>
+<li>[.tab TH][.t.letterform 3]</li>
+<li>[.tab  ][.t.letterform 4]</li>
+<li>[.tab N][.t.letterform 5]</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>[.tab P][.t.letterform q]</li>
+<li>[.tab B][.t.letterform w]</li>
+<li>[.tab F][.t.letterform e]</li>
+<li>[.tab V][.t.letterform r]</li>
+<li>[.tab M][.t.letterform t]</li>
+</ul>
+</td>
+</td>
+<td>
+<ul>
+<li>[.tab C][.t.letterform a]</li>
+<li>[.tab  ][.t.letterform s]</li>
+<li>[.tab CH][.t.letterform d]</li>
+<li>[.tab J][.t.letterform f]</li>
+<li>[.tab  ][.t.letterform g]</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>[.tab K][.t.letterform z]</li>
+<li>[.tab G][.t.letterform x]</li>
+<li>[.tab  ][.t.letterform c]</li>
+<li>[.tab  ][.t.letterform v]</li>
+<li>[.tab NG][.t.letterform b]</li>
+</ul>
+</td>
+</tr>
+</table>
+
+Note that the _tengwar_ in each column have curly bits (_lúvar_) that go the same direction and are all either open or closed off with a bar. The tengwar in each row have the same number of _lúvar_, and their _telqui_ or "stems" point in the same direction—either up or down.
+
+Now the interesting part: by grouping the _tengwar_ by shape, we've actually grouped them by sound as well.
+
+In the top two rows are the hard consonants or _plosives_—sounds made by stopping the airflow in the mouth and then releasing it with a pop. These letters all have a downward stem (or _telco_). You'll notice that the letters are also grouped by whether they have one or two _lúvar_. A single _lúva_ means the sound is pronounced without the vocal cords vibrating—in linguistic terms, it's _unvoiced_. Doubling the _lúva_ makes the _voiced_ version of the sound—pronounced with vocal cord vibration.
+
+If that's all too abstract, try holding a finger against your Adam's apple and pronouncing a drawn-out "S". Now make it a "Z". Did you feel the vibration kick in? That's voicing.
+
+On to the third and fourth rows, where the _telqui_ point up instead of down. The upward-pointing _telqui_ draw out the sounds into _spirants_—hisses or buzzes. Again, the single-_lúva_ letters represent unvoiced sounds; doubling the _lúva_ adds voicing.
+
+The letters in the fifth row are _nasals_ (sounds that redirect air through the nose). These are all voiced, hence the double _lúvar_.
+
+If we look at the _columns_ of the table, a complementary pattern emerges. The first column has all the _dental_ consonants, which place the tip of the tongue on (or just behind) the upper teeth. The second column is all _labial_ consonants, which involve the lips. And the third and fourth columns are _palatal_ and _velar_ consonants, in which the tongue rises to the roof of the mouth.

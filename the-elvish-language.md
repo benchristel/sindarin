@@ -4,6 +4,10 @@
 
 @include table-of-contents.md
 
+# <a name="english-tengwar">Tengwar for English</a>
+
+@include english-tengwar.md
+
 # <a name="the-beginning">The Beginning</a>
 
 @include the-beginning.md
@@ -16,7 +20,7 @@
 
 @include the-tengwar.md
 
-# <a name="imperatives">Wishes, Commands</a>
+# <a name="imperatives">Wishes and Commands</a>
 
 @include imperatives.md
 
