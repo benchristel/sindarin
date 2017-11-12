@@ -8,7 +8,7 @@
 
 @include english-tengwar.md
 
-# <a name="the-beginning">The Beginning</a>
+# <a name="the-beginning">A Sindarin Phrasebook</a>
 
 @include the-beginning.md
 
