@@ -8,7 +8,7 @@
 
 TODO
 
-# <a name="english-tengwar">Tengwar for English</a>
+# <a name="english-tengwar">Writing English Like an Elf</a>
 
 @include english-tengwar.md
 
