@@ -85,7 +85,7 @@
 
 !!example
 
-[.s Ú-moe chennaid] ~ "No thanks are necessary"
+[.s Ú-moe hennaid] ~ "No thanks are necessary"
 
 [.s Maer hennui i edhellen lín!] ~ "Your Elvish is pretty good!"
 
