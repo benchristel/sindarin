@@ -1,3 +1,8 @@
+
+The best way to start learning Sindarin is to just learn some phrases and get a feel for how the language sounds. If you look for patterns in the phrases below, you'll probably be able to learn a few useful words, and you might figure out a little bit of the grammar of Sindarin too!
+
+Of course, as you're sounding out these phrases it helps to know how they're supposed to be pronounced. If you pronounce the vowels [.s a e i o u] as in Spanish or Italian you won't go far wrong. The letter [.s y] sounds like _ee_ but with your lips tight as if saying _oo_. Sindarin [.s ch] is like the sound in Scottish _loch_.
+
 #### _You greet your traveling companions:_
 
 !!example
