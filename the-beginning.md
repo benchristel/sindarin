@@ -132,7 +132,7 @@ Of course, as you're sounding out these phrases it helps to know how they're sup
 
 [.s Tolo, mado go vin!] ~ "Come, dine with us!"
 
-[.s Panno ylf nín!] ~ "Fill my cup!"
+[.s Panno ylf e-rendir!] ~ "Fill the wanderers' cups!"
 
 [.s Ammaer i miruvor hen] ~ "This <em>miruvor</em> (a type of wine) is excellent."
 
@@ -152,7 +152,15 @@ Of course, as you're sounding out these phrases it helps to know how they're sup
 
 /!
 
-#### _You say farewell to your new friends_
+#### _The festivities wind down and you turn in for the night_
+
+!!example
+
+[.s Mae losto] ~ "Sleep well"
+
+/!
+
+#### _The next morning, you say farewell to your new friends_
 
 !!example
 
