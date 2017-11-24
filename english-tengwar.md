@@ -36,7 +36,11 @@ The Moria gate inscription was in Sindarin. The tengwar read: [.s Ennyn Durin Ar
 
 Why start with English, since most of this book is about Sindarin? The main reason is that if you're reading this book front-to-back, you don't yet know any Sindarin words, so learning how to write Sindarin in _tengwar_ at this stage is not very useful. Additionally, the _tengwar_ are very different from our alphabet, not just in their shapes but in the way the whole writing system is organized, and learning how those differences apply to a familiar language like English will be much easier than trying to figure them out in a language you don't know yet. And finally, if you want to introduce your friends to _tengwar_-writing, they probably won't have the patience to learn Sindarin, but they might be interested in having a secret code to write English.
 
-There is no "official" way of writing English with Sindarin, because as far as we know, Tolkien never wrote down instructions for how to do it. He was mainly interested in how his languages were used in Middle-earth, and didn't much care about adapting his writing system to real-world languages.
+There is no "official" way of writing English with Sindarin, because as far as we know, Tolkien never wrote down instructions for how to do it. He was mainly interested in how his languages were used in Middle-earth, and didn't much care about adapting his writing system to real-world languages. He did create a _tengwar_ inscription in English for the title page of _The Lord of the Rings_, using a system that attempted to hybridize sound-based spelling and straightforward letter-for-letter transcription.
+
+While this transcription is interesting in its own right (and I highly encourage you to go puzzle it out after reading this chapter!) I don't think the spelling system it uses can be learned or used with any confidence. Using it requires constantly making choices: do I represent that silent letter in the _tengwar_? What vowel-mark should I use for the _e_ in _roses_? What about words that are pronounced differently in different dialects?
+
+All of these problems go away if you simply choose a _tengwar_ letter to represent each English letter, and leave it at that. That is the approach taken in this chapter.
 
 What follows is one possible system for writing English with _tengwar_. It has the advantage that, once learned, it is fairly simple, yet it is difficult for anyone who doesn't know it to crack the code. It's also well-suited to calligraphy; with a little practice you'll be able to make some pretty awesome Ring-inscription-style lettering.
 
@@ -172,7 +176,7 @@ Now you can try your hand at deciphering this text:
 
 Did you find yourself flipping back to the _tengwar_ chart while trying to read that text? Reading _tengwar_ can get extremely confusing since most of the letters look very similar to one another. However, there's a regular system underlying the _tengwar_, and knowing it will make them much easier to read and write.
 
-What happens if we arrange the _tengwar_ by their shape instead of by the English letter they correspond to?
+What happens if we arrange the _tengwar_ by their shape?
 
 <table class="col-4 columns">
 <tr>
@@ -231,6 +235,33 @@ The letters in the fifth row are _nasals_ (sounds that redirect air through the 
 If we look at the _columns_ of the table, a complementary pattern emerges. The first column has all the _coronal_ consonants, which use the tip of the tongue to stop the airflow. The second column is all _labial_ consonants, which involve the lips. And the third and fourth columns are _palatal_ and _velar_ consonants, in which the back of the tongue rises to the roof of the mouth.
 
 What about the gaps in the table, the _tengwar_ with no corresponding English letter? Although these _tengwar_ aren't used for English, they are used for other languages, including Sindarin and Quenya.
+
+## Abbreviating Doubled Letters
+
+Doubled letters (like _tt_ in _letters_) can be represented by adding a horizontal bar under the _lúva_ of the _tengwa_ to be doubled.
+
+TODO: examples
+
+## Abbreviating Consonant Clusters
+
+Consonant clusters beginning with N can be abbreviated by dropping the N-tengwa and adding a tilde or squiggle above the following consonant.
+
+TODO: examples
+
+## Punctuation
+
+Tengwar punctuation is pretty fast-and-loose compared to English. Most of the punctuation marks are groups of dots vertically centered on the _lúvar_ of the text. These dots can either be stacked vertically, lined up horizontally, or clustered. In general, the more dots there are, the longer of a pause they indicate.
+
+Other punctuation marks include the swung dash, the question mark, and the exclamation point.
+
+<table class="tengwar-table">
+  <tr>
+    <td><p>[.t 1 = 1]</p><p>comma, short pause</p></td>
+    <td><p>[.t 1 - 1]</p><p>colon, longer pause</p></td>
+    <td><p>[.t 1 == 1]</p><p>period</p></td>
+    <td><p>[.t 1 =-= 1]</p><p>separates sections of a text</p></td>
+  </tr>
+</table>
 
 ## Terminology in This Chapter
 
