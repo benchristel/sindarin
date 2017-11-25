@@ -4,6 +4,10 @@
 
 @include table-of-contents.md
 
+# <a name="english-cirth">Cirth for English</a>
+
+TODO
+
 # <a name="english-tengwar">Tengwar for English</a>
 
 @include english-tengwar.md
@@ -16,7 +20,11 @@
 
 @include pronunciation.md
 
-# <a name="writing-systems">The Tengwar</a>
+# <a name="sindarin-cirth">Cirth for Sindarin</a>
+
+TODO
+
+# <a name="writing-systems">Tengwar for Sindarin</a>
 
 @include the-tengwar.md
 
