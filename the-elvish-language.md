@@ -32,6 +32,12 @@
 
 @include plurals.md
 
+# <a name="lenition">Lenition</a>
+
+@include lenition.md
+
+# <a name="adjectives">Adjectives</a>
+
 !!TODO
 
 - *go* as an independent preposition
