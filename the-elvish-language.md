@@ -46,6 +46,8 @@ TODO
 
 # <a name="adjectives">Adjectives</a>
 
+@include adjectives.md
+
 !!TODO
 
 - *go* as an independent preposition
