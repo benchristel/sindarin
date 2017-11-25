@@ -1,7 +1,9 @@
 
 In English, the normal way to pluralize a noun is to add _-s_: one _cat_, two _cats_. A few nouns use some kind of vowel shift instead: one _man_, two _men_, one _goose_, two _geese_.
 
-In Sindarin, vowel mutation is the normal way of forming plurals. Fortunately, it's quite regular and predictable once you learn the rules.
+In Sindarin, vowel changes are the normal way of forming plurals. Fortunately, the patterns are quite regular and predictable once you learn the rules.
+
+You'll often see this particular type of vowel change referred to as "I-affection" or "I-mutation".
 
 ## The Vowel [.s A]
 
