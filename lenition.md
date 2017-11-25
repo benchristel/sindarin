@@ -18,6 +18,8 @@ notably, [.s t], [.s p], and [.s c]. Those sounds *did* occur between vowels in 
 over time they changed to [.s d], [.s b], and [.s g]. This process of change is often called _lenition_
 or _soft mutation_. The same type of mutation occurs in the presence of the word [.s i].
 
+Soft mutation occurs in other places in the language too. These will be covered in later chapters.
+
 ## Soft Mutation of T, P, and C
 
 The _unvoiced plosives_ [.s T], [.s P], and [.s C] become voiced plosives [.s D], [.s B], [s. G].
