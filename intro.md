@@ -1,3 +1,34 @@
+- One Big Asterisk
+  - this book isn't about *Tolkien's* Sindarin
+  - Tolkien's Sindarin was:
+    - not designed to be used by anyone but Tolkien and the characters in his books
+    - not complete
+    - constantly evolving
+  - This book presents a version of Sindarin that:
+    - can be learned and used by anyone (though we won't cover the breadth of language-use situations that a foreign-language course would).
+    - has a complete grammar capable of expressing anything (as long as the words exist in the Sindarin vocabulary)
+    - is fixed at one point in time
+
+- our relationship to Elvish languages is analogous to our relationship to nature
+- by developing a personal and communal philosophy of how best to learn about and work with the Elvish languages, we can
+  develop and clarify our own attitudes toward both the natural world and human institutions.
+  - preservation?
+    - don't interfere at all
+    - precludes casual enjoyment
+    - values: "knowing that it's there"
+  - conservation?
+    - values: sustainable economic benefit, recreation
+  - investigation?
+    - scientific inquiry
+    - values: knowledge as an end in itself, or applied to other fields
+  - recreation?
+    - languages are purty
+    - values: it's fun!
+  - exploitation?
+    - 
+    - values: profit above all else
+
+
 # _Mae govannen!_
 
 If you've picked up this book, I assume I don't need to introduce you to J.R.R. Tolkien. Maybe you've read _The Hobbit_ or _The Lord of the Rings_. Maybe both. Perhaps you've even delved into the _Silmarillion_ or the _History of Middle-earth_ series... or maybe you've only read the first few chapters of _The Lord of the Rings_ and put it down wondering what all the hype is about. That was my situation, years ago.
