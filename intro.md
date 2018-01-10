@@ -1,3 +1,34 @@
+# _Mae govannen!_
+
+This book is about Sindarin, an Elvish language invented by
+J.R.R. Tolkien as part of his fictional world of
+Middle-earth. Actually, to say that Sindarin comes
+from Middle-earth is a bit backwards; Tolkien was inventing
+Elvish (and Gnomish!) languages long before he ever dreamed
+up _hobbits_ or the Ring or any of the rest of it. It would
+be closer to the truth to say that Middle-earth comes from
+Sindarin, for the Elvish languages were the real inspiration
+for all the rest of Tolkien's legendarium. As Tolkien
+himself wrote in a letter to his publisher,
+
+> The invention of languages is the foundation. The <q>stories</q> were made rather to provide a world for the languages than the reverse. To me a name comes first and the story follows. I should have preferred to write in <q>Elvish</q>.[.cite letters 221]
+
+So, if you want to *really* understand _The Lord of the
+Rings_ and _The Hobbit_, if you want to trace Tolkien's
+world to its roots, you're reading the right book!
+
+## Why study Sindarin?
+
+You've already got one reason: the languages were the seed
+of Tolkien's invented world. Did you skim over all the
+Elvish names when you first read _The Lord of the Rings_?
+If so, you missed out. The names are the shining gems of
+the book. The deep history of the languages is one of the
+things that makes Middle-earth jump off the page and seem
+almost real.
+
+##
+
 - One Big Asterisk
   - this book isn't about *Tolkien's* Sindarin
   - Tolkien's Sindarin was:
@@ -25,7 +56,7 @@
     - languages are purty
     - values: it's fun!
   - exploitation?
-    - 
+    -
     - values: profit above all else
 
 
