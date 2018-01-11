@@ -11,21 +11,54 @@ Sindarin, for the Elvish languages were the real inspiration
 for all the rest of Tolkien's legendarium. As Tolkien
 himself wrote in a letter to his publisher,
 
-> The invention of languages is the foundation. The <q>stories</q> were made rather to provide a world for the languages than the reverse. To me a name comes first and the story follows. I should have preferred to write in <q>Elvish</q>.[.cite letters 221]
+> The invention of languages is the foundation. The
+> <q>stories</q> were made rather to provide a world for the
+> languages than the reverse. To me a name comes first and
+> the story follows. I should have preferred to write in
+> <q>Elvish</q>.[.cite letters 221]
 
-So, if you want to *really* understand _The Lord of the
-Rings_ and _The Hobbit_, if you want to trace Tolkien's
-world to its roots, you're reading the right book!
+Language was Tolkien's first love; for him, language was
+the essence of mythos. What is a story without a language
+that can tell it? What is language without a story to tell?
+
+This book tells the story of the language of the Elves of
+Middle-earth.
 
 ## Why study Sindarin?
 
 You've already got one reason: the languages were the seed
-of Tolkien's invented world. Did you skim over all the
-Elvish names when you first read _The Lord of the Rings_?
-If so, you missed out. The names are the shining gems of
-the book. The deep history of the languages is one of the
-things that makes Middle-earth jump off the page and seem
-almost real.
+of Tolkien's invented world. Knowing a bit of Elvish will
+reveal the incredible depth to Tolkien's stories, depth
+that can only be vaguely glimpsed by those who aren't
+acquainted with his languages.
+
+But perhaps a more immediately compelling reason is that
+Sindarin is simply beautiful. Tolkien delighted in "the moment of
+association between sound and sense" and all of his words
+have the feel of having been polished by a master craftsman.
+Tolkien describes the peculiar feeling of inventing the word
+*lint* in childhood, with the meaning "quick", and how he
+was struck by the way the sound seemed to fit the meaning.
+(The word survives, slightly modified, in Sindarin: [.s lim].)
+His keen sense of the music of language is evident
+everywhere in Sindarin.
+
+Learning Sindarin might even help you learn other languages.
+The hardest
+part of learning any foreign language is putting aside the
+habits of your native tongue, and Sindarin provides ample
+opportunity to unlearn English. Indeed, if you study Elvish
+enough, English may seem the more peculiar language.
+
+If you've read this far, you probably want to actually *use* the
+language for something. You can certainly use Sindarin to give an
+Elvish flavor to roleplaying campaigns or Tolkien fanfiction.
+If you study very hard, you might even be able to use it
+for journaling or secret communication (though Sindarin
+lacks vocabulary for the activities and artifacts of
+modern humans). And of course, you can write poetry, and
+enjoy the poetry of others, which can be found in abundance
+on the Web.
 
 ##
 
