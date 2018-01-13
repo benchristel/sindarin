@@ -48,7 +48,7 @@
         text-indent: 1em;
         orphans: 2;
         widows: 2;
-        string-set: left-page-header 'HOW TO THINK IN ELVISH AND WHY', page-number counter(page);
+        string-set: page-number counter(page);
     }
 
     ul {
@@ -99,13 +99,14 @@
     h1:not(.title) {
         padding-top: 24pt;
         padding-bottom: 24pt;
-        page-break-before: right;
+        page-break-before: left;
         string-set: right-page-header content(), left-page-header '', page-number '';
         font-size: 22pt;
     }
 
     h2 {
         font-size: 18pt;
+        string-set: left-page-header content();
     }
 
     h3 {
@@ -320,6 +321,7 @@
 
         @top-center {
             content: string(left-page-header, first);
+            text-transform: uppercase;
             font-size: 0.1111in;
             margin-top: 0.25in;
             letter-spacing: 0.1em;

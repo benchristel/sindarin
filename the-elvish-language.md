@@ -50,10 +50,7 @@ TODO
 
 !!TODO
 
-- *go* as an independent preposition
-- Salo's second-person *-ch*
 - naug -> pl. noeg?
-- plurals of words in -io-: thalion -> thelyn a regular pattern?
 
 Phrasebook
 
