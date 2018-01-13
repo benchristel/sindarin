@@ -151,10 +151,38 @@
         text-indent: 0;
     }
 
+    .term {
+      font-variant: small-caps;
+      font-weight: bold;
+    }
+
+    /* SECTION DIVIDERS */
+
+    .section-divider {
+      page-break-before: right;
+      page-break-after: always;
+      padding-top: 3in;
+      font-size: 14pt;
+    }
+
+    .section-divider p {
+      text-align: center;
+      string-set: right-page-header '';
+    }
+
     /* TABLE OF CONTENTS */
 
     ul.toc a::after {
         content: leader('. ') target-counter(attr(href), page);
+    }
+
+    .toc p.details {
+      padding-left: 0.25in;
+      padding-right: 0.25in;
+      padding-top: 0.5em;
+      padding-bottom: 0.5em;
+      font-size: 9pt;
+      font-style: italic;
     }
 
     a {

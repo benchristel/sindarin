@@ -2,22 +2,45 @@
 
 <ul class="toc">
   <li>
-    <h4>Roots</h4>
+    <h4>Introduction</h4>
     <ul>
+        <li>
+          <p><a href="#a-taste-of-elvish">A Taste of Elvish</a></p>
+        </li>
+        <li>
+          <p><a href="#a-sindarin-phrasebook">A Sindarin Phrasebook</a></p>
+        </li>
+        <li>
+          <p><a href="#pronunciation-guide">Pronunciation Guide</a></p>
+        </li>
         <li>
           <p><a href="#selected-vocabulary">Selected Vocabulary</a></p>
         </li>
+    </ul>
+  </li>
+  <li>
+    <h4>Writing Systems</h4>
+    <ul>
         <li>
-          <p><a href="#pronunciation">Pronunciation</a></p>
+          <p><a href="#writing-english-with-tengwar">Writing English with Tengwar</a></p>
         </li>
         <li>
-          <p><a href="#writing-systems">The Tengwar</a></p>
+          <p><a href="#tengwar-for-sindarin">Tengwar for Sindarin</a></p>
+        </li>
+    </ul>
+  </li>
+  <li>
+    <h4>Sindarin Grammar</h4>
+    <ul>
+        <li>
+          <p><a href="#wishes-and-commands">Wishes and Commands</a></p>
+
+          <p class="details">This is a paragraph. It lists some of the things that are
+          in this chapter. It consists of short sentences ending with
+          periods.</p>
         </li>
         <li>
-          <p><a href="#imperatives">Wishes, Commands</a></p>
-        </li>
-        <li>
-          <p><a href="#possessives">Possessives</a></p>
+          <p><a href="#possession">Possession</a></p>
         </li>
         <li>
           <p><a href="#plurals">Plurals</a></p>

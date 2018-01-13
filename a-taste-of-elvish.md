@@ -1,5 +1,3 @@
-# A Taste of Elvish
-
 When the first Elves awoke on the shores of Cuiviénen, they began to make a language. The first word they spoke, according to later Elven lore, was _ele!_—an exclamation of wonder and delight that they uttered upon first seeing the stars. They called themselves _kwendī_, meaning "those who speak", since they knew of no other beings that could use language.
 
 When the Vala Arômez (often called _Oromë_) met the Elves and told them of Aman, the land of the Valar beyond the sea, some Elves wished to go there and some were afraid to make the journey. Those who refused the journey were called the _abarī_. They were lost in the wilds of Middle-earth and play small part in its later history. Those who heeded Oromë and marched across Middle-earth to the shores of the Great Sea were called _edeloī_—in later Quenya, _eldar_.

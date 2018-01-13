@@ -23,7 +23,7 @@ And what is either one, without people who remember it?
 
 > [.s A Elbereth! Gilthoniel!]
 > [.s Mí epholar sí, derthiel]
-> [.s Vi ndor haer hen galaðui,]
+> [.s Vi ndor haer hen galadhui,]
 > [.s Gilgalad gaear annui.]
 >
 > _We still remember, we who dwell_
@@ -64,7 +64,7 @@ language for something. You can certainly use Sindarin to give an
 Elvish flavor to roleplaying campaigns or Tolkien fanfiction.
 If you study very hard, you might even be able to use it
 for journaling or secret communication (though Sindarin
-naturally lacks vocabulary for modern inventions like
+naturally lacks the vocabulary for modern inventions like
 cars and phones). And of course, you can write poetry, and
 enjoy the poetry of others, which you can find in abundance
 on the Web.
@@ -79,49 +79,69 @@ that you can immediately start using. There are fill-in-the-blank
 exercises at the end of each lesson so you can test yourself
 and practice using the language.
 
-The book is divided into two groups of lessons:
+The book is divided into an introduction and two groups of
+lessons:
 
-- **Writing and Speaking**, which covers the _tengwar_
-   alphabet, some basic phrases, and pronunciation. If you
-   read this section, you'll be able to write secret notes in the
+- The **Introduction** covers the basics of Sindarin
+   pronunciation and introduces some useful phrases and
+   vocabulary. Read this part first before moving on to
+   the other two sections.
+- **Writing Systems** describes the _tengwar_
+   alphabet. If you read this section, you'll be able to write secret notes in the
    Elvish alphabet, and pronounce the names and phrases
-   in _The Lord of the Rings_.
-- **Sindarin Grammar**, which describes the rules for putting
-   Sindarin words together into sentences. In this section,
-   you'll learn both conversational and
-   literary Sindarin, and by the end you'll be able to say
-   and write anything that can be said or written in the
+   in _The Lord of the Rings_. You won't need the information
+   in this section for the Grammar lessons, so you can
+   skip it if you wish.
+- **Sindarin Grammar** describes the rules for putting
+   words together into sentences. In this
+   section, you'll learn to read, write, and speak the
    language.
-
-If you plan on reading section two and don't care about
-learning to write in _tengwar_, you can skip most of
-section one. Please do read at least the pronunciation section,
-though. There isn't much point in being able to assemble
-sentences in a language you can't pronounce.
 
 ## One big asterisk
 
 Now, before you run off and buy your ticket to Middle-earth,
 I need to burst your bubble a tiny bit. The truth is...
-you can't *really* learn to speak Elvish.
+you can't *really* learn to speak Elvish—at least not in
+the way you might be imagining.
 
-What I mean by that is that there are some sentences that can
-be translated into any real-world language, but which
-simply *don't work* in Sindarin. A sentence that you might
-toss off casually in English, like "my computer's been
-acting strange recently", becomes a bewildering puzzle in
-Sindarin. If you really wanted to translate it, you'd
-first have to invent a word for "computer", since of course
-the Elves didn't have computers, and then you'd have to
-figure out appropriate Sindarin idioms for "acting strange"
-and "recently". With that done, you'd have to choose the
-right verb tense to convey the idea that your computer's
-strange behavior started at some undefined point in the past
-and has continued up to the present time (hint: there is no
-such verb form in Sindarin). The result likely wouldn't be
-intelligible without a couple of paragraphs of English
-explaining it, and even then it would be clunky and ugly—not
-the sort of thing an Elf would say at all!
+One problem with learning the Elvish languages is that
+Tolkien never intended them to be used by anyone
+other than the characters in his books. He had the
+inconvenient habit of never *finishing* a language.
+For him, the joy of language creation was in constantly
+tinkering and reworking things.
+As a result, the descriptions of Sindarin in his notes are
+full of beautiful words but contain very little information
+about how we might put those words together into sentences.
+
+Because of this uncertainty, speaking or teaching Sindarin
+is a bit like
+drawing a dinosaur. We might never know for sure what
+color T-Rex was, but if you're going to draw one, you have to
+make it *some* color—so you just choose one that seems
+plausible and make a mental note that you might be wrong.
+
+Similarly, we can never really know what Tolkien had in
+mind when creating his languages, so when it's not clear
+how to translate something the normal course of action is
+to just choose a plausible option and forge ahead.
+Unfortunately, while
+some translations are likelier than others, not everyone
+agrees on the *same* translation. That means
+that even if you memorize this book cover to cover, you
+might find it hard to communicate with other people in
+Sindarin, especially if they learned from a different
+source.
+
+Another caveat with Sindarin is that some things are
+just not worth translating; it feels like pounding
+a round peg into a square hole. Any sentence that talks
+about modern things like _phones_ or _driving_ or _college_
+is going to come out sounding ugly and clunky in Sindarin,
+because you'll have to build new compound words for each of those
+things (and keep in mind—they won't be the *same* words that
+other people would have used, so you
+still might not be understood).
 
 There is no need to despair, however. In time you may come to
 see the limitations of Sindarin as a strength rather
@@ -129,96 +149,134 @@ than a weakness. When something is hard to phrase in
 Sindarin it's sometimes because it simply doesn't fit into
 Tolkien's world, but if you learn to cut away the indirection
 of modern speech you can often phrase your meaning in a
-surprisingly Elvish way. "My computer's been acting strange recently"
-becomes [.s I balannir-e-deithad nîn ce fíriel. Thoss tôl anim.] "My writing-<em>palantír</em> may be dying. I am afraid."
-Sindarin forces you to simplify your words and get to the
-heart of the matter—a valuable skill no matter what language
+surprisingly Elvish way. You could reword a sentence like
+"My computer's been acting strange recently" to
+"My writing-<em>palantír</em> may be dying. I am afraid."
+[.s I balannir-e-deithad nîn ce fíriel. Thoss tôl anim.]
+Sindarin forces you to simplify your words and say what you
+really mean—a valuable skill no matter what language
 you write in.
 
+Despite these constraints, the aim of this
+book remains ambitious. I have tried to present a "complete"
+and faithful rendition of Sindarin—always keeping in mind,
+of course, that such a "completed" language should not
+be treated as authoritative or set in stone. Sindarin is
+like a communal garden—always growing, always changing:
+a patchwork of different people's translations that
+sometimes harmonize and sometimes compete. By learning the
+language, you too can become a gardener, and decide how you
+want to translate your own thoughts into Sindarin. It is up
+to you to decide what this language will become.
 
-One of the obstacles to learning Elvish is Tolkien's
-inconvenient habit of never *finishing* anything.
-For him, the joy of language creation was in constantly
-tinkering and reworking things, so when he left this world
-his languages were still incomplete and, in many places,
-inconsistent.
+## Reconstructed Words
 
-An extreme example of this inconsistency is the Quenya word
-_lá_. In 1960 Tolkien wrote that _lá_ meant "yes". Simple enough.
-But ten years later, he wrote that _lá_ meant "no"!
-If we're going to use
-Quenya ourselves, we need to pick one or the other, but it's
-not clear which is better. (Quenya is a
-separate Elvish language from Sindarin, and is beyond the
-scope of this book, but similar situations arise in Sindarin
-too.)
+When we can't find the words to translate something into
+ Sindarin, often
+our only option is to *reconstruct* a word based
+on one of Tolkien's other languages.
 
-The gaps in our knowledge also pose problems. Sindarin
-lacks Tolkien-made words for things as basic as "please",
-"thank you", and "toilet". The grammar is also full of
-holes: Ask a Sindarin expert how to say something like
-"If I had known about it, I would have wanted you to go
-with me" and you'll likely receive a blank stare. Forget
-the conditional "if"—we're not even sure how to translate
-"with" in that sentence!
+Tolkien's Elvish tongues, which include Sindarin and Quenya,
+are all related in a family tree. At the beginning of
+Middle-earth's history all the Elves spoke one language:
+Primitive Quendian. As different groups of Elves spread
+across the land and formed isolated bands, their languages
+gradually changed and drifted apart from one another.
+Sindarin and Quenya are two such languages—they are siblings
+in the family tree, with Primitive Quendian as their parent.
 
-Fortunately for us, many people have undertaken the monumental work
-of resolving these gaps, often
-by comparing Sindarin with other Elvish languages, or
-by looking for patterns in Tolkien's use of various grammar
-rules. In doing so, they can give us a *possible* view of
-what Sindarin *might* have been
-like *if* Tolkien had been interested in "finishing" it.
+In both Sindarin and Quenya, the way that words and sounds
+changed over the years followed regular patterns. This means
+that for any Primitive Quendian word, we can apply some
+sound change rules and peer into the word's future, working
+out what it would later become in Sindarin or Quenya. The
+same process works in reverse—by applying sound change
+rules backwards, we can find the Primitive Quendian ancestor
+of a Sindarin or Quenya word.
 
-With so many ifs, ands, and buts, it should be clear that
-this reconstructed "Neo-Sindarin" is by no means Tolkien
-canon or verifiably "correct" in any way. To put it another
-way: when we use Sindarin, we have to make
-a hard choice: the
-more words we reconstruct, the more we can say, but the less
-likely the resulting language is to resemble anything that
-Tolkien might have envisioned.
+Reconstructing a Sindarin
+word usually involves tracing a Quenya word back through
+history to find its Primitive Quendian ancestor, and then
+walking the sound changes forward to find out what the
+word would have become in Sindarin.
 
-## On Reconstructed Words
+For example, let's imagine that we didn't know the
+Sindarin word for "beautiful" and wanted to reconstruct it.
+In Quenya, "beautiful" is _vanya_. We can trace this back
+to Primitive Quendian and discover that the ancient form
+of the word is _banjā_. From there, we just have to follow
+the Sindarin sound changes to figure out that Sindarin for
+"beautiful" is [.s bain].
 
-Different authors choose to do different amounts of
-reconstruction when writing in Sindarin. The prevailing
-view is that reconstruction is permissible but words that
-are not truly Tolkien's must be marked with an
-asterisk (\*). This book follows that convention.
+That is how reconstruction works in the best case, but often
+it's more complicated. We don't always know if Tolkien
+intended for a Primitive Quendian word to survive in
+Sindarin—maybe he imagined that the Sindarin-speaking Elves
+replaced it with a different word. Sometimes reconstruction
+produces a form that's identical to an existing
+Sindarin word, so we can't use it without creating ambiguity.
+Sometimes it's not clear exactly how the
+sounds should change. Even when it is clear, we're
+left wondering if Tolkien himself would have used the
+word, or if he would have thrown it out and invented a
+different one.
 
-All reconstructions are just educated guesses about what
-words *might* exist in Sindarin, so sometimes when a new
-piece of Tolkien's writing is published, it proves some
-reconstructed word to be flat-out wrong. But when the
-"wrong" word is already widespread among Tolkien
-fans, it is difficult (not to mention undesirable) to get
-everyone to stop using it.
+Reconstruction is therefore always a stab in the dark: a
+last-resort means of doing a translation when there is
+simply no better option.
 
-For example, after the _Lord of the Rings_ films came out,
-everyone started using [.s le hannon] to mean "thank you" in
-Sindarin, because that's what the characters in the movie
-said. But [.s le hannon] doesn't hold up
-to careful analysis: according to the normal rules of Sindarin,
-"thank you" is more likely to be [.s le annon]. The problem with that
-is that [.s le annon] also means "I give (to) you".
+It is good to be aware of which words are reconstructed
+and which come from Tolkien's works, because not everyone
+will know or approve of a given reconstructed word. I've
+followed the convention of other writers and marked
+reconstructed words with an asterisk (\*).
 
-I personally feel that it is important for new students of
-Sindarin to learn "wrong" phrases like [.s le hannon]—
-otherwise, a lot of the Sindarin on the web, and a
-large portion of the _Lord of the Rings_ film dialogue,
-won't be intelligible. In many cases, there is no viable
-alternative to a misguided reconstruction: Sindarin speakers
-are simply *not* going to stop saying [.s le hannon] until a
-genuine Tolkien translation of "thank you" is published—and
-there is no guarantee that that will ever happen.
+## Movie Sindarin
 
-But it's just as important to
-learn that [.s le hannon] is not a phrase that will hold up
-to the rigorous analysis most reconstructions are subject
-to. Because of this, I have chosen to include deprecated,
-hand-wavy, misguided, or otherwise wrong reconstructions
-in this course, but to mark them with a dagger (&dagger;).
-Use such words with caution, and if
-someone calls you out and says your Sindarin is "wrong", be
-ready to say "I know".
+When the _Lord of the Rings_ films came out, it seemed like
+*everyone* was learning Elvish. Many courses and websites
+were written to teach the languages spoken in the movies.
+
+In the years that followed, more of Tolkien's unpublished
+notes came to light, and some of them proved that a lot of
+words and grammar used in the movies were inaccurate. Many
+of the websites that used movie-style Sindarin were updated,
+but the movies themselves, of course, were not.
+
+This means that if you learn only "correct" Sindarin, much
+of what's said in the
+_Lord of the Rings_
+movies will sound strange or just be unintelligible. For
+this reason, I've included the movies' mistaken words
+in this book and marked them with a dagger (&dagger;).
+I don't *officially* recommend using them yourself, but at
+least this way you'll be able to understand what Aragorn
+and Legolas are saying.
+
+I have another, more personal reason for including
+movie-Sindarin in this book. The very first Sindarin
+sentence I remember reading was written not by Tolkien, but
+by David Salo, who did the Elvish (and Dwarvish and Orcish)
+translations for the films. Movie-Sindarin was my
+introduction to the language, and without Salo's work I
+might never have started learning Elvish at all. I
+therefore feel indebted to Salo, and want to make
+sure that his work on the language, as well as Tolkien's,
+is properly appreciated.
+
+## Typographical Conventions
+
+As mentioned earlier, an asterisk (\*) before a Sindarin
+word means the word is reconstructed. A dagger (&dagger;)
+means it is from the _Lord of the Rings_ movies.
+
+All Sindarin text is in [.s bold italics]. Words
+from other Elvish languages (mostly Quenya) are simply
+_italicized_.
+
+I have tried to keep the technical jargon in this textbook
+to a minimum, but sometimes for the sake of precision I
+have to use a linguistics term. The first use of a term is in
+[.term small capitals]. If you aren't familiar with a term,
+do a web search for it; you'll find many grammar sites that
+are aimed at beginners and use comprehensible language.
