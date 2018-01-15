@@ -48,7 +48,7 @@
         text-indent: 1em;
         orphans: 2;
         widows: 2;
-        string-set: page-number counter(page);
+        string-set: page-number counter(page), left-page-header 'Elaran’s Elvish Textbook';
     }
 
     ul {
@@ -106,7 +106,6 @@
 
     h2 {
         font-size: 18pt;
-        string-set: left-page-header content();
     }
 
     h3 {
@@ -176,6 +175,10 @@
         content: leader('. ') target-counter(attr(href), page);
     }
 
+    .toc li li {
+      page-break-inside: avoid;
+    }
+
     .toc p.details {
       padding-left: 0.25in;
       padding-right: 0.25in;
@@ -208,6 +211,7 @@
       font-size: 10pt;
       margin-top: 10pt;
       margin-bottom: 10pt;
+      padding-left: 0.25in;
     }
 
     .example p {

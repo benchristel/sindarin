@@ -1,12 +1,8 @@
 @include front-matter.md
 
-@include intro.md
-
 @include table-of-contents.md
 
-
-
-
+@include intro.md
 
 !!section-divider
 
@@ -64,10 +60,6 @@ SINDARIN GRAMMAR
 
 @include possessives.md
 
-# <a name="plurals">Plurals</a>
-
-@include plurals.md
-
 # <a name="lenition">Lenition</a>
 
 @include lenition.md
@@ -76,11 +68,13 @@ SINDARIN GRAMMAR
 
 @include adjectives.md
 
+# <a name="plurals">Plurals</a>
+
+@include plurals.md
+
 !!TODO
 
 - naug -> pl. noeg?
-
-Phrasebook
 
 ?togo barv/aes/ylf ammen
 linno ammen

@@ -8,7 +8,7 @@
 <br/>
 <br/>
 <br/>
-<h1 class="title center">Tinúviel's Elvish Textbook</h1>
+<h1 class="title center">Elaran's Elvish Textbook</h1>
 
 <div class="page-break left"></div>
 <br/>
