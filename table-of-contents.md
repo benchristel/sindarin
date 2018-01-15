@@ -290,10 +290,6 @@
           <p><a href="#numbers">
             Lesson TODO: Numbers
           </a></p>
-          <p class="details">
-          Numbers in
-          Sequences of events in time.
-          </p>
         </li>
     </ul>
   </li>
