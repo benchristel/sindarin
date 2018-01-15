@@ -79,23 +79,26 @@ that you can immediately start using. There are fill-in-the-blank
 exercises at the end of each lesson so you can test yourself
 and practice using the language.
 
-The book is divided into an introduction and two groups of
-lessons:
+The book is divided into four parts: an introduction, two groups of
+lessons, and a reference section.
 
-- The **Introduction** covers the basics of Sindarin
-   pronunciation and introduces some useful phrases and
-   vocabulary. Read this part first before moving on to
+- The **Introduction** orients Sindarin within Tolkien's life
+   and legendarium, covers the basics of Sindarin
+   pronunciation, and introduces some useful phrases and
+   vocabulary. Please read this part first before moving on to
    the other two sections.
-- **Writing Systems** describes the _tengwar_
-   alphabet. If you read this section, you'll be able to write secret notes in the
-   Elvish alphabet, and pronounce the names and phrases
-   in _The Lord of the Rings_. You won't need the information
-   in this section for the Grammar lessons, so you can
+- **Writing Systems** teaches the basics of the Elvish
+   alphabet _tengwar_. You won't need this information
+   for the Grammar lessons in the next section, so you can
    skip it if you wish.
 - **Sindarin Grammar** describes the rules for putting
    words together into sentences. In this
    section, you'll learn to read, write, and speak the
    language.
+- The **Reference** section compiles all the
+  grammar rules introduced in the lessons, for when you've
+  mastered the basics of the language but still need to look
+  things up occasionally.
 
 ## One big asterisk
 
@@ -226,8 +229,8 @@ last-resort means of doing a translation when there is
 simply no better option.
 
 It is good to be aware of which words are reconstructed
-and which come from Tolkien's works, because not everyone
-will know or approve of a given reconstructed word. I've
+and which are Tolkien's, because not everyone
+will understand or approve of a given reconstructed word. I've
 followed the convention of other writers and marked
 reconstructed words with an asterisk (\*).
 
@@ -275,8 +278,8 @@ from other Elvish languages (mostly Quenya) are simply
 _italicized_.
 
 I have tried to keep the technical jargon in this textbook
-to a minimum, but sometimes for the sake of precision I
-have to use a linguistics term. The first use of a term is in
+to a minimum, but sometimes I have to use a linguistics term
+for the sake of precision. The first use of a term is in
 [.term small capitals]. If you aren't familiar with a term,
 do a web search for it; you'll find many grammar sites that
 are aimed at beginners and use comprehensible language.
