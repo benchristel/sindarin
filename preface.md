@@ -79,6 +79,14 @@ that you can immediately start using. There are fill-in-the-blank
 exercises at the end of each lesson so you can test yourself
 and practice using the language.
 
+The course assumes
+no previous experience with foreign languages, although
+a little knowledge of English grammar won't hurt, and if
+you *have* studied a foreign language, that's better still.
+At a minimum, you should know terms like [.term noun],
+[.term verb], [.term first person], and [.term past tense],
+or be ready to look them up!
+
 The book is divided into four parts: an introduction, two groups of
 lessons, and a reference section.
 

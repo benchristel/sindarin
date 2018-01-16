@@ -27,20 +27,40 @@ It's not hard to create the imperative form of a verb from its dictionary form: 
 /!
 
 
-## Dictionary forms of verbs
+## The dictionary verb-form
 
 Sindarin wordlists almost always list verbs by a special
 "dictionary form", which ends in a dash. The dictionary form
-can't be used as-is; you have to add endings (or in
-some cases, just remove the dash) to use the verb in a
-sentence.
+can't be used as-is; you have to add endings to use the
+verb in a sentence.
 
 ## Direct Objects
 
 Some verbs don't make a whole lot of sense without a target
 or [.term direct object] for the action. For example, you
 probably wouldn't say [.s berio!] "protect!" in Sindarin
-without specifying *what* to protect.
+without specifying *what* to protect. You'd generally say
+something like [.s berio i pherian!] "protect the hobbits!", in
+which case "the hobbits" would be the direct object.
+
+The direct object can also be a [.term pronoun], like "her",
+"him", or "me". The grammar for using pronouns
+as direct objects is simpler than the grammar for using
+nouns, so this lesson only covers pronouns.
+
+The table below lists the pronouns you can use
+as direct objects. As in English, they come after the
+verb:
+
+!!example
+
+[.s Dago &dagger;hon!] "Kill him!"
+
+[.s Aphado hain!] "Follow them!"
+
+[.s Tiro nin!] "Watch me!"
+
+/!
 
 <table class="columns">
 <tr class="head">
@@ -66,7 +86,7 @@ without specifying *what* to protect.
 <tr>
   <td>3<sup>rd</sup> person</td>
   <td>[.s han] "him/her/it", [.s &dagger;hon] "him", [.s &dagger;hen] "her"</td>
-  <td>[.s hain] "these, those"</td>
+  <td>[.s hain] "them"</td>
 </tr>
 </table>
 
