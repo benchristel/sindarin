@@ -1,16 +1,19 @@
-Now that you've got the basics of how to pronounce and write Sindarin words, it's time to start putting together longer phrases and sentences. To do this, you need to know Sindarin's grammar.
+The [.term imperative] form of a verb is the form used for
+directly telling someone to do something. In English, it's
+the simplest verb form, with no endings added: _[.hi eat],
+[.hi drink], and [.hi be] merry!_
 
-Commands and wishes are among the most common types of Sindarin phrases in Tolkien's writings. For instance, we have:
+In Sindarin, imperative verbs are used for commands and
+wishes. Many examples can be found in _The Lord of the Rings_:
 
 !!indented
 
 - Glorfindel's cry to his horse Asfaloth: [.s Noro lim, noro lim Asfaloth!] No translation is given, but [.s noro lim] probably means "Run fast!"
 - Haldir's command to the Fellowship in Lórien: [.s Daro!] "Halt!"
 - Sam's invocation of Elbereth, which ends [.s A tiro nín, Fanuilos!] "O look towards me, Everwhite!"
+- [.s Eglerio!]
 
 /!
-
-The common element in all of these examples is a verb ending in [.s -o]: [.s noro], [.s daro], [.s tiro]. This form of the verb is called the _imperative_.
 
 It's not hard to create the imperative form of a verb from its dictionary form: just add [.s o] to the end. If the dictionary form of the verb ends in an [.s a], drop the [.s a] before adding [.s o].
 
@@ -23,16 +26,60 @@ It's not hard to create the imperative form of a verb from its dictionary form: 
 
 /!
 
-Note that most Sindarin dictionaries list words by their _stem form_. The stem form often can't stand as a word on its own; you have to add endings to use it in a sentence. To indicate that an ending needs to be added, dictionaries typically add a dash. For example, the online dictionary _Hiswelokë_ lists [.s nor-] as the stem of the verb "to run".
+
+## Dictionary forms of verbs
+
+Sindarin wordlists almost always list verbs by a special
+"dictionary form", which ends in a dash. The dictionary form
+can't be used as-is; you have to add endings (or in
+some cases, just remove the dash) to use the verb in a
+sentence.
 
 ## Direct Objects
 
-Some verbs don't make a whole lot of sense without a target for the action—in grammar terms, a _direct object_. For example, you probably wouldn't say [.s berio!] "protect!" in Sindarin without specifying _what_ to protect.
+Some verbs don't make a whole lot of sense without a target
+or [.term direct object] for the action. For example, you
+probably wouldn't say [.s berio!] "protect!" in Sindarin
+without specifying *what* to protect.
 
-In Sindarin, as in English, the direct object usually[.TODO how often?] follows the verb.
+<table class="columns">
+<tr class="head">
+  <td></td>
+  <td>Singular</td>
+  <td>Plural</td>
+</tr>
+<tr>
+  <td>1<sup>st</sup> person</td>
+  <td>[.s nin] &ldquo;me&rdquo;</td>
+  <td>[.s ven], [.s *&apos;wen] &ldquo;us&rdquo;</td>
+</tr>
+<tr>
+  <td>2<sup>nd</sup> person</td>
+  <td>[.s le], &ldquo;you&rdquo;</td>
+  <td></td>
+</tr>
+<tr>
+  <td>2<sup>nd</sup> p. familiar</td>
+  <td>[.s gin] &ldquo;you&rdquo;</td>
+  <td></td>
+</tr>
+<tr>
+  <td>3<sup>rd</sup> person</td>
+  <td>[.s han] "him/her/it", [.s &dagger;hon] "him", [.s &dagger;hen] "her"</td>
+  <td>[.s hain] "these, those"</td>
+</tr>
+</table>
 
-- [.s Berio i pheriain!] "Protect the hobbits!"
-- [.s Anglenno i aran.] "Approach the king."
-- [.s Leithio i philin!] "Release the arrows!"
+In Sindarin, as in English, the direct object usually follows the verb.
+
+!!example
+
+[.s Berio nin!] ~ "Protect the hobbits!"
+
+[.s Anglenno i aran.] ~ "Approach the king."
+
+[.s Leithio i philin!] ~ "Release the arrows!"
+
+/!
 
 [.TODO it's not clear whether transitive verbs exist as a distinct category in Sindarin, or, if they do, whether they can be used intransitively in the sense of e.g. "protect (things in general)". The most conservative assumption is perhaps that transitive verbs do exist and cannot be used intransitively (unless examples of normally transitive verbs used intransitively exist). However, it should probably be made clear that this is a pretty big and limiting assumption.]

@@ -3,6 +3,15 @@
 <ul class="toc">
   <li>
     <p><a href="#preface">Preface</a></p>
+    <p class="details">
+    What is Sindarin?
+    Why study Sindarin?
+    What the reader can expect from this book.
+    
+
+    Brief history of the language and its speakers.
+    Comparison to other Elvish languages.
+    </p>
   </li>
   <li>
     <h4>Introduction</h4>
