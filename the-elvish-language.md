@@ -2,7 +2,7 @@
 
 @include table-of-contents.md
 
-@include intro.md
+@include preface.md
 
 !!section-divider
 
@@ -16,7 +16,7 @@ INTRODUCTION
 
 # <a name="a-sindarin-phrasebook">A Sindarin Phrasebook</a>
 
-@include the-beginning.md
+@include a-sindarin-phrasebook.md
 
 # <a name="pronunciation-guide">Pronunciation Guide</a>
 
@@ -38,7 +38,7 @@ WRITING SYSTEMS
 
 @include english-tengwar.md
 
-# <a name="tengwar-for-sindarin">Tengwar for Sindarin</a>
+# <a name="tengwar-for-sindarin">Writing Sindarin with <em>Tengwar</em></a>
 
 @include the-tengwar.md
 
