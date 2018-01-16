@@ -207,6 +207,14 @@
         letter-spacing: 0.02em;
     }
 
+    .salo:before {
+      content: '†';
+      display: inline;
+      vertical-align: super;
+      font-size: 80%;
+      font-style: normal;
+    }
+
     .example {
       font-size: 10pt;
       margin-top: 10pt;

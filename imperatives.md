@@ -54,7 +54,7 @@ verb:
 
 !!example
 
-[.s Dago &dagger;hon!] "Kill him!"
+[.s Dago hon!] "Kill him!"
 
 [.s Aphado hain!] "Follow them!"
 
@@ -71,35 +71,57 @@ verb:
 <tr>
   <td>1<sup>st</sup> person</td>
   <td>[.s nin] &ldquo;me&rdquo;</td>
-  <td>[.s ven], [.s *&apos;wen] &ldquo;us&rdquo;</td>
+  <td>[.s ven], [.s *&rsquo;wen] &ldquo;us&rdquo;</td>
 </tr>
 <tr>
   <td>2<sup>nd</sup> person</td>
-  <td>[.s le], &ldquo;you&rdquo;</td>
-  <td></td>
+  <td>[.s le] &ldquo;you&rdquo;</td>
+  <td>[.s.salo le] &ldquo;you all&rdquo;</td>
 </tr>
 <tr>
   <td>2<sup>nd</sup> p. familiar</td>
   <td>[.s gin] &ldquo;you&rdquo;</td>
-  <td></td>
+  <td>—</td>
 </tr>
 <tr>
   <td>3<sup>rd</sup> person</td>
-  <td>[.s han] "him/her/it", [.s &dagger;hon] "him", [.s &dagger;hen] "her"</td>
-  <td>[.s hain] "them"</td>
+  <td>[.s han] &ldquo;him/her/it&rdquo;,<br/>[.s.salo hon] &ldquo;him&rdquo;, [.s.salo hen] &ldquo;her&rdquo;</td>
+  <td>[.s hain] &ldquo;them&rdquo;</td>
 </tr>
 </table>
 
-In Sindarin, as in English, the direct object usually follows the verb.
+Many of these pronouns have no direct counterpart in English,
+so they deserve some explanation.
 
-!!example
+The first person pronouns [.s ven] and [.s &rsquo;wen] both
+mean "we", but they
+differ in whether the person you're speaking to is included
+or not. [.s ven] is the [.term exclusive first person]
+form—it doesn't include the listener. It means, essentially,
+"them and me (but not you)". [.s &rsquo;Wen], on the other
+hand, is the [.term inclusive first person]. If you use this
+form, you're _including_ the listener: the meaning is
+"you and me (and possibly others)". As described in the
+Preface, the asterisk (\*) before [.s &rsquo;wen] is not part of the word, but
+means that this form is reconstructed rather than drawn
+directly from Tolkien's works. The apostrophe *is* part of
+the spelling—it indicates that a [.s G] that existed in the
+ancient form of the language has been dropped.
 
-[.s Berio nin!] ~ "Protect the hobbits!"
+The second person [.s le] "you" can be used whether you
+are addressing one person or many. However, as you may
+remember from the Preface, the &dagger; symbol
+before the plural version means that the use of [.s le] to
+address more than one person is from the _Lord of the Rings_
+movies, not Tolkien's works.
 
-[.s Anglenno i aran.] ~ "Approach the king."
-
-[.s Leithio i philin!] ~ "Release the arrows!"
-
-/!
+In addition to the normal second person [.s le], there is
+a special "familiar" form [.s gin],
+which you would only use when speaking one-on-one with
+someone you're very close to. Because it's only used in
+intimate conversation, there is no plural form. It's perhaps
+worth noting that in the _Lord of the Rings_ films, the
+familiar pronoun isn't used at all—so even when Arwen and
+Aragorn are speaking to each other, they use [.s le].
 
 [.TODO it's not clear whether transitive verbs exist as a distinct category in Sindarin, or, if they do, whether they can be used intransitively in the sense of e.g. "protect (things in general)". The most conservative assumption is perhaps that transitive verbs do exist and cannot be used intransitively (unless examples of normally transitive verbs used intransitively exist). However, it should probably be made clear that this is a pretty big and limiting assumption.]
