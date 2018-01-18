@@ -213,6 +213,7 @@
       vertical-align: super;
       font-size: 80%;
       font-style: normal;
+      line-height: 0;
     }
 
     .example {

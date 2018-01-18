@@ -124,4 +124,51 @@ worth noting that in the _Lord of the Rings_ films, the
 familiar pronoun isn't used at all—so even when Arwen and
 Aragorn are speaking to each other, they use [.s le].
 
+In the third person, we have the gender-neutral [.s han]
+(singular) and [.s hain] (plural). These pronouns can be
+used for people, animals, and things. If you want to specify
+a person's gender, there are also the pronouns [.s.salo hon]
+"him" and [.s.salo hen] "her". The gendered pronouns come from
+one of Tolkien's early revisions of the language, and it's not
+clear if they were still part of Sindarin
+at the time he was writing _The Lord of the Rings_. They
+are used extensively in the films, though, so it's
+useful to know them.
+
+## Commands with Subjects
+
+An imperative verb in Sindarin may also have a [.term subject]
+referring to the person doing the action. This construction
+is rare in English, but you can still see it in stage
+directions: _Enter Aragorn stage left_. Here, "Enter" is the
+imperative verb (it's telling Aragorn what to do), and
+"Aragorn" is the subject.
+
+This translates easily to Sindarin, keeping the same word
+order:
+
+!!example
+
+[.s Minno Aragorn!] "Enter, Aragorn!" or "Let Aragorn enter"
+
+/!
+
+For extra drama, you can add the [.term interjection]
+[.s A], which emphasizes the fact that you're directly
+addressing a person. This can go before either the verb
+or the subject, depending on which one you want to emphasize.
+
+!!example
+
+[.s Minno, A Aragorn!] "Enter, O Aragorn!"
+
+[.s A minno, Aragorn!] "O enter, Aragorn!"
+
+/!
+
+Note that this interjection [.s A] is always capitalized
+when writing Sindarin with our alphabet. This helps keep
+it from being confused
+with the word for "and", which is [.s a].
+
 [.TODO it's not clear whether transitive verbs exist as a distinct category in Sindarin, or, if they do, whether they can be used intransitively in the sense of e.g. "protect (things in general)". The most conservative assumption is perhaps that transitive verbs do exist and cannot be used intransitively (unless examples of normally transitive verbs used intransitively exist). However, it should probably be made clear that this is a pretty big and limiting assumption.]
