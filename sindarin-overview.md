@@ -35,6 +35,7 @@ Pronounce the vowels as if they're Spanish or Italian. [.s Y] is pronounced as i
 - [.s orod] "mountain", pl. [.s eryd]
 - [.s amon] "hill", pl. [.s emyn]
 - [.s taur] "forest"
+- [.s rath] "street, riverbed"
 - [.s Amon Amarth] "Mount Doom"
 - [.s Imladris] "Rivendell"
 - [.s Minas Tirith] "Tower of the Guard"
@@ -51,6 +52,7 @@ Pronounce the vowels as if they're Spanish or Italian. [.s Y] is pronounced as i
 - [.s corf] "ring" ([.s f] has a [.s V]-sound at the end of a word)
 - [.s parf] "book"
 - [.s têw] "letter", pl. [.s tîw]
+- [.s peth] "word", pl. [.s pith]
 - [.s Ithil] "the Moon"
 - [.s Anor] "the Sun". See the Index to _LotR_, Section IV "Things".
 - [.s galadh] "tree"

@@ -51,7 +51,9 @@
     <h4>Writing Systems</h4>
     <ul>
         <li>
-          <p><a href="#writing-english-with-tengwar">Writing English with Tengwar</a></p>
+          <p><a href="#writing-english-with-tengwar">
+            Writing English with Tengwar
+          </a></p>
 
           <p class="details">Tengwar consonants.
           Full vowel letters. Writing vowels as tehtar.
@@ -61,7 +63,9 @@
           </p>
         </li>
         <li>
-          <p><a href="#tengwar-for-sindarin">Writing Sindarin with Tengwar</a></p>
+          <p><a href="#tengwar-for-sindarin">
+            Writing Sindarin with Tengwar
+          </a></p>
 
           <p class="details">Brief history of the tengwar.
           Structure of the writing system. The organization
