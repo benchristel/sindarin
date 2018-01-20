@@ -17,9 +17,9 @@ Of course, as you're sounding out these phrases it helps to know how they're sup
 
 !!example
 
-[.s Togo aes annim, cí athach] ~ "Bring us food, please"
+[.s Togo aes ammen, cí athach] ~ "Bring us food, please"
 
-[.s Mano i mar Elrond?] ~ "Where is the house of Elrond?"
+[.s Na van i mar Elrond?] ~ "Where is the house of Elrond?"
 
 [.s Man i ven na Imladris?] ~ "Which way to Rivendell?"
 
