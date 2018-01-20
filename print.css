@@ -233,6 +233,15 @@
       font-size: 14pt;
     }
 
+    .blank {
+      border-bottom: 1pt solid black;
+      display: inline-block;
+      min-width: 1in;
+      line-height: 16pt;
+      white-space: pre;
+      text-align: center;
+    }
+
     .hi {
         /*border-bottom: 0.5pt solid black;*/
         text-decoration: underline;

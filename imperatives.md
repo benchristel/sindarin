@@ -11,7 +11,7 @@ wishes. Many examples can be found in _The Lord of the Rings_:
 - Glorfindel's cry to his horse Asfaloth: [.s Noro lim, noro lim Asfaloth!] No translation is given, but [.s noro lim] probably means "Run fast!"
 - Haldir's command to the Fellowship in Lórien: [.s Daro!] "Halt!"
 - Sam's invocation of Elbereth, which ends [.s A tiro nín, Fanuilos!] "O look towards me, Everwhite!"
-- [.s Eglerio!]
+- The cry [.s Eglerio!] "Glorify [them]!", celebrating Frodo and Sam after Sauron is defeated.
 
 /!
 
@@ -60,6 +60,8 @@ verb:
 
 [.s Tiro nin!] "Watch me!"
 
+[.s Berio ven!] "Protect us!"
+
 /!
 
 <table class="columns">
@@ -71,16 +73,16 @@ verb:
 <tr>
   <td>1<sup>st</sup> person</td>
   <td>[.s nin] &ldquo;me&rdquo;</td>
-  <td>[.s ven], [.s *&rsquo;wen] &ldquo;us&rdquo;</td>
+  <td>[.s ven] &ldquo;us&rdquo;</td>
 </tr>
 <tr>
   <td>2<sup>nd</sup> person</td>
-  <td>[.s le] &ldquo;you&rdquo;</td>
-  <td>[.s.salo le] &ldquo;you all&rdquo;</td>
+  <td>[.s le] &ldquo;yourself&rdquo;</td>
+  <td>[.s.salo le] &ldquo;yourselves&rdquo;</td>
 </tr>
 <tr>
   <td>2<sup>nd</sup> p. familiar</td>
-  <td>[.s gin] &ldquo;you&rdquo;</td>
+  <td>[.s gin] &ldquo;yourself&rdquo;</td>
   <td>—</td>
 </tr>
 <tr>
@@ -90,33 +92,15 @@ verb:
 </tr>
 </table>
 
-Many of these pronouns have no direct counterpart in English,
-so they deserve some explanation.
-
-The first person pronouns [.s ven] and [.s &rsquo;wen] both
-mean "we", but they
-differ in whether the person you're speaking to is included
-or not. [.s ven] is the [.term exclusive first person]
-form—it doesn't include the listener. It means, essentially,
-"them and me (but not you)". [.s &rsquo;Wen], on the other
-hand, is the [.term inclusive first person]. If you use this
-form, you're _including_ the listener: the meaning is
-"you and me (and possibly others)". As described in the
-Preface, the asterisk (\*) before [.s &rsquo;wen] is not part of the word, but
-means that this form is reconstructed rather than drawn
-directly from Tolkien's works. The apostrophe *is* part of
-the spelling—it indicates that a [.s G] that existed in the
-ancient form of the language has been dropped.
-
-The second person [.s le] "you" can be used whether you
+The second person [.s le] can be used whether you
 are addressing one person or many. However, as you may
 remember from the Preface, the &dagger; symbol
 before the plural version means that the use of [.s le] to
 address more than one person is from the _Lord of the Rings_
 movies, not Tolkien's works.
 
-In addition to the normal second person [.s le], there is
-a special "familiar" form [.s gin],
+In addition to [.s le], there is
+a special "familiar" second person form [.s gin],
 which you would only use when speaking one-on-one with
 someone you're very close to. Because it's only used in
 intimate conversation, there is no plural form. It's perhaps
@@ -149,11 +133,16 @@ order:
 
 !!example
 
-[.s Minno Aragorn!] "Enter, Aragorn!" or "Let Aragorn enter"
+[.s Minno Aragorn!] "Let Aragorn enter!"
+
+[.s Pedo mellon!] "May a friend speak!"
 
 /!
 
-For extra drama, you can add the [.term interjection]
+## The Interjection [.s A]
+
+When giving someone a direct command or wishing them well
+(or ill!) you can add the [.term interjection]
 [.s A], which emphasizes the fact that you're directly
 addressing a person. This can go before either the verb
 or the subject, depending on which one you want to emphasize.
@@ -170,5 +159,83 @@ Note that this interjection [.s A] is always capitalized
 when writing Sindarin with our alphabet. This helps keep
 it from being confused
 with the word for "and", which is [.s a].
+
+## Putting it all together
+
+You can combine any or all of these techniques in a single
+imperative sentence. The word order is _verb_,
+_subject_, _direct object_, _person being addressed_.
+
+!!example
+
+[.s Berio Belain le, A Aragorn] "May the Valar protect you, O Aragorn"
+
+[.s Tiro ven, Elbereth!] "Guard us, Elbereth!"
+
+/!
+
+## Exercises
+
+Make these dictionary-form verbs into commands. The first
+one is done for you as an example.
+
+!!example
+
+[.s linna-] &rarr; [.blank.s linno!] "Sing!"
+
+[.s ped-] &rarr; [.blank  ] "Speak!"
+
+[.s mad-] &rarr; [.blank  ] "Eat!"
+
+[.s maetha-] &rarr; [.blank  ] "Fight!"
+
+[.s mel-] &rarr; [.blank  ] "Love!"
+
+[.s muda-] &rarr; [.blank  ] "Work!"
+
+[.s teitha-] &rarr; [.blank  ] "Write!"
+
+[.s cab-] &rarr; [.blank  ] "Leap!"
+
+/!
+
+Translate the commands below into Sindarin, using the verbs
+provided. The first one is done for you.
+
+!!example
+
+"Protect them!" ([.s beria-]) ~ [.blank.s Berio hain!]
+
+"Follow us!" ([.s aphad-]) ~ [.blank  ]
+
+"Hear me!" ([.s lasta-]) ~ [.blank  ]
+
+"Heal him!" ([.s nesta-]) ~ [.blank  ]
+
+"Trust her!" ([.s.salo estelia-]) ~ [.blank  ]
+
+"Look at yourself!" ([.s cen-]) ~ [.blank  ]
+
+/!
+
+Translate the curses below into Sindarin, using the verbs
+and subjects provided. The first one is done for you.
+
+!!example
+
+"May the Valar forsake you!" ([.s awartha-] "forsake", [.s Belain] "the Valar")<br/>[.blank.s     Awartho Belain le!    ]
+
+"May Mandos judge them!" ([.s badh-] "judge")<br/>[.blank                                        ]
+
+"May a frog eat him!" ([.s mad-] "eat", [.s cabor] "a frog")<br/>[.blank                                        ]
+
+"May a spider catch her!" ([.s gwedh-] "bind, *catch in a web", [.s ungol] "a spider")
+<br/>[.blank                                        ]
+
+"May a dwarf kill me!" ([.s dag-] "kill", [.s naug] "a dwarf")
+<br/>[.blank                                        ]
+
+
+/!
 
 [.TODO it's not clear whether transitive verbs exist as a distinct category in Sindarin, or, if they do, whether they can be used intransitively in the sense of e.g. "protect (things in general)". The most conservative assumption is perhaps that transitive verbs do exist and cannot be used intransitively (unless examples of normally transitive verbs used intransitively exist). However, it should probably be made clear that this is a pretty big and limiting assumption.]
