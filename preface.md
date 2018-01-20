@@ -117,15 +117,21 @@ the way you might be imagining.
 
 One problem with learning the Elvish languages is that
 Tolkien never intended them to be used by anyone
-other than the characters in his books. He had the
+other than the characters in his books, so he never
+wrote any reader-friendly dictionaries or grammar lessons.
+He also had the
 inconvenient habit of never *finishing* a language.
 For him, the joy of language creation was in constantly
 tinkering and reworking things.
 As a result, the descriptions of Sindarin in his notes are
-full of beautiful words but contain very little information
-about how we might put those words together into sentences.
+full of beautiful words but short on information about how
+we might put those words together into sentences. As you
+might imagine, this makes it very difficult to say with
+certainty whether our Sindarin translations
+resemble what Tolkien might have
+written.
 
-Because of this uncertainty, speaking or teaching Sindarin
+Because of this inherent uncertainty, speaking Sindarin
 is a bit like
 drawing a dinosaur. We might never know for sure what
 color T-Rex was, but if you're going to draw one, you have to
