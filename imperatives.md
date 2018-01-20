@@ -235,7 +235,4 @@ and subjects provided. The first one is done for you.
 "May a dwarf kill me!" ([.s dag-] "kill", [.s naug] "a dwarf")
 <br/>[.blank                                        ]
 
-
 /!
-
-[.TODO it's not clear whether transitive verbs exist as a distinct category in Sindarin, or, if they do, whether they can be used intransitively in the sense of e.g. "protect (things in general)". The most conservative assumption is perhaps that transitive verbs do exist and cannot be used intransitively (unless examples of normally transitive verbs used intransitively exist). However, it should probably be made clear that this is a pretty big and limiting assumption.]
