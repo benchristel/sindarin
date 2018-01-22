@@ -1,4 +1,9 @@
-Tolkien's _tengwar_ script is instantly recognizable—nothing evokes "elvish" like a snippet of _tengwar_ text. It's easy to understand why the _tengwar_ are popular—you don't have to be a Tolkien buff or a language geek to be struck by their beauty.
+The _tengwar_ (Quenya for "signs") were the Elvish script in
+widest use during the Third Age. Following their invention
+by the elf Fëanor, they were adapted to many languages and
+in time became the dominant writing system of Middle-earth.
+
+Even Sauron used _tengwar_ to inscribe the One Ring:
 
 <p class="center text">
 [.tai &#187;][.ti AE5,Ex26Yw1E<span class="tai">j</span>^z<span class="tai">H</span>&#186; AE5,ExxwP%1Ej^][.tai &#171;]
@@ -7,7 +12,10 @@ Tolkien's _tengwar_ script is instantly recognizable—nothing evokes "elvish" l
 [.ti AE5,Ex37zE1E<span class="tai">j</span>^z<span class="tai">H</span>&#186; X#w6Ykt^AT`Bz7qpT1Ej^]
 </p>
 
-That's the One Ring inscription, probably the most famous example of the Elvish script. But if you get it tattooed around your arm and claim that it's in an Elvish *language*, the joke's on you—it's actually Sauron's Black Speech, written with _tengwar_ letters. Transcribed into our Roman alphabet, the Ring inscription goes:
+It is worth noting that the One Ring inscription is not
+"in Elvish". Though the letters are of Elvish design, the
+language is Sauron's Black Speech.
+Transcribed into our Roman alphabet, the Ring inscription goes:
 
 <p class="center text">
 <em>
@@ -18,42 +26,30 @@ ash nazg thrakatulûk agh burzum-ishi krimpatul.
 
 Not sounds that any Elf would want to utter!
 
-This serves to highlight an important point: the _tengwar_ aren't a language; they're a writing system that, much like our own alphabet, can be applied to many different languages. To further drive the point home, the first language we're going to learn to write with _tengwar_ will be English.
+This serves to highlight an important point: the _tengwar_ aren't a language; they're a writing system that, much like our own alphabet, can be applied to many different languages. To drive the point home, the first language we're going to learn to write with _tengwar_ will be English.
 
-!!TODO
+Tolkien never devised an "official" way of writing English
+with _tengwar_. He was mainly interested in how his
+languages were used in Middle-earth, and didn't much care
+about adapting his writing system to real-world languages.
+He did create a few _tengwar_ inscriptions in English,
+including a Christmas greeting to one of his readers. One
+system used in that inscription was also employed in
+the _Lord of the Rings_ films, and is presented here.
 
-remove this? (Moria gate inscription)
+Figure 1 shows the main letters with their English
+equivalents.
 
-<div class="center text">
-<p>
-[.t.text.center -l5I6 2.7&#96;6 &#93;7&#93;6 th7&#96;B&#93; = ql2h tljjh6 &#93; t&#96;B5h- -&#96;y 6&#93;7r&#96; 9&#93;Ö6 ld&#93;1p-aljlw7&#96;BwPh7 h l7ls&#96;Bh6 1lÖ3&#93;1p &#96;B 3&#96;Bn 9&#96;B6-]
-</p>
-</div>
-
-The Moria gate inscription was in Sindarin. The tengwar read: [.s Ennyn Durin Aran Moria: pedo mellon a minno. Im Narvi hain echant: Celebrimbor o Eregion teithant i thiw hin.] "The Doors of Durin, Lord of Moria. Speak, friend, and enter. I, Narvi, made them. Celebrimbor of Hollin drew these signs."
-
-/!
-
-Why start with English, since most of this book is about Sindarin? The main reason is that if you're reading this book front-to-back, you don't yet know any Sindarin words, so learning how to write Sindarin in _tengwar_ at this stage is not very useful. Additionally, the _tengwar_ are very different from our alphabet, not just in their shapes but in the way the whole writing system is organized, and learning how those differences apply to a familiar language like English will be much easier than trying to figure them out in a language you don't know yet. And finally, if you want to introduce your friends to _tengwar_-writing, they probably won't have the patience to learn Sindarin, but they might be interested in having a secret code to write English.
-
-There is no "official" way of writing English with Sindarin, because as far as we know, Tolkien never wrote down instructions for how to do it. He was mainly interested in how his languages were used in Middle-earth, and didn't much care about adapting his writing system to real-world languages. He did create a _tengwar_ inscription in English for the title page of _The Lord of the Rings_, using a system that attempted to hybridize sound-based spelling and straightforward letter-for-letter transcription.
-
-While this transcription is interesting in its own right (and I highly encourage you to go puzzle it out after reading this chapter!) I don't think the spelling system it uses can be learned or used with any confidence. Using it requires constantly making choices: do I represent that silent letter in the _tengwar_? What vowel-mark should I use for the _e_ in _roses_? What about words that are pronounced differently in different dialects?
-
-All of these problems go away if you simply choose a _tengwar_ letter to represent each English letter, and leave it at that. That is the approach taken in this chapter.
-
-What follows is one possible system for writing English with _tengwar_. It has the advantage that, once learned, it is fairly simple, yet it is difficult for anyone who doesn't know it to crack the code. It's also well-suited to calligraphy; with a little practice you'll be able to make some pretty awesome Ring-inscription-style lettering.
-
-Here are the main letters with their English equivalents:
-
-<table class="col-3 columns">
+<div class="figure">
+<h4>Figure 1<br/>The <em>Tengwar</em> used for English</h4>
+<table class="col-3 columns border">
 <tr>
 <td>
 <ul>
-<li>[.tab A][.t.letterform &#93;]</li>
+<li>[.tab A][.t.letterform n]</li>
 <li>[.tab B][.t.letterform w]</li>
 <li>[.tab C][.t.letterform a]</li>
-<li>[.tab CH][.t.letterform d]</li>
+<li>[.tab CH][.t.letterform c]</li>
 <li>[.tab D][.t.letterform 2]</li>
 <li>[.tab E][.t.letterform l]</li>
 <li>[.tab F][.t.letterform e]</li>
@@ -72,20 +68,20 @@ Here are the main letters with their English equivalents:
 <li>[.tab NG][.t.letterform b]</li>
 <li>[.tab O][.t.letterform h]</li>
 <li>[.tab P][.t.letterform q]</li>
-<li>[.tab Q][.t.letterform zê]</li>
-<li>[.tab R][.t.letterform 7]</li>
+<li>[.tab QU][.t.letterform zê]</li>
+<li>[.tab R][.t.letterform 6]</li>
 </ul>
 </td>
 </td>
 <td>
 <ul>
-<li>[.tab S][.t.letterform i]</li>
-<li>[.tab SH][.t.letterform 8]</li>
+<li>[.tab S][.t.letterform 8]</li>
+<li>[.tab SH][.t.letterform d]</li>
 <li>[.tab T][.t.letterform 1]</li>
-<li>[.tab TH][.t.letterform 3]</li>
-<li>[.tab U][.t.letterform .]</li>
+<li>[.tab TH][.t.letterform 3], [.t.letterform 4]</li>
+<li>[.tab U][.t.letterform y]</li>
 <li>[.tab V][.t.letterform r]</li>
-<li>[.tab W][.t.letterform n]</li>
+<li>[.tab W][.t.letterform 7]</li>
 <li>[.tab X][.t.letterform z|]</li>
 <li>[.tab Y][.t.letterform ~]</li>
 <li>[.tab Z][.t.letterform ,]</li>
@@ -93,12 +89,74 @@ Here are the main letters with their English equivalents:
 </td>
 </tr>
 </table>
+</div>
+
+<div class="figure">
+<h4>Figure 2<br/>The <em>Tengwar</em> organized by form</h4>
+<table class="col-4 columns border">
+<tr>
+<td>
+<ul>
+<li>[.tab T][.t.letterform 1]</li>
+<li>[.tab D][.t.letterform 2]</li>
+<li>[.tab TH][.t.letterform 3]</li>
+<li>[.tab TH*][.t.letterform 4]</li>
+<li>[.tab N][.t.letterform 5]</li>
+<li>[.tab R*][.t.letterform 6]</li>
+<li>[.tab R][.t.letterform 7]</li>
+<li>[.tab S][.t.letterform 8]</li>
+<li>[.tab Y][.t.letterform l]</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>[.tab P][.t.letterform q]</li>
+<li>[.tab B][.t.letterform w]</li>
+<li>[.tab F][.t.letterform e]</li>
+<li>[.tab V][.t.letterform r]</li>
+<li>[.tab M][.t.letterform t]</li>
+<li>[.tab W*][.t.letterform y]</li>
+<li>[.tab RH*][.t.letterform u]</li>
+<li>[.tab S][.t.letterform i]</li>
+<li>[.tab H, X][.t.letterform 9]</li>
+</ul>
+</td>
+</td>
+<td>
+<ul>
+<li>[.tab C][.t.letterform a]</li>
+<li>[.tab J][.t.letterform s]</li>
+<li>[.tab SH][.t.letterform d]</li>
+<li>[.tab H][.t.letterform f]</li>
+<li>[.tab NK][.t.letterform g]</li>
+<li>[.tab Y*][.t.letterform h]</li>
+<li>[.tab L][.t.letterform j]</li>
+<li>[.tab SS][.t.letterform k]</li>
+<li>[.tab W][.t.letterform .]</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>[.tab K][.t.letterform z]</li>
+<li>[.tab G][.t.letterform x]</li>
+<li>[.tab CH][.t.letterform c]</li>
+<li>[.tab GH][.t.letterform v]</li>
+<li>[.tab NG][.t.letterform b]</li>
+<li>[.tab QU][.t.letterform n]</li>
+<li>[.tab LD][.t.letterform m]</li>
+<li>[.tab Z][.t.letterform ,]</li>
+<li>[.tab WH][.t.letterform o]</li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
 
 When you're putting these together into words, make sure the central curly bits (_lúvar_ in Quenya) of the letters all sit on the same line. Here's an example:
 
 !!example
 
-[.t 3\`i whhz 1ljji he 3l j&#93;b.&#93;xli he 3l ljrli &#93;52 9hn 3l~ &#93;7l iqhzl5 &#93;52 n7\`11l5]
+[.t 4\`8 whhz 1ljj8 he 4l jnbynxl8 he 4l ljrl8 n52 9h7 4l~ n6l 8qhzl5 n52 76\`11l5]
 
 /!
 
@@ -106,9 +164,20 @@ And here is the same text in a cursive style:
 
 !!example
 
-[.ti 3\`i whhz 1ljji he 3l j&#93;b.&#93;xli he 3l ljrli &#93;52 9hn 3l~ &#93;7l iqhzl5 &#93;52 n7\`11l5]
+[.ti 4\`8 whhz 1ljj8 he 4l jnbynxl8 he 4l ljrl8 n52 9h7 3l~ n6l 8qhzl5 n52 76\`11l5]
 
 /!
+
+Here's a rather silly sentence that uses all the letters:
+
+!!example
+
+[.t c\`jjnz| zêh3 4l x6ytq~ o\`1l 7\`,n62 \`5rhz\`b e\`rl 9nd wn5fh8]
+
+/!
+
+[.t.TODO x6ytq~ 7\`,n628 wnzl 1hz|\`a w6l7 eh6 4l lr\`j zêll5 n52 fnaz]
+
 
 If you're satisfied with being able to read that, you can skip to the next chapter. You'll notice though, that the example above has none of the dots and curls (_tehtar_ in Quenya) above the letters that make the ring inscription so cool-looking. If you want to add some flair to your _tengwar_ writing, read on to learn how _tehtar_ work.
 
