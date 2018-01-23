@@ -44,16 +44,12 @@ The choice of which mode to use for English depends largely
 on your personal aesthetic tastes. However, you should not
 combine multiple modes within one text.
 
-One English mode devised by Tolkien appears in a Christmas
-letter he wrote to Hugh Brogan, a reader who expressed an
-interest in the Elvish languages. It was also used in the
-_Lord of the Rings_ films.
-
 ## The Brogan Mode
 
-He did create a few _tengwar_ inscriptions in English,
-including a Christmas greeting to one of his readers. One
-system used in that inscription was also employed in
+Tolkien penned many _tengwar_ inscriptions in English,
+including a Christmas greeting to Hugh Brogan,
+a reader who had expressed an interest in the Elvish
+langauges. One system used in that inscription was also employed in
 the _Lord of the Rings_ films, and is presented here.
 
 Figure 1 shows the main letters with their English
@@ -187,15 +183,34 @@ And here is the same text in a cursive style:
 
 /!
 
-Here's a rather silly sentence that uses all the letters:
+Here's a rather silly sentence that uses all the letters. The dots between words are _tengwar_ commas.
 
 !!example
 
-[.t c\`jjnz| zêh3 4l x6ytq~ o\`1l 7\`,n62 \`5rhz\`b e\`rl 9nd wn5fh8]
+[.t c\`jjnz| = zêh3 4l x6ytq~ o\`1l 7\`,n62 = \`5rhz\`b e\`rl 9nd wn5fh8]
 
 /!
 
 [.t.TODO x6ytq~ 7\`,n628 wnzl 1hz|\`a w6l7 eh6 4l lr\`j zêll5 n52 fnaz]
+
+You may find Figure 2 helpful in deciphering these texts.
+It organizes the _tengwar_ by shape, so you can more easily
+find the letter you're looking for. This shape-based
+organization is the traditional
+way of presenting the _tengwar_, since it highlights the
+system's regularity. A table similar to Figure 2 can
+be found in _The Lord of the Rings_ Appendix E.
+
+In most _tengwar_ modes, the shape of a letter tells you
+something about its sound. For instance, the letters that
+have a "stem" on the left and a curved "bow" that is open on the bottom,
+like [.t 1], [.t 2], [.t 4], etc. all represent sounds made
+with the tongue touching or just behind the upper teeth.
+Letters that are closed off on the bottom, like [.t q],
+[.t w], [.t t], etc. are sounds that require you to close
+your lips. These patterns make _tengwar_-writing a little
+easier to learn.
+
 
 
 If you're satisfied with being able to read that, you can skip to the next chapter. You'll notice though, that the example above has none of the dots and curls (_tehtar_ in Quenya) above the letters that make the ring inscription so cool-looking. If you want to add some flair to your _tengwar_ writing, read on to learn how _tehtar_ work.
