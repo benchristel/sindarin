@@ -29,9 +29,28 @@ Not sounds that any Elf would want to utter!
 This serves to highlight an important point: the _tengwar_ aren't a language; they're a writing system that, much like our own alphabet, can be applied to many different languages. To drive the point home, the first language we're going to learn to write with _tengwar_ will be English.
 
 Tolkien never devised an "official" way of writing English
-with _tengwar_. He was mainly interested in how his
-languages were used in Middle-earth, and didn't much care
-about adapting his writing system to real-world languages.
+with _tengwar_—or perhaps it's more accurate
+to say he invented many unofficial ways of writing
+English. _Tengwar_ is a very versatile alphabet, and
+for any given language there are usually several different
+spelling systems, called [.term modes]. The spellings used
+in different modes sometimes diverge widely: for
+instance, one English mode presented in this book uses
+the _tengwa_ [.t 7] to represent R, while the other uses [.t 7]
+for W! Most _tengwar_ have the same sound in both modes,
+though: [.t 1] is always T.
+
+The choice of which mode to use for English depends largely
+on your personal aesthetic tastes. However, you should not
+combine multiple modes within one text.
+
+One English mode devised by Tolkien appears in a Christmas
+letter he wrote to Hugh Brogan, a reader who expressed an
+interest in the Elvish languages. It was also used in the
+_Lord of the Rings_ films.
+
+## The Brogan Mode
+
 He did create a few _tengwar_ inscriptions in English,
 including a Christmas greeting to one of his readers. One
 system used in that inscription was also employed in
