@@ -29,36 +29,12 @@ Not sounds that any Elf would want to utter!
 This serves to highlight an important point: the _tengwar_ aren't a language; they're a writing system that, much like our own alphabet, can be applied to many different languages. To drive the point home, the first language we're going to learn to write with _tengwar_ will be English.
 
 Tolkien never devised an "official" way of writing English
-<<<<<<< HEAD
-with _tengwar_—or perhaps it's more accurate
-to say he invented many unofficial ways of writing
-English. _Tengwar_ is a very versatile alphabet, and
-for any given language there are usually several different
-spelling systems, called [.term modes]. The spellings used
-in different modes sometimes diverge widely: for
-instance, one English mode presented in this book uses
-the _tengwa_ [.t 7] to represent R, while the other uses [.t 7]
-for W! Most _tengwar_ have the same sound in both modes,
-though: [.t 1] is always T.
-
-The choice of which mode to use for English depends largely
-on your personal aesthetic tastes. However, you should not
-combine multiple modes within one text.
-
-## The Brogan Mode
-
-Tolkien penned many _tengwar_ inscriptions in English,
-including a Christmas greeting to Hugh Brogan,
-a reader who had expressed an interest in the Elvish
-langauges. One system used in that inscription was also employed in
-=======
 with _tengwar_. He was mainly interested in how his
 languages were used in Middle-earth, and didn't much care
 about adapting his writing system to real-world languages.
 He did create a few _tengwar_ inscriptions in English,
 including a Christmas greeting to one of his readers. One
 system used in that inscription was also employed in
->>>>>>> parent of e00ee2e... Introduce the concept of Tengwar modes
 the _Lord of the Rings_ films, and is presented here.
 
 Figure 1 shows the main letters with their English
@@ -115,66 +91,9 @@ equivalents.
 </table>
 </div>
 
-<div class="figure">
-<h4>Figure 2<br/>The <em>Tengwar</em> organized by form</h4>
-<table class="col-4 columns border">
-<tr>
-<td>
-<ul>
-<li>[.tab T][.t.letterform 1]</li>
-<li>[.tab D][.t.letterform 2]</li>
-<li>[.tab TH][.t.letterform 3]</li>
-<li>[.tab TH*][.t.letterform 4]</li>
-<li>[.tab N][.t.letterform 5]</li>
-<li>[.tab R*][.t.letterform 6]</li>
-<li>[.tab R][.t.letterform 7]</li>
-<li>[.tab S][.t.letterform 8]</li>
-<li>[.tab Y][.t.letterform l]</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>[.tab P][.t.letterform q]</li>
-<li>[.tab B][.t.letterform w]</li>
-<li>[.tab F][.t.letterform e]</li>
-<li>[.tab V][.t.letterform r]</li>
-<li>[.tab M][.t.letterform t]</li>
-<li>[.tab W*][.t.letterform y]</li>
-<li>[.tab RH*][.t.letterform u]</li>
-<li>[.tab S][.t.letterform i]</li>
-<li>[.tab H, X][.t.letterform 9]</li>
-</ul>
-</td>
-</td>
-<td>
-<ul>
-<li>[.tab C][.t.letterform a]</li>
-<li>[.tab J][.t.letterform s]</li>
-<li>[.tab SH][.t.letterform d]</li>
-<li>[.tab H][.t.letterform f]</li>
-<li>[.tab NK][.t.letterform g]</li>
-<li>[.tab Y*][.t.letterform h]</li>
-<li>[.tab L][.t.letterform j]</li>
-<li>[.tab SS][.t.letterform k]</li>
-<li>[.tab W][.t.letterform .]</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>[.tab K][.t.letterform z]</li>
-<li>[.tab G][.t.letterform x]</li>
-<li>[.tab CH][.t.letterform c]</li>
-<li>[.tab GH][.t.letterform v]</li>
-<li>[.tab NG][.t.letterform b]</li>
-<li>[.tab QU][.t.letterform n]</li>
-<li>[.tab LD][.t.letterform m]</li>
-<li>[.tab Z][.t.letterform ,]</li>
-<li>[.tab WH][.t.letterform o]</li>
-</ul>
-</td>
-</tr>
-</table>
-</div>
+The two _tengwar_ letters corresponding to TH are used for
+different sounds: [.t 3] as in _thin_ or _wreath_ and [.t 4] as in
+_this_ or _wreathe_.
 
 When you're putting these together into words, make sure the central curly bits (_lúvar_ in Quenya) of the letters all sit on the same line. Here's an example:
 
@@ -202,13 +121,75 @@ Here's a rather silly sentence that uses all the letters. The dots between words
 
 [.t.TODO x6ytq~ 7\`,n628 wnzl 1hz|\`a w6l7 eh6 4l lr\`j zêll5 n52 fnaz]
 
+<div class="figure">
+<h4>Figure 2<br/>The <em>Tengwar</em> organized by form</h4>
+<table class="col-4 columns border">
+<tr>
+<td>
+<ul>
+<li>[.tab T][.t.letterform 1]</li>
+<li>[.tab D][.t.letterform 2]</li>
+<li>[.tab TH][.t.letterform 3]</li>
+<li>[.tab TH][.t.letterform 4]</li>
+<li>[.tab N][.t.letterform 5]</li>
+<li>[.tab R][.t.letterform 6]</li>
+<li>[.tab W][.t.letterform 7]</li>
+<li>[.tab S][.t.letterform 8]</li>
+<li>[.tab E][.t.letterform l]</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>[.tab P][.t.letterform q]</li>
+<li>[.tab B][.t.letterform w]</li>
+<li>[.tab F][.t.letterform e]</li>
+<li>[.tab V][.t.letterform r]</li>
+<li>[.tab M][.t.letterform t]</li>
+<li>[.tab U][.t.letterform y]</li>
+<li>[.tab —][.t.letterform u]</li>
+<li>[.tab —][.t.letterform i]</li>
+<li>[.tab H][.t.letterform 9]</li>
+</ul>
+</td>
+</td>
+<td>
+<ul>
+<li>[.tab C][.t.letterform a]</li>
+<li>[.tab —][.t.letterform s]</li>
+<li>[.tab SH][.t.letterform d]</li>
+<li>[.tab J][.t.letterform f]</li>
+<li>[.tab —][.t.letterform g]</li>
+<li>[.tab O][.t.letterform h]</li>
+<li>[.tab L][.t.letterform j]</li>
+<li>[.tab —][.t.letterform k]</li>
+<li>[.tab —][.t.letterform .]</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>[.tab K][.t.letterform z]</li>
+<li>[.tab G][.t.letterform x]</li>
+<li>[.tab CH][.t.letterform c]</li>
+<li>[.tab —][.t.letterform v]</li>
+<li>[.tab NG][.t.letterform b]</li>
+<li>[.tab A][.t.letterform n]</li>
+<li>[.tab —][.t.letterform m]</li>
+<li>[.tab Z][.t.letterform ,]</li>
+<li>[.tab WH][.t.letterform o]</li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+
 You may find Figure 2 helpful in deciphering these texts.
-It organizes the _tengwar_ by shape, so you can more easily
-find the letter you're looking for. This shape-based
-organization is the traditional
-way of presenting the _tengwar_, since it highlights the
-system's regularity. A table similar to Figure 2 can
-be found in _The Lord of the Rings_ Appendix E.
+It shows all the _tengwar_ in their traditional arrangement,
+which groups them by shape. Some _tengwar_, like the signs
+for I ([.t \`]) and Y ([.t ~]) are not part of the traditional
+presentation of the _tengwar_ and are left out. Also, many of
+the _tengwar_ aren't assigned an English letter. These
+_tengwar_ do have meaning in other modes, including the ones for
+writing Sindarin.
 
 In most _tengwar_ modes, the shape of a letter tells you
 something about its sound. For instance, the letters that
@@ -219,8 +200,6 @@ Letters that are closed off on the bottom, like [.t q],
 [.t w], [.t t], etc. are sounds that require you to close
 your lips. These patterns make _tengwar_-writing a little
 easier to learn.
-
-
 
 If you're satisfied with being able to read that, you can skip to the next chapter. You'll notice though, that the example above has none of the dots and curls (_tehtar_ in Quenya) above the letters that make the ring inscription so cool-looking. If you want to add some flair to your _tengwar_ writing, read on to learn how _tehtar_ work.
 
