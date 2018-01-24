@@ -29,6 +29,7 @@ Not sounds that any Elf would want to utter!
 This serves to highlight an important point: the _tengwar_ aren't a language; they're a writing system that, much like our own alphabet, can be applied to many different languages. To drive the point home, the first language we're going to learn to write with _tengwar_ will be English.
 
 Tolkien never devised an "official" way of writing English
+<<<<<<< HEAD
 with _tengwar_—or perhaps it's more accurate
 to say he invented many unofficial ways of writing
 English. _Tengwar_ is a very versatile alphabet, and
@@ -50,6 +51,14 @@ Tolkien penned many _tengwar_ inscriptions in English,
 including a Christmas greeting to Hugh Brogan,
 a reader who had expressed an interest in the Elvish
 langauges. One system used in that inscription was also employed in
+=======
+with _tengwar_. He was mainly interested in how his
+languages were used in Middle-earth, and didn't much care
+about adapting his writing system to real-world languages.
+He did create a few _tengwar_ inscriptions in English,
+including a Christmas greeting to one of his readers. One
+system used in that inscription was also employed in
+>>>>>>> parent of e00ee2e... Introduce the concept of Tengwar modes
 the _Lord of the Rings_ films, and is presented here.
 
 Figure 1 shows the main letters with their English
