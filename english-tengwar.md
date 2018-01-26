@@ -127,81 +127,141 @@ Here's a rather silly sentence that uses all the letters. The dots between words
 <tr>
 <td>
 <ul>
+<li class="center"><em>tincotéma</em></li>
 <li>[.tab T][.t.letterform 1]</li>
 <li>[.tab D][.t.letterform 2]</li>
 <li>[.tab TH][.t.letterform 3]</li>
 <li>[.tab TH][.t.letterform 4]</li>
 <li>[.tab N][.t.letterform 5]</li>
 <li>[.tab R][.t.letterform 6]</li>
-<li>[.tab W][.t.letterform 7]</li>
-<li>[.tab S][.t.letterform 8]</li>
-<li>[.tab E][.t.letterform l]</li>
+<li class="todo">[.tab W][.t.letterform 7]</li>
+<li class="todo">[.tab S][.t.letterform 8]</li>
+<li class="todo">[.tab E][.t.letterform l]</li>
 </ul>
 </td>
 <td>
 <ul>
+<li class="center"><em>parmatéma</em></li>
 <li>[.tab P][.t.letterform q]</li>
 <li>[.tab B][.t.letterform w]</li>
 <li>[.tab F][.t.letterform e]</li>
 <li>[.tab V][.t.letterform r]</li>
 <li>[.tab M][.t.letterform t]</li>
 <li>[.tab U][.t.letterform y]</li>
-<li>[.tab —][.t.letterform u]</li>
-<li>[.tab —][.t.letterform i]</li>
-<li>[.tab H][.t.letterform 9]</li>
+<li class="todo">[.tab —][.t.letterform u]</li>
+<li class="todo">[.tab —][.t.letterform i]</li>
+<li class="todo">[.tab H][.t.letterform 9]</li>
 </ul>
 </td>
 </td>
 <td>
 <ul>
+<li class="center"><em>calmatéma</em></li>
 <li>[.tab C][.t.letterform a]</li>
 <li>[.tab —][.t.letterform s]</li>
 <li>[.tab SH][.t.letterform d]</li>
 <li>[.tab J][.t.letterform f]</li>
 <li>[.tab —][.t.letterform g]</li>
 <li>[.tab O][.t.letterform h]</li>
-<li>[.tab L][.t.letterform j]</li>
-<li>[.tab —][.t.letterform k]</li>
-<li>[.tab —][.t.letterform .]</li>
+<li class="todo">[.tab L][.t.letterform j]</li>
+<li class="todo">[.tab —][.t.letterform k]</li>
+<li class="todo">[.tab —][.t.letterform .]</li>
 </ul>
 </td>
 <td>
 <ul>
+<li class="center"><em>quessetéma</em></li>
 <li>[.tab K][.t.letterform z]</li>
 <li>[.tab G][.t.letterform x]</li>
 <li>[.tab CH][.t.letterform c]</li>
 <li>[.tab —][.t.letterform v]</li>
 <li>[.tab NG][.t.letterform b]</li>
 <li>[.tab A][.t.letterform n]</li>
-<li>[.tab —][.t.letterform m]</li>
-<li>[.tab Z][.t.letterform ,]</li>
-<li>[.tab WH][.t.letterform o]</li>
+<li class="todo">[.tab —][.t.letterform m]</li>
+<li class="todo">[.tab Z][.t.letterform ,]</li>
+<li class="todo">[.tab WH][.t.letterform o]</li>
 </ul>
 </td>
 </tr>
 </table>
 </div>
 
-You may find Figure 2 helpful in deciphering these texts.
-It shows all the _tengwar_ in their traditional arrangement,
-which groups them by shape. Some _tengwar_, like the signs
-for I ([.t \`]) and Y ([.t ~]) are not part of the traditional
-presentation of the _tengwar_ and are left out. Also, many of
-the _tengwar_ aren't assigned an English letter. These
-_tengwar_ do have meaning in other modes, including the ones for
-writing Sindarin.
+## Structure and Organization of the Tengwar
 
-In most _tengwar_ modes, the shape of a letter tells you
-something about its sound. For instance, the letters that
-have a "stem" on the left and a curved "bow" that is open on the bottom,
-like [.t 1], [.t 2], [.t 4], etc. all represent sounds made
-with the tongue touching or just behind the upper teeth.
-Letters that are closed off on the bottom, like [.t q],
-[.t w], [.t t], etc. are sounds that require you to close
-your lips. These patterns make _tengwar_-writing a little
+Many of the _tengwar_ letters seem to be variations on a
+theme: one or two loops and a long stem pointing up or down.
+This is by design: the _tengwar_ are a partially [.term featural script],
+in which the shape of a letter encodes
+information about how that letter sounds.
+If you learn the system, it will make the _tengwar_ much
 easier to learn.
 
-If you're satisfied with being able to read that, you can skip to the next chapter. You'll notice though, that the example above has none of the dots and curls (_tehtar_ in Quenya) above the letters that make the ring inscription so cool-looking. If you want to add some flair to your _tengwar_ writing, read on to learn how _tehtar_ work.
+Figure 2 shows the main _tengwar_ in the
+arrangement traditionally used by the Elves. In this arrangement, the
+patterns of sound and shape become evident.
+
+Each _tengwa_ consists
+of a stem, or _telco_, and one or two bows, or _lúvar_.
+The stem can be on the left or right, the bows open or closed.
+The stem can also extend up or down from the _lúvar_.
+
+### The Four _Témar_
+
+The Elves grouped the _tengwar_ into four _témar_ (Quenya for "series"),
+which are represented by the four columns of Figure 2.
+Their names are, in order from left to right: _tincotéma_,
+_parmatéma_, _calmatéma_, and _quessetéma_. The _témar_ are named
+after their first letters [.t 1], [.t q], [.t a], and [.t z],
+called _tinco_ "metal", _parma_ "book", _calma_ "lamp", and _quessë_ "feather" in Quenya.
+The _tengwar_ of each series have the same stem position
+(left or right) and bow type (open or closed).
+
+The _tengwar_ of the _tincotéma_ usually represent sounds made with
+the tip of the tongue touching or just behind the upper
+teeth. So it is in the English mode: the sounds of T, D, TH, N, and R
+share this characteristic.
+
+The _tengwar_ of the _parmatéma_ are usually used for sounds
+that involve the lips, as P, B, F, V, M, U.
+
+In Quenya the _calmatéma_ was used for sounds made with
+the tongue against the roof of the mouth, as K, NG, NC, and
+the _quessetéma_ for the same sounds plus W: QU (KW),
+NQU, NGW. In the English mode, the uses of these two _témar_
+are a bit jumbled, but you can still find traces of a pattern
+if you look hard enough.
+
+### The Six _Tyeller_
+
+The Elves also grouped the _tengwar_ into _tyeller_ or "grades".
+These correspond to the six rows of Figure 2.
+
+The first two rows contain hard consonants, or [.term plosives].
+These sounds involve stopping the airflow in the mouth and then releasing it with a little pop.
+You can recognize a plosive _tengwa_ by its stem, which extends down below the _lúvar_.
+The number of _lúvar_ tells you whether the sound is voiced or unvoiced (see the chapter on pronunciation for an explanation of the voiced/unvoiced distinction).
+
+The third and fourth rows contain [.term spirant] consonants, which
+draw out the sound into a steady stream of air, creating a hiss or buzz.
+As with the plosives, the number of _lúvar_ tells you whether the
+sound is voiced or unvoiced.
+
+The fifth row contains [.term nasal] consonants, which as you might
+guess require you to redirect air through your nose. In
+English, nasals are always voiced, and the doubled _lúvar_
+reflect this.
+
+The sixth row contains vowels. It might seem strange that
+R is included here, but in English R is practically a vowel.
+in a word like _turn_ there's no trace of a U-sound;
+we might as well spell it _trrn_. This is the only row where
+a single _lúva_ doesn't indicate lack of voicing. Vowels
+(and R) are always voiced in English.
+
+### Other Languages and Modes
+
+
+
 
 ## Using _Tehtar_
 
@@ -262,70 +322,6 @@ Now you can try your hand at deciphering this text:
 [.ti &#93;jj nR 9Cr$ 1Y 2$aT2$ \`i n9C1 1Y 2Y nT3 3F 1Tt$ 3D1 \`i x%r$5 .i Â x#52#je]
 
 /!
-
-## The Organization of the _Tengwar_
-
-Did you find yourself flipping back to the _tengwar_ chart while trying to read that text? Reading _tengwar_ can get extremely confusing since most of the letters look very similar to one another. However, there's a regular system underlying the _tengwar_, and knowing it will make them much easier to read and write.
-
-What happens if we arrange the _tengwar_ by their shape?
-
-<table class="col-4 columns">
-<tr>
-<td>
-<ul>
-<li>[.tab T][.t.letterform 1]</li>
-<li>[.tab D][.t.letterform 2]</li>
-<li>[.tab TH][.t.letterform 3]</li>
-<li>[.tab  ][.t.letterform 4]</li>
-<li>[.tab N][.t.letterform 5]</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>[.tab P][.t.letterform q]</li>
-<li>[.tab B][.t.letterform w]</li>
-<li>[.tab F][.t.letterform e]</li>
-<li>[.tab V][.t.letterform r]</li>
-<li>[.tab M][.t.letterform t]</li>
-</ul>
-</td>
-</td>
-<td>
-<ul>
-<li>[.tab C][.t.letterform a]</li>
-<li>[.tab  ][.t.letterform s]</li>
-<li>[.tab CH][.t.letterform d]</li>
-<li>[.tab J][.t.letterform f]</li>
-<li>[.tab  ][.t.letterform g]</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>[.tab K][.t.letterform z]</li>
-<li>[.tab G][.t.letterform x]</li>
-<li>[.tab  ][.t.letterform c]</li>
-<li>[.tab  ][.t.letterform v]</li>
-<li>[.tab NG][.t.letterform b]</li>
-</ul>
-</td>
-</tr>
-</table>
-
-Note that the _tengwar_ in each column have curly bits (_lúvar_) that go the same direction and are all either open or closed off with a bar. The tengwar in each row have the same number of _lúvar_, and their _telqui_ or "stems" point in the same direction—either up or down.
-
-Now the interesting part: by grouping the _tengwar_ by shape, we've actually grouped them by sound as well.
-
-In the top two rows are the hard consonants or _plosives_—sounds made by stopping the airflow in the mouth and then releasing it with a pop. These letters all have a downward stem (or _telco_). You'll notice that the letters are also grouped by whether they have one or two _lúvar_. A single _lúva_ means the sound is pronounced without the vocal cords vibrating—in linguistic terms, it's _unvoiced_. Doubling the _lúva_ makes the _voiced_ version of the sound—pronounced with vocal cord vibration.
-
-If that's all too abstract, try holding a finger against your Adam's apple and pronouncing a drawn-out "S". Now make it a "Z". Did you feel the vibration kick in? That's voicing.
-
-On to the third and fourth rows, where the _telqui_ point up instead of down. The upward-pointing _telqui_ draw out the sounds into _spirants_—hisses or buzzes. Again, the single-_lúva_ letters represent unvoiced sounds; doubling the _lúva_ adds voicing.
-
-The letters in the fifth row are _nasals_ (sounds that redirect air through the nose). These are all voiced, hence the double _lúvar_.
-
-If we look at the _columns_ of the table, a complementary pattern emerges. The first column has all the _coronal_ consonants, which use the tip of the tongue to stop the airflow. The second column is all _labial_ consonants, which involve the lips. And the third and fourth columns are _palatal_ and _velar_ consonants, in which the back of the tongue rises to the roof of the mouth.
-
-What about the gaps in the table, the _tengwar_ with no corresponding English letter? Although these _tengwar_ aren't used for English, they are used for other languages, including Sindarin and Quenya.
 
 ## Abbreviating Doubled Letters
 

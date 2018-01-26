@@ -388,7 +388,7 @@
 
     /* DEVELOPMENT */
 
-    .TODO {
+    .TODO, .todo {
         display: none;
     }
 
