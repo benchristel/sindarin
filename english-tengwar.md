@@ -26,22 +26,29 @@ ash nazg thrakatulûk agh burzum-ishi krimpatul.
 
 Not sounds that any Elf would want to utter!
 
-This serves to highlight an important point: the _tengwar_ aren't a language; they're a writing system that, much like our own alphabet, can be applied to many different languages. To drive the point home, the first language we're going to learn to write with _tengwar_ will be English.
+The great versatility of the _tengwar_ in writing different
+languages led in Middle-earth to an explosion of spelling
+systems, called [.term tengwar modes], among which scribes
+could choose according to their whim or the custom of their
+time and place. Each mode was specific to a language—some
+were only for Sindarin, some for Quenya, some for Westron—but
+a single language could have many modes.
+By the Third Age there were at least three
+different Sindarin modes in use.
 
-Tolkien never devised an "official" way of writing English
-with _tengwar_. He was mainly interested in how his
-languages were used in Middle-earth, and didn't much care
-about adapting his writing system to real-world languages.
-He did create a few _tengwar_ inscriptions in English,
-including a Christmas greeting to one of his readers. One
-system used in that inscription was also employed in
-the _Lord of the Rings_ films, and is presented here.
+There was no mode in Middle-earth for writing English, of
+course, but
+Tolkien did create _tengwar_ inscriptions in several
+different English modes.
+One of Tolkien's English modes was used in the _Lord of the Rings_
+films, and is presented here. It first appeared in a Christmas letter Tolkien wrote
+to a fan, Hugh Brogan, so we'll call it the Brogan Mode.
 
 Figure 1 shows the main letters with their English
 equivalents.
 
 <div class="figure">
-<h4>Figure 1<br/>The <em>Tengwar</em> used for English</h4>
+<h4>Figure 1<br/>The Brogan <em>Tengwar</em> Mode</h4>
 <table class="col-3 columns border">
 <tr>
 <td>
@@ -186,6 +193,49 @@ Here's a rather silly sentence that uses all the letters. The dots between words
 </table>
 </div>
 
+## Punctuation
+
+_Tengwar_ punctuation seems traditionally to have been up
+to the discretion of the individual scribe.
+
+Most of the punctuation marks are groups of dots vertically centered on the _lúvar_ of the text. These dots can either be stacked vertically, lined up horizontally, or clustered. In general, the more dots there are, the longer of a pause they indicate.
+
+Other punctuation marks include the swung dash, the question mark, and the exclamation point.
+
+<table class="tengwar-table">
+  <tr>
+    <td><p>[.t 1 = 1]</p><p>comma, short pause</p></td>
+    <td><p>[.t 1 - 1]</p><p>colon, longer pause</p></td>
+    <td><p>[.t 1 == 1]</p><p>period</p></td>
+    <td><p>[.t 1 =-= 1]</p><p>separates sections of a text</p></td>
+  </tr>
+</table>
+
+
+## Word Abbreviations
+
+The
+
+## Letter Abbreviations
+
+The English mode uses several _tehtar_, or marks, to
+abbreviate certain letter combinations.
+
+### Double Letters
+
+A letter can be doubled by writing a bar underneath it.
+
+### Nasal Clusters
+
+Consonant clusters beginning with an N or M (the so-called nasal consonants)
+can be abbreviated. Instead of writing the N or M out in full, you
+can write a wavy line above the following consonant.
+
+### Silent E
+
+A silent E at the end of a word can be abbreviated by placing
+a dot under the preceding consonant.
+
 ## Structure and Organization of the Tengwar
 
 Many of the _tengwar_ letters seem to be variations on a
@@ -277,7 +327,8 @@ has the sound KS (= X).
 ### The Other Tengwar
 
 There are, of course, several _tengwar_ that don't fit into
-the pattern of Figure 2, including [.t 7] W, [.t j] L
+the pattern of Figure 2, including [.t 7] W, [.t j] L, and
+[.t 9] H. These must simply be memorized.
 
 ## Using _Tehtar_
 
