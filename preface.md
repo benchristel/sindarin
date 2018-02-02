@@ -23,8 +23,8 @@ And what is either one, without people who remember it?
 
 > [.s A Elbereth! Gilthoniel!]
 > [.s Mí epholar sí, derthiel]
-> [.s Vi ndor haer hen galadhui,]
-> [.s Gilgalad gaear annui.]
+> [.s Vi ndorath hin geledhui,]
+> [.s Gilgalad gaeryn ennui.]
 >
 > _We still remember, we who dwell_
 > _In these far lands beneath the trees_
