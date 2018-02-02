@@ -195,8 +195,93 @@ Here's a rather silly sentence that uses all the letters. The dots between words
 
 ## Punctuation
 
-_Tengwar_ punctuation seems traditionally to have been up
-to the discretion of the individual scribe.
+The details of _Tengwar_ punctuation seem traditionally to
+have been up to the discretion and personal style of the
+scribe. A few regular conventions, however, were widely
+observed.
+
+Many punctuation marks consisted of single dots or groups
+of dots, which could be stacked vertically or arranged into
+diamond or square patterns. In general, more dots indicated
+a longer pause. A single dot was often used where in English
+we'd use a comma; two dots could be used to indicate a
+longer pause, a semicolon, or a full stop. Four dots in a
+diamond or square
+often marked the end of a paragraph, but might also
+simply end a sentence.
+
+A long dash was sometimes used—as in English—to set off
+a parenthetical remark from the surrounding text.
+
+The Elves also used marks similar in function to our
+question mark ([.t À]) and exclamation point ([.t Á]).
+They could be combined with other punctuation
+marks, so a question mark at the end of a sentence could
+be written [.t À-].
+
+!!TODO
+
+Why would you want a question mark or exclamation point
+that's *not* at the
+end of a sentence? Here are some examples:
+
+[.t oh n6l ~hyÀ= \`e ~hy 2h51 t\`52 1ljj\`b tl-] ~ _Who
+are you, if you don't mind telling me?_
+
+[.t oh n6l ~hyÀ= \`e ~hy 2h51 t\`52 1ljj\`b tl-]
+
+/!
+
+<div class="figure" style="padding:0 1em;">
+<h4>Figure 3<br/><em>Tengwar</em> Punctuation</h4>
+<table class="col-4">
+<tr>
+<td>comma</td>
+<td>[.t.letterform 1º 1]</td>
+
+<td>comma, semicolon</td>
+<td>[.t.letterform 1 = 1]</td>
+</tr>
+
+<tr>
+<td>period, semicolon</td>
+<td>[.t.letterform 1- 1]</td>
+
+<td>colon</td>
+<td>[.t.letterform 1ˆ 1]</td>
+</tr>
+
+<tr>
+<td>period, end of paragraph</td>
+<td>[.t.letterform 1 =-= 1]</td>
+
+<td>period, end of paragraph</td>
+<td>[.t.letterform 1 -- 1]</td>
+</tr>
+
+<tr>
+<td>long dash, parenthesis</td>
+<td>[.t.letterform 1 Â 1]</td>
+
+<td>line-breaking hyphen</td>
+<td>[.t.letterform 1¬]</td>
+</tr>
+
+<tr>
+<td>exclamation</td>
+<td>[.t.letterform 1Á]</td>
+
+<td>question mark</td>
+<td>[.t.letterform 1À]</td>
+</tr>
+</table>
+</div>
+
+!!example
+
+[.t \`e ~hy 16y81 5h3\`b lj8l = 16y81 4\`8- 16y81 y8 =-=]
+
+/!
 
 Most of the punctuation marks are groups of dots vertically centered on the _lúvar_ of the text. These dots can either be stacked vertically, lined up horizontally, or clustered. In general, the more dots there are, the longer of a pause they indicate.
 
@@ -205,7 +290,7 @@ Other punctuation marks include the swung dash, the question mark, and the excla
 <table class="tengwar-table">
   <tr>
     <td><p>[.t 1 = 1]</p><p>comma, short pause</p></td>
-    <td><p>[.t 1 - 1]</p><p>colon, longer pause</p></td>
+    <td><p>[.t 1- 1]</p><p>colon, longer pause</p></td>
     <td><p>[.t 1 == 1]</p><p>period</p></td>
     <td><p>[.t 1 =-= 1]</p><p>separates sections of a text</p></td>
   </tr>
