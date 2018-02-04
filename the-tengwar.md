@@ -1,28 +1,3 @@
-
-Tolkien's _tengwar_ script is instantly recognizable—nothing evokes "elvish" like a snippet of _tengwar_ text. It's easy to understand why the _tengwar_ are popular—you don't have to be a Tolkien buff or a language geek to be struck by their beauty.
-
-<p class="center text">
-[.tai &#187;][.ti AE5,Ex26Yw1E<span class="tai">j</span>^z<span class="tai">H</span>&#186; AE5,ExxwP%1Ej^][.tai &#171;]
-</p>
-<p class="center text">
-[.ti AE5,Ex37zE1E<span class="tai">j</span>^z<span class="tai">H</span>&#186; X#w6Ykt^AT`Bz7qpT1Ej^]
-</p>
-
-That's the One Ring inscription, probably the most famous example of the Elvish script. But if you get it tattooed around your arm and claim that it's in an Elvish *language*, the joke's on you—it's actually Sauron's Black Speech, written with _tengwar_ letters. Transcribed into our Roman alphabet, the Ring inscription goes:
-
-<p class="center text">
-<em>
-Ash nazg durbatulûk, ash nazg gimbatul,<br/>
-ash nazg thrakatulûk agh burzum-ishi krimpatul.
-</em>
-</p>
-
-Not sounds that any Elf would want to utter!
-
-This serves to highlight an important point: the _tengwar_ aren't a language; they're a writing system that, much like our own alphabet, can be applied to many different languages.
-
-This chapter focuses on writing Sindarin, though there's also a section on how to write English with _tengwar_.
-
 The _tengwar_ were invented by Fëanor in Aman, and so were first used to write Quenya. But Fëanor, always ambitious, didn't just devise an alphabet solely for his own language. He created a system so versatile that it could be adapted to *any* language. Thus when the exiled Noldor brought the _tengwar_ to Middle-earth, they were able to use the script to write Sindarin. By the Third Age there were multiple styles or "modes" for writing Sindarin with _tengwar_, each with its own spelling conventions.
 
 ## The Mode of Beleriand
@@ -97,60 +72,6 @@ Armed with your new knowledge, you can try deciphering the following tengwar tex
 </p>
 
 If you want to try your hand at translating the Sindarin as well, here's a clue: all the words can be found in the vocabulary list that starts <a class="pageref" href="#selected-vocabulary"></a>.
-
-## The Organization of the _Tengwar_
-
-The table of consonants for the Mode of Beleriand is pretty dyslexia-inducing: the letters all look sort of similar but there's no obvious pattern in the way they're assigned to sounds.
-
-In fact, there _is_ a pattern—it's just not apparent when the _tengwar_ are arranged according to our alphabet. Here are the main _tengwar_ as the Elves arranged them:
-
-<table class="col-3 columns">
-<tr>
-<td>
-<ul>
-<li>[.tab T][.t.letterform 1]</li>
-<li>[.tab D][.t.letterform 2]</li>
-<li>[.tab TH][.t.letterform 3]</li>
-<li>[.tab DH][.t.letterform 4]</li>
-<li>[.tab NN][.t.letterform 5]</li>
-<li>[.tab N][.t.letterform 6]</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>[.tab P][.t.letterform q]</li>
-<li>[.tab B][.t.letterform w]</li>
-<li>[.tab F][.t.letterform e]</li>
-<li>[.tab V][.t.letterform r]</li>
-<li>[.tab MM][.t.letterform t]</li>
-<li>[.tab M][.t.letterform y]</li>
-</ul>
-</td>
-</td>
-<td>
-<ul>
-<li>[.tab C][.t.letterform a]</li>
-<li>[.tab G][.t.letterform s]</li>
-<li>[.tab CH][.t.letterform d]</li>
-<li>[.tab &nbsp;][.t.letterform f]</li>
-<li>[.tab NG][.t.letterform g]</li>
-<li>[.tab O][.t.letterform h]</li>
-</ul>
-</td>
-</tr>
-</table>
-
-In the top row are the hard, _unvoiced_ consonants, which all have a downward "stem" (Quenya _telco_) and single "bow" (_lúva_). In the second row, we have the voiced counterparts of these—the voicing being reflected in the _tengwar_ by doubling the _lúva_.
-
-The third and fourth rows are almost a duplicate of the first two—the difference is that the _telqui_ (pl. of _telco_) are extended up instead of down. The associated sounds are _spirants_, which draw out the sound into a hiss or buzz.
-
-The fifth and sixth rows are a little more chaotic; [.t h] for [.s O] is the odd letter out as all the others represent _nasals_ (sounds that redirect air through the nose).
-
-If we look at the _columns_ of the table, a complementary pattern emerges. The first column has all the _dental_ consonants, which place the tip of the tongue on (or just behind) the upper teeth. The second column is all _labial_ consonants, which involve the lips. And the third column (with the exception of the outlier [.t h]) is all _velar_ consonants, in which the tongue rises to the roof of the mouth.
-
-Note that the letter [.t f] fills out the pattern but doesn't have an associated Sindarin sound. If we follow the pattern of the other _tengwar_, the sound of [.t f] would be a voiced version of [.s CH]. This gutteral sound doesn't occur in Sindarin but is present in the Black Speech, for example in _agh_ "and".
-
-What about the other _tengwar_, like [.t j], [.t 7], and [.t 8]? Their sounds don't fit into the grid system so nicely, and their irregular shapes (deviating from the _telco_-_lúva_ pattern) reflect this.
 
 ## The _Ómatehta_ Mode
 

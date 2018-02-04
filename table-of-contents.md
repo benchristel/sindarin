@@ -7,7 +7,7 @@
     What is Sindarin?
     Why study Sindarin?
     What the reader can expect from this book.
-    
+
 
     Brief history of the language and its speakers.
     Comparison to other Elvish languages.
@@ -52,26 +52,46 @@
     <ul>
         <li>
           <p><a href="#writing-english-with-tengwar">
-            Writing English with Tengwar
+            Lesson One: Writing English with Tengwar
           </a></p>
 
-          <p class="details">Tengwar consonants.
-          Full vowel letters. Writing vowels as tehtar.
-          Consonant abbreviations. Other possible approaches
-          to an English Tengwar mode.
+          <p class="details">The Brogan Tengwar Mode.
+          Punctuation.
+          Abbreviations for words and letters.
           Punctuation and numerals.
           </p>
         </li>
         <li>
-          <p><a href="#tengwar-for-sindarin">
-            Writing Sindarin with Tengwar
+          <p><a href="#structure-of-the-tengwar">
+            Lesson Two: The Structure of the Tengwar
           </a></p>
 
-          <p class="details">Brief history of the tengwar.
-          Structure of the writing system. The organization
-          of the letters. The Belariand mode. The Ómatehta
-          mode.
+          <p class="details">
+          The twenty-four regular letters.
+          Témar and tyeller.
+          Correspon&shy;dences between the sound and shape of letters.
           </p>
+        </li>
+        <li>
+          <p><a href="#english-omatehta">
+            Lesson Three: The English Ómatehta Mode
+          </a></p>
+
+          <p class="details">
+          Vowel tehtar.
+          Daniel Reeve's English mode.
+          </p>
+        </li>
+        <li>
+          <p><a href="#tengwar-for-sindarin">
+            Lesson Four: The Sindarin Mode of Beleriand
+          </a></p>
+        </li>
+
+        <li>
+          <p><a href="#tengwar-for-sindarin">
+            Lesson Five: The Sindarin Ómatehta Mode
+          </a></p>
         </li>
     </ul>
   </li>

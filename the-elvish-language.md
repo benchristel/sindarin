@@ -38,12 +38,17 @@ WRITING SYSTEMS
 
 @include english-tengwar.md
 
+# <a name="structure-of-the-tengwar">The Structure of the Tengwar</a>
+
+@include structure-of-the-tengwar.md
+
+# <a name="english-omatehta">Lesson Three: The English Ómatehta Mode</a>
+
+@include english-omatehta.md
+
 # <a name="tengwar-for-sindarin">Writing Sindarin with <em>Tengwar</em></a>
 
 @include the-tengwar.md
-
-
-
 
 
 !!section-divider
