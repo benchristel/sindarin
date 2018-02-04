@@ -52,18 +52,20 @@ was struck by the way the sound seemed to fit the meaning.
 His keen sense of the music of words is evident
 everywhere in Sindarin.
 
-Learning Sindarin might even help you learn other languages.
-The hardest
-part of learning any foreign language is putting aside the
-habits of your native tongue, and Sindarin provides ample
-opportunity to unlearn English. Indeed, if you study Elvish
-enough, English may seem the more peculiar language.
+Learning Sindarin will also help you learn other languages.
+Sindarin's grammar is inspired by European languages, so
+if you're trying to learn a language like
+Spanish, French, or German, Sindarin is a good stepping
+stone. Even if you don't follow
+up your Sindarin studies with a foreign language course,
+you may find yourself delighting in the subtleties of your
+native tongue—and wielding it with greater confidence.
 
-And of course, you probably want to actually *use* the
-language for something. You can certainly use Sindarin to give an
+Of course, you probably want to actually *use* Sindarin
+for something. Sindarin phrases can certainly lend an
 Elvish flavor to roleplaying campaigns or Tolkien fanfiction.
-If you study very hard, you might even be able to use it
-for journaling or secret communication (though Sindarin
+If you study very hard, you might even be able to
+keep a journal in Sindarin (though the language
 naturally lacks the vocabulary for modern inventions like
 cars and phones). And of course, you can write poetry, and
 enjoy the poetry of others, which you can find in abundance
@@ -83,7 +85,7 @@ The course assumes
 no previous experience with foreign languages, although
 a little knowledge of English grammar won't hurt, and if
 you *have* studied a foreign language, that's better still.
-At a minimum, you should know terms like [.term noun],
+At a minimum, you should be acquainted with terms like [.term noun],
 [.term verb], [.term first person], and [.term past tense],
 or be ready to look them up!
 
@@ -93,8 +95,8 @@ lessons, and a reference section.
 - The **Introduction** orients Sindarin within Tolkien's life
    and legendarium, covers the basics of Sindarin
    pronunciation, and introduces some useful phrases and
-   vocabulary. Please read this part first before moving on to
-   the other two sections.
+   vocabulary. Read this part first before moving on to
+   the lessons.
 - **Writing Systems** teaches the basics of the Elvish
    alphabet _tengwar_. You won't need this information
    for the Grammar lessons in the next section, so you can
@@ -119,16 +121,12 @@ One problem with learning the Elvish languages is that
 Tolkien never intended them to be used by anyone
 other than the characters in his books, so he never
 wrote any reader-friendly dictionaries or grammar lessons.
-He also had the
-inconvenient habit of never *finishing* a language.
-For him, the joy of language creation was in constantly
-tinkering and reworking things.
-As a result, the descriptions of Sindarin in his notes are
-full of beautiful words but short on information about how
-we might put those words together into sentences. As you
-might imagine, this makes it very difficult to say with
-certainty whether our Sindarin translations
-resemble what Tolkien might have
+He also changed his mind repeatedly about various
+details of his languages, and his notes often contradict
+each other.
+This makes it very difficult to know
+whether our Sindarin compositions
+resemble anything Tolkien himself might have
 written.
 
 Because of this inherent uncertainty, speaking Sindarin
@@ -178,13 +176,24 @@ Despite these constraints, the aim of this
 book remains ambitious. I have tried to present a "complete"
 and faithful rendition of Sindarin—always keeping in mind,
 of course, that such a "completed" language should not
-be treated as authoritative or set in stone. Sindarin is
-like a communal garden—always growing, always changing:
-a patchwork of different people's translations that
-sometimes harmonize and sometimes compete. By learning the
-language, you too can become a gardener, and decide how you
-want to translate your own thoughts into Sindarin. It is up
-to you to decide what this language will become.
+be treated as authoritative or set in stone. Indeed, I have
+left some parts of the book deliberately vague, because I feel
+that a precise and formal description of Sindarin would
+go against the spirit of the language. When considering
+details like word order, or whether a certain sound-shift
+should apply, the ear and heart are a better guide than
+any rule.
+
+Therefore, do not worry too much about any
+uncertainties you encounter as you read through this book.
+Though it might be impossible
+to make Sindarin your second language, it can be much more than that.
+Just keep coming back; revisit
+it as you would an old friend, and soon you will come
+to know its habits as your own.
+Sindarin can be a home away from home, another mode of
+thinking and being: dwell in it, and it
+will grow around you like a forest.
 
 ## Reconstructed Words
 
