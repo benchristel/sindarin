@@ -74,7 +74,7 @@ variations on the four basic shapes.
 <li>[.tab K][.t.letterform z]</li>
 <li>[.tab G][.t.letterform x]</li>
 <li>[.tab CH][.t.letterform c]</li>
-<li>[.tab —][.t.letterform v]</li>
+<li>[.tab GH][.t.letterform v]</li>
 <li>[.tab NG][.t.letterform b]</li>
 <li>[.tab A][.t.letterform n]</li>
 <li class="todo">[.tab —][.t.letterform m]</li>
