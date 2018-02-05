@@ -173,7 +173,7 @@ are you, if you don't mind telling me?_
 /!
 
 <div class="figure" style="padding:0 1em;">
-<h4>Figure 3<br/><em>Tengwar</em> Punctuation</h4>
+<h4>Figure 2<br/><em>Tengwar</em> Punctuation</h4>
 <table class="col-4" style="border-top: 1pt solid black">
 <tr>
 <td>comma</td>
@@ -229,10 +229,10 @@ The Brogan English mode abbreviates several common words:
 [.t 2P] "and", [.t @] "the", [.t W] "of", and [.t W:] "of the". So _A tale of hobbits and the Lord of the Rings_
 could be written [.t n 1njl W 9hww\`18 2P @ jh62 W: 6\`b8].
 
-These abbreviations are presented in Figure 4.
+These abbreviations are presented in Figure 3.
 
 <div class="figure" style="padding:0 1em;">
-<h4>Figure 4<br/>Word Abbreviations</h4>
+<h4>Figure 3<br/>Word Abbreviations</h4>
 <table class="col-4" style="border-top: 1pt solid black; width: 100%">
 <tr>
 <td>and</td>
@@ -301,3 +301,38 @@ Which one you use is up to your personal taste.
 Tolkien seems to have preferred
 the accent, while in the movies a dot (or the absence of any mark)
 is more frequent.
+
+## Numerals
+
+The numerals used with the _tengwar_ are shown in Figure 4.
+The Elves were accustomed to writing numbers "backwards"
+(from our perspective), with the ones-digit on the left.
+A number like 2,017 would thus be written in the order
+7-1-0-2: [.t ÷ñðò]. To distinguish the numerals from letters,
+bars or dots could be written above them: [.t ÷îñîðîòî] or [.t ÷TñGðGò%].
+
+<div class="figure">
+<h4>Figure 4<br/><em>Tengwar</em> Numerals</h4>
+<table class="col-3 columns border">
+<tr>
+<td>
+<ul>
+<li>[.tab 0][.t.letterform ð]</li>
+<li>[.tab 1][.t.letterform ñ]</li>
+<li>[.tab 2][.t.letterform ò]</li>
+<li>[.tab 3][.t.letterform ó]</li>
+<li>[.tab 4][.t.letterform ô]</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>[.tab 5][.t.letterform õ]</li>
+<li>[.tab 6][.t.letterform ö]</li>
+<li>[.tab 7][.t.letterform ÷]</li>
+<li>[.tab 8][.t.letterform ø]</li>
+<li>[.tab 9][.t.letterform ù]</li>
+</ul>
+</td>
+</tr>
+</table>
+</div>

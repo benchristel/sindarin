@@ -162,9 +162,3 @@ The _ómatehta_ mode uses two different letters for [.s R]: [.t 7] and [.t 6]. [
 ### Abbreviations
 
 The _ómatehta_ mode uses the same abbreviations as the Mode of Beleriand, plus a few more. A bar below a _tengwa_ indicates that the letter is doubled. However, double [.s NN] and [.s MM] use the wavy line above instead—just like in the Mode of Beleriand, this indicates a preceding nasal sound.
-
-## Numbers
-
-## Punctuation
-
-## Writing Tengwar with Mundane Implements
