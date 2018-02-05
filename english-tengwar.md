@@ -61,6 +61,7 @@ equivalents.
 <li>[.tab E][.t.letterform l]</li>
 <li>[.tab F][.t.letterform e]</li>
 <li>[.tab G][.t.letterform x]</li>
+<li>[.tab GH][.t.letterform v]</li>
 <li>[.tab H][.t.letterform 9]</li>
 <li>[.tab I][.t.letterform `]</li>
 </ul>
@@ -77,21 +78,23 @@ equivalents.
 <li>[.tab P][.t.letterform q]</li>
 <li>[.tab QU][.t.letterform zê]</li>
 <li>[.tab R][.t.letterform 6]</li>
+<li>[.tab S][.t.letterform 8]</li>
 </ul>
 </td>
 </td>
 <td>
 <ul>
-<li>[.tab S][.t.letterform 8]</li>
 <li>[.tab SH][.t.letterform d]</li>
 <li>[.tab T][.t.letterform 1]</li>
-<li>[.tab TH][.t.letterform 3], [.t.letterform 4]</li>
+<li>[.tab TH][.t.letterform 3]</li>
+<li>[.tab TH][.t.letterform 4]</li>
 <li>[.tab U][.t.letterform y]</li>
 <li>[.tab V][.t.letterform r]</li>
 <li>[.tab W][.t.letterform 7]</li>
 <li>[.tab X][.t.letterform z|]</li>
 <li>[.tab Y][.t.letterform ~]</li>
-<li>[.tab Z][.t.letterform ,]</li>
+<li>[.tab Z][.t.letterform k]</li>
+<li>[.tab.salo Z][.t.letterform ,]</li>
 </ul>
 </td>
 </tr>
@@ -100,7 +103,9 @@ equivalents.
 
 The two _tengwar_ letters corresponding to TH are used for
 different sounds: [.t 3] as in _thin_ or _wreath_ and [.t 4] as in
-_this_ or _wreathe_.
+_this_ or _wreathe_. The two letters for Z come from different
+sources: Tolkien used [.t k], but [.t ,] was used in the
+_Lord of the Rings_ movies.
 
 When you're putting these together into words, make sure the central curly bits (_lúvar_ in Quenya) of the letters all sit on the same line. Here's an example:
 
@@ -122,7 +127,7 @@ Here's a rather silly sentence that uses all the letters. The dots between words
 
 !!example
 
-[.t c\`jjnz| = zêh3 4l x6ytq~ o\`1l 7\`,n62 = \`5rhz\`b e\`rl 9nd wn5fh8]
+[.t c\`jjnz| = zêh3 4l x6ytq~ o\`1l 7\`,n62 = \`5rhz\`b 9\`8 e\`v1\`b wn5fh e\`d]
 
 /!
 
@@ -255,7 +260,7 @@ abbreviate certain letter combinations.
 ### Double Letters
 
 A letter can be doubled by writing a bar underneath it.
-Thus: [.t jl1&apos;l6] "letter", [.t qh&apos;z] "book", [.t alj°n6 2h&apos;6] "cellar door". The exception is SS, which is not written with a bar but can be represented as [.t k] thus: [.t jlk] "less".
+Thus: [.t jl1&apos;l6] "letter", [.t qh&apos;z] "book", [.t alj°n6 2h&apos;6] "cellar door".
 
 ### Nasal Clusters
 
@@ -279,3 +284,20 @@ shape extending from the next-to-last letter: [.t ny1p+] "aunts",
 the silent-E dot: [.t 9hqÉ+] "hopes".
 
 The S can also be written in full: [.t tn,l8] "mazes".
+
+### W and U
+
+When W is the second element of a consonant cluster such as
+TW or DW, it can be abbreviated as a mark like a flattened S:
+[.t 1êh 2èn6rÉ+] "two dwarves". W or U after a vowel can
+be abbreviated the same way: [.t 8nê] "saw", [.t 9hê8É] "house",
+[.t 5lê8] "news".
+
+## Dotting the I
+
+The _tengwa_ for I can be capped with a dot ([.t \`B]) or accent ([.t \`V])
+to make it more visible.
+Which one you use is up to your personal taste.
+Tolkien seems to have preferred
+the accent, while in the movies a dot (or the absence of any mark)
+is more frequent.
