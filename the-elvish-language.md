@@ -34,19 +34,47 @@ WRITING SYSTEMS
 
 /!section-divider
 
-# <a name="writing-english-with-tengwar">Writing English with <em>Tengwar</em></a>
+<h1>
+  <div class="lesson-heading">
+  Lesson One:
+  </div>
+  <a name="writing-english-with-tengwar">
+  Writing English with <em>Tengwar</em>
+  </a>
+</h1>
 
 @include english-tengwar.md
 
-# <a name="structure-of-the-tengwar">The Structure of the Tengwar</a>
+<h1>
+  <div class="lesson-heading">
+  Lesson Two:
+  </div>
+  <a name="structure-of-the-tengwar">
+  The Structure of the Tengwar
+  </a>
+</h1>
 
 @include structure-of-the-tengwar.md
 
-# <a name="english-omatehta">Lesson Three: The English Ómatehta Mode</a>
+<h1>
+  <div class="lesson-heading">
+  Lesson Three:
+  </div>
+  <a name="english-omatehta">
+  The English Ómatehta Mode
+  </a>
+</h1>
 
 @include english-omatehta.md
 
-# <a name="tengwar-for-sindarin">Writing Sindarin with <em>Tengwar</em></a>
+<h1>
+  <div class="lesson-heading">
+  Lesson Four:
+  </div>
+  <a name="tengwar-for-sindarin">
+  Writing Sindarin with <em>Tengwar</em>
+  </a>
+</h1>
 
 @include the-tengwar.md
 

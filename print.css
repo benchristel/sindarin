@@ -96,12 +96,19 @@
         margin-top: 1em;
     }
 
+    .lesson-heading {
+      color: #666;
+      font-size: 22pt;
+    }
+
     h1:not(.title) {
-        padding-top: 1em;
         padding-bottom: 1em;
         page-break-before: left;
-        string-set: right-page-header content(), left-page-header '', page-number '';
         font-size: 18pt;
+    }
+
+    h1 a {
+      string-set: right-page-header content(), left-page-header '', page-number '';
     }
 
     h2 {
