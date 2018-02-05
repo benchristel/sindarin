@@ -7,9 +7,13 @@ Of course, as you're sounding out these phrases it helps to know how they're sup
 
 !!example
 
-[.s Mae govannen!] ~ "Well met!"
+[.s Mae govannen!] <br/> "Well met!"
 
-[.s Êl síla na lû govaded vín] ~ "A star shines on the hour of our meeting"
+/!
+
+!!example
+
+[.s Êl síla na lû govaded vín] <br/> "A star shines on the hour of our meeting"
 
 /!
 
@@ -17,11 +21,19 @@ Of course, as you're sounding out these phrases it helps to know how they're sup
 
 !!example
 
-[.s Togo aes ammen, cí athach] ~ "Bring us food, please"
+[.s Togo aes ammen, cí athach] <br/> "Bring us food, please"
 
-[.s Na van i mar Elrond?] ~ "Where is the house of Elrond?"
+/!
 
-[.s Man i ven na Imladris?] ~ "Which way to Rivendell?"
+!!example
+
+[.s Na van i mar Elrond?] <br/> "Where is the house of Elrond?"
+
+/!
+
+!!example
+
+[.s Man i ven na Imladris?] <br/> "Which way to Rivendell?"
 
 /!
 
@@ -29,11 +41,19 @@ Of course, as you're sounding out these phrases it helps to know how they're sup
 
 !!example
 
-[.s Novaer!] ~ "Farewell!"
+[.s Novaer!] <br/> "Farewell!"
 
-[.s No galu na mar lín] ~ "May good fortune be upon your house"
+/!
 
-[.s Hennaid] ~ "Thanks"
+!!example
+
+[.s No galu na mar lín] <br/> "May good fortune be upon your house"
+
+/!
+
+!!example
+
+[.s Hennaid] <br/> "Thanks"
 
 /!
 
@@ -41,11 +61,19 @@ Of course, as you're sounding out these phrases it helps to know how they're sup
 
 !!example
 
-[.s Tiro Ithil!] ~ "Look at the moon!"
+[.s Tiro Ithil!] <br/> "Look at the moon!"
 
-[.s Edrar i ñgîl] ~ "The stars are coming out"
+/!
 
-[.s I dawar hen bain] ~ "The forest here is beautiful"
+!!example
+
+[.s Edrar i ñgîl] <br/> "The stars are coming out"
+
+/!
+
+!!example
+
+[.s I dawar hen bain] <br/> "The forest here is beautiful"
 
 /!
 
@@ -54,11 +82,19 @@ Of course, as you're sounding out these phrases it helps to know how they're sup
 
 !!example
 
-[.s Yngyl!] ~ "Spiders!"
+[.s Yngyl!] <br/> "Spiders!"
 
-[.s Drego!] ~ "Run away!"
+/!
 
-[.s Ai!] ~ "Oh no!"
+!!example
+
+[.s Drego!] <br/> "Run away!"
+
+/!
+
+!!example
+
+[.s Ai!] <br/> "Oh no!"
 
 /!
 
@@ -66,13 +102,25 @@ Of course, as you're sounding out these phrases it helps to know how they're sup
 
 !!example
 
-[.s Edraith ammen!] ~ "Save us!"
+[.s Edraith ammen!] <br/> "Save us!"
 
-[.s Northo in yngyl!] ~ "Pursue the spiders!"
+/!
 
-[.s Dago hain!] ~ "Kill them!"
+!!example
 
-[.s Berio i pheriain!] ~ "Protect the halflings!"
+[.s Northo in yngyl!] <br/> "Pursue the spiders!"
+
+/!
+
+!!example
+
+[.s Dago hain!] <br/> "Kill them!"
+
+/!
+
+!!example
+
+[.s Berio i pheriain!] <br/> "Protect the halflings!"
 
 /!
 
@@ -80,9 +128,13 @@ Of course, as you're sounding out these phrases it helps to know how they're sup
 
 !!example
 
-[.s Rim hennaid] ~ "Many thanks"
+[.s Rim hennaid] <br/> "Many thanks"
 
-[.s Le hannon] ~ "I thank you"
+/!
+
+!!example
+
+[.s Le hannon] <br/> "I thank you"
 
 /!
 
@@ -90,27 +142,51 @@ Of course, as you're sounding out these phrases it helps to know how they're sup
 
 !!example
 
-[.s Ú-moe hennaid] ~ "No thanks are necessary"
-
-[.s Maer hennui i edhellen lín!] ~ "Your Elvish is pretty good!"
-
-[.s Aphado vin na Imladris] ~ "Follow us to Rivendell"
+[.s Ú-moe hennaid] <br/> "No thanks are necessary"
 
 /!
 
-#### _On the way, you chat up a particularly attractive member of the Elvish party_
+!!example
+
+[.s Maer hennui i edhellen lín!] <br/> "Your Elvish is pretty good!"
+
+/!
 
 !!example
 
-[.s Suilad!] ~ "Hello!"
+[.s Aphado vin na Imladris] <br/> "Follow us to Rivendell"
 
-[.s ____ i eneth nín] ~ "My name is ____"
+/!
 
-[.s Man i eneth lín?] ~ "What is your name?"
+#### _On the way, you flirt with a particularly attractive member of the Elvish party_
 
-[.s Melon le] ~ "I like you"
+!!example
 
-[.s Melach nín?] ~ "Do you like me?"
+[.s Suilad!] <br/> "Hello!"
+
+/!
+
+!!example
+
+[.s ____ i eneth nín] <br/> "My name is ____"
+
+/!
+
+!!example
+
+[.s Man i eneth lín?] <br/> "What is your name?"
+
+/!
+
+!!example
+
+[.s Melon le] <br/> "I like you"
+
+/!
+
+!!example
+
+[.s Melach nín?] <br/> "Do you like me?"
 
 /!
 
@@ -118,11 +194,19 @@ Of course, as you're sounding out these phrases it helps to know how they're sup
 
 !!example
 
-[.s Ce no mellyn erui] ~ "Let's just be friends"
+[.s Ce no mellyn erui] <br/> "Let's just be friends"
 
-[.s Nae!] ~ "Alas!"
+/!
 
-[.s Be iest lín] ~ "As you wish"
+!!example
+
+[.s Nae!] <br/> "Alas!"
+
+/!
+
+!!example
+
+[.s Be iest lín] <br/> "As you wish"
 
 /!
 
@@ -130,17 +214,37 @@ Of course, as you're sounding out these phrases it helps to know how they're sup
 
 !!example
 
-[.s Tolo, mado go vin!] ~ "Come, dine with us!"
+[.s Tolo, mado go vin!] <br/> "Come, dine with us!"
 
-[.s Panno ylf e-rendir!] ~ "Fill the wanderers' cups!"
+/!
 
-[.s Leithio i naeth lín!] ~ "Let go your cares!"
+!!example
 
-[.s Ammaer i miruvor hen] ~ "This <em>miruvor</em> (a type of wine) is excellent"
+[.s Panno ylf e-rendir!] <br/> "Fill the wanderers' cups!"
 
-[.s Linno i 'laer e-dant Morgoth!] ~ "Sing the song of Morgoth's fall!"
+/!
 
-[.s Ista pen linnod maer?] ~ "Anyone know a good <em>linnod</em> (type of short poem)?"
+!!example
+
+[.s Leithio i naeth lín!] <br/> "Let go your cares!"
+
+/!
+
+!!example
+
+[.s Ammaer i miruvor hen] <br/> "This <em>miruvor</em> (a type of wine) is excellent"
+
+/!
+
+!!example
+
+[.s Linno i 'laer e-dant Morgoth!] <br/> "Sing the song of Morgoth's fall!"
+
+/!
+
+!!example
+
+[.s Ista pen linnod maer?] <br/> "Anyone know a good <em>linnod</em> (type of short poem)?"
 
 /!
 
@@ -148,9 +252,13 @@ Of course, as you're sounding out these phrases it helps to know how they're sup
 
 !!example
 
-[.s Tiro! Ithil ortha.] ~ "Look! The moon is rising."
+[.s Tiro! Ithil ortha.] <br/> "Look! The moon is rising."
 
-[.s Lastach in edhil linno?] ~ "Do you hear the elves singing?"
+/!
+
+!!example
+
+[.s Lastach in edhil linno?] <br/> "Do you hear the elves singing?"
 
 /!
 
@@ -158,7 +266,7 @@ Of course, as you're sounding out these phrases it helps to know how they're sup
 
 !!example
 
-[.s Mae losto] ~ "Sleep well"
+[.s Mae losto] <br/> "Sleep well"
 
 /!
 
@@ -166,10 +274,18 @@ Of course, as you're sounding out these phrases it helps to know how they're sup
 
 !!example
 
-[.s Cuio vae!] ~ "Live well"
+[.s Cuio vae!] <br/> "Live well"
 
-[.s Calo Anor na ven lín] ~ "May the sun shine on your road"
+/!
 
-[.s N'adovaded] ~ "Until we meet again"
+!!example
+
+[.s Calo Anor na ven lín] <br/> "May the sun shine on your road"
+
+/!
+
+!!example
+
+[.s N'adovaded] <br/> "Until we meet again"
 
 /!
