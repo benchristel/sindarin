@@ -159,6 +159,10 @@ They could be combined with other punctuation
 marks, so a question mark at the end of a sentence could
 be written [.t À-].
 
+Apostrophes in the English text can simply be left out in
+_tengwar_. Tolkien did this himself in the Brogan letter,
+writing "won't" in _tengwar_ without an apostrophe.
+
 !!TODO
 
 Why would you want a question mark or exclamation point
