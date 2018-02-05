@@ -47,7 +47,7 @@
         text-align: justify;
         text-indent: 1em;
         orphans: 2;
-        widows: 2;
+        /* widows: 2; */
         string-set: page-number counter(page), left-page-header 'Fíriel\'s Elvish Textbook';
     }
 
@@ -97,19 +97,19 @@
     }
 
     h1:not(.title) {
-        padding-top: 24pt;
-        padding-bottom: 24pt;
+        padding-top: 1em;
+        padding-bottom: 1em;
         page-break-before: left;
         string-set: right-page-header content(), left-page-header '', page-number '';
-        font-size: 22pt;
-    }
-
-    h2 {
         font-size: 18pt;
     }
 
-    h3 {
+    h2 {
         font-size: 14pt;
+    }
+
+    h3 {
+        font-size: 12pt;
     }
 
     q:before {
