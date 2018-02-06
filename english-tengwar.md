@@ -63,7 +63,7 @@ equivalents.
 <li>[.tab G][.t.letterform x]</li>
 <li>[.tab GH][.t.letterform v]</li>
 <li>[.tab H][.t.letterform 9]</li>
-<li>[.tab I][.t.letterform \`B]</li>
+<li>[.tab I][.t.letterform `B]</li>
 </ul>
 </td>
 <td>
@@ -86,11 +86,11 @@ equivalents.
 <ul>
 <li>[.tab SH][.t.letterform d]</li>
 <li>[.tab T][.t.letterform 1]</li>
-<li>[.tab TH][.t.letterform 3]</li>
-<li>[.tab TH][.t.letterform 4]</li>
+<li>[.tab TH][.t.letterform 3], [.t.letterform 4]</li>
 <li>[.tab U][.t.letterform y]</li>
 <li>[.tab V][.t.letterform r]</li>
 <li>[.tab W][.t.letterform 7]</li>
+<li>[.tab WH][.t.letterform o]</li>
 <li>[.tab X][.t.letterform z|]</li>
 <li>[.tab Y][.t.letterform ~]</li>
 <li>[.tab Z][.t.letterform k]</li>
