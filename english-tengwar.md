@@ -135,7 +135,7 @@ Here's a rather silly sentence that uses all the letters. The dots between words
 
 ## Punctuation
 
-The details of _Tengwar_ punctuation seem traditionally to
+The details of _tengwar_ punctuation seem traditionally to
 have been up to the discretion and personal style of the
 scribe. A few regular conventions, however, were widely
 observed.
@@ -153,7 +153,7 @@ simply end a sentence.
 A long dash was sometimes used—as in English—to set off
 a parenthetical remark from the surrounding text.
 
-The Elves also used marks similar in function to our
+The Elves also used marks that functioned like our
 question mark ([.t À]) and exclamation point ([.t Á]).
 They could be combined with other punctuation
 marks, so a question mark at the end of a sentence could
@@ -218,12 +218,21 @@ are you, if you don't mind telling me?_
 <td>question mark</td>
 <td>[.t.letterform 1À]</td>
 </tr>
+
+<tr>
+<td>quotation marks</td>
+<td>[.t.letterform «1»]</td>
+
+</tr>
 </table>
 </div>
 
+Here's a quotation from the _Lord of the Rings_ films that
+uses several punctuation marks:
+
 !!example
 
-[.t \`Be ~hy 16y81 5h3\`Bb lj8l = 16y81 4\`B8- 16y81 y8 =-=]
+[.t «\`Be ~hy 16y81 5h3\`Bb lj8l = 16y81 4\`B8- 16y81 y8 =-=»]
 
 /!
 
