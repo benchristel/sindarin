@@ -287,24 +287,32 @@ a dot under the consonant before it: [.t 7nrÈ] "wave", [.t 7l6É] "were",
 
 <div class="figure">
 <h4>Figure 4<br/><em>Tengwar</em> Numerals</h4>
-<table class="col-3 columns border">
+<table class="col-4 columns border">
 <tr>
 <td>
 <ul>
-<li>[.tab 0][.t.letterform ð]</li>
 <li>[.tab 1][.t.letterform ñ]</li>
 <li>[.tab 2][.t.letterform ò]</li>
 <li>[.tab 3][.t.letterform ó]</li>
-<li>[.tab 4][.t.letterform ô]</li>
 </ul>
 </td>
 <td>
 <ul>
+<li>[.tab 4][.t.letterform ô]</li>
 <li>[.tab 5][.t.letterform õ]</li>
 <li>[.tab 6][.t.letterform ö]</li>
+</ul>
+</td>
+<td>
+<ul>
 <li>[.tab 7][.t.letterform ÷]</li>
 <li>[.tab 8][.t.letterform ø]</li>
 <li>[.tab 9][.t.letterform ù]</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>[.tab 0][.t.letterform ð]</li>
 </ul>
 </td>
 </tr>
