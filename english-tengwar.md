@@ -261,11 +261,6 @@ These abbreviations are presented in Figure 3.
 Several types of _tehtar_, or marks, can be used to
 abbreviate certain letter combinations.
 
-### Double Letters
-
-A letter can be doubled by writing a bar underneath it.
-Thus: [.t jl1&apos;l6] "letter", [.t qh&apos;z] "book", [.t alj°n6 2h&apos;6] "cellar door".
-
 ### Nasal Clusters
 
 Consonant clusters beginning with an N or M (the so-called nasal consonants)
@@ -274,11 +269,47 @@ can write a wavy line above the following consonant. [.t lwPl6] "ember",
 [.t 7n2P] "wand", [.t anqp] "camp", [.t 8jn1p] "slant". When the combination
 NG represents some sound other than that heard in "ring" (for example, N with a hard G as in "finger" or a soft G as in "ranger"), it can also be abbreviated: [.t cnxPl] "change".
 
+The clusters NN and MM are written this way as well: [.t 6y5Pl6] "runner", [.t ahtPh5] "common".
+
+### Double Letters
+
+A letter can be doubled by writing a bar underneath it.
+Thus: [.t jl1&apos;l6] "letter", [.t qh&apos;z] "book", [.t alj°n6 2h&apos;6] "cellar door".
+
+As noted above, NN and MM were written with a wavy line above the letter
+rather than a bar below.
+
 ### Silent E
 
 To abbreviate a silent E, place
 a dot under the consonant before it: [.t 7nrÈ] "wave", [.t 7l6É] "were",
 [.t 3~tÈ] "thyme".
+
+<div class="figure">
+<h4>Figure 4<br/><em>Tengwar</em> Numerals</h4>
+<table class="col-3 columns border">
+<tr>
+<td>
+<ul>
+<li>[.tab 0][.t.letterform ð]</li>
+<li>[.tab 1][.t.letterform ñ]</li>
+<li>[.tab 2][.t.letterform ò]</li>
+<li>[.tab 3][.t.letterform ó]</li>
+<li>[.tab 4][.t.letterform ô]</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>[.tab 5][.t.letterform õ]</li>
+<li>[.tab 6][.t.letterform ö]</li>
+<li>[.tab 7][.t.letterform ÷]</li>
+<li>[.tab 8][.t.letterform ø]</li>
+<li>[.tab 9][.t.letterform ù]</li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
 
 ### Final S
 
@@ -315,28 +346,39 @@ A number like 2,017 would thus be written in the order
 7-1-0-2: [.t ÷ñðò]. To distinguish the numerals from letters,
 bars or dots could be written above them: [.t ÷îñîðîòî] or [.t ÷TñGðGò%].
 
-<div class="figure">
-<h4>Figure 4<br/><em>Tengwar</em> Numerals</h4>
-<table class="col-3 columns border">
-<tr>
-<td>
-<ul>
-<li>[.tab 0][.t.letterform ð]</li>
-<li>[.tab 1][.t.letterform ñ]</li>
-<li>[.tab 2][.t.letterform ò]</li>
-<li>[.tab 3][.t.letterform ó]</li>
-<li>[.tab 4][.t.letterform ô]</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>[.tab 5][.t.letterform õ]</li>
-<li>[.tab 6][.t.letterform ö]</li>
-<li>[.tab 7][.t.letterform ÷]</li>
-<li>[.tab 8][.t.letterform ø]</li>
-<li>[.tab 9][.t.letterform ù]</li>
-</ul>
-</td>
-</tr>
-</table>
-</div>
+## Exercises
+
+Write the following words in _tengwar_. The
+first one is done for you.
+
+!!example
+
+"elvish" [.blank.t     ljr\`Bd    ]
+
+"writing" [.blank                          ]
+
+"beekeepers" [.blank                          ]
+
+"twice" [.blank                          ]
+
+"quelled" [.blank                          ]
+
+"south" [.blank                          ]
+
+"whistles" [.blank                          ]
+
+"smooth" [.blank                          ]
+
+"always" [.blank                          ]
+
+"though" [.blank                          ]
+
+/!
+
+Can you read the following text?
+
+!!example
+
+[.t nj\`BaÉ 7n8 wlx\`B5P\`Bb 1h xl1 rl6~ 1\`B6É2 W 8\`B1&apos;\`Bb w~ 9l6 8\`B81l6 h5 @ wnzp = 2P W 9nr\`Bb 5h3\`Bb 1h 2h- hapÉ h6 1ê\`BaÉ dl 9n2 ql&apos;qÉ2 \`B1ph @ wh&apos;z 9l6 8\`B81l6 7n8 6ln2¬ \`Bb = wy1 \`B1 9n2 5h q\`a1y6É+ h6 ahrPl6¬ 8n1\`Bh5+ \`B5 \`B1 = «2P 79n1 \`B8 @ y8É W 8yc n wh&apos;z=» 3hêv1 nj\`aÉ = «7\`B3hê1 q\`Ba1y6É+ h6 ahrPl68n1\`Bh5+À» =-=]
+
+/!
