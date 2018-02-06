@@ -63,7 +63,7 @@ equivalents.
 <li>[.tab G][.t.letterform x]</li>
 <li>[.tab GH][.t.letterform v]</li>
 <li>[.tab H][.t.letterform 9]</li>
-<li>[.tab I][.t.letterform `]</li>
+<li>[.tab I][.t.letterform \`B]</li>
 </ul>
 </td>
 <td>
@@ -111,7 +111,7 @@ When you're putting these together into words, make sure the central curly bits 
 
 !!example
 
-[.t 4\`8 whhz 1ljj8 he 4l jnbynxl8 he 4l ljrl8 n52 9h7 4l~ n6l 8qhzl5 n52 76\`11l5]
+[.t 4\`B8 whhz 1ljj8 he 4l jnbynxl8 he 4l ljrl8 n52 9h7 4l~ n6l 8qhzl5 n52 76\`B11l5]
 
 /!
 
@@ -119,7 +119,7 @@ And here is the same text in a cursive style:
 
 !!example
 
-[.ti 4\`8 whhz 1ljj8 he 4l jnbynxl8 he 4l ljrl8 n52 9h7 3l~ n6l 8qhzl5 n52 76\`11l5]
+[.ti 4\`B8 whhz 1ljj8 he 4l jnbynxl8 he 4l ljrl8 n52 9h7 3l~ n6l 8qhzl5 n52 76\`B11l5]
 
 /!
 
@@ -127,11 +127,11 @@ Here's a rather silly sentence that uses all the letters. The dots between words
 
 !!example
 
-[.t c\`jjnz| = zêh3 4l x6ytq~ o\`1l 7\`,n62 = \`5rhz\`b 9\`8 e\`v1\`b wn5fh e\`d]
+[.t c\`Bjjnz| = zêh3 4l x6ytq~ o\`B1l 7\`B,n62 = \`B5rhz\`Bb 9\`B8 e\`Bv1\`Bb wn5fh e\`Bd]
 
 /!
 
-[.t.TODO x6ytq~ 7\`,n628 wnzl 1hz|\`a w6l7 eh6 4l lr\`j zêll5 n52 fnaz]
+[.t.TODO x6ytq~ 7\`B,n628 wnzl 1hz|\`Ba w6l7 eh6 4l lr\`Bj zêll5 n52 fnaz]
 
 ## Punctuation
 
@@ -169,10 +169,10 @@ Why would you want a question mark or exclamation point
 that's *not* at the
 end of a sentence? Here are some examples:
 
-[.t oh n6l ~hyÀ= \`e ~hy 2h51 t\`52 1ljj\`b tl-] ~ _Who
+[.t oh n6l ~hyÀ= \`Be ~hy 2h51 t\`B52 1ljj\`Bb tl-] ~ _Who
 are you, if you don't mind telling me?_
 
-[.t oh n6l ~hyÀ= \`e ~hy 2h51 t\`52 1ljj\`b tl-]
+[.t oh n6l ~hyÀ= \`Be ~hy 2h51 t\`B52 1ljj\`Bb tl-]
 
 /!
 
@@ -223,7 +223,7 @@ are you, if you don't mind telling me?_
 
 !!example
 
-[.t \`e ~hy 16y81 5h3\`b lj8l = 16y81 4\`8- 16y81 y8 =-=]
+[.t \`Be ~hy 16y81 5h3\`Bb lj8l = 16y81 4\`B8- 16y81 y8 =-=]
 
 /!
 
@@ -231,7 +231,7 @@ are you, if you don't mind telling me?_
 
 The Brogan English mode abbreviates several common words:
 [.t 2P] "and", [.t @] "the", [.t W] "of", and [.t W:] "of the". So _A tale of hobbits and the Lord of the Rings_
-could be written [.t n 1njl W 9hww\`18 2P @ jh62 W: 6\`b8].
+could be written [.t n 1njl W 9hww\`B18 2P @ jh62 W: 6\`Bb8].
 
 These abbreviations are presented in Figure 3.
 
@@ -335,15 +335,6 @@ TW or DW, it can be abbreviated as a mark like a flattened S:
 [.t 1êh 2èn6rÉ+] "two dwarves". W or U after a vowel can
 be abbreviated the same way: [.t 8nê] "saw", [.t 9hê8É] "house",
 [.t 5lê8] "news".
-
-## Dotting the I
-
-The _tengwa_ for I can be capped with a dot ([.t \`B]) or accent ([.t \`V])
-to make it more visible.
-Which one you use is up to your personal taste.
-Tolkien seems to have preferred
-the accent, while in the movies a dot (or the absence of any mark)
-is more frequent.
 
 ## Numerals
 
