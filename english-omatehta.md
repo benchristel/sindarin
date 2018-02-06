@@ -23,15 +23,27 @@ mark, or _tehta_, to represent it. The _tehtar_ are shown
 in Figure 1. Since they are always written over a _tengwa_ (or under it, in the case of Y), the
 letter [.t 1] is used as a placeholder.
 
-When written over a consonant, the _tehtar_ may represent
+When written over a consonant, a _tehta_ may represent
 either the vowel before or the vowel after that consonant.
-Thus, [.t 1E] could stand for either _TA_ or _AT_. It is
-up to the scribe to choose whether to place the _tehtar_
-on the preceding or following consonant, but one must always
+Thus, [.t 1E] could stand for either _TA_ or _AT_. Which
+convention to use is up to you, but one must always
 be consistent within a text (or it will be very hard to
-read what you've written!)
+read what you've written!) Personally, I prefer to have the
+_tehtar_ stand for the vowel *after* the consonant—I find
+it a bit easier to read that way.
 
+## The Reeve English Mode
 
+It is possible to use the _tehtar_, as described above,
+as abbreviations of the vowels in the Brogan mode. That's
+not often done, however; for some reason most _tengwar_
+modes tend to use _ómatehtar_ consistently, or not at all,
+and the Brogan mode is one of the ones that doesn't use them.
+
+Daniel Reeve's English mode, presented below, is an example
+of a mode that *does* use _ómatehtar_. You will notice some
+similarities to the Brogan mode, but many of the letters
+have different English values.
 
 <div class="figure" style="padding:0 1em;">
 <h4>Figure 1<br/>The <em>Ómatehtar</em> or vowel-marks</h4>
@@ -61,54 +73,6 @@ read what you've written!)
 </tr>
 </table>
 </div>
-
-The _tehta_ for [.s A] is three dots or strokes over the consonant letter. Note the different print and cursive variants.
-
-!!example
-
-[.tab TA/AT] [.t.letterform 1E] /
-
-/!
-
-The _tehta_ for [.s E] is a long stroke going up and to the right.
-
-!!example
-
-[.tab NE] [.t.letterform 5$] / [.ti.letterform 5$]
-
-/!
-
-The _tehta_ for [.s I] is a single dot.
-
-!!example
-
-[.tab NI] [.t.letterform 5%] / [.ti.letterform 5%]
-
-/!
-
-The _tehta_ for [.s O] is a stroke that curls downward at the end.
-
-!!example
-
-[.tab NO] [.t.letterform 5^] / [.ti.letterform 5^]
-
-/!
-
-The _tehta_ for [.s U] is a stroke that curls upward at the end.
-
-!!example
-
-[.tab NU] [.t.letterform 5&] / [.ti.letterform 5&]
-
-/!
-
-The _tehta_ for [.s Y] is a pair of dots.
-
-!!example
-
-[.tab NY] [.t.letterform 5Ô] / [.ti.letterform 5Ô]
-
-/!
 
 Now you can try your hand at deciphering this text:
 
