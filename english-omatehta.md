@@ -33,6 +33,13 @@ read what you've written!) Personally, I prefer to have the
 _tehtar_ stand for the vowel *after* the consonant—I find
 it a bit easier to read that way.
 
+Often you'll find that you need to write a vowel but there's
+no consonant to write it over. Trivial examples are one-vowel words like
+"I" and "a". In such cases, the _tehta_ cannot simply stand
+on its own, so we give it a silent letter [.t \`] to sit on.
+Thus "I" would be written [.t \`B] and "a" [.t \`C].
+
+
 ## The Reeve English Mode
 
 It is possible to use the _tehtar_, as described above,
@@ -140,7 +147,7 @@ have different English values.
 </table>
 </div>
 
-### Differences from the Brogan Mode
+## Differences from the Brogan Mode
 
 First, it is worth noting that almost all of the letters of
 the first five rows of the table have the same values as in
@@ -148,17 +155,35 @@ the Brogan mode. The exceptions are [.t s] = J, [.t f] = H,
 and [.t g] = NK.
 
 You'll notice that there are two _tengwar_ for R, two for W,
-and two for Y.
+and two for Y. The letters [.t 6], [.t y], and [.t h] are
+used at the end of a word and before a consonant: [.t eD6] "far",
+[.t qEh] "pay", [.t iEy] "saw", [.t iEy5] "sawn". Elsewhere,
+[.t 7], [.t .], and [.t l] are preferred: [.t 7Dy] "raw",
+[.t .F81] "west", [.t lR1] "yet".
 
-RD can also be used for RH at the beginning of a word.
+The tengwa [.t u], not found in the Brogan mode, can
+be used for RH at the beginning of a word: [.t uÎtÈ] "rhyme".
 
-The two letters for S can be interchanged freely. silme
-nuquerna is preferred when a tehta is written over the S.
+The two letters for S can be interchanged freely. [.t i]
+is preferred when a _tehta_ is written over the S.
+In the movies [.t i] is often used even when there is no _tehta_.
 
 Now you can try your hand at deciphering this text:
 
 !!example
 
-[.ti &#93;jj nR 9Cr$ 1Y 2$aT2$ \`i n9C1 1Y 2Y nT3 3F 1Tt$ 3D1 \`i x%r$5 .i Â x#52#je]
+[.ti «\`Cj¸ .F 9Cr$ 1Y 2$aT2$ \`Bi o#1 1Y 2^ .G3 @ 1Tt$ 4#1 \`Bi x%r$5 \`Mi-» Â x#2P#je]
 
 /!
+
+## Word Abbreviations
+
+The Reeve mode uses the same abbreviations for "and", "the",
+and "of the" as the Brogan mode, but "of" on its own is
+simply written [.t \`Ne].
+
+## Letter Abbreviations
+
+The Reeve mode uses the same letter abbreviations as the
+Brogan mode for double letters, nasal clusters, silent Es, and
+final S.
