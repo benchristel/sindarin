@@ -36,8 +36,12 @@ it a bit easier to read that way.
 Often you'll find that you need to write a vowel but there's
 no consonant to write it over. Trivial examples are one-vowel words like
 "I" and "a". In such cases, the _tehta_ cannot simply stand
-on its own, so we give it a silent letter [.t \`] to sit on.
+on its own, so we give it a silent "carrier" letter [.t \`] to sit on.
 Thus "I" would be written [.t \`B] and "a" [.t \`C].
+
+Usually, a _tengwa_ may only have one vowel-_tehta_ written
+over it, so vowel clusters like the EA in _tea_ must use
+the silent carrier: [.t 1R\`C].
 
 
 ## The Reeve English Mode
@@ -168,11 +172,11 @@ The two letters for S can be interchanged freely. [.t i]
 is preferred when a _tehta_ is written over the S.
 In the movies [.t i] is often used even when there is no _tehta_.
 
-Now you can try your hand at deciphering this text:
+Now you can try your hand at deciphering this quote:
 
 !!example
 
-[.ti «\`Cj¸ .F 9Cr$ 1Y 2$aT2$ \`Bi o#1 1Y 2^ .G3 @ 1Tt$ 4#1 \`Bi x%r$5 \`Mi-» Â x#2P#je]
+[.ti «\`Cj¸ .F f#r$ 1Y 2$aT2$ \`Bi o#1 1Y 2^ .G3 @ 1Tt$ 4#1 \`Bi x%r$5 \`Mi-» Â x#2P#je]
 
 /!
 
@@ -180,10 +184,51 @@ Now you can try your hand at deciphering this text:
 
 The Reeve mode uses the same abbreviations for "and", "the",
 and "of the" as the Brogan mode, but "of" on its own is
-simply written [.t \`Ne].
+simply written [.t \`Ne] (depending on which vowel
+convention you are using).
 
 ## Letter Abbreviations
 
 The Reeve mode uses the same letter abbreviations as the
-Brogan mode for double letters, nasal clusters, silent Es, and
-final S.
+Brogan mode for double consonants, nasal clusters, silent Es, and
+final S. Double vowels EE and OO are written by doubling the
+_tehta_: [.t 1][.ta Y] "too", [.t i][.ta R] "see".
+
+## Exercises
+
+Write the following in the Reeve Mode using _tehtar_. The
+first one is done for you.
+
+!!example
+
+"elvish" [.blank.t     \`Vjr%d    ]
+
+"writing" [.blank.t                          ]
+
+"beekeepers" [.blank.t                          ]
+
+"twice" [.blank.t                          ]
+
+"quelled" [.blank.t                          ]
+
+"south" [.blank.t                          ]
+
+"whistles" [.blank.t                          ]
+
+"smooth" [.blank.t                          ]
+
+"always" [.blank.t                          ]
+
+"though" [.blank.t                          ]
+
+/!
+
+Can you read the following text?
+
+!!example
+
+[.todo Whenever the horse stopped (which it did very often), he fell off in front; and whenever it went on again (which it generally did rather suddenly), he fell off behind. Otherwise he kept on pretty well, except that he had a habit of now and then falling off sideways; and as he generally did this on the side on which Alice was walking, she soon found that it was the best plan not to walk quite close to the horse.]
+
+[.t.expanded o$5$r$6 @ f^68É i1Yq&apos;É2 Â o%c \`B1 2%2 r$7Î \`Ne1R5 Â f$ eFj° \`Ne&apos; \`B5 \`B5 e7Y1p- 2P o$5$r$6 \`B1 .R1p \`N5 \`Cx#\`B5 Â o%c \`B1 x$5$7Ej°´ 2%2 7E4$6 iU2&#34;$5j´ Â f$ eFj° \`Ne&apos; w$f%2P =-= \`N4$6.T8É f$ zRq1 \`N5 q7R1&apos;Î .Rj° = \`V9aRq1 4#1 f$ f#2 \`C f#w%1 \`Ne 5^y 2P 2$5 eDj°%b \`Ne&apos; iT2É.Dhi- 2P \`Ci f$ x$5$7Ej°´ 2%2 4%i \`N5 @ iT2È \`N5 oTc \`Cj%aÉ .Di .DjzTb = dR i][.ta Y][.t 5][.t.expanded  eY\`M2P 4#1 \`B1 .Di @ w$i1 qj#5 5^1 1Y .Djz nT1É aj^8É 1Y @ f^68É =-=]
+
+/!
