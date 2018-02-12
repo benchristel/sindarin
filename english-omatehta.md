@@ -184,8 +184,7 @@ Now you can try your hand at deciphering this quote:
 
 The Reeve mode uses the same abbreviations for "and", "the",
 and "of the" as the Brogan mode, but "of" on its own is
-simply written [.t \`Ne] (depending on which vowel
-convention you are using).
+simply written [.t \`Ne].
 
 ## Letter Abbreviations
 
