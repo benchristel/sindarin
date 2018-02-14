@@ -85,6 +85,17 @@ SINDARIN GRAMMAR
 
 /!section-divider
 
+<h1>
+  <div class="lesson-heading">
+  Lesson One:
+  </div>
+  <a name="many-greetings">
+  Many Greetings
+  </a>
+</h1>
+
+@include many-greetings.md
+
 # <a name="wishes-and-commands">Wishes and Commands</a>
 
 @include imperatives.md
