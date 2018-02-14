@@ -1,32 +1,57 @@
+If you find yourself among elvenfolk, you will probably want
+to start your conversations with the basics: "hello", "goodbye",
+"please", and "thank you". This chapter will teach you the
+rudiments of conversation.
+
 ## Saying Hello
 
-[.s Mae govannen!] "Well met!"
+[.s Mae govannen] "[You are] well met" is a common informal greeting.
+This phrase is a contracted version of [.s Mae ci govannen],
+[.s ci] being an informal, affectionate way of saying "you".
+Because of this, [.s Mae govannen] is best reserved for
+people you already know well. For more formal situations,
+such as greeting someone you're not yet close to, you
+might try substituting the formal pronoun [.s le]:
+[.s Mae le govannen].
 
-[.s.salo Êl síla na lû govaded vín] "A star shines on the hour of our meeting"
+[.s Suilad], meaning simply "greeting", is an all-purpose
+way of saying hello. It's not known for certain whether words
+of this form can be pluralized, but in movie-Sindarin they
+can: [.s.salo suilaid] means "greetings". This opens the
+door to more effusive variants like [.s.salo rim suilaid]
+"many greetings", or [.s.salo meneg suilaid] "a thousand greetings".
+Other variants include [.s le suilon] "I greet you", and
+the more formal [.s le suilannon] "I give you greeting".
 
-[.s Êl síla na lû govaded 'wín] "A star shines on the hour of our meeting"
-
-[.s Suilad!] "A greeting!"
-
-[.s Suilannad!] "A greeting!"
-
-[.s Le suilannon] "I greet you"
-
-[.s.salo Suilaid] "Greetings!"
-
-[.s.salo Rim suilaid] "Many greetings"
-
-[.s.salo Meneg suilaid] "A thousand greetings"
+If you're aiming for a formal greeting with a little flourish,
+you can say [.s Êl síla na lû govaned 'wín] "A star shines on the hour of our meeting".
 
 ## Introductions
 
-[.s _____ i eneth nín] "My name is _____"
-
+To tell someone your name, just fill in the blank:
+[.s _____ i eneth nín] "My name is _____".
+You can also turn this around into a question to ask someone
+for their name:
 [.s Man i eneth lín?] "What is your name?"
+Another good way of introducing yourself is
+[.s _____ estar nin] "They call me _____".
 
-[.s _____ estar nin] "They call me _____"
+People will probably be able to tell that you're not a
+native Sindarin speaker, so as part of introducing yourself
+you can tell them where you're from:
+[.s _____ i mar nín] "My home is _____"
 
 [.s Man estar le?] "What do they call you?"
+
+## Elvish Names
+
+In order to properly introduce yourself in Sindarin, you'll
+need an Elvish name. Choose your name with care. Sindarin
+names almost always mean something, and in Elvish tradition
+names were chosen or bestowed based on the person's
+character, achievements, or personal qualities. Because of
+this, your chosen name will affect people's first impression
+of you.
 
 ## Saying Goodbye
 
