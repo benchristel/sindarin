@@ -96,7 +96,14 @@ SINDARIN GRAMMAR
 
 @include many-greetings.md
 
-# <a name="wishes-and-commands">Wishes and Commands</a>
+<h1>
+  <div class="lesson-heading">
+  Lesson Two:
+  </div>
+  <a name="wishes-and-commands">
+  Wishes and Commands
+  </a>
+</h1>
 
 @include imperatives.md
 
