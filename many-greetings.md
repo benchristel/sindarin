@@ -18,6 +18,16 @@
 
 [.s.salo Meneg suilaid] "A thousand greetings"
 
+## Introductions
+
+[.s _____ i eneth nín] "My name is _____"
+
+[.s Man i eneth lín?] "What is your name?"
+
+[.s _____ estar nin] "They call me _____"
+
+[.s Man estar le?] "What do they call you?"
+
 ## Saying Goodbye
 
 [.s Novaer!] "Farewell!"
@@ -34,15 +44,25 @@
 
 ## Please and Thank You
 
-[.s Ci athog] "If you are willing"
+[.s ci athol] "If you are willing"
 
-[.s.salo Ci athach] "If you are willing"
+[.s.salo ci athach] "If you are willing"
+
+[.s Le nallon!] "I beg you!" (lit. "I cry to you")
+
+[.s annin] "for me"
 
 [.s Le hannon] "I thank you"
 
 [.s.salo Hennaid] "Thanks"
 
 [.s Le fael] "You are generous"
+
+## Apologies
+
+[.s Díheno nin!] "Forgive me!"
+
+[.s Goheno nin!] "Forgive me!"
 
 ## Vocabulary
 
