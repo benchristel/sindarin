@@ -29,19 +29,29 @@ you can say [.s Êl síla na lû govaned 'wín] "A star shines on the hour of ou
 ## Introductions
 
 To tell someone your name, just fill in the blank:
+
+!!example
+
 [.s _____ i eneth nín] "My name is _____".
+
+/!
+
 You can also turn this around into a question to ask someone
 for their name:
+
+!!example
+
 [.s Man i eneth lín?] "What is your name?"
+
+/!
+
 Another good way of introducing yourself is
 [.s _____ estar nin] "They call me _____".
 
 People will probably be able to tell that you're not a
 native Sindarin speaker, so as part of introducing yourself
 you can tell them where you're from:
-[.s _____ i mar nín] "My home is _____"
-
-[.s Man estar le?] "What do they call you?"
+[.s _____ i mar nín] "My home is _____".
 
 ## Elvish Names
 
@@ -53,19 +63,54 @@ character, achievements, or personal qualities. Because of
 this, your chosen name will affect people's first impression
 of you.
 
+A comprehensive list of Sindarin names and their meanings
+is beyond the scope of this chapter, but a web search for
+"Sindarin name list" will turn up good resources.
+
 ## Saying Goodbye
 
-[.s Novaer!] "Farewell!"
+Elaborate leave-takings seem to have been a fairly universal
+custom in Middle-earth. As such, Sindarin has many ways to
+wish people well when you part.
 
-[.s Cuio vae!] "Live well!"
+The simplest farewell is perhaps [.s novaer], meaning
+"be good", as in "be in good health". [.s Cuio vae] "live well"
+expresses a similar sentiment.
+
+If the other party is leaving your meeting-place and you're
+staying (for instance, if they were visiting you at your house),
+you can wish them well on their travels:
+
+!!example
+
+[.s Calo Anor na ven lín] "May the sun shine on your road"
+
+/!
+
+If you're leaving and the other party is staying, you'll
+have to wish them well in a different way:
+
+!!example
 
 [.s No galu na mar lín] "May good fortune be upon your house"
 
 [.s No i Mbelain na le] "May the Valar be with you"
 
-[.s N'adovaded] "Until we meet again"
+/!
+
+Such phrases, oft repeated, would probably have become abbreviated.
+An Elf leaving the house of a friend might utter a simple
+[.s.salo Belain na le] "Valar [be] with you".
+
+For a more casual way of saying goodbye, you could try these:
+
+!!example
+
+[.s N'adovaned] "Until we meet again"
 
 [.s N'adgened] "Until I see you again"
+
+/!
 
 ## Please and Thank You
 
@@ -77,7 +122,7 @@ of you.
 
 [.s annin] "for me"
 
-[.s Le hannon] "I thank you"
+[.s.salo Le hannon] "I thank you"
 
 [.s.salo Hennaid] "Thanks"
 
