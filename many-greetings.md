@@ -137,7 +137,7 @@ For a more casual way of saying goodbye, you could try these:
 ## Vocabulary
 
 - [.s ad-]: prefix meaning "again"
-- [.s govad-]: stem of the verb "to meet"
+- [.s govan-]: stem of the verb "to meet"
 - [.s.salo hanna-]: stem of the verb "to thank"
 - [.s le]: "you"; [.s lín] "your" is related.
 - [.s mae]: "well"; [.s maer] "good" is related. Often these

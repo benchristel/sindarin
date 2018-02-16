@@ -13,7 +13,7 @@ Of course, as you're sounding out these phrases it helps to know how they're sup
 
 !!example
 
-[.s Êl síla na lû govaded vín] <br/> "A star shines on the hour of our meeting"
+[.s Êl síla na lû govaned vín] <br/> "A star shines on the hour of our meeting"
 
 /!
 
@@ -286,6 +286,6 @@ Of course, as you're sounding out these phrases it helps to know how they're sup
 
 !!example
 
-[.s N'adovaded] <br/> "Until we meet again"
+[.s N'adovaned] <br/> "Until we meet again"
 
 /!
