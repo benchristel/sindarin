@@ -1,8 +1,15 @@
 The _tengwar_ were invented by Fëanor in Aman, and so were first used to write Quenya. But Fëanor, always ambitious, didn't just devise an alphabet solely for his own language. He created a system so versatile that it could be adapted to *any* language. Thus when the exiled Noldor brought the _tengwar_ to Middle-earth, they were able to use the script to write Sindarin. By the Third Age there were multiple styles or "modes" for writing Sindarin with _tengwar_, each with its own spelling conventions.
 
+The oldest Sindarin mode is that of Beleriand, which uses
+full _tengwar_ rather than _tehtar_ for vowels.
+
 ## The Mode of Beleriand
 
-The _Mode of Beleriand_ is the most ancient of the Sindarin tengwar styles. The letters correspond one-to-one with Sindarin sounds, as shown below:
+The letters of the Beleriand mode, shown in Figure 1,
+correspond one-to-one with Sindarin sounds. You'll notice
+many similarities to the Brogan mode <a href="#writing-english-with-tengwar" class="pageref"></a>. Notable differences include the use
+of [.t 6] for N and [.t y] for M (as [.t 5] and [.t t] are used for
+the doubled versions of these consonants) and [.t 7] for R.
 
 @include mode-of-beleriand-consonants.md
 

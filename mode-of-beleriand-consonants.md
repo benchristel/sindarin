@@ -1,53 +1,80 @@
-
-<table class="col-3 columns">
+<div class="figure">
+<h4>Figure 1<br/>The Sindarin Mode of Beleriand</h4>
+<table class="col-4 columns border">
 <tr>
 <td>
 <ul>
-<li>[.tab A][.t.letterform &#93;]</li>
-<li>[.tab B][.t.letterform w]</li>
-<li>[.tab C][.t.letterform a]</li>
-<li>[.tab CH][.t.letterform d]</li>
-<li>[.tab CHW][.t.letterform c]</li>
+<li class="center"><em>tincotéma</em></li>
+<li>[.tab T][.t.letterform 1]</li>
 <li>[.tab D][.t.letterform 2]</li>
+<li>[.tab TH][.t.letterform 3]</li>
 <li>[.tab DH][.t.letterform 4]</li>
+<li>[.tab NN][.t.letterform 5]</li>
+<li>[.tab N][.t.letterform 6]</li>
+<li>[.tab R][.t.letterform 7]</li>
+<li>[.tab S][.t.letterform 8]</li>
 <li>[.tab E][.t.letterform l]</li>
+</ul>
+</td>
+<td>
+<ul>
+<li class="center"><em>parmatéma</em></li>
+<li>[.tab P][.t.letterform q]</li>
+<li>[.tab B][.t.letterform w]</li>
 <li>[.tab F][.t.letterform e]</li>
-<li>[.tab G][.t.letterform s]</li>
+<li>[.tab V][.t.letterform r]</li>
+<li>[.tab MM][.t.letterform t]</li>
+<li>[.tab M][.t.letterform y]</li>
+<li>[.tab RH][.t.letterform u]</li>
+<li>[.tab Y][.t.letterform I]</li>
 <li>[.tab H][.t.letterform 9]</li>
 </ul>
 </td>
+</td>
 <td>
 <ul>
-<li>[.tab HW][.t.letterform o]</li>
-<li>[.tab I][.t.letterform `]</li>
-<li>[.tab L][.t.letterform j]</li>
-<li>[.tab LH][.t.letterform m]</li>
-<li>[.tab M][.t.letterform y]</li>
-<li>[.tab MM][.t.letterform t]</li>
-<li>[.tab N][.t.letterform 6]</li>
-<li>[.tab NN][.t.letterform 5]</li>
+<li class="center"><em>calmatéma</em></li>
+<li>[.tab C][.t.letterform a]</li>
+<li>[.tab G][.t.letterform s]</li>
+<li>[.tab CH][.t.letterform d]</li>
+<li>[.tab —][.t.letterform f]</li>
 <li>[.tab NG&#42;][.t.letterform g]</li>
 <li>[.tab O][.t.letterform h]</li>
-<li>[.tab P][.t.letterform q]</li>
+<li>[.tab L][.t.letterform j]</li>
+<li>[.tab SS][.t.letterform k]</li>
+<li>[.tab U][.t.letterform .]</li>
 </ul>
-</td>
 </td>
 <td>
 <ul>
-<li>[.tab R][.t.letterform 7]</li>
-<li>[.tab RH][.t.letterform u]</li>
-<li>[.tab S][.t.letterform 8]</li>
-<li>[.tab SS][.t.letterform k]</li>
-<li>[.tab T][.t.letterform 1]</li>
-<li>[.tab TH][.t.letterform 3]</li>
-<li>[.tab U][.t.letterform .]</li>
-<li>[.tab V][.t.letterform r]</li>
+<li class="center"><em>quessetéma</em></li>
+<li>[.tab —][.t.letterform z]</li>
+<li>[.tab —][.t.letterform x]</li>
+<li>[.tab CHW][.t.letterform c]</li>
+<li>[.tab —][.t.letterform v]</li>
+<li>[.tab —][.t.letterform b]</li>
 <li>[.tab W][.t.letterform n]</li>
-<li>[.tab Y][.t.letterform I]</li>
+<li>[.tab LH][.t.letterform m]</li>
+<li>[.tab —][.t.letterform ,]</li>
+<li>[.tab HW][.t.letterform o]</li>
 </ul>
 </td>
 </tr>
+</tr>
+<tr style="border-top:1pt solid black;">
+<td colspan="2">
+  <ul>
+    <li>[.tab A][.t.letterform &#93;]</li>
+  </ul>
+</td>
+<td colspan="2">
+  <ul>
+    <li>[.tab I][.t.letterform `B]</li>
+  </ul>
+</td>
+</tr>
 </table>
+</div>
 
 <sup>&#42;</sup>It's uncertain what letter was used for [.s NG]. David Salo suggests [.t g] in _A Gateway to Sindarin_, as does Måns Björkman on his website _Amanye Tenceli_. It's a reasonable guess since [.t g] is used for _NG_ in Quenya, and fits in with the general pattern of how the _tengwar_ are assigned to sounds in Sindarin.
 
