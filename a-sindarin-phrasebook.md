@@ -13,7 +13,7 @@ Of course, as you're sounding out these phrases it helps to know how they're sup
 
 !!example
 
-[.s Êl síla na lû govaned vín] <br/> "A star shines on the hour of our meeting"
+[.s Êl síla na lû govaned 'wín] <br/> "A star shines on the hour of our meeting"
 
 /!
 
@@ -21,7 +21,9 @@ Of course, as you're sounding out these phrases it helps to know how they're sup
 
 !!example
 
-[.s Togo aes ammen, cí athach] <br/> "Bring us food, please"
+[.s Togo aes ammen, cí athal] <br/>
+[.s.salo Togo aes ammen, cí athach] <br/>
+"Bring us food, please"
 
 /!
 
@@ -53,7 +55,7 @@ Of course, as you're sounding out these phrases it helps to know how they're sup
 
 !!example
 
-[.s Hennaid] <br/> "Thanks"
+[.s.salo Hennaid] <br/> "Thanks"
 
 /!
 
@@ -128,13 +130,13 @@ Of course, as you're sounding out these phrases it helps to know how they're sup
 
 !!example
 
-[.s Rim hennaid] <br/> "Many thanks"
+[.s.salo Rim hennaid] <br/> "Many thanks"
 
 /!
 
 !!example
 
-[.s Le hannon] <br/> "I thank you"
+[.s.salo Le hannon] <br/> "I thank you"
 
 /!
 
@@ -142,7 +144,7 @@ Of course, as you're sounding out these phrases it helps to know how they're sup
 
 !!example
 
-[.s Ú-moe hennaid] <br/> "No thanks are necessary"
+[.s.salo Ú-moe hennaid] <br/> "No thanks are necessary"
 
 /!
 
@@ -180,13 +182,15 @@ Of course, as you're sounding out these phrases it helps to know how they're sup
 
 !!example
 
-[.s Melon le] <br/> "I like you"
+[.s Melin le] <br/>
+[.s.salo Melon le] <br/> "I like you"
 
 /!
 
 !!example
 
-[.s Melach nín?] <br/> "Do you like me?"
+[.s Melig nín?] <br/>
+[.s.salo Melach nín?] <br/> "Do you like me?"
 
 /!
 
@@ -194,6 +198,7 @@ Of course, as you're sounding out these phrases it helps to know how they're sup
 
 !!example
 
+[.s.TODO No gwen mellyn erui]
 [.s Ce no mellyn erui] <br/> "Let's just be friends"
 
 /!
@@ -258,6 +263,7 @@ Of course, as you're sounding out these phrases it helps to know how they're sup
 
 !!example
 
+[.s Lastog in edhil linno?] <br/>
 [.s Lastach in edhil linno?] <br/> "Do you hear the elves singing?"
 
 /!
