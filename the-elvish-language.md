@@ -18,7 +18,7 @@ INTRODUCTION
 
 @include a-sindarin-phrasebook.md
 
-# <a name="pronunciation-guide">Pronunciation Guide</a>
+# <a name="pronunciation">Pronunciation Guide</a>
 
 @include pronunciation.md
 

@@ -52,6 +52,8 @@ inaudibility (probably because the Elves didn't much like it). By the Third Age
 it had completely disappeared, which means that [.s G] becomes silent when soft-mutated
 in modern Sindarin.
 
+[.TODO use of the gasdil for writing lenited G]
+
 When writing Sindarin in our alphabet, we use an apostrophe in place of the vanished
 [.s G]. As far as we know, _tengwar_ writing doesn't have an apostrophe, so the [.s G]
 would simply not be written in _tengwar_.

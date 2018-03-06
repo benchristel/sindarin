@@ -12,13 +12,13 @@ patterns of sound and shape become evident.
 ## The Four _Témar_
 
 The Elves grouped the _tengwar_ into four _témar_ (Quenya for "series"),
-which are represented by the four columns of Figure 2.
+which are represented by the four columns of Figure 1.
 Their names are, in order from left to right: _tincotéma_,
 _parmatéma_, _calmatéma_, and _quessetéma_. The _témar_ are named
 after their first letters [.t 1], [.t q], [.t a], and [.t z],
 called _tinco_ "metal", _parma_ "book", _calma_ "lamp", and _quessë_ "feather" in Quenya.
 The Elves considered these four letters to be the
-fundamental _tengwar_-shapes. The other _tengwar_ in Figure 2 are
+fundamental _tengwar_-shapes. The other _tengwar_ in Figure 1 are
 variations on the four basic shapes.
 
 <div class="figure">
@@ -88,7 +88,7 @@ variations on the four basic shapes.
 
 ## The Six _Tyeller_
 
-The six rows of Figure 2 correspond to the six _tyeller_ or  "grades"
+The six rows of Figure 1 correspond to the six _tyeller_ or  "grades"
 of letters recognized by the Elves. Each _tyellë_ was used
 for sounds of a specific quality.
 

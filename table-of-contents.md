@@ -34,7 +34,7 @@
           </p>
         </li>
         <li>
-          <p><a href="#pronunciation-guide">Pronunciation Guide</a></p>
+          <p><a href="#pronunciation">Pronunciation Guide</a></p>
 
           <p class="details">Voiced and unvoiced sounds.
           Consonants and vowels. Vowel glides.

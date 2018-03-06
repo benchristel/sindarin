@@ -1,4 +1,19 @@
-The _tengwar_ were invented by Fëanor in Aman, and so were first used to write Quenya. But Fëanor, always ambitious, didn't just devise an alphabet solely for his own language. He created a system so versatile that it could be adapted to *any* language. Thus when the exiled Noldor brought the _tengwar_ to Middle-earth, they were able to use the script to write Sindarin. By the Third Age there were multiple styles or "modes" for writing Sindarin with _tengwar_, each with its own spelling conventions.
+In its most ancient form, Sindarin was only written using
+_cirth_ or runes. However, when the exiled Noldor brought
+the _tengwar_ to Middle-earth, the Sindar readily adopted
+the new writing system.
+
+Though most of the _tengwar_ system was invented by the Noldo
+Fëanor in Aman, the Sindar appear to have added one _tengwa_
+of their own invention, the _hwesta sindarinwa_ [.t o].
+This was used
+to represent the sound HW. It is in origin a modification of [.t c],
+which is used in Sindarin to represent CHW.
+
+The great versatility of the _tengwar_ led to the development
+of many different Sindarin modes. By the Third Age there were
+at least three modes in use, each with its own spelling
+conventions. This book covers the two most common ones.
 
 The oldest Sindarin mode is that of Beleriand, which uses
 full _tengwar_ rather than _tehtar_ for vowels.
@@ -6,7 +21,13 @@ full _tengwar_ rather than _tehtar_ for vowels.
 ## The Mode of Beleriand
 
 The letters of the Beleriand mode, shown in Figure 1,
-correspond one-to-one with Sindarin sounds. You'll notice
+correspond one-to-one with Sindarin sounds. Because the
+letters of this mode represent Sindarin sounds, rather than
+letters in our alphabet, you'll get more out of this chapter
+if you've
+read the chapter on pronunciation that starts <a href="#pronunciation" class="pageref"></a>.
+
+You'll notice
 many similarities to the Brogan mode <a href="#writing-english-with-tengwar" class="pageref"></a>. Notable differences include the use
 of [.t 6] for N and [.t y] for M (as [.t 5] and [.t t] are used for
 the doubled versions of these consonants) and [.t 7] for R.
@@ -17,34 +38,19 @@ the doubled versions of these consonants) and [.t 7] for R.
 
 Long vowels were given an accent mark: [.t &#93;F] represented [.s á] or [.s â]. The Sindarin term for this is [.s andaith] "long-mark".
 
-For diphthongs, the scribes used a _tengwa_ to represent the first vowel. A mark (_tehta_ in Quenya) above the _tengwa_ was often used for the second vowel. However, Tolkien notes in Appendix E that "the diphthongs were often written out in full", as [.t &#93;l] in the _tengwar_ transcription of _A Elbereth Gilthoniel_.
+The two letters for I were used in different contexts. The
+long carrier [.t ~B] was used for I before a vowel at the
+beginning of a word, which has the sound of Y in _yes_.
 
-<table class="col-3 columns">
-<tr>
-<td>
-    <ul>
-    <li>[.tab AE][.t.letterform &#93;l]</li>
-    <li>[.tab AI][.t.letterform &#93;Ö]</li>
-    </ul>
-</td>
-<td>
-    <ul>
-    <li>[.tab AU][.t.letterform &#93;ê]</li>
-    <li>[.tab EI][.t.letterform lÕ]</li>
-    </ul>
-</td>
-<td>
-    <ul>
-    <li>[.tab OE][.t.letterform hl]</li>
-    <li>[.tab UI][.t.letterform .Ö]</li>
-    </ul>
-</td>
-</tr>
-</table>
+A dot could be placed above the letters for I and A to prevent
+them from being mistaken for the stem or bow of an adjacent
+letter: [.t &#93;T], [.t \`B], [.t ~B].
+
+For diphthongs, the scribes used a _tengwa_ to represent the first vowel. A small mark or _tehta_ above this was often used for the second vowel. However, Tolkien notes in Appendix E that "the diphthongs were often written out in full", as [.t &#93;l] in the _tengwar_ transcription of _A Elbereth Gilthoniel_. Perhaps this means that a diphthong like AI, normally abbreviated to [.t &#93;Ö], could also be written [.t &#93;\`B].
 
 ### Abbreviations
 
-The early Sindarin scribes liked to abbreviate common letter com&shy;bi&shy;na&shy;tions. Double [.s NN] and [.s MM] were represented by doubling the curved "bow" of [.t 6] and [.t y], producing [.t 5] and [.t t]. An [.s N] or [.s M] before another consonant was abbreviated as a bar or wavy line above the consonant: [.t 1p] for [.s NT], [.t wP] for [.s MB], etc.
+As shown in Figure 1, double [.s NN] and [.s MM] were represented by doubling the bow or _lúva_ of [.t 6] and [.t y], producing [.t 5] and [.t t]. An [.s N] or [.s M] before another consonant was abbreviated as a bar or wavy line above the consonant: [.t 1p] for [.s NT], [.t wP] for [.s MB], etc. This will no doubt feel familiar if you learned the English _tengwar_ modes in the preceding chapters. Note, however, that the other abbreviations used in the English modes do *not* occur in the Beleriand mode.
 
 ### The Complicated Matter of _W_
 
