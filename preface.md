@@ -148,16 +148,6 @@ might find it hard to communicate with other people in
 Sindarin, especially if they learned from a different
 source.
 
-Another caveat with Sindarin is that some things are
-just not worth translating; it feels like pounding
-a round peg into a square hole. Any sentence that talks
-about modern things like _phones_ or _driving_ or _college_
-is going to come out sounding ugly and clunky in Sindarin,
-because you'll have to build new compound words for each of those
-things (and keep in mind—they won't be the *same* words that
-other people would have used, so you
-still might not be understood).
-
 There is no need to despair, however. In time you may come to
 see the limitations of Sindarin as a strength rather
 than a weakness. When something is hard to phrase in
@@ -265,30 +255,23 @@ were written to teach the languages spoken in the movies.
 
 In the years that followed, more of Tolkien's unpublished
 notes came to light, and some of them proved that a lot of
-words and grammar used in the movies were inaccurate. Many
-of the websites that used movie-style Sindarin were updated,
-but the movies themselves, of course, were not.
+words and grammar used in the movies were inaccurate. For
+instance, movie phrases such as [.s.salo le hannon] ("thank you") and [.s.salo hennaid]
+("thanks"), are now widely regarded as incorrect (or at least
+unsupported by evidence from Tolkien's own writings).
+Nevertheless, you can still find Tolkien fans on the Web using
+[.s.salo le hannon] to mean "thank you", because there is simply
+no better alternative.
 
-This means that if you learn only "correct" Sindarin, much
-of what's said in the
-_Lord of the Rings_
-movies will sound strange or just be unintelligible. For
-this reason, I've included the movies' mistaken words
+The upshot of all of this is that learning proper Tolkien-Sindarin
+is not sufficient to understand the dialogue in the _Lord of the Rings_
+movies, much less the living Sindarin language spoken on the Web.
+And these versions of the language cannot be dismissed lightly; I
+expect my readers will be nearly as interested in them as in
+Tolkien-canon.
+
+For that reason, I've included the movies' idiosyncratic words
 in this book and marked them with a dagger (&dagger;).
-I don't *officially* recommend using them yourself, but at
-least this way you'll be able to understand what Aragorn
-and Legolas are saying.
-
-I have another, more personal reason for including
-movie-Sindarin in this book. The very first Sindarin
-sentence I remember reading was written not by Tolkien, but
-by David Salo, who did the Elvish (and Dwarvish and Orcish)
-translations for the films. Movie-Sindarin was my
-introduction to the language, and without Salo's work I
-might never have started learning Elvish at all. I
-therefore feel indebted to Salo, and want to make
-sure that his work on the language, as well as Tolkien's,
-is properly appreciated.
 
 ## Typographical Conventions
 
