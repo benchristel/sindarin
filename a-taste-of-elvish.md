@@ -1,6 +1,10 @@
+## A Brief History of Sindarin
+
+The first Elves awoke before there was a Sun or a Moon. They were by the shores of a lake, which in the Quenya language of later days was called *Cuiviénen*, the Water of Awakening. But that lake appears on no maps; it has been lost to time.
+
 When the first Elves awoke on the shores of Cuiviénen, they began to make a language. The first word they spoke, according to later Elven lore, was _ele!_—an exclamation of wonder and delight that they uttered upon first seeing the stars. They called themselves _kwendī_, meaning "those who speak", since they knew of no other beings that could use language.
 
-When the Vala Arômez (often called _Oromë_) met the Elves and told them of Aman, the land of the Valar beyond the sea, some Elves wished to go there and some were afraid to make the journey. Those who refused the journey were called the _abarī_. They were lost in the wilds of Middle-earth and play small part in its later history. Those who heeded Oromë and marched across Middle-earth to the shores of the Great Sea were called _edeloī_—in later Quenya, _eldar_.
+When the Vala Arômez (often called _Oromë_) met the Elves and told them of Aman, the abode of the Valar beyond the sea, some Elves wished to go there and some were afraid to make the journey. Those who refused the journey were called the _abarī_. They were lost in the wilds of Middle-earth and play small part in its later history. Those who heeded Oromë and marched across Middle-earth to the shores of the Great Sea were called _edeloī_—in later Quenya, _eldar_.
 
 During the journey, the Elves were sundered yet again. The Vanyar and Noldor clans, who arrived at the shore first, hastened across the Sea to Aman. Those who tarried behind, the Teleri, waited at the shore, torn between their love for Middle-earth and their desire to cross the sea. Before they could begin the sea voyage, their leader, Elwë, crossed the path of Melian, a Maia. He fell at once in love with her and for many years they remained under an enchantment in the forest of Nan Elmoth. The other Teleri could not find him, and many refused to cross the Sea without their lord. And so they remained in Middle-earth.
 
@@ -28,8 +32,3 @@ But maybe poetry is not the best way to present a language like Sindarin. Its ch
 This "changefulness" deserves further description, because it is one of the things that makes Sindarin so fascinating and challenging to study. Basically, a word in Sindarin can wear many disguises, changing its form in a kaleidoscope of ways. Take, for example, the phrase "the letter": in Sindarin this would be _i dêw_. To form the plural, English simply adds an _-s_: "the letters". But in Sindarin, the plural form changes completely: "the letters" would be _i thîw_! So if you saw these phrases in a Sindarin text and wanted to look up the word, where in the dictionary should you look? Under _dêw_ or _thîw_? It turns out that this is a trick question, because *both* of these forms are "mutated" versions of the basic word _têw_—which is what an Elf would likely say if you asked "how do you say &lsquo;letter&rsquo; in Sindarin?"
 
 If this makes Sindarin sound like a terrifyingly difficult language... I promise you it's not. The mutations follow regular patterns and are easy to look up if you forget them. If on the other hand you think the idea of mutations is terrifically clever and awesome... then I agree with you! The idea of internal mutations in words is not original to Tolkien, though—he got it from the Celtic languages (which include Welsh), and it's not even unique to the Celtic family. Japanese has a very similar phenomenon where the second element of compounds often shows a mutation: for example, when _kami_ "paper" becomes _-gami_ in _origami_.
-
-<div class="nav-links">
-<div><a href="./learning.html">Onward to the section on learning Tolkien's languages!</a></div>
-<div><a href="../sindarin.html">Back to the Table of Contents</a></div>
-</div>
