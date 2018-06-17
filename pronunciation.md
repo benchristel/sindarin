@@ -9,11 +9,15 @@ Tolkien's languages have many imitators in fantasy literature, probably because 
 
 ### Consonants
 
+[.term Consonants] are the sounds of language that involve blocking the air flowing through your mouth, creating popping, hissing, or buzzing sounds. This is in contrast to [.term vowels], which allow air to flow freely. In English, we're used to thinking of all letters except A, E, I, O, and U as consonants.
+
+Most Sindarin consonants are pronounced as you'd expect. There are a few sounds with unintuitive spellings, though, and Sindarin even has some sounds that don't occur in English at all. The sounds and spellings that deviate from English are described below.
+
 - [.s C] and [.s G] are always hard, as in _cat_ and _get_. [.s Celeborn] is pronounced "Keleborn".
 - [.s CH] is the sound in German _Bach_. If this sound gives you trouble, you could pronounce it [.s H] or [.s K], as the Gondorians did. In the Gondor dialect the place-name [.s Rochann] was pronounced [.s Rohan]—hence the spelling used in _LotR_.
 - [.s R] is tapped or trilled, as in Spanish.
 - [.s TH] and [.s DH] are the sounds of _thin_ and _this_, respectively. The difference is that when you say _this_ your vocal cords are vibrating—put a finger on your throat and you can feel the difference.
-- [.s LH] and [.s RH] are like [.s L] and [.s R] pronounced _voicelessly_—that is, with no vocal cord vibration. These sounds are lifted straight from Welsh, where they're spelled _LL_ and _RH_: _Llewellyn_, _Rhiannon_.
+- [.s LH] and [.s RH] are like [.s L] and [.s R] pronounced [.term voicelessly]—that is, with no vocal cord vibration. These sounds are lifted straight from Welsh, where they're spelled _LL_ and _RH_: _Llewellyn_, _Rhiannon_.
 - [.s HW] is similarly a voiceless version of [.s W]. This is the WH-sound in _whale_, in varieties of English that pronounce it differently from _wail_.
 - [.s S] is *always* voiceless—it never has a Z-sound, even at the end of a word. The last syllable of [.s Fanuilos] "Everwhite" sounds like _loss_.
 - [.s NG], between vowels, is pronounced with a hard [.s G] as in _finger_. elsewhere, it's pronounced as in _ring_.
@@ -39,7 +43,7 @@ With those examples in mind, try pronouncing these words:
 
 In addition to the five main vowels, Sindarin has a sixth vowel [.s Y] with no equivalent in English. It's the sound of _u_ in French _lune_, or _ü_ in German _über_. To pronounce it, say "ee" but with your lips rounded as if saying "oo".
 
-If those instructions sound nonsensical, it's because "ee" usually stretches your lips into a smile, basically the opposite of "oo". (That's why people say "cheese" for photos!) However, the other important feature of "ee" is that your mouth is nearly closed when saying it, leaving only a small air gap above your tongue. So combine that "closeness" with lip-rounding and you have the Sindarin [.s Y] sound.
+If those instructions sound nonsensical, it's because "ee" usually stretches your lips into a smile, basically the opposite of "oo". (That's why people say "cheese" for photos!) However, the other important feature of "ee" is that your tongue is pushed forward when saying it, nearly touching your upper teeth. So combine that tongue position with lip-rounding and you have the Sindarin [.s Y] sound.
 
 In Gondor, [.s Y] was often pronounced the same as [.s I]—the Gondorians found this sound as troublesome as we do.
 
