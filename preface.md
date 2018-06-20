@@ -256,11 +256,11 @@ were written to teach the languages spoken in the movies.
 In the years that followed, more of Tolkien's unpublished
 notes came to light, and some of them proved that a lot of
 words and grammar used in the movies were inaccurate. For
-instance, movie phrases such as [.s.salo le hannon] ("thank you") and [.s.salo hennaid]
+instance, movie phrases such as [.s le hannon] ("thank you") and [.s hennaid]
 ("thanks"), are now widely regarded as incorrect (or at least
 unsupported by evidence from Tolkien's own writings).
 Nevertheless, you can still find Tolkien fans on the Web using
-[.s.salo le hannon] to mean "thank you", because there is simply
+[.s le hannon] to mean "thank you", because there is simply
 no better alternative.
 
 The upshot of all of this is that learning proper Tolkien-Sindarin
@@ -277,7 +277,8 @@ in this book and marked them with a dagger (&dagger;).
 
 As mentioned earlier, an asterisk (\*) before a Sindarin
 word means the word is reconstructed. A dagger (&dagger;)
-means it is from the _Lord of the Rings_ movies.
+marks dubious reconstructions used in the _Lord of the
+Rings_ movies.
 
 All Sindarin text is in [.s bold italics]. Words
 from other Elvish languages (mostly Quenya) are simply
