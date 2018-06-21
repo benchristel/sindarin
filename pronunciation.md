@@ -85,7 +85,7 @@ To complicate matters, the spelling [.s NG] is actually ambiguous at the beginni
 
 In addition to having long and short vowels, Sindarin makes a contrast between long and short consonants. English also has this contrast in a few cases: _unaimed_ has a short _n_, while _unnamed_ (if you're trying to pronounce it differently from _unaimed_) has a long _n_.
 
-In Sindarin spelling, a doubled letter means the consonant is long. For example, [.s melon] "I love" has a short [.s L], while [.s mellon] "friend" has a long [.s L].
+In Sindarin spelling, a doubled letter means the consonant is long. For example, [.s.salo melon] "I love" has a short [.s L], while [.s mellon] "friend" has a long [.s L].
 
 [.s PH] is a tricky exception: at the beginning or end of a word it's a short [.s F]-sound, pronounced as in _photograph_. However, in the middle of a word, it's long: [.s ephel] "outer fence" is pronounced _ef-fel_.
 
