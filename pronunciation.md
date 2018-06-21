@@ -132,12 +132,16 @@ The general rule for longer words is to stress the third-to-last syllable: [.s <
 
 However, the second-to-last syllable gets the stress if its vowel is:
 
+!!bullets
+
 - long (accented), as [.s í] in [.s Celeb<span class="hi">rí</span>an] ("Silver-queen", Arwen's mother)
 - a diphthong, as [.s ae] in [.s Hi<span class="hi">thaeg</span>lir] ("the Misty Mountains")
 - or followed by multiple consonants: [.s Cele<span class="hi">brim</span>bor] ("Silver-fist")
 
+/!
+
 Note that in the last case it's consonant *sounds*, not letters, that are important. [.s TH], [.s DH], etc. are single sounds even though they're represented by two letters, so the [.s th] in [.s <span class="hi">Nim</span>brethil] doesn't cause the stress to move.
 
-### Possible Exceptions to the Stress Rule
+### Possible Exceptions to the Stress Rules
 
-There are some Sindarin names that don't seem to follow the stress rules in Appendix E, among them [.s Imladris] (Rivendell) and [.s Nargothrond]. These "should" be stressed [.s Im<span class="hi">lad</span>ris], [.s Nar<span class="hi">goth</span>rond], because the second-to-last syllable of each is followed by two consonants. However, we can observe that both are stressed on the first syllable in poetry. This issue is covered in depth <a class="pageref" href="#irregular-stress"></a>.
+There are some Sindarin names that don't seem to follow the stress rules outlined above, among them [.s Imladris] (Rivendell) and [.s Nargothrond]. These "should" be stressed [.s Im<span class="hi">lad</span>ris], [.s Nar<span class="hi">goth</span>rond], because the second-to-last syllable of each is followed by two consonants. However, we can observe that both are stressed on the first syllable in poetry. This issue is covered in depth <a class="pageref" href="#irregular-stress"></a>.
