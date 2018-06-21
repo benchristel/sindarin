@@ -39,17 +39,15 @@ The Noldor returned to Middle-earth, and it was with blood on their hands—they
 
 In Frodo's day the Elves west of the Misty Mountains still spoke Sindarin, and in their houses it could often be heard as they lifted their voices in song:
 
-> _A Elbereth Gilthoniel,_
-> _silivren penna míriel_
-> _o menel aglar elenath!_
-> _Na-chaered palan-díriel_
-> _o galadhremmin ennorath,_
-> _Fanuilos, le linnathon_
-> _nef aear, sí nef aearon!_
+> [.s A! Elbereth, Gilthoniel!]
+> [.s Mi 'aladhremmin derthiel]
+> [.s Chae ennorath, sí ][.s.salo renim ][.s ui]
+> [.s Gîl lín or 'Aear Annui.]
 >
-> <cite>The Fellowship of the Ring, p. 250</cite>
-
-(In free translation, this reads: "O Elbereth Starkindler, the glory of the star-host slants down from heaven, shining white, sparkling like jewels! Having gazed afar from the tree-woven lands of Middle-earth, to you, Everwhite, I will sing, here on this side of the great ocean!")
+> (O Elbereth Starkindler,
+> Having dwelt far away in tree-woven
+> Middle-earth, we still recall forever
+> Thy stars above the Western Sea.)
 
 ## Features of Sindarin
 
