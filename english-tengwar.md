@@ -283,7 +283,7 @@ The clusters NN and MM are written this way as well: [.t 6y5Pl6] "runner", [.t a
 ### Double Letters
 
 A letter can be doubled by writing a bar underneath it.
-Thus: [.t jl1&apos;l6] "letter", [.t qh&apos;z] "book", [.t alj°n6 2h&apos;6] "cellar door".
+Thus: [.t jl1&apos;l6] "letter", [.t wh&apos;z] "book", [.t alj°n6 2h&apos;6] "cellar door".
 
 As noted above, NN and MM were written with a wavy line above the letter
 rather than a bar below.
@@ -387,6 +387,6 @@ Can you read the following text?
 
 !!example
 
-[.t nj\`BaÉ 7n8 wlx\`B5P\`Bb 1h xl1 rl6~ 1\`B6É2 W 8\`B1&apos;\`Bb w~ 9l6 8\`B81l6 h5 @ wnzp = 2P W 9nr\`Bb 5h3\`Bb 1h 2h- hapÉ h6 1ê\`BaÉ dl 9n2 ql&apos;qÉ2 \`B1ph @ wh&apos;z 9l6 8\`B81l6 7n8 6ln2¬ \`Bb = wy1 \`B1 9n2 5h q\`a1y6É+ h6 ahrPl6¬ 8n1\`Bh5+ \`B5 \`B1 = «2P 79n1 \`B8 @ y8É W 8yc n wh&apos;z» = 3hêv1 nj\`aÉ = «7\`B3hê1 q\`Ba1y6É+ h6 ahrPl68n1\`Bh5+À» =-=]
+[.t nj\`BaÉ 7n8 wlx\`B5P\`Bb 1h xl1 rl6~ 1\`B6É2 W 8\`B1&apos;\`Bb w~ 9l6 8\`B81l6 h5 @ wnzp = 2P W 9nr\`Bb 5h3\`Bb 1h 2h- hapÉ h6 1ê\`BaÉ dl 9n2 ql&apos;qÉ2 \`B1ph @ wh&apos;z 9l6 8\`B81l6 7n8 6ln2¬ \`Bb = wy1 \`B1 9n2 5h q\`a1y6É+ h6 ahrPl6¬ 8n1\`Bh5+ \`B5 \`B1 = «2P on1 \`B8 @ y8É W 8yc n wh&apos;z» = 3hêv1 nj\`BaÉ = «7\`B3hê1 q\`Ba1y6É+ h6 ahrPl68n1\`Bh5+À» =-=]
 
 /!
