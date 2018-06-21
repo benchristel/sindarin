@@ -51,6 +51,32 @@ In Frodo's day the Elves west of the Misty Mountains still spoke Sindarin, and i
 
 (In free translation, this reads: "O Elbereth Starkindler, the glory of the star-host slants down from heaven, shining white, sparkling like jewels! Having gazed afar from the tree-woven lands of Middle-earth, to you, Everwhite, I will sing, here on this side of the great ocean!")
 
+## Features of Sindarin
+
+Sindarin is an earthy language, akin to but unlike its sibling Quenya. While Quenya flourished in Aman, the abode of the angelic Valar, Sindarin was confined to the forests and caves of Middle-earth. Its recompense was an understanding, woven into its words, of the significance of earthly things like mountains and trees, and also of their finiteness and ultimate mortality. The changefulness of Sindarin echoes the change of mortal lands.
+
+This "changefulness" deserves further description, because it is one of the things that makes Sindarin so fascinating and challenging to study. Basically, a word in Sindarin can wear many disguises, changing its form in a kaleidoscope of ways. Take, for example, the phrase "the letter": in Sindarin this would be _i dêw_. To form the plural, English simply adds an _-s_: "the letters". But in Sindarin, the plural form changes completely: "the letters" would be _i thîw_! So if you saw these phrases in a Sindarin text and wanted to look up the word, where in the dictionary should you look? Under _dêw_ or _thîw_? It turns out that this is a trick question, because *both* of these forms are "mutated" versions of the basic word _têw_—which is what an Elf would likely say if you asked "how do you say &lsquo;letter&rsquo; in Sindarin?"
+
+One of the most iconic features of Sindarin is its system
+of *consonant mutations*. These are grammatical rules that
+dictate that the initial consonants of words change under
+certain conditions.
+
+> [.s Cîr tollen ammen] "Ships have come for us"
+> [.s ach ú-aníron gîr] "but I do not desire ships"
+> [.s i ven i chîr hollen anim] "the path of the ships is closed to me"
+
+In the example above, you'll notice that the word for "ships"
+is variously rendered *cîr*, *gîr*, and *chîr*. The grammatical
+rules of consonant mutations tell you when to use each
+spelling.
+
+The plural form of nouns is marked by internal changes in
+the noun itself, rather than by a suffix (like the English
+plural suffix *-s*). For example, the plural of [.s adan] "human"
+is [.s edain] "humans"; the plural of [.s aran] "king" is
+[.s erain].
+
 ## Quenya and Sindarin
 
 Within Tolkien's legendarium, Sindarin contrasts primarily
@@ -165,29 +191,3 @@ the languages apart:
   Quenya uses these letters, but only in the middle of words.
 - If you see *TH*, *DH*, or *PH*, it's Sindarin.
 - If you see the letters *Q* or *X*, the word is Quenya.
-
-## Features of Sindarin
-
-Sindarin is an earthy language, akin to but unlike its sibling Quenya. While Quenya flourished in Aman, the abode of the angelic Valar, Sindarin was confined to the forests and caves of Middle-earth. Its recompense was an understanding, woven into its words, of the significance of earthly things like mountains and trees, and also of their finiteness and ultimate mortality. The changefulness of Sindarin echoes the change of mortal lands.
-
-This "changefulness" deserves further description, because it is one of the things that makes Sindarin so fascinating and challenging to study. Basically, a word in Sindarin can wear many disguises, changing its form in a kaleidoscope of ways. Take, for example, the phrase "the letter": in Sindarin this would be _i dêw_. To form the plural, English simply adds an _-s_: "the letters". But in Sindarin, the plural form changes completely: "the letters" would be _i thîw_! So if you saw these phrases in a Sindarin text and wanted to look up the word, where in the dictionary should you look? Under _dêw_ or _thîw_? It turns out that this is a trick question, because *both* of these forms are "mutated" versions of the basic word _têw_—which is what an Elf would likely say if you asked "how do you say &lsquo;letter&rsquo; in Sindarin?"
-
-One of the most iconic features of Sindarin is its system
-of *consonant mutations*. These are grammatical rules that
-dictate that the initial consonants of words change under
-certain conditions.
-
-> [.s Cîr tollen ammen] "Ships have come for us"
-> [.s ach ú-aníron gîr] "but I do not desire ships"
-> [.s i ven i chîr hollen anim] "the path of the ships is closed to me"
-
-In the example above, you'll notice that the word for "ships"
-is variously rendered *cîr*, *gîr*, and *chîr*. The grammatical
-rules of consonant mutations tell you when to use each
-spelling.
-
-The plural form of nouns is marked by internal changes in
-the noun itself, rather than by a suffix (like the English
-plural suffix *-s*). For example, the plural of [.s adan] "human"
-is [.s edain] "humans"; the plural of [.s aran] "king" is
-[.s erain].
