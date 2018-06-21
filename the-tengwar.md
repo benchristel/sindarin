@@ -98,11 +98,9 @@ If you want to try your hand at translating the Sindarin as well, here's a clue:
 
 ## The _Ómatehta_ Mode
 
-_Ómatehtar_ (Quenya for "vowel-signs") are the dots and curls above the letters in the Ring inscription. In LotR Appendix E they're referred to simply as _tehtar_, or "marks". They represent the vowels in many _tengwar_ modes.
-
 _Ómatehtar_ were not used until late in Sindarin's history. The Sindarin _ómatehta_ mode is associated mainly with the Men of Gondor, and is sometimes called the Mode of Gondor.
 
-The consonant letters follow mostly the same patterns in the Mode of Beleriand, but except for [.s C],  [.s CH], [.s G]. In Gondor, the letters [.t a], [.t s], and [.t d]  were used for writing the sounds _ch_ (as in _church_), _j_, and _sh_, which were common in the Westron language. Gondorians thus preferred to use [.t z], [.t c], and [.t x] for Sindarin [.s C], [.s CH], and [.s G].
+The consonant letters follow mostly the same patterns in the Mode of Beleriand, except for [.s C],  [.s CH], and [.s G]. In Gondor, the letters [.t a], [.t s], and [.t d]  were used for writing the sounds _ch_ (as in _church_), _j_, and _sh_, which were common in the Westron language. Gondorians thus preferred to use [.t z], [.t c], and [.t x] for Sindarin [.s C], [.s CH], and [.s G].
 
 <table class="col-3 columns">
 <tr>
