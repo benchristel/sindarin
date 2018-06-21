@@ -1,31 +1,34 @@
 In its most ancient form, Sindarin was only written using
-_cirth_ or runes. However, when the exiled Noldor brought
+_cirth_ or runes. However, when the Noldor brought
 the _tengwar_ to Middle-earth, the Sindar readily adopted
 the new writing system.
 
-Though most of the _tengwar_ system was invented by the Noldo
-Fëanor in Aman, the Sindar appear to have added one _tengwa_
-of their own invention, the _hwesta sindarinwa_ [.t o].
-This was used
-to represent the sound HW. It is in origin a modification of [.t c],
-which is used in Sindarin to represent CHW.
+The word _tengwar_ is Quenya, not Sindarin—owing to the fact
+that the writing system is of Noldorin origin.
+The Sindarin word for the _tengwar_ is [.s tîw], but you'll
+rarely see this word outside of Sindarin texts. Most people
+call the writing system by its Quenya name, regardless of
+what language they're writing about. Many terms closely
+associated with _tengwar_ (_telco_, _lúva_, _ómatehta_)
+are also Quenya.
 
 The great versatility of the _tengwar_ led to the development
 of many different Sindarin modes. By the Third Age there were
 at least three modes in use, each with its own spelling
 conventions. This book covers the two most common ones.
 
-The oldest Sindarin mode is that of Beleriand, which uses
-full _tengwar_ rather than _tehtar_ for vowels.
-
 ## The Mode of Beleriand
+
+The oldest Sindarin mode is that of Beleriand—the land where
+the Teleri led by Elwë dwelt, and where the first encounter
+between Sindarin and the _tengwar_ occurred. This mode uses
+full _tengwar_ rather than _ómatehtar_ for vowels.
 
 The letters of the Beleriand mode, shown in Figure 1,
 correspond one-to-one with Sindarin sounds. Because the
 letters of this mode represent Sindarin sounds, rather than
-letters in our alphabet, you'll get more out of this chapter
-if you've
-read the chapter on pronunciation that starts <a href="#pronunciation" class="pageref"></a>.
+letters in our alphabet, you may want to refer back to
+the chapter on pronunciation that starts <a href="#pronunciation" class="pageref"></a>.
 
 You'll notice
 many similarities to the Brogan mode <a href="#writing-english-with-tengwar" class="pageref"></a>. Notable differences include the use
@@ -34,19 +37,26 @@ the doubled versions of these consonants) and [.t 7] for R.
 
 @include mode-of-beleriand-consonants.md
 
+Though most of the _tengwar_ are Noldorin in origin, the
+letter [.t o] is a purely Sindarin invention, necessitated
+by Sindarin's distinction between [.s HW] and [.s CHW], which
+Quenya lacks. The Quenya name for this letter is _hwesta Sindarinwa_,
+or "Sindarin HW".
+
 ### Vowels and Diphthongs
 
 Long vowels were given an accent mark: [.t &#93;F] represented [.s á] or [.s â]. The Sindarin term for this is [.s andaith] "long-mark".
 
-The two letters for I were used in different contexts. The
-long carrier [.t ~B] was used for I before a vowel at the
-beginning of a word, which has the sound of Y in _yes_.
+The two letters for [.s I] were used in different contexts. The
+longer variant [.t ~B] was used for [.s I] before a vowel at the
+beginning of a word, which has the sound of _Y_ in _yes_.
+[.t \`B] was used elsewhere, and had the sound of _I_ in _machine_.
 
-A dot could be placed above the letters for I and A to prevent
+A dot was often placed above the letters for [.s I] and [.s A] to prevent
 them from being mistaken for the stem or bow of an adjacent
 letter: [.t &#93;T], [.t \`B], [.t ~B].
 
-For diphthongs, the scribes used a _tengwa_ to represent the first vowel. A small mark or _tehta_ above this was often used for the second vowel. However, Tolkien notes in Appendix E that "the diphthongs were often written out in full", as [.t &#93;l] in the _tengwar_ transcription of _A Elbereth Gilthoniel_. Perhaps this means that a diphthong like AI, normally abbreviated to [.t &#93;Ö], could also be written [.t &#93;\`B].
+For diphthongs, the scribes used a _tengwa_ to represent the first vowel. A _tehta_ above this was often used for the second vowel. However, Tolkien notes in Appendix E that "the diphthongs were often written out in full", as [.t &#93;l] for [.s AE] in the _tengwar_ transcription of _A Elbereth Gilthoniel_. Perhaps this means that a diphthong like AI, normally abbreviated to [.t &#93;Ö], could also be written [.t &#93;\`B].
 
 ### Abbreviations
 
