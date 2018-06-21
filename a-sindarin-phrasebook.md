@@ -22,7 +22,6 @@ Of course, as you're sounding out these phrases it helps to know how they're sup
 !!example
 
 [.s Togo aes ammen, cí athol] <br/>
-[.s.salo Togo aes ammen, cí athach] <br/>
 "Bring us food, please"
 
 /!
