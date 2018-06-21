@@ -175,6 +175,8 @@ of the flavor of each language. But if you prefer to
 rules to vague feelings—here are some rules you can use to tell
 the languages apart:
 
+!!bullets
+
 - Though it's not a hard-and-fast rule, Quenya words tend
   to end with a vowel (A, E, I, O, or U), while Sindarin
   words tend to end with a consonant.
@@ -189,3 +191,5 @@ the languages apart:
   Quenya uses these letters, but only in the middle of words.
 - If you see *TH*, *DH*, or *PH*, it's Sindarin.
 - If you see the letters *Q* or *X*, the word is Quenya.
+
+/!

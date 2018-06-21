@@ -79,7 +79,11 @@
     }
 
     .bullets li {
+        padding-left: 0;
+        text-indent: 0;
         margin-left: 0.15in;
+        margin-top: 0.5em;
+        margin-bottom: 0.5em;
         list-style-type: disc;
     }
 
