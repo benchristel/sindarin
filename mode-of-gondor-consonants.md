@@ -53,7 +53,7 @@
   <li>[.tab CH][.t.letterform c]</li>
   <li>[.tab —][.t.letterform v]</li>
   <li>[.tab NG][.t.letterform b]</li>
-  <li>[.tab W&#42;][.t.letterform n]</li>
+  <li>[.tab W][.t.letterform n]</li>
   <li>[.tab LH][.t.letterform m]</li>
   <li>[.tab SS][.t.letterform ,]</li>
   <li>[.tab HW][.t.letterform o]</li>
@@ -99,15 +99,6 @@
 </tr> -->
 </table>
 </div>
-
-It's uncertain what letter was used for [.s NG]. David Salo suggests [.t g] in _A Gateway to Sindarin_, as does Måns Björkman on his website _Amanye Tenceli_. It's a reasonable guess since [.t g] is used for _NG_ in Quenya, and fits in with the general pattern of how the _tengwar_ are assigned to sounds in Sindarin.
-
-The use of [.t u] and [.t m] for RH and LH is somewhat speculative,
-as these letters are not used in any known Beleriandic texts
-by Tolkien's hand. However,
-we know these letters were used for RH and LH in other Sindarin
-modes, and no other letters seem like more likely
-candidates.
 
 !!TODO
 
