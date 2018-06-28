@@ -64,21 +64,43 @@ As shown in Figure 1, double [.s NN] and [.s MM] were represented by doubling th
 
 ### The Complicated Matter of _W_
 
-A mark like a flattened S (also used for the diphthong [.s AU]) might have been used for a following [.s W] sound: [.s Narwain] "January" might have been written [.t 6&#93;7ê&#93;Ö6]. In Appendix E, Tolkien mentions that this symbol was "required for the expression of <em>au</em>, <em>aw</em>," perhaps meaning that it was used only in that circumstance, and [.t n] was used elsewhere for [.s W].
-For [.s GW], there is an additional layer of complication. The Noldor, on first encountering Sindarin, would likely have used [.t x] for [.s GW], since that spelling closely mirrors Quenya. [.s Gwirith] "April" might be written [.t x&#96;7&#96;3]. This ties in nicely with the use of [.t c] for [.s CHW], which Tolkien implies (but does not quite state) in Appendix E: <q><em>hwesta sindarinwa</em> [[.t o]] or <q>Grey-elven <em>hw</em></q> was so called because in Quenya [[.t c]] had the sound of <em>hw</em>, and distinct signs for <em>chw</em> and <em>hw</em> were not required.</q>
+A [.s W] following another consonant might have been written
+as a curl like a flattened _S_ above the previous consonant.
+Thus, [.s NW] would be [.t 6é], and [.s RW] would be [.t 7é].
+It is also possible that the [.s W] would have simply been
+written [.t n].
 
-Thus, the possibilities for writing [.s GW] are:
+[.TODO vilya for ̇W might be more likely when the cluster crosses a morpheme boundary, c.f. tecendil. elaborate on this, maybe in a later chapter?]
 
-- [.t x&#96;7&#96;3] &middot; [.s Gwirith]
-- [.t sè&#96;7&#96;3] &middot; [.s Gwirith]
-- [.t sn&#96;7&#96;3] &middot; [.s Gwirith]
+Thus, a word like [.s Narwain] "January" might have been
+written in either of the following ways:
 
-Which of these was used is not certain.
+- [.t 6&#93;7é&#93;Ö6] &middot; [.s Narwain] "January"
+- [.t 6&#93;7n&#93;Ö6] &middot; [.s Narwain] "January"
 
-For other consonant clusters ending in [.s W], there are only two possibilities: the [.t &nbsp;ê]-_tehta_ or the _tengwa_ [.t n].
+For [.s GW] there is an extra layer of complication because
+of Sindarin's contact with Quenya. Quenya uses
+the _quessetéma_ for clusters ending in W: _KW_ (_QU_),
+_NGW_, _HW_, and _NKW_ (_NQU_). It is likely the Sindar
+would have picked up this pattern when learning the
+_tengwar_—and there is some evidence that they did. In
+Appendix E, Tolkien writes that
+<q><em>hwesta sindarinwa</em> [[.t o]]
+or <q>Grey-elven <em>hw</em></q> was so called because in
+Quenya [[.t c]] had the sound of <em>hw</em>, and distinct
+signs for <em>chw</em> and <em>hw</em> were not
+required.</q> The implication is that [.t c] was used for
+[.s CHW] in Sindarin, and that this usage was inspired by
+Quenya. Because of this, we have reason to suspect that
+[.t x] might have been used for [.s GW].
 
-- [.t 6&#93;7ê&#93;Ö6] &middot; [.s Narwain]
-- [.t 6&#93;7n&#93;Ö6] &middot; [.s Narwain]
+It is also possible, of course, that the Sindar would have
+preferred to represent [.s GW] as [.t sè], to match the
+other consonant clusters. A word like [.s Gwirith] "April"
+could thus be written as either of the following:
+
+- [.t x&#96;7&#96;3] &middot; [.s Gwirith] "April"
+- [.t sè&#96;7&#96;3] &middot; [.s Gwirith] "April"
 
 ### Ambiguities
 
@@ -102,45 +124,7 @@ _Ómatehtar_ were not used until late in Sindarin's history. The Sindarin _ómat
 
 The consonant letters follow mostly the same patterns in the Mode of Beleriand, except for [.s C],  [.s CH], and [.s G]. In Gondor, the letters [.t a], [.t s], and [.t d]  were used for writing the sounds _ch_ (as in _church_), _j_, and _sh_, which were common in the Westron language. Gondorians thus preferred to use [.t z], [.t c], and [.t x] for Sindarin [.s C], [.s CH], and [.s G].
 
-<table class="col-3 columns">
-<tr>
-<td>
-<ul>
-<li>[.tab B][.t.letterform w]</li>
-<li>[.tab C][.t.letterform z]</li>
-<li>[.tab CH][.t.letterform c]</li>
-<li>[.tab D][.t.letterform 2]</li>
-<li>[.tab DH][.t.letterform 4]</li>
-<li>[.tab F][.t.letterform e]</li>
-<li>[.tab G][.t.letterform x]</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>[.tab H][.t.letterform 9]</li>
-<li>[.tab L][.t.letterform j]</li>
-<li>[.tab LH][.t.letterform m]</li>
-<li>[.tab M][.t.letterform t]</li>
-<li>[.tab N][.t.letterform 5]</li>
-<li>[.tab NG][.t.letterform b]</li>
-<li>[.tab P][.t.letterform q]</li>
-</ul>
-</td>
-</td>
-<td>
-<ul>
-<li>[.tab R][.t.letterform 7], [.t.letterform 6]</li>
-<li>[.tab RH][.t.letterform u]</li>
-<li>[.tab S][.t.letterform 8], [.t.letterform i]</li>
-<li>[.tab SS][.t.letterform ,]</li>
-<li>[.tab T][.t.letterform 1]</li>
-<li>[.tab TH][.t.letterform 3]</li>
-<li>[.tab V][.t.letterform r]</li>
-<li>[.tab W][.t.letterform n]</li>
-</ul>
-</td>
-</tr>
-</table>
+@include mode-of-gondor-consonants.md
 
 Vowels are indicated by a _tehta_ above the following consonant.
 

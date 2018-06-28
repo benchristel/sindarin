@@ -418,7 +418,7 @@
 
     /* DEVELOPMENT */
 
-    .TODO, .todo {
+    .TODO, .todo, .remark {
         display: none;
     }
 
