@@ -1,16 +1,6 @@
-Sindarin has a system of consonant mutations that affect many parts of the grammar. The idea behind consonant mutations is that the first sound of a word will change in certain conditions, sometimes to express a particular grammatical idea, sometimes simply to harmonize better with the sound of the previous word. Consonant mutations play a large role in the fictional historical development of Sindarin and are one of the main ingredients that give it richness and depth.
-
-> [.s Cîr tollen ammen] "Ships have come for us"
-> [.s ach ú-aníron gîr] "but I do not desire ships"
-> [.s i ven i chîr hollen anim] "the path of the ships is closed to me"
-
-You'll notice in the above example that "ships" can be rendered [.s cîr], [.s gîr], or [.s chîr].
-
-## Selected Vocabulary
-
 This is just a short selection of the most common Sindarin words. A comprehensive dictionary would take a book of its own, but fortunately for me I don't have to write one, since there are several good Sindarin wordlists available online. You can find links to them at the URL below:
 
-<p class="center">menegroth.github.io/links.html</p>
+<p class="center"><a href="https://menegroth.github.io/links.html">menegroth.github.io/links.html</a></p>
 
 ## Pronunciation
 
