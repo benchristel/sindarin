@@ -1,3 +1,7 @@
+Tolkien delighted in "tasting" languages. It was his way
+of exploring the beauty of a language without needing to
+learn all the fiddly grammar rules. He wrote:
+
 > Gothic was the first [language] to take me by storm, to
 > move my heart. [. . .] I have since mourned the loss of
 > Gothic literature. I did not then. The contemplation of
