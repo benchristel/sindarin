@@ -1,5 +1,5 @@
 _Ómatehtar_, Quenya for "vowel-marks", are the dots and curls
-above the letters in the Ring inscription. Essentially, they
+often seen above _tengwar_ letters (for example, in the Ring inscription). Essentially, they
 are abbreviations for vowel letters: rather than writing
 out the vowels in full, _ómatehta_ modes represent
 them as marks above an adjacent consonant.
