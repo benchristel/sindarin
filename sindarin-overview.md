@@ -4,7 +4,12 @@ This is just a short selection of the most common Sindarin words. A comprehensiv
 
 ## Pronunciation
 
-Pronounce the vowels as if they're Spanish or Italian. [.s Y] is pronounced as in _icy_ or like _ü_ in German _über_. Most of these words happen to be stressed on the first syllable, though that's not the general rule in Sindarin. You can find a more complete pronunciation guide <a class="pageref" href="#pronunciation"></a>.
+Pronounce the vowels as if they're Spanish or Italian.
+[.s Y] is pronounced as in _Yvonne_ or _icy_ or like _ü_ in
+German _über_. Most of these words happen to be stressed on
+the first syllable, though that's not the general rule in
+Sindarin. You can find a more complete pronunciation guide
+<a class="pageref" href="#pronunciation"></a>.
 
 ## People
 
