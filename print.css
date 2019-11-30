@@ -206,6 +206,11 @@
         content: " on page " target-counter(attr(href), page)
     }
 
+    em {
+      font-style: normal;
+      font-family: 'Iowan Old Style Italic';
+    }
+
     .fine-print {
         font-size: 8pt;
     }
