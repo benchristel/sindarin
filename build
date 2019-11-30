@@ -25,6 +25,7 @@ end
 process_directory(ARGV[0] || '.')
 `cp style.css ../sindarin-release/`
 `cp print.css ../sindarin-release/`
+`cp -r fonts ../sindarin-release/`
 
 # print the PDF with Prince
 `~/Desktop/prince-10r7-macosx/lib/prince/bin/prince ../sindarin-release/the-elvish-language.html -o elvish.pdf`
