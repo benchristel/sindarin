@@ -6,7 +6,7 @@ the simplest verb form, with no endings added: _[.hi eat],
 In Sindarin, imperative verbs are used for commands and
 wishes. Many examples can be found in _The Lord of the Rings_:
 
-!!indented
+!!bullets
 
 - Glorfindel's cry to his horse Asfaloth: [.s Noro lim, noro lim Asfaloth!] No translation is given, but [.s noro lim] probably means "Run fast!"
 - Haldir's command to the Fellowship in Lórien: [.s Daro!] "Halt!"
