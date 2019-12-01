@@ -141,7 +141,7 @@ A more casual way of softening a request is to simply say
 
 !!example
 
-[.s \*Holo i fennas anim.] "close the gate for me"
+[.s \*Holo i fennas anim.] "close the door for me"
 
 /!
 
