@@ -2,9 +2,9 @@ Adjectives in Sindarin usually come after the noun they modify—the opposite of
 
 !!example
 
-[.s barad <span class="hi">dûr</span>] "<span class="hi">dark</span> tower"
+[.s barad ][.s.hi dûr] <q><span class="hi">dark</span> tower</q>
 
-[.s ered <span class="hi">luin</span>] "<span class="hi">blue</span> mountains"
+[.s ered ][.s.hi luin] <q><span class="hi">blue</span> mountains</q>
 
 /!
 
@@ -16,10 +16,12 @@ a noun.
 In many cases, the adjective isn't mutated. This can happen in a few
 different situations:
 
-- The adjective is being emphasized, perhaps to show a contrast. ("no, no, the _blue_ mountains!")
+!!bullets
+
+- The adjective is being emphasized, perhaps to show a contrast. ("no, no, the <em>blue</em> mountains!")
 
 - Mutating the adjective would result in a sequence of consonants that's hard to pronounce.
-  _Barad-Dûr_ sounds more natural than _Barad-Dhûr_.
+  [.s Barad-dûr] sounds more natural than [.s Barad-dhûr].
 
 - Mutation would create an ambiguity that couldn't be resolved by looking at the context. For instance,
   [.s i berian vell] could mean either "the strong hobbit" or "the dear hobbit", since [.s bell] "strong"
@@ -27,17 +29,19 @@ different situations:
   what [.s i berian vell] is supposed to mean, so you have the option of avoiding the mutation and saying
   [.s i berian mell] or [.s i berian bell] instead.
 
+/!
+
 ## Word Order
 
 Sometimes adjectives can be placed before the noun. Often this is done to preserve the
-meter or rhyme scheme of a poem. 
+meter or rhyme scheme of a poem.
 
-When an adjective comes before a noun that's also modified by the article [.s i], the adjective comes after the [.s i]. 
+When an adjective comes before a noun that's also modified by the article [.s i], the adjective comes after the [.s i].
 Because of this, the soft mutation from [.s i] affects the adjective instead of the noun.
 
 !!example
 
-"the green jewel" = [.s i vîr galen] / [.s i galen mîr]
+"the green jewel" = [.s i vîr calen] / [.s i vîr galen] / [.s i galen mîr]
 
 /!
 
