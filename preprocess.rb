@@ -34,6 +34,7 @@ while line = template.gets
     markdown_converter = Redcarpet::Markdown.new(Redcarpet::Render::HTML, autolink: true, quote: true, footnotes: true, disable_indented_code_blocks: true)
     output << markdown_converter.render(markdown)
       .gsub("&#39;", '&rsquo;')
+      .gsub("ŷ", "y<span class=\"y-circumflex\">̂</span>")
       .gsub(/<p>!!([^<]+)<\/p>/, '<div class="\1">')
       .gsub(/<p>\/![^<]*<\/p>/, '</div>')
   else

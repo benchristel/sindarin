@@ -219,6 +219,11 @@
         font-family: 'Iowan Old Style Bold Italic';
     }
 
+    .y-circumflex {
+      position: relative;
+      left: -0.2em;
+    }
+
     .salo:before {
       content: '†';
       display: inline;
