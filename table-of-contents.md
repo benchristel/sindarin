@@ -2,7 +2,7 @@
 
 <ul class="toc">
   <li>
-    <p><a href="#preface">Preface</a></p>
+    <p><a href="#preface">Mae Govannen!</a></p>
     <p class="details">
     What is Sindarin?
     Why study Sindarin?
