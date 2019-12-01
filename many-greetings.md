@@ -112,28 +112,105 @@ For a more casual way of saying goodbye, you could try these:
 
 /!
 
-## Please and Thank You
+## Saying Please
 
-[.s ci athol] "If you are willing"
+Tolkien never revealed what the Sindarin words for "please"
+and "thank you" might be, but there are several
+fan-translations of these phrases in common use.
+
+Translating "please" is complicated because English uses the
+word in two almost contradictory ways. "Please" can soften
+a request, making it more polite. But it can also intensify
+a request, as if you are begging or imploring the other
+person to do something.
+
+One way to translate a polite request into Sindarin is by
+analogy with French _s'il vous plaît_, literally, "if it
+pleases you".
+
+!!example
+
+[.s \*ci athol] "If you are willing"
 
 [.s.salo ci athach] "If you are willing"
 
+/!
+
+A more casual way of softening a request is to simply say
+[.s anim], "for me".
+
+!!example
+
+[.s \*Holo i fennas anim.] "close the gate for me"
+
+/!
+
+To beg someone to do something, you can try:
+
+!!example
+
 [.s Le nallon!] "I beg you!" (lit. "I cry to you")
 
-[.s annin] "for me"
+/!
 
-[.s.salo Le hannon] "I thank you"
+## The Complicated History of Thank You
 
-[.s.salo Hennaid] "Thanks"
+When translating "thank you" for the Lord of the Rings
+movies, David Salo drew inspiration from the Quenya verb
+_hanta-_ "to thank", arriving at Sindarin [.s.salo le hannon].
+There's just one problem with this, though: it violates the
+historical sound change rules of Sindarin.
+As Helge Fauskanger and others have pointed out,
+the Primitive Elvish ancestor of Quenya _hanta-_ would *not*
+have produced [.s \*hanna-] in Sindarin if it underwent the
+normal sound change rules—instead, we'd get [.s \*anna-].
 
-[.s Le fael] "You are generous"
+Unfortunately, we can't use [.s \*anna-] to mean "thank" in
+Sindarin, because [.s anna-] already means "give".
+[.s \*Le annon] means "I give you", not "I thank you".
+
+In spite of this problem, Salo's translation [.s le hannon]
+is still in widespread use on the Web, and therefore must
+be considered part of the _living_ Sindarin language.
+
+To avoid the use of [.s le hannon], Sindarin scholar Fiona
+Jallings suggests the paraphrase [.s le fael], literally
+"you are generous".
+
+If you want to sound less formal, and you're okay with dubious
+movie-Sindarin, you can simply say [.s.salo hennaid] "thanks".
 
 ## Apologies
+
+If you try to befriend elves, chances are you'll
+make an ass of yourself at some point and want to apologize.
+Tolkien provides two ways of asking forgiveness:
+
+!!example
 
 [.s Díheno nin!] "Forgive me!"
 
 [.s Goheno nin!] "Forgive me!"
 
+/!
+
+[.s Díheno] seems to be used when asking forgiveness from
+a superior, or someone in a position of authority.
+[.s Goheno] may connote forgiveness among peers, or perhaps
+simply mutual reconciliation. Both of these words come from
+his Sindarin translation of the Lord's Prayer:
+
+!!example
+
+[.s ar díheno ammen i úgerth vin] <br/>
+And forgive us our trespasses
+
+[.s sui mín i gohenam di ai gerir úgerth ammen] <br/>
+as we forgive those who trespass against us.
+
+/!
+
+<!--
 ## Vocabulary
 
 - [.s ad-]: prefix meaning "again"
@@ -145,3 +222,4 @@ For a more casual way of saying goodbye, you could try these:
 - [.s na]: preposition meaning "at", "toward", "with"
 - [.s suila-]: stem of the verb "to greet"
 - [.s suilanna-]: alternative form of "to greet"
+-->
