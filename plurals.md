@@ -109,21 +109,21 @@ When an [.s E] next to an [.s I] changes to [.s I], the two [.s I]s merge into a
 
 ## The Vowel [.s O]
 
-[.s O] changes to [.s E]. When it's the last vowel in the word, it may change to [.s Y] instead. You can choose either variant (e.g. [.s eryd] or [.s ered] to mean "mountains"), but it's good to be consistent.
+[.s O] changes to [.s Y] when it's the last vowel in the word, and to [.s E] elsewhere.
 
 !!example
 
 [.s orod] ~ "mountain"
 
-[.s eryd] or [.s ered] ~ "mountains"
+[.s eryd] ~ "mountains"
 
 [.s onod] ~ "ent"
 
-[.s enyd] or [.s ened] ~ "ents"
+[.s enyd] ~ "ents"
 
 [.s coron] ~ "globe, ball"
 
-[.s ceren] or [.s ceryn] ~ "globes"
+[.s ceryn] ~ "globes"
 
 [.s gorog] ~ "horror"
 
@@ -505,6 +505,20 @@ The other diphthongs [.s AE, AI, OE, UI] generally don't change in the plural.
 In addition to the simple plural to denote more than one of something, Sindarin nouns also have a _class plural_ form denoting *all* of that thing (or at least a very large number). In general, the class plural is formed with a suffix [.s -ath]: [.s Periannath] "Hobbits" from [.s perian]; [.s Sammath] "chambers" from [.s sam].
 
 From the examples given above you'll note that the [.s -ath] suffix can change the final consonant of a word.
+
+## O-O plurals
+
+There's a special (and optional) plural form for
+two-syllable words where both vowels are [.s O]. Both
+[.s O]s may change to [.s E] in the plural.
+
+!!example
+
+[.s Onod] "ent" &rarr; [.s Ened] "ents"
+
+[.s Orod] "mountain" &rarr; [.s Ered] "mountains"
+
+/!
 
 ## Plural Suffixes
 

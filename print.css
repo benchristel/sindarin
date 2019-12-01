@@ -215,7 +215,7 @@
         font-size: 8pt;
     }
 
-    .s, .sindarin {
+    .s, .sindarin, .s.hi {
         font-family: 'Iowan Old Style Bold Italic';
     }
 
