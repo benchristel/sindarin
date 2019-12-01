@@ -30,6 +30,9 @@
           </p>
         </li>
         <li>
+          <p><a href="#selected-vocabulary">Selected Vocabulary</a></p>
+        </li>
+        <li>
           <p><a href="#pronunciation">Pronunciation Guide</a></p>
 
           <p class="details">Voiced and unvoiced sounds.
@@ -37,9 +40,6 @@
           Long vowels and accents. Double consonants.
           Spelling exceptions. Stress.
           </p>
-        </li>
-        <li>
-          <p><a href="#selected-vocabulary">Selected Vocabulary</a></p>
         </li>
     </ul>
   </li>

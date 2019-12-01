@@ -18,15 +18,13 @@ INTRODUCTION
 
 @include a-sindarin-phrasebook.md
 
-# <a name="pronunciation">Pronunciation Guide</a>
-
-@include pronunciation.md
-
 # <a name="selected-vocabulary">Selected Vocabulary</a>
 
 @include sindarin-overview.md
 
+# <a name="pronunciation">Pronunciation Guide</a>
 
+@include pronunciation.md
 
 !!section-divider
 
