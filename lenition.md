@@ -22,7 +22,8 @@ Soft mutation occurs in other places in the language too. These will be covered 
 
 ## Soft Mutation of T, P, and C
 
-The _unvoiced plosives_ [.s T], [.s P], and [.s C] become voiced plosives [.s D], [.s B], [s. G].
+The _unvoiced plosives_ [.s T], [.s P], and [.s C] become
+voiced plosives [.s D], [.s B], [.s G].
 
 !!example
 
@@ -42,7 +43,7 @@ The _voiced plosives_ [.s D], and [.s B] become spirants [.s DH] and [.s V].
 
 [.s dû] "night" &rarr; [.s i dhû] "the night"
 
-[.s brôg] "bear"] &rarr; [.s i vrôg] "the bear"
+[.s brôg] "bear" &rarr; [.s i vrôg] "the bear"
 
 /!
 
@@ -54,9 +55,9 @@ in modern Sindarin.
 
 [.TODO use of the gasdil for writing lenited G]
 
-When writing Sindarin in our alphabet, we use an apostrophe in place of the vanished
-[.s G]. As far as we know, _tengwar_ writing doesn't have an apostrophe, so the [.s G]
-would simply not be written in _tengwar_.
+When writing Sindarin in our alphabet, we use an apostrophe
+in place of the vanished [.s G]. In _tengwar_, a similar
+symbol, called a [.s gasdil] or stopgap, is used.
 
 !!example
 
@@ -102,7 +103,7 @@ The sound [.s M] becomes [.s V].
 
 ## Mutate sounds, not letters
 
-It is perhaps worth noting that soft mutation applies to *sounds*, not letters.
+It is perhaps worth noting that mutations apply to *sounds*, not letters.
 For example, [.s TH] is not affected by soft mutation, because it is a separate sound
 distinct from [.s T] + [.s H]. However, clusters like [.s TR] *are* mutated since
 they actually contain a [.s T] sound.

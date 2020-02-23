@@ -161,18 +161,18 @@ sometimes important. For example:
 
 !!example
 
-[.s Aragorn suila Théoden a mába i roch în]<br>"Aragorn greets Théoden and takes his own (Aragorn's) horse"
+[.s Aragorn suila Théoden a mâb i roch în]<br>"Aragorn greets Théoden and takes his own (Aragorn's) horse"
 
 &nbsp;
 
-[.s Aragorn suila Théoden a mába i roch dîn]<br>"Aragorn greets Théoden and takes his (Théoden's) horse"
+[.s Aragorn suila Théoden a mâb i roch dîn]<br>"Aragorn greets Théoden and takes his (Théoden's) horse"
 
 /!
 
 Whether or not Aragorn is a horse-thief in this scenario
 depends on the pronoun you choose.
 
-In English, we sometimes make a similar distinction with
+In English, we sometimes make a similar distinction using
 "own": _his own horse_ seems to refer unambiguously to
 _Aragorn's horse_.
 
@@ -183,7 +183,7 @@ article like "a" or "the" on the same noun. For instance,
 you can say "a friend", "the friend", or "my friend", but
 not "a my friend" or "the my friend".
 
-Not so in Sindarin! It very common to say something like
+Not so in Sindarin! It's very common to say something like
 [.s i vellon nîn] "my friend", combining both the definite
 article [.s i] and the possessive pronoun [.s nîn].
 
