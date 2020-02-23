@@ -118,7 +118,7 @@ Armed with your new knowledge, you can try deciphering the following tengwar tex
 
 If you want to try your hand at translating the Sindarin as well, here's a clue: all the words can be found in the vocabulary list that starts <a class="pageref" href="#selected-vocabulary"></a>.
 
-## The _Ómatehta_ Mode
+## The Sindarin _Ómatehta_ Mode <a name="sindarin-omatehta"></a>
 
 _Ómatehtar_ were not used until late in Sindarin's history. The Sindarin _ómatehta_ mode is associated mainly with the Men of Gondor, and is sometimes called the Mode of Gondor.
 
@@ -156,7 +156,7 @@ What if there's no consonant immediately following the vowel? In that case, the 
 - [.t q2$&#96;N] &middot; [.s pedo] "speak"
 - [.t xj%35^&#96;Bj$] &middot; [.s Gilthoniel]
 
-For long vowels, the _andaith_ of course can't be used. Instead, the vowel _tehta_ is placed on a long carrier letter [.t ~]. This type of carrier is used even if there's a following consonant.
+For long vowels, the [.s andaith] of course can't be used. Instead, the _tehta_ is placed on a long carrier letter [.t ~]. This type of carrier is used even if there's a following consonant.
 
 - [.t t~B7&#96;Bj$] &middot; [.s míriel]
 

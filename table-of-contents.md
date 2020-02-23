@@ -85,7 +85,7 @@
         </li>
 
         <li>
-          <p><a href="#tengwar-for-sindarin">
+          <p><a href="#sindarin-omatehta">
             Lesson Five: The Sindarin Ómatehta Mode
           </a></p>
         </li>
@@ -131,7 +131,7 @@
 
         <li>
           <p><a href="#possession">
-            Lesson Three: Possession
+            Lesson Four: Possession
           </a></p>
           <p class="details">
           Possessive pronouns.
@@ -143,7 +143,7 @@
 
         <li>
           <p><a href="#likes-desires-and-needs">
-            Lesson Four: Likes, Desires, and Needs
+            Lesson Five: Likes, Desires, and Needs
           </a></p>
           <p class="details">
           The verbs [.s &dagger;mela-], [.s anira-], and [.s boe].
