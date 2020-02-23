@@ -105,7 +105,14 @@ SINDARIN GRAMMAR
 
 @include imperatives.md
 
-# <a name="possession">Possession</a>
+<h1>
+  <div class="lesson-heading">
+  Lesson Four:
+  </div>
+  <a name="possession">
+  Possession
+  </a>
+</h1>
 
 @include possessives.md
 

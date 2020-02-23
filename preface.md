@@ -1,4 +1,4 @@
-# <a name="preface"><em>Mae govannen!</em></a>
+# <a name="preface"><em>Mae govannen!</em> &middot; Well met!</a>
 
 This book is about Sindarin, an Elvish language invented by
 J.R.R. Tolkien as part of his fictional world of

@@ -27,7 +27,7 @@ It's not hard to create the imperative form of a verb from its dictionary form: 
 /!
 
 
-## The dictionary verb-form
+## The Dictionary Verb-form
 
 Sindarin wordlists almost always list verbs by a special
 "dictionary form", which ends in a dash. The dictionary form

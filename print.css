@@ -43,10 +43,17 @@
     p {
         line-height: 140%;
         text-align: justify;
-        text-indent: 1em;
         orphans: 2;
         /* widows: 2; */
         string-set: page-number counter(page), left-page-header 'Fíriel\'s Elvish Textbook';
+    }
+
+    p + p,
+    h1 + p,
+    h2 + p,
+    h3 + p,
+    h4 + p {
+      text-indent: 1em;
     }
 
     ul {

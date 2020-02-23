@@ -3,7 +3,9 @@ The best way to start learning Sindarin is to just learn some phrases and get a 
 
 Of course, as you're sounding out these phrases it helps to know how they're supposed to be pronounced. If you pronounce the vowels [.s a e i o u] as in Spanish or Italian you won't go far wrong. The letter [.s y] sounds like _ee_ but with your lips tight as if saying _oo_. Sindarin [.s ch] is like the sound in Scottish _loch_. The letter [.s c] by itself is always hard, like a K.
 
-#### _You greet your traveling companions_
+### An Adventure in Elven Lands
+
+#### _You greet your halfling traveling companions_
 
 !!example
 
