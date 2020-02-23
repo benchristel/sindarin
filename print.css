@@ -45,7 +45,7 @@
         text-align: justify;
         orphans: 2;
         /* widows: 2; */
-        string-set: page-number counter(page), left-page-header 'Fíriel\'s Elvish Textbook';
+        string-set: page-number counter(page), left-page-header 'Elvish for Everyone';
     }
 
     p + p,
