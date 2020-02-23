@@ -130,9 +130,9 @@ pleases you".
 
 !!example
 
-[.s \*ci athol] "If you are willing"
+[.s \*cí athol] "If you are willing"
 
-[.s.salo ci athach] "If you are willing"
+[.s.salo cí athach] "If you are willing"
 
 /!
 

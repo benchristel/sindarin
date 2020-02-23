@@ -290,6 +290,137 @@ words are often connected with dashes:
 
 [.s Cabed-en-Aras] "Leap of the Deer (a river gorge in Beleriand)"
 
-[.s cair i aran] "ship of the king"
+[.s Condir i Drann] "Mayor of the Shire"
 
 /!
+
+The possessive article [.s en] causes the following word
+to mutate. This type of mutation is called the
+[.term mixed mutation], because it combines elements of both soft
+mutation and nasal mutation (which we haven't seen yet).
+An additional complication is that the [.s en] itself
+sometimes changes to [.s e] or [.s edh].
+
+The mixed mutation is as follows:
+
+<table class="columns">
+<tr class="head">
+  <td>Original &rarr; Mutated</td>
+  <td>Example</td>
+</tr>
+<tr>
+  <td>EN B &rarr; E-B</td>
+  <td><span class="s">barad &rarr; e-barad</span> &ldquo;of the tower&rdquo;</td>
+</tr>
+<tr>
+  <td>EN C &rarr; E-G</td>
+  <td><span class="s">cair &rarr; e-gair</span> &ldquo;of the ship&rdquo;</td>
+</tr>
+<tr>
+  <td>EN D &rarr; E-D</td>
+  <td><span class="s">tawar &rarr; e-dawar</span> &ldquo;of the forest&rdquo;</td>
+</tr>
+<tr>
+  <td>EN DR &rarr; EN-DR</td>
+  <td><span class="s">draug &rarr; en-draug</span> &ldquo;of the wolf&rdquo;</td>
+</tr>
+<tr>
+  <td>EN F &rarr; EN-F</td>
+  <td><span class="s">fang &rarr; en-fang</span> &ldquo;of the beard&rdquo;</td>
+</tr>
+<tr>
+  <td>EN G &rarr; E-G</td>
+  <td><span class="s">galadh &rarr; e-galadh</span> &ldquo;of the tree&rdquo;</td>
+</tr>
+<tr>
+  <td>EN GL &rarr; EN-GL</td>
+  <td><span class="s">glim &rarr; en-glim</span> &ldquo;of the voice&rdquo;</td>
+</tr>
+<tr>
+  <td>EN GR &rarr; EN-GR</td>
+  <td><span class="s">groth &rarr; en-groth</span> &ldquo;of the cavern&rdquo;</td>
+</tr>
+<tr>
+  <td>EN GR &rarr; EN-GW</td>
+  <td><span class="s">gwaith &rarr; en-gwaith</span> &ldquo;of the people&rdquo;</td>
+</tr>
+<tr>
+  <td>EN H &rarr; E-CH</td>
+  <td><span class="s">haew &rarr; e-chaew</span> &ldquo;of the habit&rdquo;</td>
+</tr>
+<tr>
+  <td>EN HW &rarr; E-&lsquo;W</td>
+  <td><span class="s">hwinn &rarr; e-&lsquo;winn</span> &ldquo;of the birch&rdquo;</td>
+</tr>
+<tr>
+  <td>EN L &rarr; E-L</td>
+  <td><span class="s">lû &rarr; e-lû</span> &ldquo;of the time&rdquo;</td>
+</tr>
+<tr>
+  <td>EN LH &rarr; E-&lsquo;L</td>
+  <td><span class="s">lhewig &rarr; e-&lsquo;lewig</span> &ldquo;of the ear&rdquo;</td>
+</tr>
+<tr>
+  <td>EN M &rarr; E-M</td>
+  <td><span class="s">mellon &rarr; e-mellon</span> &ldquo;of the friend&rdquo;</td>
+</tr>
+<tr>
+  <td>EN N &rarr; EN-N</td>
+  <td><span class="s">naur &rarr; e-naur</span> &ldquo;of the fire&rdquo;</td>
+</tr>
+<tr>
+  <td>EN P &rarr; E-B</td>
+  <td><span class="s">perian &rarr; e-berian</span> &ldquo;of the hobbit&rdquo;</td>
+</tr>
+<tr>
+  <td>EN R &rarr; EDH-R</td>
+  <td><span class="s">rath &rarr; edh-rath</span> &ldquo;of the street&rdquo;</td>
+</tr>
+<tr>
+  <td>EN RH &rarr; E-&lsquo;R</td>
+  <td><span class="s">rhaw &rarr; e-&lsquo;raw</span> &ldquo;of the flesh&rdquo;</td>
+</tr>
+<tr>
+  <td>EN S &rarr; E-H</td>
+  <td><span class="s">saew &rarr; e-haew</span> &ldquo;of the poison&rdquo;</td>
+</tr>
+<tr>
+  <td>EN T &rarr; E-D</td>
+  <td><span class="s">tawar &rarr; e-dawar</span> &ldquo;of the forest&rdquo;</td>
+</tr>
+<tr>
+  <td>EN TH &rarr; E-TH</td>
+  <td><span class="s">thond &rarr; e-thond</span> &ldquo;of the root&rdquo;</td>
+</tr>
+<tr>
+  <td>EN TR &rarr; EN-DR</td>
+  <td><span class="s">trann &rarr; en-drann</span> &ldquo;of the shire&rdquo;</td>
+</tr>
+</table>
+
+For words that began with nasalized plosives in Old
+Sindarin, [.TODO when did these disappear?]
+the mixed mutation brings the nasalized plosive back:
+
+<table class="columns">
+<tr class="head">
+  <td>Original &rarr; Mutated</td>
+  <td>Example</td>
+</tr>
+<tr>
+  <td>EN B &rarr; E-MB</td>
+  <td><span class="s">bâr &rarr; e-mbar</span> &ldquo;of the home&rdquo;</td>
+</tr>
+<tr>
+  <td>EN D &rarr; E-ND</td>
+  <td><span class="s">dîr &rarr; e-ndîr</span> &ldquo;of the man&rdquo;</td>
+</tr>
+<tr>
+  <td>EN G &rarr; E-ÑG</td>
+  <td><span class="s">galad &rarr; e-ñgalad</span> &ldquo;of the light&rdquo;</td>
+</tr>
+</table>
+
+These consonant clusters look scary, but aren't—they can
+simply be pronounced as if the dash weren't there:
+[.s embâr], [.s endîr], [.s engalad].
