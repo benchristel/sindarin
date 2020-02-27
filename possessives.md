@@ -1,5 +1,5 @@
 [.term Possessive pronouns]—_my_, _your_, _their_—tell you who owns
-some&shy;thing. When analyzing the pronouns of a language, its
+some&shy;thing. When analyzing the pronouns of a language, it's
 convenient to organize them into a tidy table, like this:
 
 <table class="columns">
@@ -189,10 +189,10 @@ article [.s i] and the possessive pronoun [.s nîn].
 
 Perhaps the easiest way to explain this construction is by
 looking at what happens when you leave out the article
-[.s i]. If you simply say [.s mellon nîn], this is like saying
-"a friend of mine" or "one of my friends" in English. That
-is, you're introducing the friend as a topic of
-conversation, and making no assumption that your audience
+[.s i]. [.s Mellon nîn], for example, means
+"a friend of mine" or "one of my friends". That
+is, it implies the friend in question is a new topic of
+conversation, and makes no assumption that your audience
 knows which friend you're talking about.
 
 On the other hand, [.s i vellon nîn] means you're talking
@@ -214,7 +214,7 @@ were being produced.
 
 For starters, movie-Sindarin makes no
 distinction between the inclusive and exclusive first person
-pronouns; [.s vîn] is used consistently to translate "our".
+pronouns; "our" is always [.s vîn].
 
 Additionally, characters in the movies use only
 the formal second-person pronouns. Even when Arwen and
@@ -303,6 +303,8 @@ sometimes changes to [.s e] or [.s edh].
 
 The mixed mutation is as follows:
 
+<div class="page-break right"></div>
+
 <table class="columns">
 <tr class="head">
   <td>Original &rarr; Mutated</td>
@@ -318,7 +320,7 @@ The mixed mutation is as follows:
 </tr>
 <tr>
   <td>EN D &rarr; E-D</td>
-  <td><span class="s">tawar &rarr; e-dawar</span> &ldquo;of the forest&rdquo;</td>
+  <td><span class="s">dúlin &rarr; e-dúlin</span> &ldquo;of the nightingale&rdquo;</td>
 </tr>
 <tr>
   <td>EN DR &rarr; EN-DR</td>
@@ -341,7 +343,7 @@ The mixed mutation is as follows:
   <td><span class="s">groth &rarr; en-groth</span> &ldquo;of the cavern&rdquo;</td>
 </tr>
 <tr>
-  <td>EN GR &rarr; EN-GW</td>
+  <td>EN GW &rarr; EN-GW</td>
   <td><span class="s">gwaith &rarr; en-gwaith</span> &ldquo;of the people&rdquo;</td>
 </tr>
 <tr>
@@ -349,16 +351,16 @@ The mixed mutation is as follows:
   <td><span class="s">haew &rarr; e-chaew</span> &ldquo;of the habit&rdquo;</td>
 </tr>
 <tr>
-  <td>EN HW &rarr; E-&lsquo;W</td>
-  <td><span class="s">hwinn &rarr; e-&lsquo;winn</span> &ldquo;of the birch&rdquo;</td>
+  <td>EN HW &rarr; E-&rsquo;W</td>
+  <td><span class="s">hwinn &rarr; e-&rsquo;winn</span> &ldquo;of the birch&rdquo;</td>
 </tr>
 <tr>
   <td>EN L &rarr; E-L</td>
   <td><span class="s">lû &rarr; e-lû</span> &ldquo;of the time&rdquo;</td>
 </tr>
 <tr>
-  <td>EN LH &rarr; E-&lsquo;L</td>
-  <td><span class="s">lhewig &rarr; e-&lsquo;lewig</span> &ldquo;of the ear&rdquo;</td>
+  <td>EN LH &rarr; E-&rsquo;L</td>
+  <td><span class="s">lhewig &rarr; e-&rsquo;lewig</span> &ldquo;of the ear&rdquo;</td>
 </tr>
 <tr>
   <td>EN M &rarr; E-M</td>
@@ -377,8 +379,8 @@ The mixed mutation is as follows:
   <td><span class="s">rath &rarr; edh-rath</span> &ldquo;of the street&rdquo;</td>
 </tr>
 <tr>
-  <td>EN RH &rarr; E-&lsquo;R</td>
-  <td><span class="s">rhaw &rarr; e-&lsquo;raw</span> &ldquo;of the flesh&rdquo;</td>
+  <td>EN RH &rarr; E-&rsquo;R</td>
+  <td><span class="s">rhaw &rarr; e-&rsquo;raw</span> &ldquo;of the flesh&rdquo;</td>
 </tr>
 <tr>
   <td>EN S &rarr; E-H</td>
@@ -399,8 +401,8 @@ The mixed mutation is as follows:
 </table>
 
 For words that began with nasalized plosives in Old
-Sindarin, [.TODO when did these disappear?]
-the mixed mutation brings the nasalized plosive back:
+Sindarin, the mixed mutation brings the nasalized plosive
+back:
 
 <table class="columns">
 <tr class="head">
@@ -424,3 +426,8 @@ the mixed mutation brings the nasalized plosive back:
 These consonant clusters look scary, but aren't—they can
 simply be pronounced as if the dash weren't there:
 [.s embâr], [.s endîr], [.s engalad].
+
+Of course, you can avoid all that complexity by just using
+the definite article [.s i] when forming the possessive. You
+*will* need the mixed mutation later, though, so you might
+as well get a head start on it now.

@@ -119,7 +119,7 @@
         </li>
 
         <li>
-          <p><a href="#the-soft-mutation">
+          <p><a href="#lenition">
             Lesson Three: Soft Mutation
           </a></p>
           <p class="details">

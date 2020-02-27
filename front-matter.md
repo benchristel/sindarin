@@ -8,7 +8,7 @@
 <br/>
 <br/>
 <br/>
-<h1 class="title center">Elvish for Everyone</h1>
+<h1 class="title center">Melin Edhellen!</h1>
 <h1 class="title center" style="font-size:100%">An Introduction to the Sindarin Language of Middle-Earth</h1>
 
 <div class="page-break left"></div>

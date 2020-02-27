@@ -45,7 +45,7 @@
         text-align: justify;
         orphans: 2;
         /* widows: 2; */
-        string-set: page-number counter(page), left-page-header 'Elvish for Everyone';
+        string-set: page-number counter(page), left-page-header 'Melin Edhellen!';
     }
 
     p + p,
@@ -238,6 +238,17 @@
       font-size: 80%;
       font-style: normal;
       line-height: 0;
+    }
+
+    .wrong:before {
+      content: '**';
+      /* text-decoration: line-through; */
+      /* content: '**';
+      display: inline;
+      vertical-align: super;
+      font-size: 80%;
+      font-style: normal;
+      line-height: 0; */
     }
 
     .example {

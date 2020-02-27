@@ -107,6 +107,17 @@ SINDARIN GRAMMAR
 
 <h1>
   <div class="lesson-heading">
+  Lesson Three:
+  </div>
+  <a name="lenition">
+  Soft Mutation
+  </a>
+</h1>
+
+@include lenition.md
+
+<h1>
+  <div class="lesson-heading">
   Lesson Four:
   </div>
   <a name="possession">
@@ -115,10 +126,6 @@ SINDARIN GRAMMAR
 </h1>
 
 @include possessives.md
-
-# <a name="lenition">Lenition</a>
-
-@include lenition.md
 
 # <a name="adjectives">Adjectives</a>
 
@@ -144,3 +151,11 @@ diheno nin (?enni)
 /!
 
 # <a name="irregular-stress">Irregular Stress</a>
+
+!!section-divider
+
+REFERENCE
+
+/!section-divider
+
+@include reference.md
